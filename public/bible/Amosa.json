@@ -1,0 +1,753 @@
+{
+  "book": "Amosa",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.",
+        "lv": "1 Amosa vārdi, kas bija starp Tekojas ganiem, ko viņš redzēja attiecībā uz Israēlu Jūdas ķēniņa Ucijas dienās un Israēla ķēniņa Jeroboama, Joaša dēla, dienās divus gadus pirms zemestrīces."
+      },
+      {
+        "verse": 2,
+        "en": "2And he said, The LORD will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.",
+        "lv": "2 Un viņš sacīja, Tas KUNGS rēks no Ciānas un izteiks savu balsi no Jeruzālemes; un ganu mitekļi sēros, un Karmela galotne nokaltīs."
+      },
+      {
+        "verse": 3,
+        "en": "3Thus saith the LORD; For three transgressions of Damascus, and for four, I will not turn away<i> the punishment </i>thereof; because they have threshed Gilead with threshing instruments of iron:",
+        "lv": "3 Tā saka tas KUNGS; Par trīs Damaskas pārkāpumiem, un par četriem es negriezīšu prom tās <i>sodu</i>; tāpēc ka tie Gileādu ir kūluši ar dzelzs kuļaminstrumentiem:"
+      },
+      {
+        "verse": 4,
+        "en": "4But I will send a fire into the house of Hazael, which shall devour the palaces of Benhadad.",
+        "lv": "4 Bet es sūtīšu uguni Hacaēla namā, kas aprīs Benhadada pilis."
+      },
+      {
+        "verse": 5,
+        "en": "5I will break also the bar of Damascus, and cut off the inhabitant from the plain of Aven, and him that holdeth the sceptre from the house of Eden: and the people of Syria shall go into captivity unto Kir, saith the LORD.",
+        "lv": "5 Es arī salauzīšu Damaskas resti un nogriezīšu iedzīvotāju no Avenas līdzenuma, un to, kas tur scepteri, no Edenes nama: un Sīrijas ļaudis ies gūstā uz Kiru, saka tas KUNGS."
+      },
+      {
+        "verse": 6,
+        "en": "6Thus saith the LORD; For three transgressions of Gaza, and for four, I will not turn away<i> the punishment </i>thereof; because they carried away captive the whole captivity, to deliver <i>them </i>up to Edom:",
+        "lv": "6 <p>Tā saka tas KUNGS; Par trīs Gazas pārkāpumiem, un par četriem es negriezīšu prom tās <i>sodu</i>; tāpēc ka tie veda prom gūstā visu gūstu, <i>tos </i>nodot Edomam:"
+      },
+      {
+        "verse": 7,
+        "en": "7But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:",
+        "lv": "7 Bet es sūtīšu uguni uz Gazas mūra, kas aprīs tās pilis:"
+      },
+      {
+        "verse": 8,
+        "en": "8And I will cut off the inhabitant from Ashdod, and him that holdeth the sceptre from Ashkelon, and I will turn mine hand against Ekron: and the remnant of the Philistines shall perish, saith the Lord GOD.",
+        "lv": "8 Un es nogriezīšu iedzīvotāju no Ašdodas un to, kas tur scepteri, no Aškelonas, un es griezīšu savu roku pret Ekronu: un filistiešu atlikums ies bojā, saka tas Kungs DIEVS."
+      },
+      {
+        "verse": 9,
+        "en": "9Thus saith the LORD; For three transgressions of Tyrus, and for four, I will not turn away <i>the punishment </i>thereof; because they delivered up the whole captivity to Edom, and remembered not the brotherly covenant:",
+        "lv": "9 <p>Tā saka tas KUNGS; Par trīs Tiras pārkāpumiem, un par četriem es negriezīšu prom tās <i>sodu</i>; tāpēc ka tie nodeva visu Edoma gūstu un neatcerējās brāļu derību:"
+      },
+      {
+        "verse": 10,
+        "en": "10But I will send a fire on the wall of Tyrus, which shall devour the palaces thereof.",
+        "lv": "10 Bet es sūtīšu uguni uz Tiras mūra, kas aprīs tās pilis."
+      },
+      {
+        "verse": 11,
+        "en": "11Thus saith the LORD; For three transgressions of Edom, and for four, I will not turn away<i> the punishment </i>thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:",
+        "lv": "11 Tā saka tas KUNGS; Par trīs Edoma pārkāpumiem, un par četriem es negriezīšu prom tā <i>sodu</i>; tāpēc ka viņš vajāja savu brāli ar zobenu un atmeta visu žēlumu, un viņa dusmas pastāvīgi plosījās, un viņš turēja savu bardzību mūžīgi:"
+      },
+      {
+        "verse": 12,
+        "en": "12But I will send a fire upon Teman, which shall devour the palaces of Bozrah.",
+        "lv": "12 Bet es sūtīšu uguni uz Temanu, kas aprīs Bocras pilis."
+      },
+      {
+        "verse": 13,
+        "en": "13Thus saith the LORD; For three transgressions of the children of Ammon, and for four, I will not turn away<i> the punishment </i>thereof; because they have ripped up the women with child of Gilead, that they might enlarge their border:",
+        "lv": "13 <p>Tā saka tas KUNGS; Par trīs Amona bērnu pārkāpumiem, un par četriem es negriezīšu prom to <i>sodu</i>; tāpēc ka tie ir uzplēsuši Gileādas grūtnieces, lai tie varētu paplašināt savu robežu:"
+      },
+      {
+        "verse": 14,
+        "en": "14But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind:",
+        "lv": "14 Bet es aizdedzināšu uguni Rabbas mūrī, un tā aprīs tās pilis, ar kliegšanu kaujas dienā, ar auku viesuļa dienā:"
+      },
+      {
+        "verse": 15,
+        "en": "15And their king shall go into captivity, he and his princes together, saith the LORD.",
+        "lv": "15 Un viņu ķēniņš ies gūstā, viņš un viņa prinči kopā, saka tas KUNGS."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away <i>the punishment </i>thereof; because he burned the bones of the king of Edom into lime:",
+        "lv": "1 Tā saka tas KUNGS; Par trīs Moāba pārkāpumiem, un par četriem es negriezīšu prom tā <i>sodu</i>; tāpēc ka tie Edoma ķēniņa kaulus ir sadedzinājuši kaļķī:"
+      },
+      {
+        "verse": 2,
+        "en": "2But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, <i>and </i>with the sound of the trumpet:",
+        "lv": "2 Bet es sūtīšu uguni uz Moābu, un tā aprīs Keriotas pilis: un Moābs mirs ar kņadu, ar kliegšanu <i>un </i>ar trompetes skaņu:"
+      },
+      {
+        "verse": 3,
+        "en": "3And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the LORD.",
+        "lv": "3 Un es nogriezīšu tiesnesi no tā vidus, un nokaušu visus tā prinčus līdz ar viņu, saka tas KUNGS."
+      },
+      {
+        "verse": 4,
+        "en": "4Thus saith the LORD; For three transgressions of Judah, and for four, I will not turn away <i>the punishment </i>thereof; because they have despised the law of the LORD, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:",
+        "lv": "4 <p>Tā saka tas KUNGS; Par trīs Jūdas pārkāpumiem, un par četriem es negriezīšu prom tās <i>sodu</i>; tāpēc ka tie ir nicinājuši tā KUNGA likumu un nav turējuši viņa pavēles, un viņu meli tiem lika maldīties, pēc kā viņu tēvi ir staigājuši:"
+      },
+      {
+        "verse": 5,
+        "en": "5But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.",
+        "lv": "5 Bet es sūtīšu uguni uz Jūdu, un tā aprīs Jeruzālemes pilis."
+      },
+      {
+        "verse": 6,
+        "en": "6Thus saith the LORD; For three transgressions of Israel, and for four, I will not turn away <i>the punishment </i>thereof; because they sold the righteous for silver, and the poor for a pair of shoes;",
+        "lv": "6 <p>Tā saka tas KUNGS; Par trīs Israēla pārkāpumiem, un par četriem es negriezīšu prom tā <i>sodu</i>; tāpēc ka tie pārdeva taisno par sudrabu un nabago par kurpju pāri;"
+      },
+      {
+        "verse": 7,
+        "en": "7That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the <i>same </i>maid, to profane my holy name:",
+        "lv": "7 Kas ilgojas pēc zemes pīšļiem uz nabagā galvas, un griež prom lēnprātīgā ceļu: un cilvēks un viņa tēvs grib ieiet pie<i> </i>tās <i>pašas </i>meitenes sagānīt manu svēto vārdu:"
+      },
+      {
+        "verse": 8,
+        "en": "8And they lay <i>themselves </i>down upon clothes laid to pledge by every altar, and they drink the wine of the condemned <i>in </i>the house of their god.",
+        "lv": "8 Un tie apguļas uz drēbēm, noliktām ķīlāt pie ikviena altāra, un tie dzer notiesāto vīnu savu dievu namā."
+      },
+      {
+        "verse": 9,
+        "en": "9Yet destroyed I the Amorite before them, whose height was like the height of the cedars, and he <i>was </i>strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.",
+        "lv": "9 <p>Tomēr es iznīcināju amorieti to priekšā, kuru augstums bija kā ciedru augstums, un viņš <i>bija </i>stiprs kā ozoli; tomēr es iznīcināju viņa augli no augšas, un viņa saknes no apakšas."
+      },
+      {
+        "verse": 10,
+        "en": "10Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.",
+        "lv": "10 Es arī jūs uzvedu no Ēģiptes zemes un jūs vedu četrdesmit gadus caur tuksnesi, iegūt īpašumā amoriešu zemi."
+      },
+      {
+        "verse": 11,
+        "en": "11And I raised up of your sons for prophets, and of your young men for Nazarites.<i> Is it</i> not even thus, O ye children of Israel? saith the LORD.",
+        "lv": "11 Un es uzcēlu no jūsu dēliem par praviešiem, un no jūsu jaunekļiem par nazarītiem. <i>Vai tas</i> tā pat nav, ak, jūs Israēla bērni? saka tas KUNGS."
+      },
+      {
+        "verse": 12,
+        "en": "12But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.",
+        "lv": "12 Bet jūs devāt nazarītiem vīnu dzert; un pavēlējāt praviešiem sacīdami, Nepravietojiet."
+      },
+      {
+        "verse": 13,
+        "en": "13Behold, I am pressed under you, as a cart is pressed <i>that is</i> full of sheaves.",
+        "lv": "13 Lūk, es esmu nospiests zem jums, kā ratiņi ir nospiesti, <i>kas ir </i>pilni kūlīšu."
+      },
+      {
+        "verse": 14,
+        "en": "14Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself:",
+        "lv": "14 Tāpēc bēgšana ies bojā no žiglā, un stiprais nestiprinās savu spēku, nedz varenais sevi izpestīs:"
+      },
+      {
+        "verse": 15,
+        "en": "15Neither shall he stand that handleth the bow; and he that is swift of foot shall not deliver <i>himself</i>: neither shall he that rideth the horse deliver himself.",
+        "lv": "15 Nedz stāvēs tas, kas tur loku; un tas, kas ir žiglām kājām, neizpestīs <i>sevi</i>: nedz tas, kas jāj ar zirgu, sevi izpestīs."
+      },
+      {
+        "verse": 16,
+        "en": "16And <i>he that is</i> courageous among the mighty shall flee away naked in that day, saith the LORD.",
+        "lv": "16 Un<i> tas, kas ir </i>drosmīgs starp varenajiem, bēgs prom kails tajā dienā, saka tas KUNGS."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "1Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,",
+        "lv": "1 Klausieties šo vārdu, ko tas KUNGS ir runājis pret jums, ak, Israēla bērni, pret visu ģimeni, ko es uzvedu no Eģiptes zemes sacīdams,"
+      },
+      {
+        "verse": 2,
+        "en": "2You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.",
+        "lv": "2 Tikai jūs es esmu pazinis no visām zemes ģimenēm: tāpēc es jūs sodīšu par visām jūsu nekrietnībām."
+      },
+      {
+        "verse": 3,
+        "en": "3Can two walk together, except they be agreed?",
+        "lv": "3 Vai divi var staigāt kopā, ja vien tie nav vienojušies?"
+      },
+      {
+        "verse": 4,
+        "en": "4Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?",
+        "lv": "4 Vai lauva rēks mežā, kad tam nav medījuma? vai jauns lauva kliegs no sava midzeņa, ja tas neko nav ņēmis?"
+      },
+      {
+        "verse": 5,
+        "en": "5Can a bird fall in a snare upon the earth, where no gin <i>is </i>for him? shall <i>one </i>take up a snare from the earth, and have taken nothing at all?",
+        "lv": "5 Vai putns var krist slazdā uz zemes, kur nav cilpas priekš tā? vai <i>kāds </i>pacels slazdu no zemes un nebūs ņēmis pilnīgi neko?"
+      },
+      {
+        "verse": 6,
+        "en": "6Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done <i>it</i>?",
+        "lv": "6 Vai taure tiks pūsta pilsētā un ļaudis nebaidīsies? vai būs ļaunums pilsētā, un tas KUNGS <i>to </i>nav darījis?"
+      },
+      {
+        "verse": 7,
+        "en": "7Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.",
+        "lv": "7 Bez šaubām, tas Kungs DIEVS neko nedarīs, kā tikai, <i>[kad]</i> viņš atklāj savu noslēpumu saviem kalpiem praviešiem."
+      },
+      {
+        "verse": 8,
+        "en": "8The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?",
+        "lv": "8 Lauva rēca, kurš nebīsies? tas Kungs DIEVS ir runājis, kurš nevar, kā tikai pravietot?"
+      },
+      {
+        "verse": 9,
+        "en": "9Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.",
+        "lv": "9 <p>Pavēsti pilīs Ašdodā un pilīs Ēģitpes zemē, un saki, Sapulcinājieties uz Samarijas kalniem, un uzlūkojiet lielās kņadas tās vidū un apspiesto tās vidū."
+      },
+      {
+        "verse": 10,
+        "en": "10For they know not to do right, saith the LORD, who store up violence and robbery in their palaces.",
+        "lv": "10 Jo tie nezina darīt pareizi, saka tas KUNGS, kas uzkrāj vardarbību un laupīšanu savās pilīs."
+      },
+      {
+        "verse": 11,
+        "en": "11Therefore thus saith the Lord GOD; An adversary<i> there shall be</i> even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.",
+        "lv": "11 Tāpēc tā saka tas Kungs DIEVS; Pretinieks <i>būs </i>pat ap zemi; un viņš pazeminās tavu stiprumu no tevis, un tavas pilis tiks izpostītas."
+      },
+      {
+        "verse": 12,
+        "en": "12Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus <i>in </i>a couch.",
+        "lv": "12 Tā saka tas KUNGS; Kā gans izņem no lauvas mutes divas kājas vai auss gabalu; tā Israēla bērni tiks izņemti, kas mājo Samarijā gultas stūrī un Damaskā, guļvietā."
+      },
+      {
+        "verse": 13,
+        "en": "13Hear ye, and testify in the house of Jacob, saith the Lord GOD, the God of hosts,",
+        "lv": "13 Klausieties un lieciniet Jēkaba namā, saka tas Kungs DIEVS, karapulku Dievs,"
+      },
+      {
+        "verse": 14,
+        "en": "14That in the day that I shall visit the transgressions of Israel upon him I will also visit the altars of Bethel: and the horns of the altar shall be cut off, and fall to the ground.",
+        "lv": "14 Ka dienā, kad es apmeklēšu Israēla pārkāpumus uz viņa, es arī apmeklēšu Bēteles altārus: un altāra ragi tiks nogriezti un kritīs uz zemes."
+      },
+      {
+        "verse": 15,
+        "en": "15And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD.",
+        "lv": "15 Un es sitīšu ziemas namu ar vasaras namu; un ziloņkaula nami ies bojā, un lieliem namiem būs gals, saka tas KUNGS."
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "en": "1Hear this word, ye kine of Bashan, that <i>are </i>in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.",
+        "lv": "1 Klausieties šo vārdu jūs, Bašanas govis, kas <i>esat</i> Samarijas kalnā, kas apspiežat nabago, kas satriecat trūcīgo, kas saka saviem saimniekiem, Nesiet un dzersim."
+      },
+      {
+        "verse": 2,
+        "en": "2The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks.",
+        "lv": "2 Tas Kungs DIEVS ir zvērējis pie sava svētuma, ka, rau, dienas uz jums nāks, kad viņš jūs ņems prom ar āķiem, un jūsu pēctečus ar makšķerāķiem."
+      },
+      {
+        "verse": 3,
+        "en": "3And ye shall go out at the breaches, every <i>cow at that which is</i> before her; and ye shall cast <i>them </i>into the palace, saith the LORD.",
+        "lv": "3 Un jūs iziesiet pie robiem, ikviena <i>govs pie tā, kas ir</i> tās priekšā; un jūs <i>tās </i>metīsiet pilī, saka tas KUNGS."
+      },
+      {
+        "verse": 4,
+        "en": "4Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, <i>and </i>your tithes after three years:",
+        "lv": "4 <p>Nāciet uz Beteli un pārkāpiet; pie Gilgalas vairojiet pārkāpumu; un nesiet savus upurus ik rītu, <i>un </i>savas desmitās tiesas pēc trīs gadiem:"
+      },
+      {
+        "verse": 5,
+        "en": "5And offer a sacrifice of thanksgiving with leaven, and proclaim <i>and </i>publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord GOD.",
+        "lv": "5 Un ziedojiet pateicības upuri ar ieraugu, un pasludiniet <i>un </i>pavēstiet brīvos ziedojumus: jo šis jums patīk, ak, Israēla bērni, saka tas Kungs DIEVS."
+      },
+      {
+        "verse": 6,
+        "en": "6And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD.",
+        "lv": "6 <p>Un es arī jums esmu devis zobu tīrību visās jūsu pilsētās un maizes trūkumu visās jūsu vietās: tomēr jūs neesat atgriezušies pie manis, saka tas KUNGS."
+      },
+      {
+        "verse": 7,
+        "en": "7And also I have withholden the rain from you, when <i>there were </i>yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered.",
+        "lv": "7 Un es arī esmu atturējis lietu no jums, kad vēl <i>bija </i>trīs mēneši līdz pļaujai: un es liku līt uz vienas pilsētas un neliku līt uz citas pilsētas: uz vienu gabalu lija un gabals, uz kuru nelija, nokalta."
+      },
+      {
+        "verse": 8,
+        "en": "8So two <i>or </i>three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD.",
+        "lv": "8 Tā divas vai trīs pilsētas klejoja pie vienas pilsētas dzert ūdeni; bet tie netika apmierināti: tomēr jūs neesat atgriezušies pie manis, saka tas KUNGS."
+      },
+      {
+        "verse": 9,
+        "en": "9I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured <i>them</i>: yet have ye not returned unto me, saith the LORD.",
+        "lv": "9 Es jūs esmu sitis ar izpūšanu un miltrasu: kad jūsu dārzi un jūsu vīna dārzi, un jūsu vīģes koki, un olīvkoki pieauga, cirmenis <i>tos </i>aprija: tomēr jūs neesat atgriezušies pie manis, saka tas KUNGS."
+      },
+      {
+        "verse": 10,
+        "en": "10I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up unto your nostrils: yet have ye not returned unto me, saith the LORD.",
+        "lv": "10 Es starp jums esmu sūtījis sērgu pēc Ēģiptes veida: jūsu jaunekļus es esmu nokāvis ar zobenu un esmu atņēmis jūsu zirgus; un es esmu licis jūsu nometņu smakai uznākt jūsu nāsīs: tomēr jūs neesat atgriezušies pie manis, saka tas KUNGS."
+      },
+      {
+        "verse": 11,
+        "en": "11I have overthrown <i>some </i>of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD.",
+        "lv": "11 Es esmu apgāzis <i>kādus </i>no jums, kā Dievs apgāza Sodomu un Gomoru, un jūs bijāt kā degoša pagale izrauta no degšanas: tomēr jūs neesat atgriezušies pie manis, saka tas KUNGS."
+      },
+      {
+        "verse": 12,
+        "en": "12Therefore thus will I do unto thee, O Israel: <i>and </i>because I will do this unto thee, prepare to meet thy God, O Israel.",
+        "lv": "12 Tāpēc es tev tā darīšu, ak, Israēl: <i>un </i>tāpēc ka es šo tev darīšu, sagatavojies satikt savu Dievu, ak, Israēl."
+      },
+      {
+        "verse": 13,
+        "en": "13For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, <i>is </i>his name.",
+        "lv": "13 Jo, rau, tas, kas veido kalnus un rada vēju, un paziņo cilvēkam, kas ir viņa domas, kas taisa rīta tumsu un min uz zemes augstajām vietām, Tas KUNGS, Karapulku Kungs, <i>ir </i>viņa vārds."
+      }
+    ],
+    "5": [
+      {
+        "verse": 1,
+        "en": "1Hear ye this word which I take up against you, <i>even </i>a lamentation, O house of Israel.",
+        "lv": "1 Klausieties šo vārdu, ko es ņemu pret jums, <i>proti</i>, vaimanu, ak, Israēla nams."
+      },
+      {
+        "verse": 2,
+        "en": "2The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; <i>there is </i>none to raise her up.",
+        "lv": "2 Israēla jaunava ir kritusi; viņa vairs necelsies: viņa ir pamesta uz savas zemes; <i>nav </i>neviena viņu piecelt."
+      },
+      {
+        "verse": 3,
+        "en": "3For thus saith the Lord GOD; The city that went out <i>by </i>a thousand shall leave an hundred, and that which went forth <i>by </i>an hundred shall leave ten, to the house of Israel.",
+        "lv": "3 Jo tā saka tas Kungs DIEVS; Pilsēta, kas izgāja <i>ar</i> tūkstoti, atstās simtu, un tā, kas izgāja <i>ar </i>simtu, atstās desmit Israēla namam."
+      },
+      {
+        "verse": 4,
+        "en": "4For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:",
+        "lv": "4 <p>Jo tā saka tas KUNGS Israēla namam, Meklējiet mani, un jūs dzīvosiet:"
+      },
+      {
+        "verse": 5,
+        "en": "5But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal shall surely go into captivity, and Bethel shall come to nought.",
+        "lv": "5 Bet nemeklējiet Beteli, ne ieejiet Gilgalā, un neejiet uz Bēršebu: jo Gilgala bez šaubām ies gūstā, un Betele iznīks."
+      },
+      {
+        "verse": 6,
+        "en": "6Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour <i>it</i>, and <i>there be</i> none to quench <i>it </i>in Bethel.",
+        "lv": "6 Meklējiet to KUNGU, un jūs dzīvosiet; lai viņš neizlaužas kā uguns Jāzepa namā un <i>to </i>neaprij, un <i>nav </i>neviena to apdzēst Betelē."
+      },
+      {
+        "verse": 7,
+        "en": "7Ye who turn judgment to wormwood, and leave off righteousness in the earth,",
+        "lv": "7 Jūs, kas tiesu pārvēršat vērmelēs un atstājaties no taisnības zemē,"
+      },
+      {
+        "verse": 8,
+        "en": "8Seek <i>him </i>that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD <i>is </i>his name:",
+        "lv": "8 Meklējiet <i>to</i>, kas taisa septiņas zvaigznes un Orionu, un nāves ēnu pārvērš rītā, un dienu taisa tumšu ar nakti: kas aicina jūras ūdeņus un tos izlej uz zemes virsas: Tas KUNGS <i>ir </i>viņa vārds:"
+      },
+      {
+        "verse": 9,
+        "en": "9That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.",
+        "lv": "9 Kas stiprina izpostīto pret stipro, tā ka izpostītais nāks pret cietoksni."
+      },
+      {
+        "verse": 10,
+        "en": "10They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.",
+        "lv": "10 Tie ienīst to, kas norāj vārtos, un tie necieš to, kas runā taisnīgi."
+      },
+      {
+        "verse": 11,
+        "en": "11Forasmuch therefore as your treading <i>is </i>upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.",
+        "lv": "11 Tāpēc tā kā jūsu samīšana <i>ir </i>uz nabago, un jūs ņemat no viņa kviešu nastas: jūs esat būvējuši namus no izcirsta akmens, bet jūs tajos nemājosiet; jūs esat stādījuši patīkamus vīna dārzus, bet jūs no tiem nedzersiet vīnu."
+      },
+      {
+        "verse": 12,
+        "en": "12For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate<i> from their right</i>.",
+        "lv": "12 Jo es zinu jūsu daudzveidīgos pārkāpumus un jūsu varenos grēkus: tie sāpina taisno, tie ņem kukuli, un tie griež prom nabagos vārtos <i>no viņu taisnības</i>."
+      },
+      {
+        "verse": 13,
+        "en": "13Therefore the prudent shall keep silence in that time; for it <i>is </i>an evil time.",
+        "lv": "13 Tāpēc prātīgais būs klusu tajā laikā; jo tas <i>ir </i>ļauns laiks."
+      },
+      {
+        "verse": 14,
+        "en": "14Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.",
+        "lv": "14 Meklējiet labu un ne ļaunu, lai jūs varat dzīvot: un tā tas KUNGS, karapulku Dievs, būs ar jums, kā jūs esat runājuši."
+      },
+      {
+        "verse": 15,
+        "en": "15Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.",
+        "lv": "15 Ienīstiet ļaunu un mīliet labu, un nostipriniet tiesu vārtos: varbūt, ka tas KUNGS, karapulku Dievs, būs žēlastīgs Jāzepa atlikumam."
+      },
+      {
+        "verse": 16,
+        "en": "16Therefore the LORD, the God of hosts, the Lord, saith thus; Wailing <i>shall be</i> in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.",
+        "lv": "16 Tāpēc tas KUNGS, karapulku Dievs, tas Kungs saka tā; Apraudāšana <i>būs </i>ielās; un tie sacīs visos lielceļos, Ak vai! ak vai! un tie aicinās zemkopi uz sērošanu, un tos, kas ir prasmīgi vaimanāt, uz apraudāšanu."
+      },
+      {
+        "verse": 17,
+        "en": "17And in all vineyards <i>shall be</i> wailing: for I will pass through thee, saith the LORD.",
+        "lv": "17 Un visos vīna dārzos <i>būs </i>apraudāšana: jo es iešu caur tevi, saka tas KUNGS."
+      },
+      {
+        "verse": 18,
+        "en": "18Woe unto you that desire the day of the LORD! to what end <i>is </i>it for you? the day of the LORD <i>is </i>darkness, and not light.",
+        "lv": "18 Vai jums, kas vēlaties tā KUNGA dienu! kādam nolūkam tā <i>ir </i>priekš jums? tā KUNGA diena <i>ir </i>tumsa un ne gaisma."
+      },
+      {
+        "verse": 19,
+        "en": "19As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.",
+        "lv": "19 Tā kā cilvēks bēga no lauvas, un lācis viņu satika; vai iegāja namā un atbalstīja savu roku uz sienas, un čūska viņam iekoda."
+      },
+      {
+        "verse": 20,
+        "en": "20<i>Shall</i> not the day of the LORD <i>be </i>darkness, and not light? even very dark, and no brightness in it?",
+        "lv": "20 Vai tā KUNGA diena nebūs tumsa un ne gaisma? proti, pati tumsa, un nekāda spožuma tajā?"
+      },
+      {
+        "verse": 21,
+        "en": "21I hate, I despise your feast days, and I will not smell in your solemn assemblies.",
+        "lv": "21 <p>Es ienīstu, es nicinu jūsu svētku dienas, un es negribu ost jūsu svinīgās sapulces."
+      },
+      {
+        "verse": 22,
+        "en": "22Though ye offer me burnt offerings and your meat offerings, I will not accept <i>them</i>: neither will I regard the peace offerings of your fat beasts.",
+        "lv": "22 Kaut arī jūs man ziedojat dedzināmos ziedojumus un savus ēdamos ziedojumus, es <i>tos</i> nepieņemšu: nedz es uzskatīšu jūsu trekno zvēru miera ziedojumus."
+      },
+      {
+        "verse": 23,
+        "en": "23Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.",
+        "lv": "23 Ņem prom no sevis savu dziesmu troksni; jo es negribu dzirdēt tavu violu melodiju."
+      },
+      {
+        "verse": 24,
+        "en": "24But let judgment run down as waters, and righteousness as a mighty stream.",
+        "lv": "24 Bet lai tiesa notek kā ūdeņi, un taisnība kā varena straume."
+      },
+      {
+        "verse": 25,
+        "en": "25Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?",
+        "lv": "25 Vai jūs man esat ziedojuši upurus un ziedojumus tuksnesī četrdesmit gadus, ak, Israēla nams?"
+      },
+      {
+        "verse": 26,
+        "en": "26But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.",
+        "lv": "26 Bet jūs esat nesuši sava Moloha mājokli un Čiunu, savus tēlus, sava dieva zvaigzni, ko jūs sev taisījāt."
+      },
+      {
+        "verse": 27,
+        "en": "27Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name <i>is </i>The God of hosts.",
+        "lv": "27 Tāpēc es jums likšu iet gūstā aiz Damaskas, saka tas KUNGS, kura vārds <i>ir </i>Karapulku Dievs."
+      }
+    ],
+    "6": [
+      {
+        "verse": 1,
+        "en": "1Woe to them <i>that are</i> at ease in Zion, and trust in the mountain of Samaria, <i>which are</i> named chief of the nations, to whom the house of Israel came!",
+        "lv": "1 Vai, tiem, <i>kas ir </i>bezrūpībā Ciānā, un paļaujas uz Samarijas kalnu, <i>kas ir</i> nosaukti galvenie no tautām, pie kuriem Israēla nams nāca!"
+      },
+      {
+        "verse": 2,
+        "en": "2Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: <i>be they</i> better than these kingdoms? or their border greater than your border?",
+        "lv": "2 Pārejiet uz Keinehu un redziet; un no turienes ejiet uz lielo Hamatu: tad noejiet uz filistiešu Gātu: vai <i>tās ir</i> labākas par visām šīm valstībām? vai viņu robeža lielāka par jūsu robežu?"
+      },
+      {
+        "verse": 3,
+        "en": "3Ye that put far away the evil day, and cause the seat of violence to come near;",
+        "lv": "3 Jūs, kas liekat tālu ļauno dienu un liekat vardarbības krēslam nākt tuvu;"
+      },
+      {
+        "verse": 4,
+        "en": "4That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;",
+        "lv": "4 Kas guļat uz ziloņkaula gultām un izstiepjaties uz viņu guļvietām, un ēdat jērus no ganāmpulka, un teļus no steliņģa vidus;"
+      },
+      {
+        "verse": 5,
+        "en": "5That chant to the sound of the viol, <i>and </i>invent to themselves instruments of musick, like David;",
+        "lv": "5 Kas skandināt pie violas skaņas, <i>un </i>izgudrojat sev mūzikas instrumentus kā Dāvids;"
+      },
+      {
+        "verse": 6,
+        "en": "6That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.",
+        "lv": "6 Kas vīnu dzerat bļodās un svaidāties ar galvenajām ziedēm: bet tie nav noskumuši par Jāzepa sāpināšanu."
+      },
+      {
+        "verse": 7,
+        "en": "7Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed.",
+        "lv": "7 <p>Tāpēc nu, tie ies gūstā ar pirmo, kas iet gūstā, un bankets no tiem, kas izstiepjas, tiks nocelts."
+      },
+      {
+        "verse": 8,
+        "en": "8The Lord GOD hath sworn by himself, saith the LORD the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.",
+        "lv": "8 Tas Kungs DIEVS ir zvērējis pie sevis, saka tas KUNGS, Karapulku Dievs, Es neciešu Jēkaba pārākumu, un ienīstu viņa pilis: tāpēc es nodošu pilsētu ar visu, kas tajā ir."
+      },
+      {
+        "verse": 9,
+        "en": "9And it shall come to pass, if there remain ten men in one house, that they shall die.",
+        "lv": "9 Un notiks, ja vienā namā paliek desmit vīrieši, ka tie mirs."
+      },
+      {
+        "verse": 10,
+        "en": "10And a man's uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that <i>is </i>by the sides of the house, <i>Is there</i> yet <i>any </i>with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the LORD.",
+        "lv": "10 Un cilvēka tēvocis viņu uzņems, un tas, kas viņu sadedzina, izvest kaulus no nama, un sacīs tam, kas ir pie nama sāniem, <i>Vai </i>vēl <i>kāds </i>ir ar tevi? un viņš sacīs, Nē. Tad viņš sacīs. Turi savu mēli: jo mēs nevaram pieminēt tā KUNGA vārdu."
+      },
+      {
+        "verse": 11,
+        "en": "11For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts.",
+        "lv": "11 Jo, lūk, tas KUNGS pavēl, un viņš sitīs lielu namu ar robiem, un mazu namu ar plaisām."
+      },
+      {
+        "verse": 12,
+        "en": "12Shall horses run upon the rock? will <i>one </i>plow <i>there </i>with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:",
+        "lv": "12 <p>Vai zirgi skries uz klinti? vai <i>kāds</i> <i>tur</i> ars ar vēršiem? jo jūs tiesu esat pārvērtuši žultī un taisnības augli velnarutkā:"
+      },
+      {
+        "verse": 13,
+        "en": "13Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?",
+        "lv": "13 Jūs, kas priecājaties niekā, kas sakāt, Mēs neesam sev ņēmuši ragus caur savu pašu stiprumu?"
+      },
+      {
+        "verse": 14,
+        "en": "14But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness.",
+        "lv": "14 Bet, lūk, es pret jums uzcelšu tautu, ak, Israēla nams, saka tas KUNGS, Karapulku Dievs; un tie jūs sāpinās no Hematas ieiešanas līdz tuksneša upei."
+      }
+    ],
+    "7": [
+      {
+        "verse": 1,
+        "en": "1Thus hath the Lord GOD shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo,<i> it was</i> the latter growth after the king's mowings.",
+        "lv": "1 Tā tas Kungs DIEVS man ir rādījis; un, lūk, viņš veidoja sienāžus <i>[stiebru]</i> izdzīšanas iesākumā no pēdējās augšanas; un, rau, <i>tā bija </i>pēdējā augšana pēc ķēniņa pļaušanām."
+      },
+      {
+        "verse": 2,
+        "en": "2And it came to pass, <i>that </i>when they had made an end of eating the grass of the land, then I said, O Lord GOD, forgive, I beseech thee: by whom shall Jacob arise? for he <i>is </i>small.",
+        "lv": "2 Un notika, <i>ka</i>, kad tie bija darījuši galu zemes zāles ēšanai, tad es sacīju, ak, Kungs DIEVS, piedod, es tevi lūdzos: caur kuru Jēkabs celsies? jo viņš <i>ir </i>mazs."
+      },
+      {
+        "verse": 3,
+        "en": "3The LORD repented for this: It shall not be, saith the LORD.",
+        "lv": "3 Tas KUNGS nožēloja par šo: Tas nebūs, saka tas KUNGS."
+      },
+      {
+        "verse": 4,
+        "en": "4Thus hath the Lord GOD shewed unto me: and, behold, the Lord GOD called to contend by fire, and it devoured the great deep, and did eat up a part.",
+        "lv": "4 <p>Tā tas Kungs DIEVS man ir rādījis: un, lūk, tas Kungs DIEVS aicināja ķildoties ar uguni, un tā aprija lielo dziļumu, un apēda daļu."
+      },
+      {
+        "verse": 5,
+        "en": "5Then said I, O Lord GOD, cease, I beseech thee: by whom shall Jacob arise? for he <i>is </i>small.",
+        "lv": "5 Tad es sacīju, ak, Kungs DIEVS, mitējies, es tevi lūdzos: caur kuru Jēkabs celsies? jo viņš <i>ir </i>mazs."
+      },
+      {
+        "verse": 6,
+        "en": "6The LORD repented for this: This also shall not be, saith the Lord GOD.",
+        "lv": "6 Tas KUNGS nožēloja par šo: Tas nebūs, saka tas KUNGS."
+      },
+      {
+        "verse": 7,
+        "en": "7Thus he shewed me: and, behold, the Lord stood upon a wall <i>made </i>by a plumbline, with a plumbline in his hand.",
+        "lv": "7 <p>Tā viņš man rādīja: un, lūk, tas Kungs nostājās uz sienas, <i>taisītas </i>ar svērteni, ar svērteni savā rokā."
+      },
+      {
+        "verse": 8,
+        "en": "8And the LORD said unto me, Amos, what seest thou? And I said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:",
+        "lv": "8 Un tas KUNGS man sacīja, Amos, ko tu redzi? Un es sacīju, Svērteni. Tad tas Kungs sacīja, Lūk, es likšu svērteni savu ļaužu Israēla vidū: es vairs atkal neiešu ar tiem tālāk:"
+      },
+      {
+        "verse": 9,
+        "en": "9And the high places of Isaac shall be desolate, and the sanctuaries of Israel shall be laid waste; and I will rise against the house of Jeroboam with the sword.",
+        "lv": "9 Un Īzaka augstās vietas būs pamestas, un Israēla svētnīcas būs izpostītas, un es celšos pret Jeroboama namu ar zobenu."
+      },
+      {
+        "verse": 10,
+        "en": "10Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.",
+        "lv": "10 <p>Tad Amacija, Beteles priesteris, sūtīja pie Jeroboama, Israāla ķēniņa, sacīdams, Amoss ir sazvērējies pret tevi Israēla nama vidū: zeme nespēj panest visus viņa vārdus."
+      },
+      {
+        "verse": 11,
+        "en": "11For thus Amos saith, Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.",
+        "lv": "11 Jo Amoss saka tā, Jeroboams mirs no zobena, un Israēls bez šaubām tiks vests gūstā no viņu pašu zemes."
+      },
+      {
+        "verse": 12,
+        "en": "12Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:",
+        "lv": "12 Arī Amacija Amosam sacīja, Ak, tu gaišreģi, ej, bēdz prom Jūdas zemē, un tur ēd maizi, un tur pravieto:"
+      },
+      {
+        "verse": 13,
+        "en": "13But prophesy not again any more at Bethel: for it <i>is </i>the king's chapel, and it <i>is </i>the king's court.",
+        "lv": "13 Bet nepravieto vairs atkal pie Beteles: jo tā ir ķēniņa svētvieta, un tas <i>ir </i>ķēniņa pagalms."
+      },
+      {
+        "verse": 14,
+        "en": "14Then answered Amos, and said to Amaziah, I <i>was </i>no prophet, neither <i>was </i>I a prophet's son; but I <i>was</i> an herdman, and a gatherer of sycomore fruit:",
+        "lv": "14 <p>Tad Amoss atbildēja un sacīja Amacijam, Es nebiju pravietis, nedz es <i>biju </i>pravieša dēls; bet es <i>biju </i>gans un sikamora augļu vācējs:"
+      },
+      {
+        "verse": 15,
+        "en": "15And the LORD took me as I followed the flock, and the LORD said unto me, Go, prophesy unto my people Israel.",
+        "lv": "15 Un tas KUNGS mani ņēma, man sekojot ganāmupulkam, un tas KUNGS man sacīja, Ej, pravieto maniem ļaudīm Israēlam."
+      },
+      {
+        "verse": 16,
+        "en": "16Now therefore hear thou the word of the LORD: Thou sayest, Prophesy not against Israel, and drop not <i>thy word</i> against the house of Isaac.",
+        "lv": "16 <p>Tāpēc nu, klausies tā KUNGA vārdu: Tu saki, Nepravieto pret Israēlu, un nenomet <i>savu vārdu</i> pret Īzaka namu."
+      },
+      {
+        "verse": 17,
+        "en": "17Therefore thus saith the LORD; Thy wife shall be an harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die in a polluted land: and Israel shall surely go into captivity forth of his land.",
+        "lv": "17 Tāpēc tā saka tas KUNGS; Tava sieva būs ielasmeita pilsētā, un tavi dēli un tavas meitas kritīs no zobena, un tava zeme tiks sadalīta ar līniju; un tu mirsi apgānītā zemē: un Israēls bez šaubām izies gūstā no savas zemes."
+      }
+    ],
+    "8": [
+      {
+        "verse": 1,
+        "en": "1Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit.",
+        "lv": "1 Tā tas Kungs DIEVS man ir rādījis: un, lūk, vasaras augļu grozs."
+      },
+      {
+        "verse": 2,
+        "en": "2And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said the LORD unto me, The end is come upon my people of Israel; I will not again pass by them any more.",
+        "lv": "2 Un viņš sacīja, Amos, ko tu redzi? Un es sacīju, Vasaras augļu grozu. Tad tas KUNGS man sacīja, Gals ir nācis uz maniem Israēla ļaudīm; es vairs atkal neiešu ar tiem tālāk."
+      },
+      {
+        "verse": 3,
+        "en": "3And the songs of the temple shall be howlings in that day, saith the Lord GOD: <i>there shall be </i>many dead bodies in every place; they shall cast <i>them </i>forth with silence.",
+        "lv": "3 Un tempļa dziesmas tajā dienā būs kaukšanas, saka tas Kungs DIEVS: ikvienā vietā <i>būs</i> daudz mirušu ķermeņu; tie <i>tos </i>izmetīs ar klusumu."
+      },
+      {
+        "verse": 4,
+        "en": "4Hear this, O ye that swallow up the needy, even to make the poor of the land to fail,",
+        "lv": "4 <p>Klausieties šo, ak, jūs, kas norijat trūcīgo, pat liekat zemes nabagajam krist"
+      },
+      {
+        "verse": 5,
+        "en": "5Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?",
+        "lv": "5 Sacīdami, Kad jauns mēness būs pagājis, lai mēs varam pārdot labību? un sabats, lai mēs izliktu kviešus, taisīdami efu mazu un seķeli lielu, un viltodami svaru kausus ar viltību?"
+      },
+      {
+        "verse": 6,
+        "en": "6That we may buy the poor for silver, and the needy for a pair of shoes; <i>yea</i>, and sell the refuse of the wheat?",
+        "lv": "6 Lai mēs varam pirkt nabagu par sudrabu un trūcīgo par kurpju pāri; <i>jā</i>, un pārdotu pabiras no kviešiem?"
+      },
+      {
+        "verse": 7,
+        "en": "7The LORD hath sworn by the excellency of Jacob, Surely I will never forget any of their works.",
+        "lv": "7 Tas KUNGS ir zvērējis pie Jēkaba pārākuma, Bez šaubām, es nekad neaizmirsīšu nevienu no viņu darbiem."
+      },
+      {
+        "verse": 8,
+        "en": "8Shall not the land tremble for this, and every one mourn that dwelleth therein? and it shall rise up wholly as a flood; and it shall be cast out and drowned, as <i>by </i>the flood of Egypt.",
+        "lv": "8 Vai viņu zeme netrīcēs par šo un ikviens nesēros, kas tajā mājo? un tas pacelsies pavisam kā plūdi; un tas tiks izmests un noslīcināts kā <i>ar </i>Ēģiptes plūdiem."
+      },
+      {
+        "verse": 9,
+        "en": "9And it shall come to pass in that day, saith the Lord GOD, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:",
+        "lv": "9 Un notiks tajā dienā, saka tas Kungs DIEVS, ka es likšu saulei noiet pusdienlaikā, un es aptumšošu zemi skaidrā dienā:"
+      },
+      {
+        "verse": 10,
+        "en": "10And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only <i>son</i>, and the end thereof as a bitter day.",
+        "lv": "10 Un es pārvērtīšu jūsu svētkus sērošanā, un visas jūsu dziesmas vaimanā; un es vedīšu maisaudumu uz visiem gurniem, un plikpaurainību uz ikvienas galvas; un es to darīšu kā sērošanu par vienīgo <i>dēlu</i>, un tā galu kā rūgtu dienu."
+      },
+      {
+        "verse": 11,
+        "en": "11Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:",
+        "lv": "11 <p>Lūk, dienas nāk, saka tas Kungs DIEVS, ka es sūtīšu badu zemē, ne maizes badu, ne slāpes pēc ūdens, bet pēc tā KUNGA vārdu dzirdēšanas:"
+      },
+      {
+        "verse": 12,
+        "en": "12And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the LORD, and shall not find <i>it</i>.",
+        "lv": "12 Un tie klejos no jūras uz jūru, un no ziemeļiem līdz pat austrumiem, tie skries turp un šurp meklēt tā KUNGA vārdu un <i>to </i>neatradīs."
+      },
+      {
+        "verse": 13,
+        "en": "13In that day shall the fair virgins and young men faint for thirst.",
+        "lv": "13 Tajā dienā daiļas jaunavas un jaunekļi nogurs aiz slāpēm."
+      },
+      {
+        "verse": 14,
+        "en": "14They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beersheba liveth; even they shall fall, and never rise up again.",
+        "lv": "14 Tie, kas zvēr pie Samarijas grēka un saka, Tavs dievs, ak, Dan, dzīvo: un, Bēršabas paraža dzīvo; ikviens kritīs un nekad necelsies atpakaļ."
+      }
+    ],
+    "9": [
+      {
+        "verse": 1,
+        "en": "1I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.",
+        "lv": "1 Es redzēju to Kungu stāvam uz altāra: un viņš sacīja, Sit durvju palodu, lai stenderes var trīcēt: un griez tās augšdaļā, tās visas; un es nokaušu pēdējo no tām ar zobenu: tas, kas bēg no tām, nebēgs prom, un tas kas izbēg no tām, netiks izpestīts."
+      },
+      {
+        "verse": 2,
+        "en": "2Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down:",
+        "lv": "2 Kaut arī tie ierokas ellē, no turienes manas rokas tos ņems; kaut arī tie uzkāpj debesī, no turienes es tos novedīšu:"
+      },
+      {
+        "verse": 3,
+        "en": "3And though they hide themselves in the top of Carmel, I will search and take them out thence; and though they be hid from my sight in the bottom of the sea, thence will I command the serpent, and he shall bite them:",
+        "lv": "3 Un kaut arī tie paslēpjas Karmela galā, es meklēšu un tos ņemšu no turienes; un kaut arī tie paslēpjas no mana skatiena jūras dibenā, no turienes es pavēlēšu čūskai, un tā tos kodīs:"
+      },
+      {
+        "verse": 4,
+        "en": "4And though they go into captivity before their enemies, thence will I command the sword, and it shall slay them: and I will set mine eyes upon them for evil, and not for good.",
+        "lv": "4 Un kaut arī tie ies gūstā savu ienaidnieku priekšā, no turienes es pavēlēsu zobenu, un tas tos nokaus: un es likšu savas acis uz tiem par ļaunu, un ne par labu."
+      },
+      {
+        "verse": 5,
+        "en": "5And the Lord GOD of hosts <i>is </i>he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as <i>by </i>the flood of Egypt.",
+        "lv": "5 Un tas Kungs, karapulku DIEVS, <i>ir </i>tas, kas aizskar to zemi, un tā kusīs, un visi, kas tajā mājo, sēros: un tas celsies pilnīgi kā plūdi; un tiks noslīcināti kā <i>ar</i> Ēģiptes plūdiem."
+      },
+      {
+        "verse": 6,
+        "en": "6<i>It is</i> he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD <i>is </i>his name.",
+        "lv": "6 <i>Tas ir</i> tas, kas būvē savus stāvus debesī un ir licis pamatu savam karaspēkam zemē; tas, kas aicina pēc jūras ūdeņiem un tos izlej uz zemes virsas: Tas KUNGS <i>ir </i>viņa vārds."
+      },
+      {
+        "verse": 7,
+        "en": "7<i>Are</i> ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?",
+        "lv": "7 <i>Vai </i>jūs man neesat kā etiopiešu bērni, ak, Israēla bērni? saka tas KUNGS. Vai es Israēlu neesmu izvedis no Ēģiptes zemes? un filistiešus no Kaftoras, un sīriešus no Kiras?"
+      },
+      {
+        "verse": 8,
+        "en": "8Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD.",
+        "lv": "8 Lūk, tā Kunga DIEVA acis ir uz grēcīgu valstību, un es to iznīcināšu no zemes virsas; izņemot to, ka es pilnībā neiznīcināšu Jēkaba namu, saka tas KUNGS."
+      },
+      {
+        "verse": 9,
+        "en": "9For, lo, I will command, and I will sift the house of Israel among all nations, like as <i>corn </i>is sifted in a sieve, yet shall not the least grain fall upon the earth.",
+        "lv": "9 Jo, rau, es pavēlēšu, un es sijāšu Israēla namu starp visām tautām, kā <i>labība </i>tiek sijāta sietā, tomēr ne mazākais grauds nekritīs uz zemes."
+      },
+      {
+        "verse": 10,
+        "en": "10All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.",
+        "lv": "10 Visi manu ļaužu grēcinieki mirs no zobena, kas saka, Ļaunums mūs nepanāks, ne mūs aizkavēs."
+      },
+      {
+        "verse": 11,
+        "en": "11In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:",
+        "lv": "11 <p>Tajā dienā es uzcelšu Dāvida mājokli, kas ir nokritis, un aizvēršu tā robus; un es uzcelšu viņa gruvešus, un es to uzbūvēšu kā senās dienās:"
+      },
+      {
+        "verse": 12,
+        "en": "12That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the LORD that doeth this.",
+        "lv": "12 Lai tie var iegūt īpašumā Edoma atlikumu, un no visiem pagāniem, kas tiek saukti pēc mana vārda, saka tas KUNGS, kas šo dara."
+      },
+      {
+        "verse": 13,
+        "en": "13Behold, the days come, saith the LORD, that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.",
+        "lv": "13 Lūk, dienas nāk, saka tas KUNGS, ka arājs panāks pļāvēju, un vīnogu minējs to, kas sēj sēklu; un kalni pilēs<i> [ar]</i> saldu vīnu, un visi pakalni kusīs."
+      },
+      {
+        "verse": 14,
+        "en": "14And I will bring again the captivity of my people of Israel, and they shall build the waste cities, and inhabit <i>them</i>; and they shall plant vineyards, and drink the wine thereof; they shall also make gardens, and eat the fruit of them.",
+        "lv": "14 Un es atvedīšu atpakaļ manu Israēla ļaužu gūstu, un tie būvēs izpostītās pilsētas un <i>tās </i>apdzīvos; un tie stādīs vīna dārzus un dzers no to vīna, tie arī taisīs dārzus un ēdīs to augli."
+      },
+      {
+        "verse": 15,
+        "en": "15And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God.",
+        "lv": "15 Un es tos stādīšu uz viņu zemes, un tie vairs netiks izrauti no savas zemes, ko es tiem esmu devis, saka tas KUNGS, tavs Dievs."
+      }
+    ]
+  }
+}

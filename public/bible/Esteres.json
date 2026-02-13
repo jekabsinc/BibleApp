@@ -1,0 +1,860 @@
+{
+  "book": "Esteres",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1Now it came to pass in the days of Ahasuerus, (this <i>is </i>Ahasuerus which reigned, from India even unto Ethiopia, <i>over </i>an hundred and seven and twenty provinces:)",
+        "lv": "1 Tad nu notika Ahasvera dienās (šis <i>ir </i>Ahasvers, kas valdīja no Indijas līdz pat Etiopijai, <i>pār </i>simts divdesmit septiņām provincēm:)"
+      },
+      {
+        "verse": 2,
+        "en": "2<i>That </i>in those days, when the king Ahasuerus sat on the throne of his kingdom, which <i>was </i>in Shushan the palace,",
+        "lv": "2 <i>Ka </i>tajās dienās, kad ķēniņš Ahasverus sēdēja uz savas valstības troņa, kas <i>bija </i>Sūzanā pilī,"
+      },
+      {
+        "verse": 3,
+        "en": "3In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, <i>being </i>before him:",
+        "lv": "3 Savas valdīšanas trešajā gadā viņš taisīja svētkus visiem saviem prinčiem un saviem kalpiem; Persijas un Mēdijas varai, provinču dižciltīgajiem un prinčiem, <i>esot </i>viņa priekšā:"
+      },
+      {
+        "verse": 4,
+        "en": "4When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, <i>even </i>an hundred and fourscore days.",
+        "lv": "4 Kad viņš daudzas dienas, <i>proti,</i> simts astoņdesmit dienas, rādīja savas krāšņās valstības bagātību un sava teicamā majestātiskuma godu."
+      },
+      {
+        "verse": 5,
+        "en": "5And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king's palace;",
+        "lv": "5 Un, kad šīs dienas bija beigušās, ķēniņš taisīja svētkus visiem ļaudīm, kas bija klātesoši Sūzanā pilī, gan lieliem, gan maziem, septiņas dienas ķēniņa pils dārza pagalmā;"
+      },
+      {
+        "verse": 6,
+        "en": "6<i>Where were</i> white, green, and blue, <i>hangings</i>, fastened with cords of fine linen and purple to silver rings and pillars of marble: the beds <i>were of</i> gold and silver, upon a pavement of red, and blue, and white, and black, marble.",
+        "lv": "6 <i>Kur bija</i> baltas, zaļas un zilas <i>drapērijas</i>, piestiprinātas pie sudraba gredzeniem un marmora stabiem ar smalka lina un purpura auklām: gultas <i>bija no</i> zelta un sudraba, uz sarkana un zila, un balta, un melna marmora bruģiem."
+      },
+      {
+        "verse": 7,
+        "en": "7And they gave <i>them </i>drink in vessels of gold, (the vessels being diverse one from another,) and royal wine in abundance, according to the state of the king.",
+        "lv": "7 Un tie <i>viņiem </i>deva dzert zelta traukos (traukiem atšķiroties citam no cita) un karalisko vīnu bagātīgi atbilstoši ķēniņa stāvoklim."
+      },
+      {
+        "verse": 8,
+        "en": "8And the drinking <i>was </i>according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man's pleasure.",
+        "lv": "8 Un dzeršana <i>bija </i>atbilstoši likumam; neviens nepiespieda, jo tā ķēniņš bija noteicis visiem sava nama virsniekiem, lai tie darītu atbilstoši ikviena patikai."
+      },
+      {
+        "verse": 9,
+        "en": "9Also Vashti the queen made a feast for the women in the royal house which <i>belonged </i>to king Ahasuerus.",
+        "lv": "9 Arī ķēniņiene Vašti taisīja svētkus sievietēm karaliskajā namā, kas <i>piederēja </i>ķēniņam Ahasveram."
+      },
+      {
+        "verse": 10,
+        "en": "10On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,",
+        "lv": "10 <p>Septītajā dienā, kad ķēniņa sirds bija līksma no vīna, viņš pavēlēja Mehumanam, Biztam, Harbonam, Bigtam un Abagtam, Zetaram un Karkasam, septiņiem kambarkungiem, kas kalpoja ķēniņa Ahasvera klātbūtnē,"
+      },
+      {
+        "verse": 11,
+        "en": "11To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she <i>was </i>fair to look on.",
+        "lv": "11 Vest ķēniņieni Vašti ķēniņa priekšā ar karalisko kroni, parādīt ļaudīm un prinčiem viņas skaistumu: jo viņa <i>bija </i>daiļa pēc izskata."
+      },
+      {
+        "verse": 12,
+        "en": "12But the queen Vashti refused to come at the king's commandment by <i>his </i>chamberlains: therefore was the king very wroth, and his anger burned in him.",
+        "lv": "12 Bet ķēniņiene Vašti atteicās nākt pie ķēniņa pavēles caur <i>viņa </i>kambarkungiem: tāpēc ķēniņš ļoti apskaitās, un viņā dega dusmas."
+      },
+      {
+        "verse": 13,
+        "en": "13Then the king said to the wise men, which knew the times, (for so <i>was </i>the king's manner toward all that knew law and judgment:",
+        "lv": "13 <p>Tad ķēniņš sacīja gudrajiem, kas zināja laikus (jo tāda <i>bija </i>ķēniņa ieraža pret visiem, kas zināja likumu un tiesu:"
+      },
+      {
+        "verse": 14,
+        "en": "14And the next unto him <i>was </i>Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, <i>and </i>Memucan, the seven princes of Persia and Media, which saw the king's face, <i>and </i>which sat the first in the kingdom;)",
+        "lv": "14 Un blakus viņam <i>bija </i>Karšena, Šetars, Admata, Taršišs, Meress, Marsens <i>un </i>Memukans, septiņi Persijas un Mēdijas prinči, kas redzēja ķēniņa seju <i>un </i>kas sēdēja pirmie valstībā;)"
+      },
+      {
+        "verse": 15,
+        "en": "15What shall we do unto the queen Vashti according to law, because she hath not performed the commandment of the king Ahasuerus by the chamberlains?",
+        "lv": "15 Ko darīsim ķēniņienei Vašti atbilstoši likumam, tāpēc ka viņa nav izpildījusi ķēniņa Ahasvera pavēlei caur kambarkungiem?"
+      },
+      {
+        "verse": 16,
+        "en": "16And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the people that <i>are </i>in all the provinces of the king Ahasuerus.",
+        "lv": "16 Un Memukans atbildēja ķēniņa un prinču priekšā, Karaliene Vašti nav darījusi nepareizi tikai ķēniņam, bet arī visiem prinčiem un visiem ļaudīm, kas <i>ir</i> visās ķēniņa Ahasvera provincēs."
+      },
+      {
+        "verse": 17,
+        "en": "17For <i>this </i>deed of the queen shall come abroad unto all women, so that they shall despise their husbands in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not.",
+        "lv": "17Jo <i>šī </i>ķēniņienes rīcība izies pie visām sievietēm, tā ka viņas savās acīs nicinās savus vīrus, kad tas tiks paziņots, Ķēniņš Ahasvers pavēlēja ķēniņieni Vašti vest savā priekšā, bet viņa nenāca."
+      },
+      {
+        "verse": 18,
+        "en": "18<i>Likewise</i> shall the ladies of Persia and Media say this day unto all the king's princes, which have heard of the deed of the queen. Thus <i>shall there arise</i> too much contempt and wrath.",
+        "lv": "18 <i>Tāpat </i>Persijas un Medijas dāmas šajā dienā sacīs visiem ķēniņa prinčiem, kas ir dzirdējuši par ķēniņienes rīcību. Tādējādi <i>celsies </i>pārāk daudz nicinājuma un bardzības."
+      },
+      {
+        "verse": 19,
+        "en": "19If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.",
+        "lv": "19 Ja tas patīk ķēniņam, lai no viņa iziet karaliska pavēle, un lai tā tiek rakstīta starp persiešu un mēdiešu likumiem, ka to nevar mainīt, Lai Vašti vairs nenāk ķēniņa Aasvēra priekšā; un lai ķēniņš viņas karalisko stāvokli dod citai, kas ir labāka par viņu."
+      },
+      {
+        "verse": 20,
+        "en": "20And when the king's decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small.",
+        "lv": "20 Un, kad ķēniņa lēmums, ko viņš darīs, tiks pavēstīts pa visu impēriju, (jo tā ir liela,) visas sievas dos saviem vīriem godu, gan lieliem, gan maziem."
+      },
+      {
+        "verse": 21,
+        "en": "21And the saying pleased the king and the princes; and the king did according to the word of Memucan:",
+        "lv": "21 Un tas vārds patika ķēniņam un prinčiem; un ķēniņš darīja atbilstoši Memukana vārdam:"
+      },
+      {
+        "verse": 22,
+        "en": "22For he sent letters into all the king's provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and that <i>it </i>should be published according to the language of every people.",
+        "lv": "22 Jo viņš sūtīja vēstules visās ķēniņa provincēs, ikvienā provincē atbilstoši tā rakstītajam, un pie ikvieniem ļaudīm pēc viņu valodas, lai ikviens vīrietis valdītu savā paša namā un lai <i>tas </i>tiktu pavēstīts atbilstoši ikvienu ļaužu valodai."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her.",
+        "lv": "1 Pēc šī, kad ķēniņa Aasvēra bardzība nomierinājās, viņš atcerējās Vašti un ko viņa bija darījusi un kas tika nolemts pret viņu."
+      },
+      {
+        "verse": 2,
+        "en": "2Then said the king's servants that ministered unto him, Let there be fair young virgins sought for the king:",
+        "lv": "2 Tad ķēniņa kalpi, kas viņam kalpoja, sacīja, Lai ķēniņam tiek meklētas daiļas jaunavas:"
+      },
+      {
+        "verse": 3,
+        "en": "3And let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of Hege the king's chamberlain, keeper of the women; and let their things for purification be given <i>them</i>:",
+        "lv": "3 Un lai ķēniņš ieceļ virsniekus visās savas valstības provincēs, lai tie var sapulcināt visas daiļās, jaunās jaunavas uz Sūzanu, pili, uz sieviešu namu, ķēniņa kambarkunga Heges, sieviešu sarga, uzraudzībā; un lai <i>tām</i> tiek dotas viņu lietas šķīstīšanai:"
+      },
+      {
+        "verse": 4,
+        "en": "4And let the maiden which pleaseth the king be queen instead of Vashti. And the thing pleased the king; and he did so.",
+        "lv": "4 Un lai meitene, kas patīk ķēniņam, ir par ķēniņieni Vašti vietā. Un ķēniņam tas patika; un viņš tā darīja."
+      },
+      {
+        "verse": 5,
+        "en": "5<i>Now </i>in Shushan the palace there was a certain Jew, whose name <i>was </i>Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;",
+        "lv": "5 <p><i>Tad nu</i> Sūzanā, pilī, bija kāds jūds, kura vārds <i>bija </i>Mordekajs, Jaira dēls, Šimeja dēls, Kiša dēls, benjamīnetis;"
+      },
+      {
+        "verse": 6,
+        "en": "6Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.",
+        "lv": "6 Kurš bija aizvests no Jeruzālemes ar gūstu, kas bija aizvests kopā ar Jūdas ķēniņu Jekoniju, kuru Babilonas ķēniņš Nebukadnecars bija aizvedis."
+      },
+      {
+        "verse": 7,
+        "en": "7And he brought up Hadassah, that <i>is</i>, Esther, his uncle's daughter: for she had neither father nor mother, and the maid <i>was </i>fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.",
+        "lv": "7 Un viņš uzaudzināja Hadasu, tas <i>ir</i>, Esteri, sava tēvoča meitu, jo viņai nebija nedz tēva, ne mātes, un meitene bija daiļa un skaista; kuru Mordekajs, kad viņas tēvs un māte bija miruši, paņēma par savu paša meitu."
+      },
+      {
+        "verse": 8,
+        "en": "8So it came to pass, when the king's commandment and his decree was heard, and when many maidens were gathered together unto Shushan the palace, to the custody of Hegai, that Esther was brought also unto the king's house, to the custody of Hegai, keeper of the women.",
+        "lv": "8 <p>Tā notika, kad tika dzirdēta ķēniņa pavēle un viņa lēmums un kad daudzas meitenes tika sapulcinātas uz Sūzanu, pili, Hegaja uzraudzībā, ka arī Estere tika atvesta uz ķēniņa namu Hegaja, sieviešu sarga, uzraudzībā."
+      },
+      {
+        "verse": 9,
+        "en": "9And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, <i>which were </i>meet to be given her, out of the king's house: and he preferred her and her maids unto the best <i>place </i>of the house of the women.",
+        "lv": "9 Un meitene viņam patika, un tā ieguva no viņa laipnību; un viņš viņai steidzīgi deva viņas lietas šķīstīšanai ar to, kas viņai piederēja, un septiņas kalpones, <i>ko </i>viņai pienācās dot, no ķēniņa nama: un viņš paaugstināja viņu un viņas kalpones uz labāko <i>vietu </i>sieviešu namā."
+      },
+      {
+        "verse": 10,
+        "en": "10Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew <i>it</i>.",
+        "lv": "10 Estere nebija pavēstījusi ne savus ļaudis, ne savus radus: jo Mordekajs viņai bija piekodinājis, lai viņa <i>to</i> nepavēsta."
+      },
+      {
+        "verse": 11,
+        "en": "11And Mordecai walked every day before the court of the women's house, to know how Esther did, and what should become of her.",
+        "lv": "11 Un Mordekajs ik dienu staigāja sieviešu nama pagalma priekšā, zināt, kā Esterei klājas un kas no viņas kļūs."
+      },
+      {
+        "verse": 12,
+        "en": "12Now when every maid's turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished,<i> to wit,</i> six months with oil of myrrh, and six months with sweet odours, and with <i>other </i>things for the purifying of the women;)",
+        "lv": "12 <p>Kad nu bija nākusi ikvienas meitenes kārta ieiet pie ķēniņa Ahasvera, pēc tam, kad viņa bija bijusi divpadsmit mēnešus atbilstoši sieviešu ieražai (jo tā viņu šķīstīšanās dienas tika piepildītas, <i>tas ir,</i> seši mēneši ar mirres eļļu un seši mēneši ar saldām smaržām un ar <i>citām</i> lietām sieviešu šķīstīšanai;)"
+      },
+      {
+        "verse": 13,
+        "en": "13Then thus came <i>every </i>maiden unto the king; whatsoever she desired was given her to go with her out of the house of the women unto the king's house.",
+        "lv": "13 Tad tā <i>ikviena </i>meitene nāca pie ķēniņa; ko vien viņa gribēja, <i>[tas] </i>tai tika dots, lai tā ar to ietu no sieviešu nama uz ķēniņa namu."
+      },
+      {
+        "verse": 14,
+        "en": "14In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king's chamberlain, which kept the concubines: she came in unto the king no more, except the king delighted in her, and that she were called by name.",
+        "lv": "14 Vakarā viņa gāja un no rīta viņa atgriezās otrajā sieviešu namā Šaašgaza, ķēniņa kambarkunga, kas sargāja konkubīnes, uzraudzībā: viņa vairs neiegāja pie ķēniņa, ja vien ķēniņš viņā nepriecājās, un viņa netika saukta pēc vārda."
+      },
+      {
+        "verse": 15,
+        "en": "15Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Hegai the king's chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her.",
+        "lv": "15 <p>Kad nu pienāca Esteres, Mordekaja, kurš viņu bija paņēmis par savu meitu, tēvoča Abihaila meitas, kārta, ieiet pie ķēniņa, viņa nepieprasīja neko, kā tikai, ko bija noteicis ķēniņa kambarkungs, sieviešu sargs Hegaja. Un Estere ieguva labvēlību visu to skatienā, kas uz viņu lūkojās."
+      },
+      {
+        "verse": 16,
+        "en": "16So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which <i>is </i>the month Tebeth, in the seventh year of his reign.",
+        "lv": "16 Tā Estere tika aizvesta pie ķēniņa Ahasvera viņa karaliskajā namā desmitajā mēnesī, kas <i>ir </i>Tebeta mēnesis, viņa valdīšanas septītajā gadā."
+      },
+      {
+        "verse": 17,
+        "en": "17And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti.",
+        "lv": "17 Un ķēniņš Esteri mīlēja pār visām sievietēm, un viņa ieguva žēlastību un labvēlību viņa skatienā vairāk nekā visas jaunavas; tā ka viņš viņai uzlika galvā karalisko kroni un viņu iecēla par ķēniņieni Vašti vietā."
+      },
+      {
+        "verse": 18,
+        "en": "18Then the king made a great feast unto all his princes and his servants, <i>even </i>Esther's feast; and he made a release to the provinces, and gave gifts, according to the state of the king.",
+        "lv": "18 Tad ķēniņš taisīja lielus svētkus visiem saviem prinčiem un saviem kalpiem, <i>proti, </i>Esteres svētkus; un viņš darīja atlaišanu provincēm un deva dāvanas atbilstoši ķēniņa stāvoklim."
+      },
+      {
+        "verse": 19,
+        "en": "19And when the virgins were gathered together the second time, then Mordecai sat in the king's gate.",
+        "lv": "19 Un, kad jaunavas tika sapulcētas kopā otrreiz, Mordekajs sēdēja ķēniņa vārtos."
+      },
+      {
+        "verse": 20,
+        "en": "20Esther had not <i>yet </i>shewed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.",
+        "lv": "20 Estere vēl nebija pavēstījusi savus radus, ne savus ļaudis; kā Mordekajs viņai bija piekodinājis, jo Estere darīja Mordohaja pavēli, kā tad, kad viņa ar viņu tika uzaudzināta."
+      },
+      {
+        "verse": 21,
+        "en": "21In those days, while Mordecai sat in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.",
+        "lv": "21 <p>Tajās dienās, kamēr Mordekajs sēdēja ķēniņa vārtos, divi no ķēniņa kambarkungiem, Bigtans un Terešs, no tiem, kuri sargāja durvis, apskaitās un meklēja pielikt roku ķēniņam Ahasveram."
+      },
+      {
+        "verse": 22,
+        "en": "22And the thing was known to Mordecai, who told <i>it </i>unto Esther the queen; and Esther certified the king <i>thereof </i>in Mordecai's name.",
+        "lv": "22 Un tas bija zināms Mordekajam, kurš <i>to </i>stāstīja ķēniņienei Esterei; un Estere <i>par to</i> apliecināja ķēniņam Mordekaja vārdā."
+      },
+      {
+        "verse": 23,
+        "en": "23And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king.",
+        "lv": "23 Un, kad par to lietu tika veikta izmeklēšana, tas tika atrasts; tāpēc tie abi tika pakārti pie koka: un tas tika rakstīts hroniku grāmatā ķēniņa priekšā."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "1After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that <i>were</i> with him.",
+        "lv": "1 Pēc tam ķēniņš Ahasvers paaugstināja Hamanu, Agagieša Hammedata dēlu, un izvirzīja viņu, un lika viņa krēslu pāri visiem prinčiem, kas <i>bija </i>ar viņu."
+      },
+      {
+        "verse": 2,
+        "en": "2And all the king's servants, that <i>were </i>in the king's gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did <i>him </i>reverence.",
+        "lv": "2 Un visi ķēniņa kalpi, kas <i>bija </i>ķēniņa vārtos, klanījās un cienīja Hamanu: jo ķēniņš bija tā pavēlējis attiecībā uz viņu. Bet Mordekajs neklanījās, ne <i>viņu </i>cienīja."
+      },
+      {
+        "verse": 3,
+        "en": "3Then the king's servants, which <i>were </i>in the king's gate, said unto Mordecai, Why transgressest thou the king's commandment?",
+        "lv": "3 Tad ķēniņa kalpi, kas <i>bija </i>ķēniņa vārtos, Mordekajam sacīja, Kāpēc tu pārkāp ķēniņa pavēli?"
+      },
+      {
+        "verse": 4,
+        "en": "4Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he <i>was </i>a Jew.",
+        "lv": "4 Tad nu notika, kad tie ik dienas ar viņu runāja, un viņš tos neuzklausīja, ka tie stāstīja Hamanam, lai redzētu, vai Mordekaja lietas pastāvētu: jo viņš tiem bija sacījis, ka viņš <i>bija </i>jūds."
+      },
+      {
+        "verse": 5,
+        "en": "5And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.",
+        "lv": "5 Un, kad Hamans redzēja, ka Mordekajs neklanījās, ne viņu cienīja, tad Hamans kļuva pilns bardzības."
+      },
+      {
+        "verse": 6,
+        "en": "6And he thought scorn to lay hands on Mordecai alone; for they had shewed him the people of Mordecai: wherefore Haman sought to destroy all the Jews that <i>were </i>throughout the whole kingdom of Ahasuerus, <i>even </i>the people of Mordecai.",
+        "lv": "6 Un viņš domāja <i>[par] </i>nicinājumu, pielikt rokas tikai pie Mordekaja; jo tie viņam bija pavēstījuši Mordekaja ļaudis: tādēļ Hamans meklēja iznīcināt visus jūdus, kas bija pa visu Ahasvera valstību, <i>proti,</i> Mordekaja ļaudis."
+      },
+      {
+        "verse": 7,
+        "en": "7In the first month, that <i>is</i>, the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, <i>to </i>the twelfth <i>month</i>, that <i>is</i>, the month Adar.",
+        "lv": "7 <p>Pirmajā mēnesī, tas <i>ir</i>, Nisana mēnesī, ķēniņa Ahasvera divpadsmitajā gadā, viņi meta Pūr, tas ir, meslus, Hamana priekšā dienu pēc dienas un mēnesi pēc mēneša, <i>līdz</i> divpadsmitajam <i>mēnesim</i>, tas <i>ir</i>, Adara mēnesim."
+      },
+      {
+        "verse": 8,
+        "en": "8And Haman said unto king Ahasuerus, There is a certain people scattered abroad and dispersed among the people in all the provinces of thy kingdom; and their laws <i>are </i>diverse from all people; neither keep they the king's laws: therefore it <i>is </i>not for the king's profit to suffer them.",
+        "lv": "8 <p>Un Hamans ķēniņam Ahasveram sacīja, Ir kādi ļaudis, kas ir izkaisīti un izkliedēti starp ļaudīm visās tavas valstības provincēs: un viņu likumi <i>ir </i>atšķirīgi no visiem ļaudīm; nedz tie tur ķēniņa likumus: tāpēc tas nav priekš ķēniņa labuma tos paciest."
+      },
+      {
+        "verse": 9,
+        "en": "9If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring <i>it </i>into the king's treasuries.",
+        "lv": "9 Ja ķēniņam patīk, lai tiek rakstīts, ka tie var tikt iznīcināti: un es maksāšu desmit tūkstošus sudraba talentu to rokās, kam ir uzticēta tā lieta, lai <i>to</i> ienestu ķēniņa dārgumu glabātuvēs."
+      },
+      {
+        "verse": 10,
+        "en": "10And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews' enemy.",
+        "lv": "10 Un ķēniņš ņēma savu gredzenu no savas rokas un to deva Hamanam, Agagieša Hammedata dēlam, jūdu ienaidniekam."
+      },
+      {
+        "verse": 11,
+        "en": "11And the king said unto Haman, The silver <i>is </i>given to thee, the people also, to do with them as it seemeth good to thee.",
+        "lv": "11 Un ķēniņš Hamanam sacīja, Tev <i>ir </i>dots sudrabs, arī ļaudis, darīt ar tiem, kā tev šķiet labi."
+      },
+      {
+        "verse": 12,
+        "en": "12Then were the king's scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king's lieutenants, and to the governors that <i>were </i>over every province, and to the rulers of every people of every province according to the writing thereof, and <i>to </i>every people after their language; in the name of king Ahasuerus was it written, and sealed with the king's ring.",
+        "lv": "12 Tad pirmā mēneša trīspadsmitajā dienā tika saukti ķēniņa rakstu mācītāji, un tika rakstīts atbilstoši visam, ko Hamans bija pavēlējis ķēniņa leitnantiem un pārvaldniekiem, kas <i>bija </i>pār ikvienu provinci, un ikvienas provinces ikvienu ļaužu valdniekiem atbilstoši tā rakstītajam un ikvieniem ļaudīm pēc to valodas; ķēniņa Ahasvera vārdā tas tika rakstīts un apzīmogots ar ķēniņa gredzenu."
+      },
+      {
+        "verse": 13,
+        "en": "13And the letters were sent by posts into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, <i>even </i>upon the thirteenth <i>day </i>of the twelfth month, which is the month Adar, and <i>to take</i> the spoil of them for a prey.",
+        "lv": "13 Un vēstules tika nosūtītas caur pastniekiem visās ķēniņa provincēs, lai vienā dienā, <i>proti,</i> divpadsmitā mēneša, kas ir Adara mēnesis, trīspadsmitajā <i>dienā</i>, iznīcinātu, nogalinātu un izraisītu bojā eju visiem jūdiem, gan jauniem, gan veciem, maziem bērniem un sievietēm, un <i>ņemtu </i>no tiem laupījumu par ieguvumu."
+      },
+      {
+        "verse": 14,
+        "en": "14The copy of the writing for a commandment to be given in every province was published unto all people, that they should be ready against that day.",
+        "lv": "14 Rakstītā kopija par pavēli, kas jādod ikvienā provincē, tika publicēta visiem ļaudīm, lai tie būtu gatavi pret to dienu."
+      },
+      {
+        "verse": 15,
+        "en": "15The posts went out, being hastened by the king's commandment, and the decree was given in Shushan the palace. And the king and Haman sat down to drink; but the city Shushan was perplexed.",
+        "lv": "15 Pēc ķēniņa pavēles pastnieki izgāja steidzoties, un lēmums tika dots Sūzanā pilī. Un ķēniņš un Hamans apsēdās dzert; bet Sūzanas pilsēta bija apmulsusi."
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "en": "1When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;",
+        "lv": "1 Kad Mordekajs nomanīja visu, kas tika darīts, Mordekajs saplēsa savas drēbes un uzvilka maisaudumu ar pelniem, un izgāja pilsētas vidū un sauca ar skaļu un rūgtu saucienu;"
+      },
+      {
+        "verse": 2,
+        "en": "2And came even before the king's gate: for none <i>might </i>enter into the king's gate clothed with sackcloth.",
+        "lv": "2 Un nāca pat ķēniņa vārtu priekšā: jo neviens <i>nevarēja </i>ieiet ķēniņa vārtos, apģērbies ar maisaudumu."
+      },
+      {
+        "verse": 3,
+        "en": "3And in every province, whithersoever the king's commandment and his decree came, <i>there was</i> great mourning among the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes.",
+        "lv": "3 Un ikvienā provincē, kur vien nāca ķēniņa pavēle un viņa lēmums, starp jūdiem vidū <i>bija </i>lielas sēras un gavēšana, un raudāšana, un apraudāšana; un daudzi gulēja maisaudumos un pelnos."
+      },
+      {
+        "verse": 4,
+        "en": "4So Esther's maids and her chamberlains came and told <i>it </i>her. Then was the queen exceedingly grieved; and she sent raiment to clothe Mordecai, and to take away his sackcloth from him: but he received <i>it </i>not.",
+        "lv": "4 <p>Tā Esteres kalpones un viņas kambarkungi nāca un viņai <i>to </i>stāstīja. Tad ķēniņiene bija ārkārtīgi noskumusi; un viņa sūtīja tērpu, lai apģērbtu Mordekaju un ņemtu prom no viņa maisaudumu: bet viņš <i>to </i>nepieņēma."
+      },
+      {
+        "verse": 5,
+        "en": "5Then called Esther for Hatach, <i>one </i>of the king's chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it <i>was</i>, and why it <i>was</i>.",
+        "lv": "5 Tad Estere aicināja Hatahu, <i>vienu </i>no ķēniņa kambarkungiem, kuru tas bija norīkojis to apkalpot, un viņam nodeva pavēli Mordekajam uzzināt, kas tas <i>bija</i> un kāpēc tas <i>bija</i>."
+      },
+      {
+        "verse": 6,
+        "en": "6So Hatach went forth to Mordecai unto the street of the city, which <i>was </i>before the king's gate.",
+        "lv": "6 Un Hatahs gāja pie Mordekaja uz pilsētas ielu, kas <i>bija </i>ķēniņa vārtu priekšā."
+      },
+      {
+        "verse": 7,
+        "en": "7And Mordecai told him of all that had happened unto him, and of the sum of the money that Haman had promised to pay to the king's treasuries for the Jews, to destroy them.",
+        "lv": "7 Un Mordekajs viņam stāstīja par visu, kas viņam bija noticis, un par naudas summu, ko Hamans bija apsolījis maksāt ķēniņa dārgumu glabātuvēm par jūdiem, lai tos iznīcinātu."
+      },
+      {
+        "verse": 8,
+        "en": "8Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew <i>it </i>unto Esther, and to declare <i>it </i>unto her, and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him for her people",
+        "lv": "8 Viņš arī tam deva rakstītā lēmuma kopiju, kas tika dots Sūzanā, lai tos iznīcinātu, lai <i>to </i>parādītu Esterei un <i>to </i>paziņotu viņai un piekodinātu viņai, lai viņa ieietu pie ķēniņa, darīt lūgumu viņam un darīt prasību viņa priekšā par saviem ļaudīm"
+      },
+      {
+        "verse": 9,
+        "en": "9And Hatach came and told Esther the words of Mordecai.",
+        "lv": "9 Un Hatahs nāca un pastāstīja Esterei Mordekaja vārdus."
+      },
+      {
+        "verse": 10,
+        "en": "10Again Esther spake unto Hatach, and gave him commandment unto Mordecai;",
+        "lv": "10 <p>Estere atkal runāja uz Hatahu un nodeva viņam pavēli Mordekajam;"
+      },
+      {
+        "verse": 11,
+        "en": "11All the king's servants, and the people of the king's provinces, do know, that whosoever, whether man or woman, shall come unto the king into the inner court, who is not called, <i>there is</i> one law of his to put <i>him </i>to death, except such to whom the king shall hold out the golden sceptre, that he may live: but I have not been called to come in unto the king these thirty days.",
+        "lv": "11 Visi ķēniņa kalpi un ķēniņa provinču ļaudis zina, ka ikviens — vai vīrietis vai sieviete — kas nav aicināts, nāks pie ķēniņa iekšējā pagalmā, tam <i>ir </i>viens likums, <i>viņu</i> nogalināt, izņemot to, kuram ķēniņš pasniegs zelta scepteri, lai viņš var dzīvot: bet es neesmu aicināta nākt pie ķēniņa šīs trīsdesmit dienas."
+      },
+      {
+        "verse": 12,
+        "en": "12And they told to Mordecai Esther's words.",
+        "lv": "12 Un tie Mordekajam stāstīja Esteres vārdus."
+      },
+      {
+        "verse": 13,
+        "en": "13Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king's house, more than all the Jews.",
+        "lv": "13 Tad Mordekajs pavēlēja atbildēt Esterei, Nedomā pie sevis, ka tu izbēgsi ķēniņa namā vairāk nekā visi jūdi."
+      },
+      {
+        "verse": 14,
+        "en": "14For if thou altogether holdest thy peace at this time, <i>then </i>shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for <i>such </i>a time as this?",
+        "lv": "14 Jo, ja tu pavisam klusē šajā laikā, <i>tad </i>jūdiem celsies paplašināšanās un izpestīšana no citas vietas; bet tu un tava tēva nams tiks iznīcināts: un kurš zina, vai tu esi nākusi valstībā <i>tādam </i>laikam kā šis?"
+      },
+      {
+        "verse": 15,
+        "en": "15Then Esther bade <i>them </i>return Mordecai<i> this answe</i>r,",
+        "lv": "15 <p>Tad Estere lika <i>tiem </i>atgriezt Mordekajam <i>šo atbildi</i>,"
+      },
+      {
+        "verse": 16,
+        "en": "16Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which <i>is </i>not according to the law: and if I perish, I perish.",
+        "lv": "16 Ej, sapulcini kopā visus jūdus, kas ir klāt Sūzanā, un gavējiet par mani, un nedz ēdiet, ne dzeriet trīs dienas, nakti vai dienu: arī es un manas meitenes tāpat gavēsim; un tā es ieiešu pie ķēniņa, kas nav atbilstoši likumam: un, ja es eju bojā, es eju bojā."
+      },
+      {
+        "verse": 17,
+        "en": "17So Mordecai went his way, and did according to all that Esther had commanded him.",
+        "lv": "17 Tā Mordekajs aizgāja un darīja atbilstoši visam, ko Estere viņam bija pavēlējusi."
+      }
+    ],
+    "5": [
+      {
+        "verse": 1,
+        "en": "1Now it came to pass on the third day, that Esther put on <i>her </i>royal <i>apparel</i>, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house.",
+        "lv": "1 Tad nu notika trešajā dienā, ka Estere uzvilka <i>savu </i>karalisko <i>ietērpu </i>un stāvēja ķēniņa nama iekšējā pagalmā iepretī ķēniņa namam: un ķēniņš sēdēja uz sava karaliskā troņa karaliskajā namā iepretī nama vārtiem."
+      },
+      {
+        "verse": 2,
+        "en": "2And it was so, when the king saw Esther the queen standing in the court, <i>that </i>she obtained favour in his sight: and the king held out to Esther the golden sceptre that <i>was </i>in his hand. So Esther drew near, and touched the top of the sceptre.",
+        "lv": "2 Un bija tā, kad ķēniņš ieraudzīja ķēniņieni Esteri stāvam pagalmā, <i>ka </i>viņa ieguva labvēlību viņa skatienā: un ķēniņš pasniedza Esterei zelta scepteri, kas <i>bija</i> viņa rokā. Tā Estere tuvojās un aizskāra sceptera augšdaļu."
+      },
+      {
+        "verse": 3,
+        "en": "3Then said the king unto her, What wilt thou, queen Esther? and what <i>is </i>thy request? it shall be even given thee to the half of the kingdom.",
+        "lv": "3 Tad ķēniņš viņai sacīja, Ko tu gribi, ķēniņiene Estere? un kas <i>ir </i>tava prasība? tev tiks dots līdz pat pusei no valstības."
+      },
+      {
+        "verse": 4,
+        "en": "4And Esther answered, If <i>it seem</i> good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him.",
+        "lv": "4 Un Estere atbildēja, Ja ķēniņam tas <i>šķiet </i>labi, lai ķēniņš un Hamans šajā dienā nāk uz banketu, ko es priekš viņa esmu sagatavojusi."
+      },
+      {
+        "verse": 5,
+        "en": "5Then the king said, Cause Haman to make haste, that he may do as Esther hath said. So the king and Haman came to the banquet that Esther had prepared.",
+        "lv": "5 Tad ķēniņš sacīja, Lieciet Hamanam steigties, lai viņš var darīt, kā Estere ir sacījusi. Tā ķēniņš un Hamans nāca uz banketu, ko Estere bija sagatavojusi."
+      },
+      {
+        "verse": 6,
+        "en": "6And the king said unto Esther at the banquet of wine, What <i>is </i>thy petition? and it shall be granted thee: and what <i>is </i>thy request? even to the half of the kingdom it shall be performed.",
+        "lv": "6 <p>Un ķēniņš Esterei vīna banketā sacīja, Kas <i>ir</i> tavs lūgums? un tas tev tiks dāvāts: un kas <i>ir</i> tava prasība? pat līdz pusei no valstības tas tiks izpildīts."
+      },
+      {
+        "verse": 7,
+        "en": "7Then answered Esther, and said, My petition and my request <i>is</i>;",
+        "lv": "7 Tad Estere atbildēja un sacīja, Mans lūgums un prasība <i>ir</i>;"
+      },
+      {
+        "verse": 8,
+        "en": "8If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said.",
+        "lv": "8 Ja esmu atradusi labvēlību ķēniņa skatienā un ja tas patīk ķēniņam dāvāt manu lūgumu un izpildīt manu prasību, lai ķēniņš un Hamans nāk uz banketu, ko es priekš viņiem sagatavošu, un es rīt darīšu, kā ķēniņš ir sacījis."
+      },
+      {
+        "verse": 9,
+        "en": "9Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king's gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.",
+        "lv": "9 <p>Tad Hamans tajā dienā izgāja priecīgs un ar līksmu sirdi: bet, kad Hamans redzēja Mordekaju ķēniņa vārtos, ka tas nenostājās, ne kustējās viņa dēļ, viņš bija pilns apskaišanās pret Mordekaju."
+      },
+      {
+        "verse": 10,
+        "en": "10Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.",
+        "lv": "10 Neraugoties uz to, Hamans apvaldījās: un, kad viņš pārnāca mājās, viņš sūtīja un aicināja savus draugus un savu sievu Zerešu."
+      },
+      {
+        "verse": 11,
+        "en": "11And Haman told them of the glory of his riches, and the multitude of his children, and all <i>the things</i> wherein the king had promoted him, and how he had advanced him above the princes and servants of the king.",
+        "lv": "11 Un Hamans tiem stāstīja par savu bagātību godību un savu bērnu pulku, un visu, iekš kā ķēniņš viņu bija paaugstinājis, un kā tas viņu bija izvirzījis pāri ķēniņa prinčiem un kalpiem."
+      },
+      {
+        "verse": 12,
+        "en": "12Haman said moreover, Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to morrow am I invited unto her also with the king.",
+        "lv": "12 Turklāt Hamans sacīja, Jā, ķēniņiene Estere uz mielastu, ko viņa bija sagatavojusi, kopā ar ķēniņu neļāva nākt nevienam, kā tikai man; un rīt es esmu aicināts pie viņas arī ar ķēniņu."
+      },
+      {
+        "verse": 13,
+        "en": "13Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king's gate.",
+        "lv": "13 Bet tas viss man neko nedod, kamēr es redzu jūdu Mordekaju sēžam pie ķēniņa vārtiem."
+      },
+      {
+        "verse": 14,
+        "en": "14Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made.",
+        "lv": "14 <p>Tad viņa sieva Zereša un visi viņa draugi viņam sacīja, Lai tiek taisītas piecdesmit olekšu augstas karātavas un rīt runā uz ķēniņu, lai Mordekajs var tikt tajās pakārts: tad ej līksmi ar ķēniņu uz banketu. Un tas Hamanam patika; un viņš lika taisīt karātavas."
+      }
+    ],
+    "6": [
+      {
+        "verse": 1,
+        "en": "1On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.",
+        "lv": "1 Tajā naktī ķēniņš nevarēja pagulēt, un viņš pavēlēja atnest hroniku ierakstu grāmatu; un tie tika lasīti ķēniņa priekšā."
+      },
+      {
+        "verse": 2,
+        "en": "2And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king's chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.",
+        "lv": "2 Un tika atrasts rakstīts, ka Mordekajs bija pastāstījis par Bigtanu un Terešu, diviem no ķēniņa kambarkungiem, durvju sargiem, kuri meklēja pielikt roku ķēniņam Ahasveram."
+      },
+      {
+        "verse": 3,
+        "en": "3And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king's servants that ministered unto him, There is nothing done for him.",
+        "lv": "3 Un ķēniņš sacīja, Kāds gods un cieņa šī dēļ ir darīta Mordekajam? Tad ķēniņa kalpi, kas viņam kalpoja, sacīja, Viņam nekas nav darīts."
+      },
+      {
+        "verse": 4,
+        "en": "4And the king said, Who <i>is </i>in the court? Now Haman was come into the outward court of the king's house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him.",
+        "lv": "4 <p>Un ķēniņš sacīja, Kas <i>ir </i>pagalmā? Tad nu Hamans bija ienācis ķēniņa nama ārējā pagalmā, lai runātu uz ķēniņu, lai pakārtu Mordekaju karātavās, ko viņš priekš viņa bija sagatavojis."
+      },
+      {
+        "verse": 5,
+        "en": "5And the king's servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.",
+        "lv": "5 Un ķēniņa kalpi viņam sacīja, Lūk, Hamans stāv pagalmā. Un ķēniņš sacīja, Lai viņš ienāk."
+      },
+      {
+        "verse": 6,
+        "en": "6So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?",
+        "lv": "6 Un Hamans ienāca. Un ķēniņš viņam sacīja, Ko būs darīt cilvēkam, kuru ķēniņš priecājas pagodāt? Tad nu Hamans domāja savā sirdī, Kuram ķēniņš priecātos darīt vairāk goda, nekā man pašam?"
+      },
+      {
+        "verse": 7,
+        "en": "7And Haman answered the king, For the man whom the king delighteth to honour,",
+        "lv": "7 Un Hamans ķēniņam atbildēja, Cilvēkam, kuru ķēniņš priecājas godāt,"
+      },
+      {
+        "verse": 8,
+        "en": "8Let the royal apparel be brought which the king <i>useth </i>to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:",
+        "lv": "8 Lai atnes karalisko ietērpu, ko ķēniņš valkā, un zirgu, uz kura ķēniņš jāj, un karalisko kroni, kas ir uzlikts viņa galvā:"
+      },
+      {
+        "verse": 9,
+        "en": "9And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man <i>withal </i>whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.",
+        "lv": "9 Un lai šis ietērps un zirgs tiek nodoti viena no ķēniņa dižciltīgākajiem prinčiem rokās, lai <i>ar to</i> var ietērpt vīrieti, kuru ķēniņš priecājas pagodāt, un viņu vest zirga mugurā pa pilsētas ielu un pasludināt viņa priekšā, Tā tiks darīts cilvēkam, kuru ķēniņš priecājas pagodāt."
+      },
+      {
+        "verse": 10,
+        "en": "10Then the king said to Haman, Make haste, <i>and </i>take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king's gate: let nothing fail of all that thou hast spoken.",
+        "lv": "10 Tad ķēniņš Hamanam sacīja, Steidzies <i>un</i> ņem ietērpu un zirgu, kā tu esi sacījis, un dari pat tā jūdam Mordekajam, kas sēž pie ķēniņa vārtiem: lai nekas neizpaliek no visa, ko tu esi runājis."
+      },
+      {
+        "verse": 11,
+        "en": "11Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour.",
+        "lv": "11 Tad Hamans ņēma ietērpu un zirgu un ietērpa Mordekaju, un veda viņu zirga mugurā pa pilsētas ielu, un pasludināja viņa priekšā, Tā tiks darīts vīrietim, kuru ķēniņš priecājas pagodāt."
+      },
+      {
+        "verse": 12,
+        "en": "12And Mordecai came again to the king's gate. But Haman hasted to his house mourning, and having his head covered.",
+        "lv": "12 <p>Un Mordekajs atkal nāca pie ķēniņa vārtiem. Bet Hamans steidzās uz savu namu sērodams un ar savu galvu apsegtu."
+      },
+      {
+        "verse": 13,
+        "en": "13And Haman told Zeresh his wife and all his friends every <i>thing </i>that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai <i>be </i>of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.",
+        "lv": "13 Un Hamans stāstīja savai sievai Zerešai un visiem saviem draugiem visu, kas viņam bija atgadījies. Tad viņa gudrie un viņa sieva Zereša viņam sacīja, Ja Mordekajs ir no jūdu sēklas, kura priekšā tu esi iesācis krist, tad tu negūsi virsroku pret viņu, bet noteikti kritīsi viņa priekšā."
+      },
+      {
+        "verse": 14,
+        "en": "14And while they <i>were</i> yet talking with him, came the king's chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.",
+        "lv": "14 Un kamēr tie vēl sarunājās ar viņu, nāca ķēniņa kambarkungi un steidzās Hamanu vest uz banketu, ko Estere bija sagatavojusi."
+      }
+    ],
+    "7": [
+      {
+        "verse": 1,
+        "en": "1So the king and Haman came to banquet with Esther the queen.",
+        "lv": "1 Tā ķēniņš un Hamans nāca uz banketu ar ķēniņieni Esteri."
+      },
+      {
+        "verse": 2,
+        "en": "2And the king said again unto Esther on the second day at the banquet of wine, What <i>is </i>thy petition, queen Esther? and it shall be granted thee: and what <i>is </i>thy request? and it shall be performed, <i>even </i>to the half of the kingdom.",
+        "lv": "2 Un ķēniņš Esterei vīna banketa otrajā dienā atkal sacīja, Kāds <i>ir </i>tavs lūgums, ķēniņiene Estere? un tas tev tiks dāvāts: un kāda <i>ir </i>tava prasība? un tas tiks izpildīts līdz <i>pat</i> pusei no valstības."
+      },
+      {
+        "verse": 3,
+        "en": "3Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:",
+        "lv": "3 Tad ķēniņiene Estere atbildēja un sacīja, Ja es esmu atradusi labvēlību tavā skatienā, ak, ķēniņ, un ja tas ķēniņam patīk, lai man tiek dota mana dzīvība pēc mana lūguma un mani ļaudis pēc manas prasības:"
+      },
+      {
+        "verse": 4,
+        "en": "4For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage.",
+        "lv": "4 Jo mēs esam pārdoti, es un mani ļaudis, lai tiktu iznīcināti, lai tiktu nokauti un lai ietu bojā. Bet, ja mēs būtu pārdoti par kalpiem un kalponēm, es būtu turējusi savu mēli, kaut gan ienaidnieks nevarēja atsvērt ķēniņa zaudējumus."
+      },
+      {
+        "verse": 5,
+        "en": "5Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?",
+        "lv": "5 <p>Tad ķēniņš Ahasvers atbildēja un ķēniņienei Esterei sacīja, Kas viņš ir un kur viņš ir, kas savā sirdī uzdrošinājās tā darīt?"
+      },
+      {
+        "verse": 6,
+        "en": "6And Esther said, The adversary and enemy <i>is </i>this wicked Haman. Then Haman was afraid before the king and the queen.",
+        "lv": "6 Un Estere sacīja, Pretinieks un ienaidnieks <i>ir </i>šis nelietīgais Hamans. Tad Hamans baidījās ķēniņa un ķēniņienes priekšā."
+      },
+      {
+        "verse": 7,
+        "en": "7And the king arising from the banquet of wine in his wrath <i>went </i>into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.",
+        "lv": "7 <p>Un ķēniņš savā bardzībā, celdamies no vīna banketa, <i>iegāja </i>pils dārzā: un Hamans nostājās, lai ķēniņienei Esterei veiktu prasību par savu dzīvību; jo viņš redzēja, ka ķēniņš pret viņu bija nospriedis ļaunu."
+      },
+      {
+        "verse": 8,
+        "en": "8Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther <i>was</i>. Then said the king, Will he force the queen also before me in the house? As the word went out of the king's mouth, they covered Haman's face.",
+        "lv": "8 Tad ķēniņš atgriezās no pils dārza vīna banketa vietā; un Hamans bija kritis uz gultas, uz kuras <i>bija</i> Estere. Tad ķēniņš sacīja, Vai viņš arī ķēniņieni piespiedīs namā manā priekšā? Vārdam izejot no ķēniņa mutes, tie apsedza Hamana seju."
+      },
+      {
+        "verse": 9,
+        "en": "9And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon.",
+        "lv": "9 Un Harbonahs, viens no kambarkungiem, sacīja ķēniņa priekšā, Lūk arī, Hamana namā stāv piecdesmit olektis augstas karātavas, ko Hamans ir taisījis priekš Mordekaja, kurš ir runājis labu priekš ķēniņa. Tad ķēniņš sacīja, Pakariet viņu tajās."
+      },
+      {
+        "verse": 10,
+        "en": "10So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified.",
+        "lv": "10 Tā tie pakāra Hamanu karātavās, ko viņš bija sagatavojis priekš Mordekaja. Tad ķēniņa bardzība tika nomierināta."
+      }
+    ],
+    "8": [
+      {
+        "verse": 1,
+        "en": "1On that day did the king Ahasuerus give the house of Haman the Jews' enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he <i>was </i>unto her.",
+        "lv": "1 Tajā dienā ķēniņš Ahasvers jūdu ienaidnieka Hamana namu deva ķēniņienei Esterei. Un Mordekajs nāca ķēniņa priekšā; jo Estere viņam bija stāstījusi, kas viņš tai <i>bija</i>."
+      },
+      {
+        "verse": 2,
+        "en": "2And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman.",
+        "lv": "2 Un ķēniņš noņēma savu gredzenu, ko viņš bija ņēmis no Hamana, un to deva Mordekajam. Un Estere Mordekaju lika pār Hamana namu."
+      },
+      {
+        "verse": 3,
+        "en": "3And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.",
+        "lv": "3 <p>Un Estere atkal runāja ķēniņa priekšā un krita pie viņa kājām un ar asarām lūdzās viņu atmest agagieša Hamana ļaunumu un viņa nodomus, ko viņš bija nodomājis pret jūdiem."
+      },
+      {
+        "verse": 4,
+        "en": "4Then the king held out the golden sceptre toward Esther. So Esther arose, and stood before the king,",
+        "lv": "4 Tad ķēniņš pasniedza uz Esteres pusi zelta scepteri. Tā Estere cēlās un nostājās ķēniņa priekšā,"
+      },
+      {
+        "verse": 5,
+        "en": "5And said, If it please the king, and if I have found favour in his sight, and the thing <i>seem</i> right before the king, and I <i>be </i>pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which <i>are </i>in all the king's provinces:",
+        "lv": "5 Un sacīja, Ja tas patīk ķēniņam un ja es esmu atradusi labvēlību viņa skatienā, un tas <i>šķiet </i>pareizi ķēniņa priekšā, un es <i>esmu</i> patīkama viņa acīs, lai tiek rakstīts, lai atceltu vēstules, ko nodomājis agagietis Hamans, Hammedata dēls, ko viņš rakstīja, lai iznīcinātu jūdus, kas <i>ir </i>visās ķēniņa provincēs:"
+      },
+      {
+        "verse": 6,
+        "en": "6For how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred?",
+        "lv": "6 Jo kā es varu izturēt redzēt ļaunumu, kas nāks uz maniem ļaudīm? vai kā es varu izturēt redzēt savu radu iznīcību?"
+      },
+      {
+        "verse": 7,
+        "en": "7Then the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews.",
+        "lv": "7 <p>Tad ķēniņš Ahasvers sacīja ķēniņienei Esterei un jūdam Mordekajam, Lūk, es esmu devis Esterei Hamana namu, un viņu tie ir pakāruši karātavās, jo viņš savu roku lika uz jūdiem."
+      },
+      {
+        "verse": 8,
+        "en": "8Write ye also for the Jews, as it liketh you, in the king's name, and seal <i>it </i>with the king's ring: for the writing which is written in the king's name, and sealed with the king's ring, may no man reverse.",
+        "lv": "8 Rakstiet arī priekš jūdiem, kā jums patīk, ķēniņa vārdā, un apzīmogojiet <i>to </i>ar ķēniņa gredzenu: jo rakstu, kas ir rakstīts ķēniņa vārdā un apzīmogots ar ķēniņa gredzenu, neviens nevar atcelt."
+      },
+      {
+        "verse": 9,
+        "en": "9Then were the king's scribes called at that time in the third month, that <i>is</i>, the month Sivan, on the three and twentieth <i>day </i>thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which <i>are </i>from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.",
+        "lv": "9 Tad tajā laikā trešajā mēnesī, tas <i>ir</i>, Sivan mēnesī, tā divdesmitajā trešajā <i>dienā </i>tika aicināti ķēniņa rakstu mācītāji; un tika rakstīts atbilstoši visam, ko Mordekajs pavēlēja jūdiem un leitnantiem, un prokonsuliem, un valdniekiem, kas <i>ir </i>no Indijas līdz Etiopijai, simts divdesmit septiņām provincēm, ikvienā provincē atbilstoši tās rakstībai, un ikvieniem ļaudīm pēc viņu valodas, un jūdiem atbilstoši viņu rakstībai un atbilstoši viņu valodai."
+      },
+      {
+        "verse": 10,
+        "en": "10And he wrote in the king Ahasuerus' name, and sealed <i>it </i>with the king's ring, and sent letters by posts on horseback, <i>and </i>riders on mules, camels, <i>and </i>young dromedaries:",
+        "lv": "10 Un viņš rakstīja ķēniņa Ahasvera vārdā un <i>to </i>apzīmogoja ar ķēniņa gredzenu, un sūtīja vēstules caur pastniekiem zirgu mugurās <i>un </i>jātniekus uz mūļiem, kamieļiem <i>un </i>jauniem dromedāriem:"
+      },
+      {
+        "verse": 11,
+        "en": "11Wherein the king granted the Jews which <i>were </i>in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, <i>both </i>little ones and women, and <i>to take</i> the spoil of them for a prey,",
+        "lv": "11 Kur ķēniņš dāvāja jūdiem, kas <i>bija </i>ikvienā pilsētā, sapulcēties kopā un stāvēt par savu dzīvību, iznīcināt, nokaut un likt iet bojā visu ļaužu un provinču spēkam, kas tiem uzbruktu, <i>gan </i>maziem, gan sievietēm un <i>ņemt </i>no viņiem laupījumu par ieguvumu,"
+      },
+      {
+        "verse": 12,
+        "en": "12Upon one day in all the provinces of king Ahasuerus, <i>namely,</i> upon the thirteenth <i>day </i>of the twelfth month, which <i>is </i>the month Adar.",
+        "lv": "12 Vienā dienā visās ķēniņa Ahasvera provincēs, <i>proti, </i>divpadsmitā mēneša, kas ir Adar mēnesis, trīspadsmitajā dienā."
+      },
+      {
+        "verse": 13,
+        "en": "13The copy of the writing for a commandment to be given in every province <i>was </i>published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies.",
+        "lv": "13 Raksta kopija par pavēli, kas jādod ikvienā provincē, tika publicēta visiem ļaudīm, un ka jūdiem jābūt gataviem pret to dienu sevi atriebt uz saviem ienaidniekiem."
+      },
+      {
+        "verse": 14,
+        "en": "14So the posts that rode upon mules <i>and </i>camels went out, being hastened and pressed on by the king's commandment. And the decree was given at Shushan the palace.",
+        "lv": "14 Tā pastnieki, kas jāja uz mūļiem <i>un </i>kamieļiem, izgāja, ķēniņa pavēles steidzināti un spiesti. Un lēmums tika dots Sūzanā pilī."
+      },
+      {
+        "verse": 15,
+        "en": "15And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad.",
+        "lv": "15 <p>Un Mordekajs izgāja no ķēniņa klātbūtnes, zilā un baltā karaliskā tērpā un ar lielu zelta kroni, un ar smalku linu un purpura apģērbu: un Sūzanas pilsēta priecājās un līksmojās."
+      },
+      {
+        "verse": 16,
+        "en": "16The Jews had light, and gladness, and joy, and honour.",
+        "lv": "16 Jūdiem bija gaisma un līksmība, un prieks, un gods."
+      },
+      {
+        "verse": 17,
+        "en": "17And in every province, and in every city, whithersoever the king's commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them.",
+        "lv": "17 Un ikvienā provincē un ikvienā pilsētā, kur vien nāca ķēniņa pavēle un viņa lēmums, jūdiem bija prieks un līksmība, svētki un laba diena. Un daudzi no zemes ļaudīm kļuva par jūdiem; jo viņiem uzkrita bailes no jūdiem."
+      }
+    ],
+    "9": [
+      {
+        "verse": 1,
+        "en": "1Now in the twelfth month, that <i>is</i>, the month Adar, on the thirteenth day of the same, when the king's commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)",
+        "lv": "1 Tad nu divpadsmitajā mēnesī, tas <i>ir</i>, Adar mēnesī, tā paša <i>[mēneša]</i> trīspadsmitajā dienā, kad ķēniņa pavēle un viņa lēmums tuvojās izpildīšanai, dienā, kad jūdu ienaidnieki cerēja gūt pār tiem spēku, (kaut arī tas tika apgriezts pretēji, ka jūdiem bija valdīšana pār tiem, kas viņus ienīda;)"
+      },
+      {
+        "verse": 2,
+        "en": "2The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people.",
+        "lv": "2 Jūdi sapulcējās kopā savās pilsētās pa visām ķēniņa Ahasvera provincēm, lai pieliktu roku tiem, kas meklēja viņu kaitējumu: un neviens nevarēja tiem stāvēt pretī; jo bijāšana no tiem krita pār visiem ļaudīm."
+      },
+      {
+        "verse": 3,
+        "en": "3And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them.",
+        "lv": "3 Un visi provinču valdnieki un ķēniņa leitnanti, un prokonsuli, un virsnieki palīdzēja jūdiem; tāpēc, ka bijāšana no Mordekaja krita pār tiem."
+      },
+      {
+        "verse": 4,
+        "en": "4For Mordecai <i>was </i>great in the king's house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater.",
+        "lv": "4 Jo Mordekajs <i>bija </i>liels ķēniņa namā, un viņa slava izgāja pa visām provincēm, jo šis vīrietis Mordekajs kļuva lielāks un lielāks."
+      },
+      {
+        "verse": 5,
+        "en": "5Thus the Jews smote all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would unto those that hated them.",
+        "lv": "5 Tā jūdi sita visus savus ienaidniekus ar zobena sitienu un kaušanu, un iznīcību, un darīja, ko gribēja, tiem, kas viņus ienīda."
+      },
+      {
+        "verse": 6,
+        "en": "6And in Shushan the palace the Jews slew and destroyed five hundred men.",
+        "lv": "6 Un Sūzanā pilī jūdi nokāva un iznīcināja piecsimt vīriešus."
+      },
+      {
+        "verse": 7,
+        "en": "7And Parshandatha, and Dalphon, and Aspatha,",
+        "lv": "7 Un Paršandatu, un Dalfonu, un Aspatu,"
+      },
+      {
+        "verse": 8,
+        "en": "8And Poratha, and Adalia, and Aridatha,",
+        "lv": "8 Un Poratu, Adaliju un Aridatu,"
+      },
+      {
+        "verse": 9,
+        "en": "9And Parmashta, and Arisai, and Aridai, and Vajezatha,",
+        "lv": "9 Un Parmaštu, Arisaju, Aridaju un Vajezatu,"
+      },
+      {
+        "verse": 10,
+        "en": "10The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand.",
+        "lv": "10 Hammedatas dēla Hamana, jūdu ienaidnieka, desmit dēlus, tie nokāva; bet uz laupījumu viņi nelika savu roku."
+      },
+      {
+        "verse": 11,
+        "en": "11On that day the number of those that were slain in Shushan the palace was brought before the king.",
+        "lv": "11 Tajā dienā ķēniņa priekšā tika nests to skaits, kas tika nokauti Sūzanā pilī."
+      },
+      {
+        "verse": 12,
+        "en": "12And the king said unto Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king's provinces? now what <i>is </i>thy petition? and it shall be granted thee: or what <i>is </i>thy request further? and it shall be done.",
+        "lv": "12 <p>Un ķēniņš ķēniņienei Esterei sacīja, Jūdi ir nokāvuši un iznīcinājuši piecsimt vīriešus Sūzanā pilī un desmit Hamana dēlus; ko tie ir darījuši pārējās ķēniņa provincēs? tad nu kas <i>ir </i>tavs lūgums? un tas tev tiks dāvāts: vai kas <i>ir </i>tava prasība? un tā tiks darīta."
+      },
+      {
+        "verse": 13,
+        "en": "13Then said Esther, If it please the king, let it be granted to the Jews which <i>are</i> in Shushan to do to morrow also according unto this day's decree, and let Haman's ten sons be hanged upon the gallows.",
+        "lv": "13 Tad Estere sacīja, Ja tas ķēniņam patīk, lai jūdiem, kas <i>ir </i>Sūzanā, arī rīt tiek dāvāts atbilstoši šīs dienas lēmumam, un lai desmit Hamana dēlus pakar karātavās."
+      },
+      {
+        "verse": 14,
+        "en": "14And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman's ten sons.",
+        "lv": "14 Un ķēniņš pavēlēja, lai tas tā tiek darīts: un lēmums tika dots Sūzanā; un tie pakāra Hamana desmit dēlus."
+      },
+      {
+        "verse": 15,
+        "en": "15For the Jews that <i>were </i>in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.",
+        "lv": "15 Jo jūdi, kas <i>bija </i>Sūzanā, sapulcējās kopā arī Adara mēneša četrpadsmitajā dienā un nokāva trīs simtus vīriešu Sūzanā; bet uz ieguvumu viņi nelika savu roku."
+      },
+      {
+        "verse": 16,
+        "en": "16But the other Jews that <i>were </i>in the king's provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,",
+        "lv": "16 Bet pārējie jūdi, kas <i>bija </i>ķēniņa provincēs, sapulcējās kopā un stāvēja par savām dzīvībām un <i>[tiem]</i> bija dusa no saviem ienaidniekiem un nokāva no saviem naidniekiem septiņdesmit piecus tūkstošus, bet uz laupījumu viņi nelika savas rokas,"
+      },
+      {
+        "verse": 17,
+        "en": "17On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.",
+        "lv": "17 Adara mēneša trīspadsmitajā dienā; un tā paša <i>[mēneša]</i> četrpadsmitajā dienā tie dusēja un to darīja par dzīrošanas un līksmības dienu."
+      },
+      {
+        "verse": 18,
+        "en": "18But the Jews that <i>were </i>at Shushan assembled together on the thirteenth <i>day </i>thereof, and on the fourteenth thereof; and on the fifteenth <i>day</i> of the same they rested, and made it a day of feasting and gladness.",
+        "lv": "18 Bet jūdi, kas <i>bija </i>Sūzanā, sapulcējās kopā tā trīspadsmitajā <i>dienā </i>un tā četrpadsmitajā; un tā paša <i>[mēneša] </i>piecpadsmitajā <i>dienā</i> tie dusēja un to darīja par dzīrošanas un līksmības dienu."
+      },
+      {
+        "verse": 19,
+        "en": "19Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar <i>a day of </i>gladness and feasting, and a good day, and of sending portions one to another.",
+        "lv": "19 Tāpēc ciematu jūdi, kas mājoja nenožogotos miestos, Adar mēneša četrpadsmito dienu darīja <i>par </i>līksmības un dzīrošanas <i>dienu</i>, un labu dienu, un daļu sūtīšanas cits citam <i>[dienu]</i>."
+      },
+      {
+        "verse": 20,
+        "en": "20And Mordecai wrote these things, and sent letters unto all the Jews that <i>were </i>in all the provinces of the king Ahasuerus, <i>both </i>nigh and far,",
+        "lv": "20 <p>Un Mordekajs šo rakstīja un sūtīja vēstules visiem jūdiem, kas <i>bija</i> visās ķēniņa Ahasvera provincēs, <i>gan </i>tuvu, gan tālu,"
+      },
+      {
+        "verse": 21,
+        "en": "21To stablish <i>this </i>among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly,",
+        "lv": "21 Nostiprināt <i>šo </i>starp viņiem, ka tiem katru gadu jātur Adar mēneša četrpadsmitā diena un tā paša <i>[mēneša]</i> piecpadsmitā diena,"
+      },
+      {
+        "verse": 22,
+        "en": "22As the days wherein the Jews rested from their enemies, and the month which was turned unto them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor.",
+        "lv": "22 Kā dienas, kurās jūdi dusēja no saviem ienaidniekiem, un mēnesis, kas viņiem no skumjām tika pārvērsts uz prieku un no sērām uz labu dienu: lai tie tās darītu par dzīrošanas un prieka dienām un daļu sūtīšanas <i>[dienu]</i> cits citam, un dāvanu nabagiem."
+      },
+      {
+        "verse": 23,
+        "en": "23And the Jews undertook to do as they had begun, and as Mordecai had written unto them;",
+        "lv": "23 Un jūdi uzņēmās darīt, kā viņi bija iesākuši, un kā Mordekajs tiem bija rakstījis;"
+      },
+      {
+        "verse": 24,
+        "en": "24Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that <i>is</i>, the lot, to consume them, and to destroy them;",
+        "lv": "24 Tāpēc, ka Hamans, agagieša Hammedata dēls, visu jūdu ienaidnieks, bija nodomājis pret jūdiem tos iznīcināt, un bija metis Pūr, tas <i>ir</i>, meslus, lai tos iznīdētu un iznīcinātu;"
+      },
+      {
+        "verse": 25,
+        "en": "25But when <i>Esther </i>came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows.",
+        "lv": "25 Bet, kad <i>Estere </i>nāca ķēniņa priekšā, viņš pavēlēja caur vēstulēm, lai viņa nelietīgais nodoms, ko viņš bija nodomājis pret jūdiem, atgrieztos pār viņa paša galvu un lai viņš un viņa dēli tiktu pakārti karātavās."
+      },
+      {
+        "verse": 26,
+        "en": "26Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and <i>of that </i>which they had seen concerning this matter, and which had come unto them,",
+        "lv": "26 Tādēļ viņi šīs dienas sauca Pūrim, pēc vārda Pūr. Tāpēc visu šīs vēstules vārdu dēļ un <i>par to</i>, ko tie bija redzējuši attiecībā uz šo lietu un kas bija pār tiem nācis,"
+      },
+      {
+        "verse": 27,
+        "en": "27The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their <i>appointed </i>time every year;",
+        "lv": "27 Jūdi noteica un ņēma pār sevi un pār savu sēklu, un pār visiem tiem, kas tiem pievienojās tā, lai tā neizpaliktu, ka viņi turētu šīs divas dienas atbilstoši viņu rakstītajam un atbilstoši ar viņu <i>noteiktajam </i>laikam ik gadu;"
+      },
+      {
+        "verse": 28,
+        "en": "28And <i>that </i>these days <i>should be</i> remembered and kept throughout every generation, every family, every province, and every city; and <i>that </i>these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed.",
+        "lv": "28 Un lai šīs dienas tiktu pieminētas un turētas viscaur ikvienā paaudzē, ikvienā ģimenē, ikvienā provincē un ikvienā pilsētā; un lai šīs Pūrim dienas neizpaliktu starp jūdiem, ne to piemiņa ietu bojā no to sēklas."
+      },
+      {
+        "verse": 29,
+        "en": "29Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim.",
+        "lv": "29 Tad ķēniņiene Estere, Abihaila meita, un jūds Mordekajs rakstīja ar visu autoritāti, lai apstiprinātu šo otro vēstuli par Pūrim."
+      },
+      {
+        "verse": 30,
+        "en": "30And he sent the letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, <i>with </i>words of peace and truth,",
+        "lv": "30 Un viņš sūtīja vēstules visiem jūdiem simt divdesmit septiņās Ahasvera valstības provincēs <i>ar</i> miera un patiesības vārdiem,"
+      },
+      {
+        "verse": 31,
+        "en": "31To confirm these days of Purim in their times <i>appointed</i>, according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry.",
+        "lv": "31 Lai apstiprinātu šīs Pūrim dienas to <i>noteiktajos </i>laikos, atbilstoši <i>[tam]</i>, kā jūds Mordekajs un ķēniņiene Estere tiem bija pavēlējuši un kā viņi bija nolēmuši sev pašiem un savai sēklai, lietas par gavēņiem un viņu saucienu."
+      },
+      {
+        "verse": 32,
+        "en": "32And the decree of Esther confirmed these matters of Purim; and it was written in the book.",
+        "lv": "32 Un Esteres lēmums apstiprināja šīs Pūrim lietas; un tas tika rakstīts grāmatā."
+      }
+    ],
+    "10": [
+      {
+        "verse": 1,
+        "en": "1And the king Ahasuerus laid a tribute upon the land, and <i>upon</i> the isles of the sea.",
+        "lv": "1 Un ķēniņš Ahasverus lika nodevu pār zemi un <i>pār</i> jūras salām."
+      },
+      {
+        "verse": 2,
+        "en": "2And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, <i>are</i> they not written in the book of the chronicles of the kings of Media and Persia?",
+        "lv": "2 Un visi viņa spēka un varenības darbi un Mordekaja lieluma paziņojums, uz ko ķēniņš viņu izvirzīja, <i>vai</i> tie nav rakstīti Mēdijas un Persijas ķēniņu hroniku grāmatā?"
+      },
+      {
+        "verse": 3,
+        "en": "3For Mordecai the Jew <i>was</i> next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+        "lv": "3 Jo jūds Mordekajs <i>bija</i> blakus ķēniņam Ahasveram un liels starp jūdiem, un viņa brāļu pulka pieņemts, meklēdams savu ļaužu turību un runādams mieru visai savai sēklai."
+      }
+    ]
+  }
+}

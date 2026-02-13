@@ -1,0 +1,762 @@
+{
+  "book": "Galatiešiem",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
+        "lv": "1 Pāvils, apustulis, (ne no cilvēkiem, nedz no cilvēka, bet no Jēzus Kristus un Dieva Tēva, kurš viņu uzcēla no mirušajiem;)"
+      },
+      {
+        "verse": 2,
+        "en": "2And all the brethren which are with me, unto the churches of Galatia:",
+        "lv": "2 Un visi brāļi, kas ir ar mani, Galatijas draudzēm:"
+      },
+      {
+        "verse": 3,
+        "en": "3Grace <i>be </i>to you and peace from God the Father, and <i>from </i>our Lord Jesus Christ,",
+        "lv": "3 Žēlastība <i>lai ir</i> jums un miers no Dieva Tēva un <i>no</i> mūsu Kunga Jēzus Kristus,"
+      },
+      {
+        "verse": 4,
+        "en": "4Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
+        "lv": "4 Kurš sevi atdeva par mūsu grēkiem, lai viņš mūs varētu izpestīt no šīs tagadējās ļaunās pasaules, atbilstoši Dieva un mūsu Tēva gribai:"
+      },
+      {
+        "verse": 5,
+        "en": "5To whom <i>be </i>glory for ever and ever. Amen.",
+        "lv": "5 Kuram <i>lai ir</i> godība mūžīgi mūžam. Āmen."
+      },
+      {
+        "verse": 6,
+        "en": "6I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
+        "lv": "6 <p>Es brīnos, ka jūs tik drīz esat nocelti uz citu evaņgēlīju no tā, kas jūs aicināja Kristus žēlastībā:"
+      },
+      {
+        "verse": 7,
+        "en": "7Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
+        "lv": "7 Kas nav cits; bet ir daži, kas jūs iztrūcina un grib samaitāt Kristus evaņģēliju."
+      },
+      {
+        "verse": 8,
+        "en": "8But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+        "lv": "8 <p>Bet kaut arī mēs vai eņģelis no debess jums sludina kādu citu evaņģēliju nekā to, ko mēs jums esam sludinājuši, lai viņš ir nolādēts."
+      },
+      {
+        "verse": 9,
+        "en": "9As we said before, so say I now again, If any <i>man </i>preach any other gospel unto you than that ye have received, let him be accursed.",
+        "lv": "9 Kā mēs sacījām iepriekš, tā es saku tagad atkal, Ja kāds jums sludina kādu citu evaņģēliju nekā to, ko jūs esat saņēmuši, lai viņš ir nolādēts."
+      },
+      {
+        "verse": 10,
+        "en": "10For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+        "lv": "10 Jo vai es tagad pārliecinu cilvēkus vai Dievu? vai es meklēju izpatikt cilvēkiem? jo, ja es vēl izpatiktu cilvēkiem, es nebūtu Kristus kalps."
+      },
+      {
+        "verse": 11,
+        "en": "11But I certify you, brethren, that the gospel which was preached of me is not after man.",
+        "lv": "11 Bet es jums galvoju, brāļi, ka evaņģēlijs, kas no manis tika sludināts, nav pēc cilvēka."
+      },
+      {
+        "verse": 12,
+        "en": "12For I neither received it of man, neither was I taught <i>it</i>, but by the revelation of Jesus Christ.",
+        "lv": "12 Jo nedz es to saņēmu no cilvēka, nedz man <i>to</i> mācīja, bet caur Jēzus Kristus atklāsmi."
+      },
+      {
+        "verse": 13,
+        "en": "13For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:",
+        "lv": "13 Jo jūs esat dzirdējuši par manu dzīvošanu senāk jūdu reliģijā, kā pāri mēram es vajāju Dieva draudzi un to postīju:"
+      },
+      {
+        "verse": 14,
+        "en": "14And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
+        "lv": "14 Un pieaugu jūdu reliģijā pāri daudziem man līdzvērtīgiem manā paša tautā, būdams ārkārtīgi dedzīgs par savu tēvu tradīcijām."
+      },
+      {
+        "verse": 15,
+        "en": "15But when it pleased God, who separated <i>me </i>from my mother's womb, and called me by his grace,",
+        "lv": "15 Bet, kad Dievam, kurš <i>mani</i> atšķīra no manas mātes klēpja, un aicināja caur savu žēlastību, patika"
+      },
+      {
+        "verse": 16,
+        "en": "16To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
+        "lv": "16 Manī atklāt savu Dēlu, lai es viņu varētu sludināt starp pagāniem; es uzreiz neapspriedos ar miesu un asinīm:"
+      },
+      {
+        "verse": 17,
+        "en": "17Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
+        "lv": "17 Nedz es devos uz Jeruzālemi pie tiem, kas manā priekšā bija apustuļi; bet es gāju uz Arābiju un atgriezos atpakaļ uz Damasku."
+      },
+      {
+        "verse": 18,
+        "en": "18Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
+        "lv": "18 Tad pēc trīs gadiem es devos uz Jeruzālemi redzēt Pēteri un paliku pie viņa piecpadsmit dienas."
+      },
+      {
+        "verse": 19,
+        "en": "19But other of the apostles saw I none, save James the Lord's brother.",
+        "lv": "19 Bet no citiem apustuļiem es nevienu neredzēju, kā vien Jēkabu, tā Kunga brāli."
+      },
+      {
+        "verse": 20,
+        "en": "20Now the things which I write unto you, behold, before God, I lie not.",
+        "lv": "20 Tad nu to, ko es jums rakstu, lūk, Dieva priekšā, es nemeloju."
+      },
+      {
+        "verse": 21,
+        "en": "21Afterwards I came into the regions of Syria and Cilicia;",
+        "lv": "21 Pēcāk es nācu Sīrijas un Cilīcijas apgabalos;"
+      },
+      {
+        "verse": 22,
+        "en": "22And was unknown by face unto the churches of Judaea which were in Christ:",
+        "lv": "22 Un pēc sejas biju nezināms Jūdejas draudzēm, kas bija Kristū:"
+      },
+      {
+        "verse": 23,
+        "en": "23But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
+        "lv": "23 Bet tie bija tikai dzirdējuši, Ka tas, kas mūs senāk vajāja, tagad sludina ticību, ko viņš reiz iznīcināja."
+      },
+      {
+        "verse": 24,
+        "en": "24And they glorified God in me.",
+        "lv": "24 Un tie manī pagodināja Dievu. "
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with <i>me </i>also.",
+        "lv": "1 Tad pēc četrpadsmit gadiem es atkal devos uz Jeruzālemi ar Barnabu un ņēmu <i>sev </i>līdzi arī Titu."
+      },
+      {
+        "verse": 2,
+        "en": "2And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.",
+        "lv": "2 Un es devos caur atklāsmi un tiem darīju zināmu to evaņģēliju, ko es sludinu starp pagāniem, bet privāti tiem, kam bija reputācija, lai es neskrietu vai nebūtu skrējis veltīgi."
+      },
+      {
+        "verse": 3,
+        "en": "3But neither Titus, who was with me, being a Greek, was compelled to be circumcised:",
+        "lv": "3 Bet arī Titus, kurš bija ar mani, būdams grieķis, netika spiests apgraizīties:"
+      },
+      {
+        "verse": 4,
+        "en": "4And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:",
+        "lv": "4 Un tā nepatiesu brāļu dēļ, kas neapzinoties ievesti, kuri nāca slepus izspiegot mūsu brīvību, kas mums ir Kristū Jēzū, lai tie mūs varētu ievest kalpībā:"
+      },
+      {
+        "verse": 5,
+        "en": "5To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.",
+        "lv": "5 Kuriem mēs nedevām vietu caur pakļaušanos, nē, ne pat stundu; lai evaņģēlija patiesība pie jums varētu turpināties."
+      },
+      {
+        "verse": 6,
+        "en": "6But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed<i> to be somewhat</i> in conference added nothing to me:",
+        "lv": "6 Bet no tiem, kuri šķita kaut kas esam, (kas vien tie bija, man vienalga: Dievs nepieņem neviena personu:) jo tie, kuri šķita <i>kaut kas</i>, apspriedē man neko nepielika:"
+      },
+      {
+        "verse": 7,
+        "en": "7But contrariwise, when they saw that the gospel<i> </i>of the uncircumcision was committed unto me, as<i> the gospel</i> of the circumcision <i>was </i>unto Peter;",
+        "lv": "7 Bet pretēji, kad tie redzēja, ka man bija uzticēts neapgraizīto evaņģēlijs, kā Pēterim apgraizīto <i>evaņģēlijs</i>;"
+      },
+      {
+        "verse": 8,
+        "en": "8(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)",
+        "lv": "8 (Jo tas, kas efektīvi strādāja Pēterī apgraizīšanas apustuļa amatam, tas pats bija varens manī pret pagāniem:)"
+      },
+      {
+        "verse": 9,
+        "en": "9And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we <i>should go</i> unto the heathen, and they unto the circumcision.",
+        "lv": "9 Un, kad Jēkabs, Kēfas un Jānis, kuri šķita esam pīlāri, nomanīja žēlastību, kas man bija dota, tie man un Barnabam deva sadraudzības labās rokas; lai mēs <i>ietu </i>pie pagāniem un tie pie apgraizīšanas."
+      },
+      {
+        "verse": 10,
+        "en": "10Only<i> they would</i> that we should remember the poor; the same which I also was forward to do.",
+        "lv": "10 Tikai <i>tie gribēja,</i> lai mēs atcerētos nabagos; to pašu, ko es arī biju gatavs darīt."
+      },
+      {
+        "verse": 11,
+        "en": "11But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.",
+        "lv": "11 Bet, kad Pēteris bija nācis uz Antiohiju, es viņam turējos pretī sejā, tāpēc ka viņš bija vainojams."
+      },
+      {
+        "verse": 12,
+        "en": "12For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.",
+        "lv": "12 Jo pirms kādi nāca no Jēkaba, viņš ēda ar pagāniem: bet, kad tie bija nākuši, viņš atrāvās un nošķīrās, bīdamies tos, kas bija no apgraizīšanas."
+      },
+      {
+        "verse": 13,
+        "en": "13And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.",
+        "lv": "13 Un citi jūdi tāpat izlikās līdz ar viņu; tā ka arī Barnaba tika aizrauts ar viņu izlikšanos."
+      },
+      {
+        "verse": 14,
+        "en": "14But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before <i>them</i> all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?",
+        "lv": "14 Bet, kad es redzēju, ka tie nestaigāja taisni atbilstoši evaņģēlija patiesībai, es sacīju Pēterim visu priekšā, Ja tu, būdams jūds, dzīvo pēc pagānu ieražas un ne kā jūdi, kāpēc tu pagānus spied dzīvot kā jūdiem?"
+      },
+      {
+        "verse": 15,
+        "en": "15We <i>who are </i>Jews by nature, and not sinners of the Gentiles,",
+        "lv": "15 <p>Mēs, <i>kuri esam</i> jūdi no dabas un ne grēcinieki no pagāniem,"
+      },
+      {
+        "verse": 16,
+        "en": "16Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.",
+        "lv": "16 Zinādami, ka cilvēks netiek taisnots no likuma darbiem, bet no Jēzus Kristus ticības, proti, mēs esam ticējuši uz Jēzu Kristu, lai mēs varētu tikt taisnoti no Kristus ticības un ne no likuma darbiem: jo no likuma darbiem neviena miesa netiks taisnota."
+      },
+      {
+        "verse": 17,
+        "en": "17But if, while we seek to be justified by Christ, we ourselves also are found sinners, <i>is </i>therefore Christ the minister of sin? God forbid.",
+        "lv": "17 Bet ja, kamēr mēs meklējam tikt taisnoti caur Kristu, mēs paši arī tiekam atrasti grēcinieki, <i>vai</i> tāpēc Kristus <i>ir</i> grēka kalpotājs? Nedod Dievs."
+      },
+      {
+        "verse": 18,
+        "en": "18For if I build again the things which I destroyed, I make myself a transgressor.",
+        "lv": "18 Jo ja es atkal uzbūvēju to, ko es iznīcināju, es sevi daru par pārkāpēju."
+      },
+      {
+        "verse": 19,
+        "en": "19For I through the law am dead to the law, that I might live unto God.",
+        "lv": "19 Jo es caur likumu esmu miris likumam, lai es varētu dzīvot Dievam."
+      },
+      {
+        "verse": 20,
+        "en": "20I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.",
+        "lv": "20 Es esmu krustā sists ar Kristu: neskatoties uz to, es dzīvoju; tomēr ne es, bet Kristus dzīvo manī: un dzīvi, ko es tagad dzīvoju miesā, es dzīvoju no Dieva Dēla ticības, kurš mani mīlēja un atdeva sevi pašu par mani."
+      },
+      {
+        "verse": 21,
+        "en": "21I do not frustrate the grace of God: for if righteousness <i>come </i>by the law, then Christ is dead in vain.",
+        "lv": "21 Es nesagrauju Dieva žēlastību: jo ja taisnība <i>nāk</i> no likuma, tad Kristus ir miris veltīgi."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "1O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?",
+        "lv": "1 Ak, muļķīgie galatieši, kurš jūs ir apbūris, lai jūs nepaklausītu patiesībai, kuru acu priekšā Jēzus Kristus skaidri tika izrādīts, starp jums krustā sists?"
+      },
+      {
+        "verse": 2,
+        "en": "2This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?",
+        "lv": "2 Tikai šo es gribu mācīties no jums, Vai jūs to Garu saņēmāt no likuma darbiem vai no ticības dzirdēšanas?"
+      },
+      {
+        "verse": 3,
+        "en": "3Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?",
+        "lv": "3 Vai jūs esat tik muļķīgi? iesākuši tai Garā, vai jūs nu tiekat darīti pilnīgi caur miesu?"
+      },
+      {
+        "verse": 4,
+        "en": "4Have ye suffered so many things in vain? <i>if it </i>be yet in vain.",
+        "lv": "4 Vai jūs tik daudz esat cietuši veltīgi? <i>ja tas</i> vēl ir veltīgi."
+      },
+      {
+        "verse": 5,
+        "en": "5He therefore that ministereth to you the Spirit, and worketh miracles among you,<i> doeth he it </i>by the works of the law, or by the hearing of faith?",
+        "lv": "5 Tāpēc tas, kas jums nodrošina to Garu un starp jums strādā brīnumus, vai <i>viņš </i>to <i>dara </i>no likuma darbiem vai no ticības dzirdēšanas?"
+      },
+      {
+        "verse": 6,
+        "en": "6Even as Abraham believed God, and it was accounted to him for righteousness.",
+        "lv": "6 Tāpat kā Ābrahāms ticēja Dievam, un tas viņam tika pieskaitīts par taisnību."
+      },
+      {
+        "verse": 7,
+        "en": "7Know ye therefore that they which are of faith, the same are the children of Abraham.",
+        "lv": "7 Tāpēc ziniet, ka tie, kas ir no ticības, tie ir Ābrahāma bērni."
+      },
+      {
+        "verse": 8,
+        "en": "8And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, <i>saying</i>, In thee shall all nations be blessed.",
+        "lv": "8 Un raksts, paredzēdams, ka Dievs pagānus taisnotu caur ticību, iepriekš sludināja evaņģēliju Ābrahāmam <i>sacīdams</i>, Tevī visas tautas tiks svētītas."
+      },
+      {
+        "verse": 9,
+        "en": "9So then they which be of faith are blessed with faithful Abraham.",
+        "lv": "9 Tātad tie, kas ir no ticības, ir svētīti ar uzticīgo Ābrahāmu."
+      },
+      {
+        "verse": 10,
+        "en": "10For as many as are of the works of the law are under the curse: for it is written, Cursed <i>is </i>every one that continueth not in all things which are written in the book of the law to do them.",
+        "lv": "10 Jo cik ir no likuma darbiem, ir zem lāsta: jo ir rakstīts, Nolādēts ikviens, kas nepaliek visā, kas rakstīts likuma grāmatā, to darīt."
+      },
+      {
+        "verse": 11,
+        "en": "11But that no man is justified by the law in the sight of God,<i> it is </i>evident: for, The just shall live by faith.",
+        "lv": "11 Bet, ka neviens Dieva skatienā netiek taisnots no likuma, <i>ir</i> skaidrs: jo, Taisnais dzīvos no ticības."
+      },
+      {
+        "verse": 12,
+        "en": "12And the law is not of faith: but, The man that doeth them shall live in them.",
+        "lv": "12 Un likums nav no ticības: bet, Cilvēks, kas tos dara, tajos dzīvos."
+      },
+      {
+        "verse": 13,
+        "en": "13Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed <i>is </i>every one that hangeth on a tree:",
+        "lv": "13 Kristus mūs ir atpircis no likuma lāsta, kļūdams par lāstu priekš mums: jo ir rakstīts, Nolādēts <i>ir</i> ikviens, kas karājas pie koka:"
+      },
+      {
+        "verse": 14,
+        "en": "14That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.",
+        "lv": "14 Lai Ābrahāma svētība nāktu uz pagāniem caur Jēzu Kristu; lai mēs varētu saņemt tā Gara apsolījumu caur ticību."
+      },
+      {
+        "verse": 15,
+        "en": "15Brethren, I speak after the manner of men; Though <i>it be</i> but a man's covenant, yet <i>if it be</i> confirmed, no man disannulleth, or addeth thereto.",
+        "lv": "15 Brāļi, es runāju cilvēcīgi; Kaut arī <i>tā būtu</i> tikai cilvēka derība, tomēr, ja <i>tā ir</i> apstiprināta, neviens to neanulē vai tai nepieliek klāt."
+      },
+      {
+        "verse": 16,
+        "en": "16Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.",
+        "lv": "16 Tad nu Ābrahāmam un viņa sēklai tika apsolījumi darīti. Viņš nesaka, Un sēklām, kā no daudzām; bet kā no vienas, Un tavai sēklai, kas ir Kristus."
+      },
+      {
+        "verse": 17,
+        "en": "17And this I say, <i>that </i>the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.",
+        "lv": "17 Un šo es saku, <i>ka </i>derību, kas iepriekš no Dieva tika apstiprināta Kristū, likums, kas bija četrsimt trīsdesmit gadus pēc tam, nevar anulēt, lai tas apsolījumu padarītu neefektīvu."
+      },
+      {
+        "verse": 18,
+        "en": "18For if the inheritance <i>be </i>of the law, <i>it is</i> no more of promise: but God gave <i>it </i>to Abraham by promise.",
+        "lv": "18 Jo, ja mantojums <i>ir </i>no likuma, <i>tas vairs </i>nav no apsolījuma: bet Dievs <i>to </i>Ābrahāmam deva caur apsolījumu."
+      },
+      {
+        "verse": 19,
+        "en": "19Wherefore then <i>serveth </i>the law? It was added because of transgressions, till the seed should come to whom the promise was made; <i>and it</i> was ordained by angels in the hand of a mediator.",
+        "lv": "19 Kādēļ tad <i>kalpo </i>likums? Tas tika pielikts pārkāpumu dēļ, iekams sēkla nāktu, kurai tika darīts apsolījums; <i>un tas</i> tika noteikts caur eņģeļiem starpnieka rokā."
+      },
+      {
+        "verse": 20,
+        "en": "20Now a mediator is not <i>a mediator </i>of one, but God is one.",
+        "lv": "20 Tad nu starpnieks nav viena <i>starpnieks</i>, bet Dievs ir viens."
+      },
+      {
+        "verse": 21,
+        "en": "21<i>Is</i> the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.",
+        "lv": "21 <i>Vai</i> tad likums <i>ir</i> pret Dieva apsolījumiem? Nedod Dievs: jo, ja būtu dots likums, kas varētu dot dzīvību, patiesi, taisnība būtu bijusi no likuma."
+      },
+      {
+        "verse": 22,
+        "en": "22But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
+        "lv": "22 Bet raksts ir visus saslēdzis zem grēka, lai apsolījums caur Jēzus Kristus ticību varētu tikt dots tiem, kas tic."
+      },
+      {
+        "verse": 23,
+        "en": "23But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.",
+        "lv": "23 Bet pirms ticība nāca, mēs tikām turēti zem likuma, saslēgti uz ticību, kurai pēcāk jātiek atklātai."
+      },
+      {
+        "verse": 24,
+        "en": "24Wherefore the law was our schoolmaster <i>to bring us</i> unto Christ, that we might be justified by faith.",
+        "lv": "24 Tādēļ likums bija mūsu audzinātājs, <i>lai</i> <i>mūs pievestu</i> Kristum, lai mēs varētu tikt taisnoti no ticības."
+      },
+      {
+        "verse": 25,
+        "en": "25But after that faith is come, we are no longer under a schoolmaster.",
+        "lv": "25 Bet pēc tam, kad ticība ir nākusi, mēs vairs neesam zem audzinātāja."
+      },
+      {
+        "verse": 26,
+        "en": "26For ye are all the children of God by faith in Christ Jesus.",
+        "lv": "26 Jo jūs visi esat Dieva bērni caur ticību Kristū Jēzū."
+      },
+      {
+        "verse": 27,
+        "en": "27For as many of you as have been baptized into Christ have put on Christ.",
+        "lv": "27 Jo tik, cik no jums ir kristīti Kristū, ir apvilkuši Kristu."
+      },
+      {
+        "verse": 28,
+        "en": "28There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
+        "lv": "28 Tur nav nedz jūds, ne grieķis, tur nav nedz saistīts, ne brīvs, tur nav nedz no vīriešu, ne sieviešu kārtas: jo jūs visi esat viens Kristū Jēzū."
+      },
+      {
+        "verse": 29,
+        "en": "29And if ye <i>be </i>Christ's, then are ye Abraham's seed, and heirs according to the promise.",
+        "lv": "29 Un, ja jūs <i>[piederat]</i> Kristum, tad jūs esat Ābrahāma sēkla un mantinieki atbilstoši apsolījumam."
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "en": "1Now I <i>say</i>, <i>That </i>the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+        "lv": "1 Tad nu es <i>saku</i>, <i>Ka</i> mantinieks, kamēr viņš ir bērns, nekā neatšķiras no kalpa, kaut arī viņš ir visa kungs;"
+      },
+      {
+        "verse": 2,
+        "en": "2But is under tutors and governors until the time appointed of the father.",
+        "lv": "2 Bet ir zem aizbildņiem un pārvaldniekiem līdz no tēva noteiktajam laikam."
+      },
+      {
+        "verse": 3,
+        "en": "3Even so we, when we were children, were in bondage under the elements of the world:",
+        "lv": "3 Tāpat mēs, kad mēs bijām bērni, bijām verdzībā zem pasaules elementiem:"
+      },
+      {
+        "verse": 4,
+        "en": "4But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,",
+        "lv": "4 Bet, kad laika pilnums bija nācis, Dievs izsūtīja savu Dēlu, taisītu no sievietes, taisītu zem likuma,"
+      },
+      {
+        "verse": 5,
+        "en": "5To redeem them that were under the law, that we might receive the adoption of sons.",
+        "lv": "5 Lai izpirktu tos, kas bija zem likuma, lai mēs varētu saņemt dēlu adoptāciju."
+      },
+      {
+        "verse": 6,
+        "en": "6And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.",
+        "lv": "6 Un tāpēc ka jūs esat dēli, Dievs jūsu sirdīs ir sūtījis sava Dēla Garu saucam, Abba, Tēvs."
+      },
+      {
+        "verse": 7,
+        "en": "7Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.",
+        "lv": "7 Tādēļ tu vairs neesi kalps, bet dēls; un, ja dēls, tad Dieva mantinieks caur Kristu."
+      },
+      {
+        "verse": 8,
+        "en": "8Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.",
+        "lv": "8 Taču tad, kad jūs nepazināt Dievu, jūs kalpojāt tiem, kas no dabas nav dievi."
+      },
+      {
+        "verse": 9,
+        "en": "9But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?",
+        "lv": "9 Bet tagad, pēc tam, kad jūs esat atzinuši Dievu vai drīzāk esat atzīti no Dieva, kā jūs atkal griežaties pie vājiem un nabadzīgajiem elementiem, kur jūs atkal vēlaties būt verdzībā?"
+      },
+      {
+        "verse": 10,
+        "en": "10Ye observe days, and months, and times, and years.",
+        "lv": "10 Jūs ievērojat dienas un mēnešus, un laikus, un gadus."
+      },
+      {
+        "verse": 11,
+        "en": "11I am afraid of you, lest I have bestowed upon you labour in vain.",
+        "lv": "11 Es baidos par jums, lai es uz jums neesmu pūlējies veltīgi."
+      },
+      {
+        "verse": 12,
+        "en": "12Brethren, I beseech you, be as I <i>am</i>; for I <i>am </i>as ye are: ye have not injured me at all.",
+        "lv": "12 Brāļi, es jūs lūdzos, esiet kā es; jo es <i>esmu </i>kā jūs: jūs mani nemaz neesat ievainojuši."
+      },
+      {
+        "verse": 13,
+        "en": "13Ye know how through infirmity of the flesh I preached the gospel unto you at the first.",
+        "lv": "13 Jūs zināt kā caur miesas vājumu es jums vispirms sludināju evaņģēliju."
+      },
+      {
+        "verse": 14,
+        "en": "14And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, <i>even </i>as Christ Jesus.",
+        "lv": "14 Un manu kārdinājumu, kas bija manā miesā, jūs nenicinājāt, ne noraidījāt; bet mani uzņēmāt kā Dieva eņģeli, <i>pat</i> kā Kristu Jēzu."
+      },
+      {
+        "verse": 15,
+        "en": "15Where is then the blessedness ye spake of? for I bear you record, that, if <i>it had been </i>possible, ye would have plucked out your own eyes, and have given them to me.",
+        "lv": "15 Kur tad ir svētlaime, par ko jūs runājāt? jo es jums dodu liecību, ka, ja <i>tas būtu bijis</i> iespējams, jūs būtu izrāvuši paši savas acis un tās devuši man."
+      },
+      {
+        "verse": 16,
+        "en": "16Am I therefore become your enemy, because I tell you the truth?",
+        "lv": "16 Vai tāpēc, ka es jums stāstu patiesību, es esmu kļuvis jūsu ienaidnieks?"
+      },
+      {
+        "verse": 17,
+        "en": "17They zealously affect you, <i>but </i>not well; yea, they would exclude you, that ye might affect them.",
+        "lv": "17 Tie aizrautīgi jūs ietekmē, <i>bet</i> ne labi; jā, tie jūs grib izslēgt, lai jūs viņus varētu ietekmēt."
+      },
+      {
+        "verse": 18,
+        "en": "18But <i>it is</i> good to be zealously affected always in a good <i>thing</i>, and not only when I am present with you.",
+        "lv": "18 Bet <i>ir</i> labi vienmēr būt aizrautīgi ietekmētam labā <i>lietā</i> un ne tikai, kad es esmu klāt pie jums."
+      },
+      {
+        "verse": 19,
+        "en": "19My little children, of whom I travail in birth again until Christ be formed in you,",
+        "lv": "19 Mani bērniņi, par kuriem es atkal ciešu dzemdību sāpes līdz Kristus jūsos tiek izveidots,"
+      },
+      {
+        "verse": 20,
+        "en": "20I desire to be present with you now, and to change my voice; for I stand in doubt of you.",
+        "lv": "20 Es vēlos tagad būt klāt pie jums un mainīt savu balsi; jo es stāvu šaubās par jums."
+      },
+      {
+        "verse": 21,
+        "en": "21Tell me, ye that desire to be under the law, do ye not hear the law?",
+        "lv": "21 Stāstiet man jūs, kas vēlaties būt zem likuma, vai jūs nedzirdat likumu?"
+      },
+      {
+        "verse": 22,
+        "en": "22For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
+        "lv": "22 <p>Jo ir rakstīts, ka Ābrahāmam bija divi dēli, viens no verdzenes, otrs no brīvās."
+      },
+      {
+        "verse": 23,
+        "en": "23But he <i>who was</i> of the bondwoman was born after the flesh; but he of the freewoman was by promise.",
+        "lv": "23 Bet tas, <i>kurš</i> <i>bija</i> no verdzenes, bija dzimis pēc miesas; bet tas no brīvās, bija no apsolījuma."
+      },
+      {
+        "verse": 24,
+        "en": "24Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.",
+        "lv": "24 Kas ir alegorija: jo šīs ir divas derības; viena no Sīnaja kalna, kas dzemdē verdzībai, kas ir Agare."
+      },
+      {
+        "verse": 25,
+        "en": "25For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.",
+        "lv": "25 Jo šī Agare ir Sīnaja kalns Arābijā un atbilst Jeruzālemei, kas tagad ir, un ir verdzībā ar saviem bērniem."
+      },
+      {
+        "verse": 26,
+        "en": "26But Jerusalem which is above is free, which is the mother of us all.",
+        "lv": "26 Bet Jeruzāleme, kas ir no augšas, ir brīva, kas ir mūsu visu māte."
+      },
+      {
+        "verse": 27,
+        "en": "27For it is written, Rejoice, <i>thou </i>barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+        "lv": "27 Jo ir rakstīts, Priecājies <i>tu,</i> neauglīgā, kas nedzemdēji; izlauzies un sauc, tu, kas necieti dzemdību sāpes: jo pamestajai ir daudz vairāk bērnu nekā tai, kurai ir vīrs."
+      },
+      {
+        "verse": 28,
+        "en": "28Now we, brethren, as Isaac was, are the children of promise.",
+        "lv": "28 Tad nu mēs, brāļi, kā Īzāks bija, esam apsolījuma bērni."
+      },
+      {
+        "verse": 29,
+        "en": "29But as then he that was born after the flesh persecuted him <i>that was born</i> after the Spirit, even so<i> it is</i> now.",
+        "lv": "29 Bet kā tad tas, kas bija dzimis pēc miesas, vajāja to,<i> kas bija dzimis</i> pēc tā Gara, tā <i>tas</i> <i>ir</i> tagad."
+      },
+      {
+        "verse": 30,
+        "en": "30Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.",
+        "lv": "30 Neraugoties uz to, ko saka raksts? Izmet verdzeni un viņas dēlu: jo verdzenes dēls nebūs mantinieks kopā ar brīvās dēlu."
+      },
+      {
+        "verse": 31,
+        "en": "31So then, brethren, we are not children of the bondwoman, but of the free.",
+        "lv": "31 Tātad, brāļi, mēs neesam verdzenes, bet brīvās bērni."
+      }
+    ],
+    "5": [
+      {
+        "verse": 1,
+        "en": "1Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+        "lv": "1 Tāpēc stāviet stingri brīvībā, ar ko Kristus mūs ir darījis brīvus un netieciet atkal sapīti ar verdzības jūgu."
+      },
+      {
+        "verse": 2,
+        "en": "2Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.",
+        "lv": "2 Lūk, es, Pāvils, jums saku, ka, ja jūs tiekat apgraizīti, Kristus jums nedod nekādu labumu."
+      },
+      {
+        "verse": 3,
+        "en": "3For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+        "lv": "3 Jo es atkal apliecinu ikvienam, kas tiek apgraizīts, ka viņš ir parādnieks darīt visu likumu."
+      },
+      {
+        "verse": 4,
+        "en": "4Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.",
+        "lv": "4 Kristus jums ir kļuvis neefektīvs, kas vien no jums tiekat taisnoti no likuma; jūs esat atkrituši no žēlastības."
+      },
+      {
+        "verse": 5,
+        "en": "5For we through the Spirit wait for the hope of righteousness by faith.",
+        "lv": "5 Jo mēs caur to Garu gaidām taisnības cerību caur ticību."
+      },
+      {
+        "verse": 6,
+        "en": "6For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+        "lv": "6 Jo Jēzū Kristū nedz apgraizīšana ko iespēj, ne neapgraizīšana; bet ticība, kas strādā caur mīlestību."
+      },
+      {
+        "verse": 7,
+        "en": "7Ye did run well; who did hinder you that ye should not obey the truth?",
+        "lv": "7 Jūs labi skrējāt; kurš jūs aizkavēja, lai jūs nepaklausītu patiesībai?"
+      },
+      {
+        "verse": 8,
+        "en": "8This persuasion <i>cometh </i>not of him that calleth you.",
+        "lv": "8 Šī pārliecināšana <i>nenāk</i> no tā, kas jūs aicina."
+      },
+      {
+        "verse": 9,
+        "en": "9A little leaven leaveneth the whole lump.",
+        "lv": "9 Maz ierauga saraudzē visu mīklu."
+      },
+      {
+        "verse": 10,
+        "en": "10I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
+        "lv": "10 Man ir drošība jūsos caur to Kungu, ka jūs nedomāsiet citādi: bet tas, kas jūs iztrūcina, nesīs savu tiesu, kas vien viņš būtu."
+      },
+      {
+        "verse": 11,
+        "en": "11And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.",
+        "lv": "11 Un es, brāļi, ja es vēl sludinu apgraizīšanu, kāpēc es vēl ciešu vajāšanas? tad krusta apgrēcība ir mitējusies."
+      },
+      {
+        "verse": 12,
+        "en": "12I would they were even cut off which trouble you.",
+        "lv": "12 Es gribētu, <i>[lai]</i> tie pat tiek nogriezti, kas jūs iztrūcina."
+      },
+      {
+        "verse": 13,
+        "en": "13For, brethren, ye have been called unto liberty; only <i>use </i>not liberty for an occasion to the flesh, but by love serve one another.",
+        "lv": "13 Jo, brāļi, jūs esat aicināti uz brīvību; tikai ne<i>izmantojiet</i> brīvību ieganstam miesai, bet caur mīlestību kalpojiet cits citam."
+      },
+      {
+        "verse": 14,
+        "en": "14For all the law is fulfilled in one word, <i>even </i>in this; Thou shalt love thy neighbour as thyself.",
+        "lv": "14 Jo viss likums tiek piepildīts vienā vārdā, <i>proti,</i> šajā; Tev būs savu tuvāko mīlēt kā sevi pašu."
+      },
+      {
+        "verse": 15,
+        "en": "15But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+        "lv": "15 Bet, ja jūs kožat un aprijat cits citu, pielūkojiet, lai jūs netiekat iznīdēti cits no cita."
+      },
+      {
+        "verse": 16,
+        "en": "16<i>This</i> I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+        "lv": "16 <p><i>Šo</i> tad es saku, Staigājiet tai Garā un jūs nepiepildīsiet miesas iekāres."
+      },
+      {
+        "verse": 17,
+        "en": "17For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+        "lv": "17 Jo miesa iekāro pret to Garu un tas Gars pret miesu: un šie ir pretī viens otram: tā, ka jūs nevarat darīt to, ko jūs gribētu."
+      },
+      {
+        "verse": 18,
+        "en": "18But if ye be led of the Spirit, ye are not under the law.",
+        "lv": "18 Bet, ja jūs tiekat vadīti no tā Gara, jūs neesat zem likuma."
+      },
+      {
+        "verse": 19,
+        "en": "19Now the works of the flesh are manifest, which are <i>these</i>; Adultery, fornication, uncleanness, lasciviousness,",
+        "lv": "19 <p>Tad nu miesas darbi ir darīti redzami, kas ir; Laulības pārkāpšana, netiklība, nešķīstība, izvirtība,"
+      },
+      {
+        "verse": 20,
+        "en": "20Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+        "lv": "20 Elkdievība, burvestība, ienaids, nesaskaņa, sāncensības, bardzība, strīds, musināšanas, ķecerības,"
+      },
+      {
+        "verse": 21,
+        "en": "21Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told <i>you </i>in time past, that they which do such things shall not inherit the kingdom of God.",
+        "lv": "21 Skaudības, slepkavības, dzeršanas, uzdzīvošanas, un tiem līdzīgi: par kuriem es saku iepriekš, kā arī es <i>jums</i> esmu stāstījis senāk, ka tie, kas tā dara, neiemantos Dieva valstību."
+      },
+      {
+        "verse": 22,
+        "en": "22But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+        "lv": "22 <p>Bet tā Gara auglis ir mīlestība, prieks, miers, ilgcietība, maigums, labestība, ticība,"
+      },
+      {
+        "verse": 23,
+        "en": "23Meekness, temperance: against such there is no law.",
+        "lv": "23 Lēnprātība, atturība: pret šādiem nav likuma."
+      },
+      {
+        "verse": 24,
+        "en": "24And they that are Christ's have crucified the flesh with the affections and lusts.",
+        "lv": "24 Un tie, kas <i>[pieder]</i> Kristum, ir situši krustā miesu ar pieķeršanām un iekārēm."
+      },
+      {
+        "verse": 25,
+        "en": "25If we live in the Spirit, let us also walk in the Spirit.",
+        "lv": "25 Ja mēs dzīvojam tai Garā, lai arī staigājam tai Garā."
+      },
+      {
+        "verse": 26,
+        "en": "26Let us not be desirous of vain glory, provoking one another, envying one another.",
+        "lv": "26 Lai nevēlamies veltīgu godību, provocēdami cits citu, skauzdami cits citu."
+      }
+    ],
+    "6": [
+      {
+        "verse": 1,
+        "en": "1Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
+        "lv": "1 Brāļi, ja kāds tiek pieķerts kādā vainā, jūs, kas esat garīgi, atjaunojiet tādu lēnprātības garā; ņemdams vērā sevi pašu, lai tu arī netiec kārdināts."
+      },
+      {
+        "verse": 2,
+        "en": "2Bear ye one another's burdens, and so fulfil the law of Christ.",
+        "lv": "2 <p>Nesiet cits cita nastas, un tā piepildiet Kristus likumu."
+      },
+      {
+        "verse": 3,
+        "en": "3For if a man think himself to be something, when he is nothing, he deceiveth himself.",
+        "lv": "3 Jo, ja kāds domā, ka viņš pats ir kaut kas, kad viņš nav nekas, viņš pieviļ pats sevi."
+      },
+      {
+        "verse": 4,
+        "en": "4But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.",
+        "lv": "4 Bet lai ikviens pārbauda pats savu paša darbu, un tad viņam būs priecāšanās pašam sevī vien un ne citā."
+      },
+      {
+        "verse": 5,
+        "en": "5For every man shall bear his own burden.",
+        "lv": "5 Jo ikviens nesīs pats savu nastu."
+      },
+      {
+        "verse": 6,
+        "en": "6Let him that is taught in the word communicate unto him that teacheth in all good things.",
+        "lv": "6 <p>Lai tas, kas tiek mācīts vārdā, dalās visās labās lietās ar to, kas māca."
+      },
+      {
+        "verse": 7,
+        "en": "7Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+        "lv": "7 Nepievilieties; Dievs netiek izsmiets: jo ko vien kāds sēj, to viņš arī pļaus."
+      },
+      {
+        "verse": 8,
+        "en": "8For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.",
+        "lv": "8 Jo tas, kas sēj savai miesai, no miesas pļaus iznīcību; bet tas, kas sēj tam Garam, no tā Gara pļaus mūžīgu dzīvību."
+      },
+      {
+        "verse": 9,
+        "en": "9And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+        "lv": "9 Un lai nepiekūstam laba darīšanā: jo īstā laikā mēs pļausim, ja nenogursim."
+      },
+      {
+        "verse": 10,
+        "en": "10As we have therefore opportunity, let us do good unto all <i>men</i>, especially unto them who are of the household of faith.",
+        "lv": "10 Tāpēc, kā mums ir izdevība, darīsim labu visiem, it īpaši tiem, kas ir no ticības saimes."
+      },
+      {
+        "verse": 11,
+        "en": "11Ye see how large a letter I have written unto you with mine own hand.",
+        "lv": "11 <p>Redzat cik lielu vēstuli es jums esmu rakstījis ar savu paša roku."
+      },
+      {
+        "verse": 12,
+        "en": "12As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.",
+        "lv": "12 Visi, kas vēlas izrādīties miesā, tie jūs piespiež apgraizīties; tikai lai tie neciestu vajāšanas Kristus krusta dēļ."
+      },
+      {
+        "verse": 13,
+        "en": "13For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.",
+        "lv": "13 Jo arī tie paši, kuri ir apgraizīti, netur likumu; bet vēlas, lai jūs tiktu apgraizīti, lai tie var lepoties jūsu miesā."
+      },
+      {
+        "verse": 14,
+        "en": "14But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.",
+        "lv": "14 Bet nedod Dievs, ka es lepotos, kā vien mūsu Kunga Jēzus Kristus krustā, caur kuru pasaule man ir sista krustā, un es pasaulei."
+      },
+      {
+        "verse": 15,
+        "en": "15For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.",
+        "lv": "15 Jo Kristū Jēzū nedz apgraizīšana kaut ko iespēj, ne neapgraizīšana, bet jauns radījums."
+      },
+      {
+        "verse": 16,
+        "en": "16And as many as walk according to this rule, peace <i>be </i>on them, and mercy, and upon the Israel of God.",
+        "lv": "16 Un visiem, kas staigā pēc šī mēra, miers <i>lai ir</i> uz tiem un žēlsirdība un pār Dieva Israēlu."
+      },
+      {
+        "verse": 17,
+        "en": "17From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.",
+        "lv": "17 Turpmāk lai neviens mani neiztrūcina: jo es savā ķermenī nesu Kunga Jēzus zīmes."
+      },
+      {
+        "verse": 18,
+        "en": "18Brethren, the grace of our Lord Jesus Christ <i>be </i>with your spirit. Amen. (<i>To the Galatians written from Rome.</i>)",
+        "lv": "18 Brāļi, mūsu Kunga Jēzus Kristus žēlastība <i>lai</i> <i>ir</i> ar jūsu garu. Āmen. (<i>Galatiešiem, rakstīta no Romas.</i>)"
+      }
+    ]
+  }
+}

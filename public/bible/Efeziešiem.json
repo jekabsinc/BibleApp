@@ -1,0 +1,792 @@
+{
+  "book": "Efeziešiem",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:",
+        "lv": "1 Pāvils, Jēzus Kristus apustulis, caur Dieva gribu, svētajiem, kas ir Efezā, un uzticīgajiem Kristū Jēzū:"
+      },
+      {
+        "verse": 2,
+        "en": "2Grace <i>be </i>to you, and peace, <i>from </i>God our Father, and from the Lord Jesus Christ.",
+        "lv": "2 Žēlastība lai <i>ir</i> jums un miers <i>no </i>Dieva, mūsu Tēva, un no Kunga Jēzus Kristus."
+      },
+      {
+        "verse": 3,
+        "en": "3Blessed <i>be </i>the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly <i>places </i>in Christ:",
+        "lv": "3 Svētīts <i>lai</i> <i>ir</i> Dievs un mūsu Kunga Jēzus Kristus Tēvs, kurš mūs ir svētījis ar visām garīgām svētībām debesu <i>vietās</i> Kristū:"
+      },
+      {
+        "verse": 4,
+        "en": "4According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:",
+        "lv": "4 Atbilstoši tam, kā viņš mūs ir izraudzījis viņā pirms pasaules dibināšanas, lai mēs būtu svēti un bez vainas viņa priekšā mīlestībā:"
+      },
+      {
+        "verse": 5,
+        "en": "5Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,",
+        "lv": "5 Mūs iepriekš nolēmis uz bērnu adoptāciju caur Jēzu Kristu sev pašam, atbilstoši viņa gribas labpatikai,"
+      },
+      {
+        "verse": 6,
+        "en": "6To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.",
+        "lv": "6 <p>Viņa žēlastības godības slavai, iekš kā viņš mūs ir darījis pieņemtus mīļotajā."
+      },
+      {
+        "verse": 7,
+        "en": "7In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;",
+        "lv": "7 Kurā mums ir izpirkšana caur viņa asinīm, grēku piedošana atbilstoši viņa žēlastības bagātībai;"
+      },
+      {
+        "verse": 8,
+        "en": "8Wherein he hath abounded toward us in all wisdom and prudence;",
+        "lv": "8 Iekš kā viņš pret mums ir pieņēmies visā gudrībā un apdomībā;"
+      },
+      {
+        "verse": 9,
+        "en": "9Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:",
+        "lv": "9 Mums darījis zināmu savas gribas mistēriju atbilstoši savai labpatikai, ko viņš ir nodomājis sevī pašā:"
+      },
+      {
+        "verse": 10,
+        "en": "10That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; <i>even </i>in him:",
+        "lv": "10 Lai laiku pilnuma izdalīšanā viņš Kristū visu varētu sapulcināt kopā vienā, gan kas ir debesī, gan kas ir uz zemes; <i>proti, </i>viņā:"
+      },
+      {
+        "verse": 11,
+        "en": "11In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:",
+        "lv": "11 Kurā arī mēs esam ieguvuši mantojumu, iepriekš nolemti atbilstoši viņa nodomam, kurš visu strādā pēc savas paša gribas padoma:"
+      },
+      {
+        "verse": 12,
+        "en": "12That we should be to the praise of his glory, who first trusted in Christ.",
+        "lv": "12 Lai mēs būtu viņa godības slavai, kuri pirmie paļāvāmies uz Kristu."
+      },
+      {
+        "verse": 13,
+        "en": "13In whom ye also <i>trusted</i>, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,",
+        "lv": "13 Uz kuru arī jūs <i>paļāvāties</i>, pēc tam, kad jūs dzirdējāt patiesības vārdu, savas glābšanas evaņģēliju: kurā arī pēc tam, kad jūs ticējāt, tikāt apzīmogoti ar to svēto apsolījuma Garu,"
+      },
+      {
+        "verse": 14,
+        "en": "14Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
+        "lv": "14 Kas ir mūsu mantojuma ķīla līdz nopirktā īpašuma izpirkšanai viņa godības slavai."
+      },
+      {
+        "verse": 15,
+        "en": "15Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,",
+        "lv": "15 <p>Tādēļ arī es, pēc tam kad es dzirdēju par jūsu ticību Kungā Jēzū un mīlestību uz visiem svētajiem,"
+      },
+      {
+        "verse": 16,
+        "en": "16Cease not to give thanks for you, making mention of you in my prayers;",
+        "lv": "16 Nemitējos par jums pateikties, jūs pieminot savās lūgšanās;"
+      },
+      {
+        "verse": 17,
+        "en": "17That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:",
+        "lv": "17 Lai mūsu Kunga Jēzus Kristus Dievs, godības Tēvs, jums var dot gudrības un atklāsmes garu viņa atzīšanā:"
+      },
+      {
+        "verse": 18,
+        "en": "18The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,",
+        "lv": "18 Jūsu saprašanas acis apgaismotas; lai jūs varat atzīt, kāda ir viņa aicinājuma cerība un kāda viņa mantojuma godības bagātība svētajos,"
+      },
+      {
+        "verse": 19,
+        "en": "19And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,",
+        "lv": "19 Un kāds ir viņa spēka ārkārtīgais diženums pret mums, kas ticam, atbilstoši viņa varenā spēka darbam,"
+      },
+      {
+        "verse": 20,
+        "en": "20Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,",
+        "lv": "20 Ko viņš strādāja Kristū, kad viņš viņu uzcēla no mirušajiem un viņu lika pie savas labās rokas debesu vietās,"
+      },
+      {
+        "verse": 21,
+        "en": "21Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:",
+        "lv": "21 Daudz augstāk par visu valdīšanu un varu, un varenību, un valdījumu, un ikvienu vārdu, kas tiek minēts, ne tikai šajā pasaulē, bet arī tajā, kurai jānāk:"
+      },
+      {
+        "verse": 22,
+        "en": "22And hath put all things under his feet, and gave him to be the head over all things to the church,",
+        "lv": "22 Un visu ir licis zem viņa kājām, un devis viņam būt par galvu pār visām lietām draudzei,"
+      },
+      {
+        "verse": 23,
+        "en": "23Which is his body, the fulness of him that filleth all in all.",
+        "lv": "23 Kas ir viņa ķermenis, viņa, kas visu visā piepilda, pilnums."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1And you <i>hath he quickened</i>, who were dead in trespasses and sins;",
+        "lv": "1 Un jūs <i>viņš ir atdzīvinājis</i>, kas bijāt miruši noziegumos un grēkos;"
+      },
+      {
+        "verse": 2,
+        "en": "2Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+        "lv": "2 Kuros jūs senāk staigājāt atbilstoši šīs pasaules kursam, atbilstoši gaisa varas princim, garam, kas tagad strādā nepaklausības bērnos:"
+      },
+      {
+        "verse": 3,
+        "en": "3Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.",
+        "lv": "3 Starp kuriem arī mums visiem senāk bija mūsu dzīvošana mūsu miesas iekārēs, pildot miesas un prāta vēlmes; un no dabas esot bardzības bērniem, gluži kā citiem."
+      },
+      {
+        "verse": 4,
+        "en": "4But God, who is rich in mercy, for his great love wherewith he loved us,",
+        "lv": "4 Bet Dievs, kurš ir bagāts žēlsirdībā, savas lielās mīlestības dēļ, ar ko viņš mūs mīlēja,"
+      },
+      {
+        "verse": 5,
+        "en": "5Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)",
+        "lv": "5 Pat, kad mēs bijām miruši grēkos, mūs ir atdzīvinājis kopā ar Kristu, (no žēlastības jūs esat glābti;)"
+      },
+      {
+        "verse": 6,
+        "en": "6And hath raised us up together, and made <i>us </i>sit together in heavenly <i>places </i>in Christ Jesus:",
+        "lv": "6 Un mūs kopā ir uzcēlis un <i>mūs </i>kopā sēdinājis debesu <i>vietās </i>Kristū Jēzū:"
+      },
+      {
+        "verse": 7,
+        "en": "7That in the ages to come he might shew the exceeding riches of his grace in <i>his </i>kindness toward us through Christ Jesus.",
+        "lv": "7 Lai nākamajos laikmetos viņš varētu parādīt savas žēlastības ārkārtīgo bagātību <i>savā </i>laipnībā pret mums caur Kristu Jēzu."
+      },
+      {
+        "verse": 8,
+        "en": "8For by grace are ye saved through faith; and that not of yourselves:<i> it is </i>the gift of God:",
+        "lv": "8 Jo no žēlastības jūs esat glābti caur ticību; un tas ne no jums pašiem:<i> tā ir</i> Dieva dāvana:"
+      },
+      {
+        "verse": 9,
+        "en": "9Not of works, lest any man should boast.",
+        "lv": "9 Ne no darbiem, lai neviens nelielītos."
+      },
+      {
+        "verse": 10,
+        "en": "10For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+        "lv": "10 Jo mēs esam viņa darinājums, radīti Kristū Jēzū uz labiem darbiem, kurus Dievs ir iepriekš noteicis, lai mēs tajos staigātu."
+      },
+      {
+        "verse": 11,
+        "en": "11Wherefore remember, that ye <i>being </i>in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;",
+        "lv": "11 Tādēļ atcerieties, ka jūs senāk <i>būdami </i>pagāni miesā, kuri tiek saukta Neapgraizīšana no tā, kas tiek saukta Apgraizīšana miesā, rokām darīta;"
+      },
+      {
+        "verse": 12,
+        "en": "12That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:",
+        "lv": "12 Ka tajā laikā jūs bijāt bez Kristus, būdami svešie no Israēla sabiedrības un svešinieki no apsolījuma derībām, bez cerības un bez Dieva pasaulē:"
+      },
+      {
+        "verse": 13,
+        "en": "13But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.",
+        "lv": "13 Bet tagad Kristū Jēzū jūs, kas kādreiz bijāt tālu, esat darīti tuvu caur Kristus asinīm."
+      },
+      {
+        "verse": 14,
+        "en": "14For he is our peace, who hath made both one, and hath broken down the middle wall of partition <i>between us</i>;",
+        "lv": "14 Jo viņš ir mūsu miers, kurš abus ir darījis par<i> </i>vienu un ir nojaucis vidus starpsienu <i>starp mums</i>;"
+      },
+      {
+        "verse": 15,
+        "en": "15Having abolished in his flesh the enmity, even the law of commandments <i>contained </i>in ordinances; for to make in himself of twain one new man, <i>so </i>making peace;",
+        "lv": "15 Likvidējis savā miesā ienaidu, proti, pavēļu likumu, <i>ietvertu </i>rīkojumos; lai sevī pašā no diviem taisītu vienu jaunu cilvēku, <i>tā </i>darīdams mieru;"
+      },
+      {
+        "verse": 16,
+        "en": "16And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:",
+        "lv": "16 Un lai abus varētu samierināt Dievam vienā ķermenī caur krustu, tādējādi nokaujot ienaidu:"
+      },
+      {
+        "verse": 17,
+        "en": "17And came and preached peace to you which were afar off, and to them that were nigh.",
+        "lv": "17 Un nāca un sludināja mieru jums, kas bijāt tālu, un tiem, kas bija tuvu."
+      },
+      {
+        "verse": 18,
+        "en": "18For through him we both have access by one Spirit unto the Father.",
+        "lv": "18 Jo caur viņu mums abiem no viena Gara ir piekļuve tam Tēvam."
+      },
+      {
+        "verse": 19,
+        "en": "19Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+        "lv": "19 Tad nu tāpēc jūs vairs neesat svešinieki un ārvalstnieki, bet līdzpilsoņi ar svētajiem un no Dieva saimes;"
+      },
+      {
+        "verse": 20,
+        "en": "20And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner <i>stone</i>;",
+        "lv": "20 Un esat uzbūvēti uz apustuļu un praviešu pamata, Jēzum Kristum pašam esot galvenajam stūr<i>akmenim</i>;"
+      },
+      {
+        "verse": 21,
+        "en": "21In whom all the building fitly framed together groweth unto an holy temple in the Lord:",
+        "lv": "21 Kurā visa ēka pienācīgi salaista kopā aug uz svētu templi tai Kungā:"
+      },
+      {
+        "verse": 22,
+        "en": "22In whom ye also are builded together for an habitation of God through the Spirit.",
+        "lv": "22 Kurā jūs arī tiekat kopā uzbūvēti par Dieva mitekli caur to Garu."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "1For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,",
+        "lv": "1 Šī iemesla dēļ es, Pāvils, Jēzus Kristus ieslodzītais, par jums, pagāniem,"
+      },
+      {
+        "verse": 2,
+        "en": "2If ye have heard of the dispensation of the grace of God which is given me to you-ward:",
+        "lv": "2 Ja jūs esat dzirdējuši par Dieva žēlastības izdalīšanu, kas man ir dota pret jums:"
+      },
+      {
+        "verse": 3,
+        "en": "3How that by revelation he made known unto me the mystery; (as I wrote afore in few words,",
+        "lv": "3 Kā caur atklāsmi viņš man darīja zināmu mistēriju; (kā es rakstīju iepriekš dažos vārdos,"
+      },
+      {
+        "verse": 4,
+        "en": "4Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)",
+        "lv": "4 Ar ko, kad jūs lasāt, jūs varat saprast manu atzīšanu Kristus mistērijā)"
+      },
+      {
+        "verse": 5,
+        "en": "5Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;",
+        "lv": "5 Kas citos laikmetos nebija darīta zināma cilvēku dēliem, kā to tagad viņa svētajiem apustuļiem un praviešiem ir atklājis tas Gars;"
+      },
+      {
+        "verse": 6,
+        "en": "6That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:",
+        "lv": "6 Ka pagāniem jābūt līdzmantiniekiem un no tā paša ķermeņa, un viņa apsolījuma līdzdalībniekiem Kristū caur evaņģēliju:"
+      },
+      {
+        "verse": 7,
+        "en": "7Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.",
+        "lv": "7 Kā dēļ es tiku iecelts par<i> </i>kalpotāju atbilstoši Dieva žēlastības dāvanai, man dotai caur efektīvu viņa spēka darbību."
+      },
+      {
+        "verse": 8,
+        "en": "8Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;",
+        "lv": "8 Man, kas esmu mazāks par mazāko no visiem svētajiem, šī žēlastība ir dota, lai es starp pagāniem sludinātu neizmeklējamās Kristus bagātības;"
+      },
+      {
+        "verse": 9,
+        "en": "9And to make all <i>men </i>see what <i>is </i>the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:",
+        "lv": "9 Un visiem liktu redzēt, kāda <i>ir </i>mistērijas sadraudzība, kas no pasaules iesākuma ir bijusi paslēpta Dievā, kurš visu radīja ar Jēzu Kristu:"
+      },
+      {
+        "verse": 10,
+        "en": "10To the intent that now unto the principalities and powers in heavenly <i>places </i>might be known by the church the manifold wisdom of God,",
+        "lv": "10 Ar nolūku, lai tagad valdīšanām un varām debesu <i>vietās </i>caur draudzi varētu būt zināma daudzveidīgā Dieva gudrība,"
+      },
+      {
+        "verse": 11,
+        "en": "11According to the eternal purpose which he purposed in Christ Jesus our Lord:",
+        "lv": "11 Atbilstoši mūžīgajam nodomam, ko viņš nodomājis Kristū Jēzū, mūsu Kungā:"
+      },
+      {
+        "verse": 12,
+        "en": "12In whom we have boldness and access with confidence by the faith of him.",
+        "lv": "12 Kurā mums ir drošums un piekļuve ar pārliecību, no viņa ticības."
+      },
+      {
+        "verse": 13,
+        "en": "13Wherefore I desire that ye faint not at my tribulations for you, which is your glory.",
+        "lv": "13 Tādēļ es vēlos, lai jūs nenogurstat manās bēdās par jums, kas ir jūsu godība."
+      },
+      {
+        "verse": 14,
+        "en": "14For this cause I bow my knees unto the Father of our Lord Jesus Christ,",
+        "lv": "14 Šī iemesla dēļ es loku savus ceļus mūsu Kunga Jēzus Kristus Tēvam,"
+      },
+      {
+        "verse": 15,
+        "en": "15Of whom the whole family in heaven and earth is named,",
+        "lv": "15 No kura visa ģimene debesī un zemē ir nosaukta,"
+      },
+      {
+        "verse": 16,
+        "en": "16That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;",
+        "lv": "16 Lai viņš atbilstoši savas godības bagātībai jums dāvātu tikt stiprinātiem ar varenību caur viņa Garu iekšējā cilvēkā;"
+      },
+      {
+        "verse": 17,
+        "en": "17That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,",
+        "lv": "17 Lai Kristus var mājot jūsu sirdīs caur ticību; lai jūs, iesakņoti un pamatoti mīlestībā,"
+      },
+      {
+        "verse": 18,
+        "en": "18May be able to comprehend with all saints what is the breadth, and length, and depth, and height;",
+        "lv": "18 Varat spēt aptvert līdz ar visiem svētajiem, kāds ir platums un garums, un dziļums, un augstums;"
+      },
+      {
+        "verse": 19,
+        "en": "19And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.",
+        "lv": "19 Un atzīt Kristus mīlestību, kas pārsniedz atzīšanu, lai jūs varētu tikt pildīti ar visu Dieva pilnumu."
+      },
+      {
+        "verse": 20,
+        "en": "20Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,",
+        "lv": "20 Tad nu tam, kas spēj darīt daudz bagātīgāk pār visu, ko mēs prasām vai domājam atbilstoši spēkam, kas strādā mūsos,"
+      },
+      {
+        "verse": 21,
+        "en": "21Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.",
+        "lv": "21 Tam lai<i> </i>ir godība draudzē caur Kristu Jēzu cauri visiem laikmetiem mūžīgi mūžos. Āmen."
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "en": "1I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
+        "lv": "1 Tāpēc es, tā Kunga ieslodzītais, jūs lūdzos, lai jūs staigājat aicinājuma, ar ko jūs esat aicināti, cienīgi,"
+      },
+      {
+        "verse": 2,
+        "en": "2With all lowliness and meekness, with longsuffering, forbearing one another in love;",
+        "lv": "2 Ar visu zemību un lēnprātību, ar ilgcietību, panesdami cits citu mīlestībā;"
+      },
+      {
+        "verse": 3,
+        "en": "3Endeavouring to keep the unity of the Spirit in the bond of peace.",
+        "lv": "3 Cenzdamies turēt tā Gara vienotību miera saitē."
+      },
+      {
+        "verse": 4,
+        "en": "4There is one body, and one Spirit, even as ye are called in one hope of your calling;",
+        "lv": "4 Ir viens ķermenis un viens Gars, gluži kā jūs esat aicināti vienā sava aicinājuma cerībā;"
+      },
+      {
+        "verse": 5,
+        "en": "5One Lord, one faith, one baptism,",
+        "lv": "5 Viens Kungs, viena ticība, viena kristība,"
+      },
+      {
+        "verse": 6,
+        "en": "6One God and Father of all, who <i>is </i>above all, and through all, and in you all.",
+        "lv": "6 Viens Dievs un visu Tēvs, kurš <i>ir</i> pār visiem un caur visiem, un jūsos visos."
+      },
+      {
+        "verse": 7,
+        "en": "7But unto every one of us is given grace according to the measure of the gift of Christ.",
+        "lv": "7 Bet ikvienam no mums ir dota žēlastība atbilstoši Kristus dāvanas mēram."
+      },
+      {
+        "verse": 8,
+        "en": "8Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.",
+        "lv": "8 Tādēļ viņš saka, Kad viņš uzkāpa augstumā, viņš gūstu aizveda gūstā un deva dāvanas cilvēkiem."
+      },
+      {
+        "verse": 9,
+        "en": "9(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
+        "lv": "9 (Tad nu tas, kas uzkāpa, kas tas ir, kā tikai tas, kas arī vispirms nolaidās zemākajās zemes daļās?"
+      },
+      {
+        "verse": 10,
+        "en": "10He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
+        "lv": "10 Tas, kas nolaidās, ir arī tas pats, kas uzkāpa daudz augstāk par visām debesīm, lai viņš visu varētu piepildīt.)"
+      },
+      {
+        "verse": 11,
+        "en": "11And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+        "lv": "11 Un viņš dažus deva par apustuļiem; un dažus par praviešiem; un dažus par evaņģēlistiem; un dažus par ganiem un skolotājiem;"
+      },
+      {
+        "verse": 12,
+        "en": "12For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+        "lv": "12 Priekš svēto pilnveidošanas, priekš kalpošanas darba, priekš Kristus ķermeņa uztaisīšanas:"
+      },
+      {
+        "verse": 13,
+        "en": "13Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+        "lv": "13 Iekams mēs visi nākam ticības un Dieva Dēla atzīšanas vienotībā līdz pilnīgam vīram, līdz Kristus pilnuma auguma mēram:"
+      },
+      {
+        "verse": 14,
+        "en": "14That we <i>henceforth </i>be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, <i>and </i>cunning craftiness, whereby they lie in wait to deceive;",
+        "lv": "14 Lai mēs <i>turpmāk </i>vairs neesam bērni, mētāti šurp un turp un nēsāti ar ikvienu mācības vēju caur cilvēku blēdību <i>un</i> izveicīgu prasmi, ar ko tie glūn pievilt;"
+      },
+      {
+        "verse": 15,
+        "en": "15But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:",
+        "lv": "15 Bet runādami patiesību mīlestībā varam uzaugt viņā visās lietās, kas ir galva, proti, Kristus:"
+      },
+      {
+        "verse": 16,
+        "en": "16From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
+        "lv": "16 No kura viss ķermenis, pienācīgi savienots kopā un saspiests caur to, ko ikviens loceklis apgādā atbilstoši efektīvajam darbam ikvienas daļas mērā, veic ķermeņa pieaugumu sevis uztaisīšanai mīlestībā."
+      },
+      {
+        "verse": 17,
+        "en": "17This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
+        "lv": "17 <p>Tāpēc es šo saku un apliecinu tai Kungā, lai jūs turpmāk nestaigājat kā citi pagāni staigā sava prāta niecībā,"
+      },
+      {
+        "verse": 18,
+        "en": "18Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
+        "lv": "18 Ar aptumšotu saprašanu, atsvešināti no Dieva dzīvības caur nezināšanu, kas ir tajos, viņu sirds akluma dēļ:"
+      },
+      {
+        "verse": 19,
+        "en": "19Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
+        "lv": "19 Kuri būdami apātiski ir nodevušies izvirtībai, strādāt visu nešķīstību ar alkatību."
+      },
+      {
+        "verse": 20,
+        "en": "20But ye have not so learned Christ;",
+        "lv": "20 Bet jūs tā neesat mācījušies Kristu;"
+      },
+      {
+        "verse": 21,
+        "en": "21If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
+        "lv": "21 Ja ir tā, ka jūs esat viņu dzirdējuši un esat viņa mācīti, kā patiesība ir Jēzū:"
+      },
+      {
+        "verse": 22,
+        "en": "22That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
+        "lv": "22 Lai jūs novelkat attiecībā uz iepriekšējo dzīvošanu veco cilvēku, kas ir samaitāts atbilstoši blēdīgām iekārēm;"
+      },
+      {
+        "verse": 23,
+        "en": "23And be renewed in the spirit of your mind;",
+        "lv": "23 Un tiekat atjaunoti sava prāta garā;"
+      },
+      {
+        "verse": 24,
+        "en": "24And that ye put on the new man, which after God is created in righteousness and true holiness.",
+        "lv": "24 Un lai jūs uzvelkat jauno cilvēku, kas pēc Dieva ir radīts taisnībā un patiesā svētumā."
+      },
+      {
+        "verse": 25,
+        "en": "25Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
+        "lv": "25 <p>Tādēļ nolikdami melošanu, runājiet ikviens patiesību ar savu tuvāko: jo mēs esam cits cita locekļi."
+      },
+      {
+        "verse": 26,
+        "en": "26Be ye angry, and sin not: let not the sun go down upon your wrath:",
+        "lv": "26 Dusmojieties un negrēkojiet: lai saule nenoriet pār jūsu bardzību:"
+      },
+      {
+        "verse": 27,
+        "en": "27Neither give place to the devil.",
+        "lv": "27 Ne arī dodiet vietu velnam."
+      },
+      {
+        "verse": 28,
+        "en": "28Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.",
+        "lv": "28 Lai tas, kas zaga, vairs nezog; bet drīzāk lai tas pūlas, strādādams ar savām rokām to, kas ir labs, lai viņš var dot tam, kam vajag."
+      },
+      {
+        "verse": 29,
+        "en": "29Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+        "lv": "29 Lai no jūsu mutes neiziet samaitāta valoda, bet tas, ko ir labi izmantot uztaisīšanai, lai tas var nodrošināt žēlastību klausītājiem."
+      },
+      {
+        "verse": 30,
+        "en": "30And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+        "lv": "30 Un neskumdiniet Dieva svēto Garu, ar ko jūs esat apzīmogoti līdz izpirkšanas dienai."
+      },
+      {
+        "verse": 31,
+        "en": "31Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+        "lv": "31 Lai viss rūgtums un bardzība, un dusmas, un klaigāšana, un ļauna runāšana no jums tiek atmesta līdz ar visu ļaunumu:"
+      },
+      {
+        "verse": 32,
+        "en": "32And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+        "lv": "32 Un esiet laipni cits pret citu, labsirdīgi, piedodami cits citam, gluži kā Dievs Kristus dēļ ir piedevis jums."
+      }
+    ],
+    "5": [
+      {
+        "verse": 1,
+        "en": "1Be ye therefore followers of God, as dear children;",
+        "lv": "1 Tāpēc esiet Dieva sekotāji, kā mīļi bērni;"
+      },
+      {
+        "verse": 2,
+        "en": "2And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.",
+        "lv": "2 Un staigājiet mīlestībā, kā arī Kristus mūs ir mīlējis un ir devis sevi pašu priekš mums par ziedojumu un upuri Dievam par saldu aromātu."
+      },
+      {
+        "verse": 3,
+        "en": "3But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;",
+        "lv": "3 <p>Bet netiklība un visa nešķīstība vai mantkārība, lai pat netiek minēta starp jums, kā pieklājas svētajiem;"
+      },
+      {
+        "verse": 4,
+        "en": "4Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.",
+        "lv": "4 Nedz neķītrība, ne muļķīga runāšana, ne jokošanās, kas nav piemērota: bet drīzāk pateikšanās."
+      },
+      {
+        "verse": 5,
+        "en": "5For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.",
+        "lv": "5 Jo šo ziniet, ka nevienam mauciniekam, ne nešķīstam, ne mantkārīgam, kurš ir elku kalpotājs, nav nekāda mantojuma Kristus un Dieva valstībā."
+      },
+      {
+        "verse": 6,
+        "en": "6Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.",
+        "lv": "6 Lai neviens jūs nepieviļ ar veltīgiem vārdiem: jo šī dēļ Dieva bardzība nāk uz nepaklausības bērniem."
+      },
+      {
+        "verse": 7,
+        "en": "7Be not ye therefore partakers with them.",
+        "lv": "7 Tāpēc neesiet līdzdalībnieki ar tiem."
+      },
+      {
+        "verse": 8,
+        "en": "8For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:",
+        "lv": "8 Jo jūs kādreiz bijāt tumsa, bet tagad jūs esat gaisma tai Kungā: staigājiet kā gaismas bērni:"
+      },
+      {
+        "verse": 9,
+        "en": "9(For the fruit of the Spirit is in all goodness and righteousness and truth;)",
+        "lv": "9 (Jo tā Gara auglis ir visā labestībā un taisnībā, un patiesībā;)"
+      },
+      {
+        "verse": 10,
+        "en": "10Proving what is acceptable unto the Lord.",
+        "lv": "10 Pārbaudīdami, kas ir pieņemams tam Kungam."
+      },
+      {
+        "verse": 11,
+        "en": "11And have no fellowship with the unfruitful works of darkness, but rather reprove <i>them</i>.",
+        "lv": "11 Un lai jums nav sadraudzības ar tumsas neauglīgajiem darbiem, bet drīzāk <i>tos</i> norājiet."
+      },
+      {
+        "verse": 12,
+        "en": "12For it is a shame even to speak of those things which are done of them in secret.",
+        "lv": "12 Jo ir kauns pat runāt par to, kas no tiem tiek darīts slepeni."
+      },
+      {
+        "verse": 13,
+        "en": "13But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.",
+        "lv": "13 Bet visu, kas tiek norāts, gaisma dara redzamu: jo kas vien dara redzamu, ir gaisma."
+      },
+      {
+        "verse": 14,
+        "en": "14Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.",
+        "lv": "14 Tādēļ viņš saka, Uzmosties tu, kas guli, un uzcelies no mirušajiem, un Kristus tev dos gaismu."
+      },
+      {
+        "verse": 15,
+        "en": "15See then that ye walk circumspectly, not as fools, but as wise,",
+        "lv": "15 <p>Raugiet, lai jūs staigājat piesardzīgi, ne kā muļķi, bet kā gudri,"
+      },
+      {
+        "verse": 16,
+        "en": "16Redeeming the time, because the days are evil.",
+        "lv": "16 Izpirkdami laiku, tāpēc ka dienas ir ļaunas."
+      },
+      {
+        "verse": 17,
+        "en": "17Wherefore be ye not unwise, but understanding what the will of the Lord <i>is</i>.",
+        "lv": "17 Tādēļ neesiet negudri, bet saprazdami, kas <i>ir</i> tā Kunga griba."
+      },
+      {
+        "verse": 18,
+        "en": "18And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
+        "lv": "18 <p>Un neesiet piedzērušies ar vīnu, iekš kā ir pārmērība; bet esiet piepildīti ar to Garu;"
+      },
+      {
+        "verse": 19,
+        "en": "19Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;",
+        "lv": "19 Runājot sev psalmos un himnās, un garīgās dziesmās, dziedādami un taisīdami melodiju savās sirdīs tam Kungam;"
+      },
+      {
+        "verse": 20,
+        "en": "20Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;",
+        "lv": "20 Pateikdamies vienmēr par visu Dievam un tam Tēvam mūsu Kunga Jēzus Kristus vārdā;"
+      },
+      {
+        "verse": 21,
+        "en": "21Submitting yourselves one to another in the fear of God.",
+        "lv": "21 Pakļaudamies cits citam Dieva bijāšanā."
+      },
+      {
+        "verse": 22,
+        "en": "22Wives, submit yourselves unto your own husbands, as unto the Lord.",
+        "lv": "22 <p>Sievas pakļaujieties saviem pašu vīriem kā tam Kungam."
+      },
+      {
+        "verse": 23,
+        "en": "23For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.",
+        "lv": "23 Jo vīrs ir sievas galva, gluži kā Kristus ir draudzes galva: un viņš ir ķermeņa glābējs."
+      },
+      {
+        "verse": 24,
+        "en": "24Therefore as the church is subject unto Christ, so <i>let </i>the wives <i>be </i>to their own husbands in every thing.",
+        "lv": "24 Tāpēc kā draudze ir pakļauta Kristum, tā <i>lai</i> sievas <i>ir</i> saviem pašu vīriem ikvienā lietā."
+      },
+      {
+        "verse": 25,
+        "en": "25Husbands, love your wives, even as Christ also loved the church, and gave himself for it;",
+        "lv": "25 Vīri, mīliet savas sievas, gluži kā arī Kristus mīlēja draudzi un atdeva sevi par to;"
+      },
+      {
+        "verse": 26,
+        "en": "26That he might sanctify and cleanse it with the washing of water by the word,",
+        "lv": "26 Lai viņš to varētu svētdarīt un šķīstīt to ar ūdens mazgāšanu caur vārdu,"
+      },
+      {
+        "verse": 27,
+        "en": "27That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.",
+        "lv": "27 Lai viņš sev varētu stādīt priekšā krāšņu draudzi, kurai nav traipa vai grumbas, vai kaut kā tāda; bet, lai tā būtu svēta un bez trūkuma."
+      },
+      {
+        "verse": 28,
+        "en": "28So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.",
+        "lv": "28 Tā vīriešiem jāmīl savas sievas kā savus pašu ķermeņus. Tas, kas mīl savu sievu, mīl sevi pašu."
+      },
+      {
+        "verse": 29,
+        "en": "29For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:",
+        "lv": "29 Jo neviens vēl nav ienīdis savu paša miesu; bet to baro un lolo, gluži kā tas Kungs draudzi:"
+      },
+      {
+        "verse": 30,
+        "en": "30For we are members of his body, of his flesh, and of his bones.",
+        "lv": "30 Jo mēs esam viņa ķermeņa locekļi, no viņa miesas un no viņa kauliem."
+      },
+      {
+        "verse": 31,
+        "en": "31For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.",
+        "lv": "31 Šī iemesla dēļ vīrietis atstās savu tēvu un māti un pievienosies savai sievai, un tie divi būs viena miesa. "
+      },
+      {
+        "verse": 32,
+        "en": "32This is a great mystery: but I speak concerning Christ and the church.",
+        "lv": "32 Šī ir liela mistērija: bet es runāju par Kristu un draudzi."
+      },
+      {
+        "verse": 33,
+        "en": "33Nevertheless let every one of you in particular so love his wife even as himself; and the wife <i>see </i>that she reverence <i>her </i>husband.",
+        "lv": "33 Neraugoties uz to, lai ikviens no jums atsevišķi tā mīl savu sievu gluži kā sevi pašu; un sieva <i>rauga</i>, lai viņa ciena <i>savu</i> vīru."
+      }
+    ],
+    "6": [
+      {
+        "verse": 1,
+        "en": "1Children, obey your parents in the Lord: for this is right.",
+        "lv": "1 Bērni, paklausiet saviem vecākiem tai Kungā: jo tas ir pareizi."
+      },
+      {
+        "verse": 2,
+        "en": "2Honour thy father and mother; (which is the first commandment with promise;)",
+        "lv": "2 Godā savu tēvu un māti; (kas ir pirmā pavēle ar apsolījumu;)"
+      },
+      {
+        "verse": 3,
+        "en": "3That it may be well with thee, and thou mayest live long on the earth.",
+        "lv": "3 Lai tev var labi klāties un tu vari ilgi dzīvot uz zemes."
+      },
+      {
+        "verse": 4,
+        "en": "4And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.",
+        "lv": "4 Un jūs, tēvi, neprovocējiet savus bērnus uz bardzību: bet uzaudziniet tos tā Kunga skološanā un pamācīšanā."
+      },
+      {
+        "verse": 5,
+        "en": "5Servants, be obedient to them that are <i>your </i>masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;",
+        "lv": "5 <p>Kalpi, esiet paklausīgi tiem, kas ir <i>jūsu</i> saimnieki pēc miesas, ar bijāšanu un drebēšanu, savas sirds skaidrībā, kā Kristum;"
+      },
+      {
+        "verse": 6,
+        "en": "6Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;",
+        "lv": "6 Ne acu priekšā, kā izpatikdami cilvēkiem; bet kā Kristus kalpi, darīdami Dieva gribu no sirds;"
+      },
+      {
+        "verse": 7,
+        "en": "7With good will doing service, as to the Lord, and not to men:",
+        "lv": "7 Ar labu gribu kalpodami, kā tam Kungam un ne cilvēkiem:"
+      },
+      {
+        "verse": 8,
+        "en": "8Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free.",
+        "lv": "8 Zinādami, ka, ko vien labu kāds dara, to pašu viņš saņems no tā Kunga, vai viņš ir saistīts, vai brīvs."
+      },
+      {
+        "verse": 9,
+        "en": "9And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.",
+        "lv": "9 Un jūs, saimnieki, dariet to pašu viņiem, atturēdamies no draudēšanas: zinādami, ka jūsu Saimnieks arī ir debesī; nedz pie viņa ir personu cienīšana."
+      },
+      {
+        "verse": 10,
+        "en": "10Finally, my brethren, be strong in the Lord, and in the power of his might.",
+        "lv": "10 <p>Visbeidzot, mani brāļi, esiet stipri tai Kungā un viņa varenības spēkā."
+      },
+      {
+        "verse": 11,
+        "en": "11Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+        "lv": "11 Uzvelciet visas Dieva bruņas, lai jūs spētu stāvēt pret velna blēdībām."
+      },
+      {
+        "verse": 12,
+        "en": "12For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high <i>places</i>.",
+        "lv": "12 Jo mēs necīkstamies pret miesu un asinīm, bet pret valdīšanām, pret varām, pret šīs pasaules tumsas valdniekiem, pret garīgām nelietībām augstās <i>vietās</i>."
+      },
+      {
+        "verse": 13,
+        "en": "13Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.",
+        "lv": "13 Tādēļ ņemiet sev visas Dieva bruņas, lai jūs spētu izturēt ļaunā dienā, un darījuši visu, stāvēt."
+      },
+      {
+        "verse": 14,
+        "en": "14Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;",
+        "lv": "14 Tāpēc stāviet, savus gurnus apjozuši ar patiesību un ar uzvilktu taisnības krūšu plāksni;"
+      },
+      {
+        "verse": 15,
+        "en": "15And your feet shod with the preparation of the gospel of peace;",
+        "lv": "15 Un savas kājas apāvuši ar miera evaņģēlija gatavību;"
+      },
+      {
+        "verse": 16,
+        "en": "16Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.",
+        "lv": "16 Pāri visam ņēmuši ticības vairogu, ar ko jūs spēsiet apdzēst visas nelietīgā ugunīgās šautras."
+      },
+      {
+        "verse": 17,
+        "en": "17And take the helmet of salvation, and the sword of the Spirit, which is the word of God:",
+        "lv": "17 Un ņemiet glābšanas bruņucepuri, un tā Gara zobenu, kas ir Dieva vārds:"
+      },
+      {
+        "verse": 18,
+        "en": "18Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;",
+        "lv": "18 Vienmēr lūgdami ar visu lūgšanu un lūgumu tai Garā, un būdami uz to nomodā ar visu neatlaidību un lūgumu par visiem svētajiem;"
+      },
+      {
+        "verse": 19,
+        "en": "19And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,",
+        "lv": "19 Un par mani, lai man var tikt dota izpausme, lai es varu droši atvērt savu muti darīt zināmu evaņģēlija mistēriju,"
+      },
+      {
+        "verse": 20,
+        "en": "20For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.",
+        "lv": "20 Par ko es esmu vēstnieks saitēs: lai iekš tā es varu runāt droši, kā man pienākas runāt."
+      },
+      {
+        "verse": 21,
+        "en": "21But that ye also may know my affairs, <i>and </i>how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:",
+        "lv": "21 Bet lai jūs arī varat zināt manas lietas <i>un</i> kā man iet, Tiķikus, mīļots brālis un uzticams kalpotājs tai Kungā, jums visu darīs zināmu:"
+      },
+      {
+        "verse": 22,
+        "en": "22Whom I have sent unto you for the same purpose, <i>that </i>ye might know our affairs, and that he might comfort your hearts.",
+        "lv": "22 Kuru šī iemesla dēļ es pie jums esmu sūtījis, <i>lai</i> jūs varētu zināt mūsu lietas un lai viņš varētu mierināt jūsu sirdis."
+      },
+      {
+        "verse": 23,
+        "en": "23Peace <i>be </i>to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.",
+        "lv": "23 Miers <i>lai ir</i> brāļiem un mīlestība ar ticību no Dieva Tēva un Kunga Jēzus Kristus."
+      },
+      {
+        "verse": 24,
+        "en": "24Grace <i>be </i>with all them that love our Lord Jesus Christ in sincerity. Amen. (<i>To the Ephesians written from Rome, by Tychicus.</i>)",
+        "lv": "24 Žēlastība <i>lai ir</i> ar visiem tiem, kas Kungu Jēzu Kristu mīl patiesumā. Āmen. <i>(Rakstīta efeziešiem no Romas caur Tiķiku.)</i>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "book": "Rutes",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.",
+        "lv": "1 Tad nu notika dienās, kad valdīja tiesneši, ka zemē bija bads. Un kāds vīrietis no Betlēmesjūdas devās piemājot uz Moāba zemi, viņš un viņa sieva, un viņa divi dēli."
+      },
+      {
+        "verse": 2,
+        "en": "2And the name of the man <i>was </i>Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.",
+        "lv": "2 Un tā vīrieša vārds <i>bija </i>Elimelehs un viņa sievas vārds Naomi, un viņa abu dēlu vārds Mahlons un Kiljons, efratieši no Betlēmesjūdas. Un viņi nāca Moāba zemē un tur palika."
+      },
+      {
+        "verse": 3,
+        "en": "3And Elimelech Naomi's husband died; and she was left, and her two sons.",
+        "lv": "3 Un Elimelehs, Naomi vīrs, nomira; un viņa tika atstāta, un viņas abi dēli."
+      },
+      {
+        "verse": 4,
+        "en": "4And they took them wives of the women of Moab; the name of the one <i>was </i>Orpah, and the name of the other Ruth: and they dwelled there about ten years.",
+        "lv": "4 <p>Un viņi ņēma sev sievas no Moāba sievietēm; vienas vārds <i>bija </i>Orpa, un otras vārds Rute: un viņi tur mājoja apmēram desmit gadus."
+      },
+      {
+        "verse": 5,
+        "en": "5And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.",
+        "lv": "5 Un Mahlons un Kiljons arī nomira, tie abi; un sieviete tika atstāta no saviem diviem dēliem un sava vīra."
+      },
+      {
+        "verse": 6,
+        "en": "6Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.",
+        "lv": "6 <p>Tad viņa cēlās ar savām vedeklām, lai viņa varētu atgriezties no Moāba zemes: jo viņa Moāba zemē bija dzirdējusi, ka tas KUNGS bija apmeklējis savus ļaudis, tiem dodot maizi."
+      },
+      {
+        "verse": 7,
+        "en": "7Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.",
+        "lv": "7 Tādēļ viņa izgāja no vietas, kur viņa bija, un viņas divas vedeklas līdz ar viņu; un viņas devās ceļā atgriezties Jūdas zemē."
+      },
+      {
+        "verse": 8,
+        "en": "8And Naomi said unto her two daughters in law, Go, return each to her mother's house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.",
+        "lv": "8 Un Naomi savām abām vedeklām sacīja, Ejiet, atgriezieties katra savas mātes namā: lai tas KUNGS pret jums izturas laipni, kā jūs esat izturējušās pret mirušajiem un pret mani."
+      },
+      {
+        "verse": 9,
+        "en": "9The LORD grant you that ye may find rest, each <i>of you</i> in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.",
+        "lv": "9 Tas KUNGS lai jums dāvā, ka jūs varat atrast dusu, katra sava vīra namā. Tad viņa tās skūpstīja; un tās pacēla savu balsi un raudāja."
+      },
+      {
+        "verse": 10,
+        "en": "10And they said unto her, Surely we will return with thee unto thy people.",
+        "lv": "10 Un tās viņai sacīja, Bez šaubām, mēs atgriezīsimies ar tevi pie taviem ļaudīm."
+      },
+      {
+        "verse": 11,
+        "en": "11And Naomi said, Turn again, my daughters: why will ye go with me? <i>are </i>there yet<i> any more </i>sons in my womb, that they may be your husbands?",
+        "lv": "11 Un Naomi sacīja, Griezieties atpakaļ, manas meitas: kāpēc jūs gribat iet ar mani? <i>vai</i> manā klēpī <i>vēl ir </i>dēli, lai tie var būt jūsu vīri?"
+      },
+      {
+        "verse": 12,
+        "en": "12Turn again, my daughters, go <i>your way</i>; for I am too old to have an husband. If I should say, I have hope, <i>if </i>I should have an husband also to night, and should also bear sons;",
+        "lv": "12 Griezieties atpakaļ, manas meitas, aizejiet; jo es esmu par vecu, lai man būtu vīrs. Ja es sacītu, Man ir cerība, <i>ja </i>man arī šonakt būtu vīrs un arī dzemdētu dēlus;"
+      },
+      {
+        "verse": 13,
+        "en": "13Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me.",
+        "lv": "13 Vai jūs uzkavētos priekš tiem, iekams tie būs izauguši? vai jūs paliktu priekš tiem bez vīra? nē, manas meitas; jo tas mani ļoti noskumdina jūsu dēļ, ka tā KUNGA roka ir izgājusi pret mani."
+      },
+      {
+        "verse": 14,
+        "en": "14And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.",
+        "lv": "14 <p>Un tās pacēla savu balsi un atkal raudāja: un Orpa skūpstīja savu vīramāti; bet Rute viņai pieķērās."
+      },
+      {
+        "verse": 15,
+        "en": "15And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.",
+        "lv": "15 Un viņa sacīja, Lūk, tava svaine ir gājusi atpakaļ pie saviem ļaudīm un pie saviem dieviem; atgriezies pakaļ savai svainei."
+      },
+      {
+        "verse": 16,
+        "en": "16And Ruth said, Intreat me not to leave thee, <i>or </i>to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people <i>shall be </i>my people, and thy God my God:",
+        "lv": "16 Un Rute sacīja, Nelūdz mani tevi atstāt <i>vai</i> atgriezties no sekošanas tev: jo kurp tu ej, es iešu; un kur tu apmeties, es apmetīšos: tavi ļaudis <i>būs </i>mani ļaudis un tavs Dievs mans Dievs."
+      },
+      {
+        "verse": 17,
+        "en": "17Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, <i>if ought</i> but death part thee and me.",
+        "lv": "17 Kur tu mirsi, es miršu, un tur es tikšu apbedīta: lai tas KUNGS man tā dara, un vēl vairāk, <i>ja kaut kas</i> kā tikai nāve šķirs tevi un mani."
+      },
+      {
+        "verse": 18,
+        "en": "18When she saw that she was stedfastly minded to go with her, then she left speaking unto her.",
+        "lv": "18 Kad viņa redzēja, ka viņa nelokāmi domāja iet viņai līdzi, viņa atstājās runāt uz viņu."
+      },
+      {
+        "verse": 19,
+        "en": "19So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, <i>Is </i>this Naomi?",
+        "lv": "19 <p>Tā viņas abas gāja, līdz tās nāca uz Betlēmi. Un notika, kad viņas nāca uz Bētlemi, ka visa pilsēta par tām sakustējās, un viņi sacīja, <i>Vai </i>šī <i>ir </i>Naomi?"
+      },
+      {
+        "verse": 20,
+        "en": "20And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.",
+        "lv": "20 Un viņa tiem sacīja, Nesauciet mani Naomi, bet sauciet mani Māra: jo Visvarenais pret mani ir izturējies ļoti rūgti."
+      },
+      {
+        "verse": 21,
+        "en": "21I went out full, and the LORD hath brought me home again empty: why <i>then </i>call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?",
+        "lv": "21 Es izgāju pilna, un tas KUNGS mani atveda mājās tukšu: kāpēc <i>tad </i>jūs mani saucat Naomi, jo tas KUNGS ir liecinājis pret mani, un Visvarenais mani ir sāpinājis?"
+      },
+      {
+        "verse": 22,
+        "en": "22So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.",
+        "lv": "22 Tā Naomi atgriezās un viņas vedekla moābiete Rute ar viņu, kas atgriezās no Moāba zemes: un tās nāca uz Bētlemi miežu pļaujas iesākumā."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name <i>was </i>Boaz.",
+        "lv": "1 Un Naomi bija radinieks no viņas vīra, turīgs varens vīrietis no Elimeleha ģimenes; un viņa vārds <i>bija </i>Boāzs."
+      },
+      {
+        "verse": 2,
+        "en": "2And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after <i>him </i>in whose sight I shall find grace. And she said unto her, Go, my daughter.",
+        "lv": "2 Un Moābiete Rute Naomi sacīja, Ļauj nu man iet uz lauku un uzlasīt labības vārpas pēc <i>tā</i>, kura skatienā es atradīšu žēlastību. Un viņa tai sacīja, Ej, mana meita."
+      },
+      {
+        "verse": 3,
+        "en": "3And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field <i>belonging</i> unto Boaz, who <i>was</i> of the kindred of Elimelech.",
+        "lv": "3 Un viņa gāja un nāca, un uzlasīja laukā pēc pļāvējiem: un viņai gadījās nonākt Boāzam <i>piederošā</i> lauka daļā, kurš <i>bija </i>no Elimeleha radiem."
+      },
+      {
+        "verse": 4,
+        "en": "4And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee.",
+        "lv": "4 <p>Un, lūk, Boāzs nāca no Betlēmes un sacīja pļāvējiem, Tas KUNGS lai ir ar jums. Un tie viņam atbildēja, Tas KUNGS lai tevi svētī."
+      },
+      {
+        "verse": 5,
+        "en": "5Then said Boaz unto his servant that was set over the reapers, Whose damsel is this?",
+        "lv": "5 Tad Boāzs sacīja savam kalpam, kas bija likts pār pļāvējiem, Kuram ir šī meitene?"
+      },
+      {
+        "verse": 6,
+        "en": "6And the servant that was set over the reapers answered and said, It <i>is </i>the Moabitish damsel that came back with Naomi out of the country of Moab:",
+        "lv": "6 Un kalps, kas bija likts pār pļāvējiem, atbildēja un sacīja, Tā <i>ir </i>moābiešu meitene, kas nāca atpakaļ ar Naomi no Moāba zemes:"
+      },
+      {
+        "verse": 7,
+        "en": "7And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.",
+        "lv": "7 Un viņa sacīja, Es jūs lūdzu, ļaujiet man uzlasīt un savākt pēc pļāvējiem starp kūļiem: viņa nāca un ir palikusi pat no rīta līdz šim, ka viņa nedaudz uzkavējās namā."
+      },
+      {
+        "verse": 8,
+        "en": "8Then said Boaz unto Ruth, Hearest thou not, my daughter? Go not to glean in another field, neither go from hence, but abide here fast by my maidens:",
+        "lv": "8 <p>Tad Boāzs Rutei sacīja, Vai tu nedzirdi, mana meita? Neej uzlasīt citā laukā, nedz ej no šejienes, bet paliec šeit cieši pie manām meitenēm:"
+      },
+      {
+        "verse": 9,
+        "en": "9<i>Let </i>thine eyes <i>be </i>on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of <i>that </i>which the young men have drawn.",
+        "lv": "9 <i>Lai </i>tavas acis <i>ir</i> uz lauku, ko viņi pļauj, un ej pēc viņiem: vai es neesmu piekodinājis jaunekļus, lai tie tevi neaizskar? un, kad tev slāpst, ej pie traukiem un dzer no <i>tā</i>, ko jaunekļi ir smēluši."
+      },
+      {
+        "verse": 10,
+        "en": "10Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I <i>am </i>a stranger?",
+        "lv": "10 Tad viņa krita uz savas sejas un noliecās līdz zemei, ​un viņam sacīja, Kāpēc es esmu atradusi žēlastību tavās acīs, lai tu mani apzinātos, jo es <i>esmu</i> svešiniece?"
+      },
+      {
+        "verse": 11,
+        "en": "11And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and <i>how </i>thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore.",
+        "lv": "11 Un Boāzs atbildēja un viņai sacīja, Man ir pilnībā pavēstīts viss, ko tu esi darījusi savai vīramātei kopš sava vīra nāves: un <i>kā </i>tu esi atstājusi savu tēvu un savu māti, un savu dzimto zemi, un esi nākusi pie ļaudīm, ko tu līdz šim nepazini."
+      },
+      {
+        "verse": 12,
+        "en": "12The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.",
+        "lv": "12 Tas KUNGS lai atmaksā tavu darbu, un pilns atalgojums tev tiek dots no tā KUNGA, Israēla Dieva, zem kura spārniem tu esi nākusi paļauties."
+      },
+      {
+        "verse": 13,
+        "en": "13Then she said, Let me find favour in thy sight, my lord; for that thou hast comforted me, and for that thou hast spoken friendly unto thine handmaid, though I be not like unto one of thine handmaidens.",
+        "lv": "13 Tad viņa sacīja, Ļauj man atrast labvēlību tavā skatienā, mans kungs; jo tu mani esi mierinājis un jo tu esi draudzīgi runājis ar savu kalponi, kaut arī es neesmu kā viena no tavām kalponēm."
+      },
+      {
+        "verse": 14,
+        "en": "14And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched <i>corn</i>, and she did eat, and was sufficed, and left.",
+        "lv": "14 Un Boāzs viņai sacīja, Ēdienreizē nāc šurp un ēd no maizes, un mērc savu kumosu etiķī. Un viņa sēdēja blakus pļāvējiem: un viņš tai pasniedza grauzdētu <i>labību</i>, un viņa ēda un <i>[viņai]</i> pietika, un <i>[viņa]</i> atstāja."
+      },
+      {
+        "verse": 15,
+        "en": "15And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:",
+        "lv": "15 Un, kad viņa bija cēlusies uzlasīt, Boāzs pavēlēja saviem jaunekļiem sacīdams, Lai viņa uzlasa pat starp kūļiem un neapkaunojiet viņu:"
+      },
+      {
+        "verse": 16,
+        "en": "16And let fall also <i>some </i>of the handfuls of purpose for her, and leave <i>them</i>, that she may glean <i>them</i>, and rebuke her not.",
+        "lv": "16 Un lai arī <i>dažas</i> no saujām nokrīt priekš viņas ar nodomu, un atstājiet <i>tās</i>, lai viņa <i>tās </i>var uzlasīt, un nenorājiet viņu."
+      },
+      {
+        "verse": 17,
+        "en": "17So she gleaned in the field until even, and beat out that she had gleaned: and it was about an ephah of barley.",
+        "lv": "17 Tā viņa uzlasīja lauku līdz vakaram un izkūla, ko viņa bija uzlasījusi: un tā bija apmēram ēfa miežu."
+      },
+      {
+        "verse": 18,
+        "en": "18And she took <i>it </i>up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.",
+        "lv": "18 <p>Un viņa <i>to </i>paņēma un iegāja pilsētā: un viņas vīramāte redzēja, ko viņa bija uzlasījusi: un viņa iznesa un deva viņai to, ko bija paturējusi pēc tam, kad viņai pietika."
+      },
+      {
+        "verse": 19,
+        "en": "19And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man's name with whom I wrought to day <i>is </i>Boaz.",
+        "lv": "19 Un viņas vīramāte viņai sacīja, Kur tu šodien esi uzlasījusi? un kur tu strādāji? svētīgs lai ir tas, kas tevi apzinājās. Un viņa pavēstīja savai vīramātei, ar kuru viņa bija strādājusi, un sacīja, Vīrieša vārds, ar kuru es šodien strādāju, <i>ir </i>Boāzs."
+      },
+      {
+        "verse": 20,
+        "en": "20And Naomi said unto her daughter in law, Blessed <i>be </i>he of the LORD, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man <i>is </i>near of kin unto us, one of our next kinsmen.",
+        "lv": "20 Un Naomi savai vedeklai sacīja, Svētīts <i>lai</i> viņš <i>ir</i> no tā KUNGA, kas nav atstājies no savas žēlastības pret dzīvajiem un mirušajiem. Un Naomi viņai sacīja, Šis vīrietis mums <i>ir</i> tuvu rados, viens no mūsu tuvākajiem radiniekiem."
+      },
+      {
+        "verse": 21,
+        "en": "21And Ruth the Moabitess said, He said unto me also, Thou shalt keep fast by my young men, until they have ended all my harvest.",
+        "lv": "21 Un moābiete Rute sacīja, Viņš arī man sacīja, Tev būs stingri turēties pie maniem jaunekļiem, līdz viņi ir beiguši visu manu pļauju."
+      },
+      {
+        "verse": 22,
+        "en": "22And Naomi said unto Ruth her daughter in law, <i>It is </i>good, my daughter, that thou go out with his maidens, that they meet thee not in any other field.",
+        "lv": "22 Un Naomi savai vedeklai Rutei sacīja, <i>Tas ir</i> labi, mana meita, ka tu izej ar viņa meitenēm, lai tie tevi nesatiek kādā citā laukā."
+      },
+      {
+        "verse": 23,
+        "en": "23So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.",
+        "lv": "23 Tā viņa stingri turējās pie Boāza meitenēm uzlasīt līdz miežu un kviešu pļaujas beigām; un mājoja pie savas vīramātes."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "1Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?",
+        "lv": "1 Tad Naomi, viņas vīramāte, viņai sacīja, Mana meita, vai man tev nebūs meklēt dusu, lai tev var labi klāties?"
+      },
+      {
+        "verse": 2,
+        "en": "2And now <i>is </i>not Boaz of our kindred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshingfloor.",
+        "lv": "2 Un nu, vai Boāzs nav no mūsu radiem, ar kura meitenēm tu biji? Lūk, viņš šonakt vētī miežus kuļamklonā."
+      },
+      {
+        "verse": 3,
+        "en": "3Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the floor: <i>but </i>make not thyself known unto the man, until he shall have done eating and drinking.",
+        "lv": "3 Tāpēc nomazgājies un svaidies, un uzvelc sev savu tērpu un noej uz klonu: <i>bet </i>nedari sevi zināmu tam vīrietim, līdz viņš nebūs beidzis ēšanu un dzeršanu."
+      },
+      {
+        "verse": 4,
+        "en": "4And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.",
+        "lv": "4 Un būs, kad viņš apguļas, ka tev būs atzīmēt vietu, kur viņš gulēs, un tev būs iet iekšā, un atsegt viņa kājas, un apgulties; un viņš tev stāstīs, ko tev būs darīt."
+      },
+      {
+        "verse": 5,
+        "en": "5And she said unto her, All that thou sayest unto me I will do.",
+        "lv": "5 Un viņa tai sacīja, Visu, ko tu man saki, es darīšu."
+      },
+      {
+        "verse": 6,
+        "en": "6And she went down unto the floor, and did according to all that her mother in law bade her.",
+        "lv": "6 <p>Un viņa nogāja uz klonu un darīja atbilstoši visam, ko viņas vīramāte viņai vēlēja."
+      },
+      {
+        "verse": 7,
+        "en": "7And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.",
+        "lv": "7 Un, kad Boāzs bija ēdis un dzēris, un viņa sirds bija līksma, viņš gāja apgulties labības kaudzes galā: un viņa nāca klusi un atsedza viņa kājas, un apgūlās."
+      },
+      {
+        "verse": 8,
+        "en": "8And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.",
+        "lv": "8 <p>Un notika pusnaktī, ka tas vīrietis izbijās un pagriezās: un, lūk, sieviete gulēja pie viņa kājām."
+      },
+      {
+        "verse": 9,
+        "en": "9And he said, Who <i>art </i>thou? And she answered, I <i>am </i>Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou <i>art </i>a near kinsman.",
+        "lv": "9 Un viņš sacīja, Kas tu <i>esi</i>? Un viņa atbildēja, Es <i>esmu </i>Rute, tava kalpone: tāpēc izplet savu stērbeli pār savu kalponi; jo tu <i>esi </i>tuvs radinieks."
+      },
+      {
+        "verse": 10,
+        "en": "10And he said, Blessed <i>be </i>thou of the LORD, my daughter: <i>for </i>thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.",
+        "lv": "10 Un viņš sacīja, Svētīta <i>lai</i> tu <i>esi</i> no tā KUNGA, mana meita: <i>jo </i>tu esi rādījusi vairāk laipnības pēdējā galā nekā iesākumā, tā kā tu nesekoji jaunekļiem, vai nabadzīgiem vai bagātiem."
+      },
+      {
+        "verse": 11,
+        "en": "11And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou <i>art </i>a virtuous woman.",
+        "lv": "11 Un nu, mana meita, nebīsties; es tev darīšu visu, ko tu pieprasi: jo visa manu ļaužu pilsēta zina, ka tu <i>esi </i>tikumīga sieviete."
+      },
+      {
+        "verse": 12,
+        "en": "12And now it is true that I <i>am thy </i>near kinsman: howbeit there is a kinsman nearer than I.",
+        "lv": "12 Un nu, tas ir patiesi, ka es <i>esmu</i> <i>tavs </i>tuvs radinieks: taču ir radinieks, kas ir tuvāks par mani."
+      },
+      {
+        "verse": 13,
+        "en": "13Tarry this night, and it shall be in the morning, <i>that </i>if he will perform unto thee the part of a kinsman, well; let him do the kinsman's part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the LORD liveth: lie down until the morning.",
+        "lv": "13 Uzkavējies šo nakti, un būs no rīta, <i>ka,</i> ja viņš tev paveiks radinieka daļu, labi; lai viņš dara radinieka daļu: bet, ja viņš tev negrib darīt radinieka daļu, tad es tev darīšu radinieka daļu, kā tas KUNGS dzīvo: apgulies līdz rītam."
+      },
+      {
+        "verse": 14,
+        "en": "14And she lay at his feet until the morning: and she rose up before one could know another. And he said, Let it not be known that a woman came into the floor.",
+        "lv": "14 <p>Un viņa gulēja pie viņa kājām līdz rītam: un viņa piecēlās, pirms viens otru varēja pazīt. Un viņš sacīja, Lai nav zināms, ka sieviete ir nākusi klonā."
+      },
+      {
+        "verse": 15,
+        "en": "15Also he said, Bring the vail that <i>thou hast</i> upon thee, and hold it. And when she held it, he measured six <i>measures</i> of barley, and laid <i>it </i>on her: and she went into the city.",
+        "lv": "15 Viņš arī sacīja, Nes apsegu, kas <i>tev ir</i> uz tevis, un turi to. Un, kad viņa to turēja, viņš mērīja sešus <i>mērus </i>miežu, un <i>to</i> lika uz viņas, un viņa iegāja pilsētā."
+      },
+      {
+        "verse": 16,
+        "en": "16And when she came to her mother in law, she said, Who <i>art </i>thou, my daughter? And she told her all that the man had done to her.",
+        "lv": "16 Un, kad viņa nāca pie savas vīramātes, viņa sacīja, Kas tu <i>esi</i>, mana meita? Un viņa stāstīja visu, ko tas vīrietis viņai bija darījis."
+      },
+      {
+        "verse": 17,
+        "en": "17And she said, These six <i>measures </i>of barley gave he me; for he said to me, Go not empty unto thy mother in law.",
+        "lv": "17 Un viņa sacīja, Šos sešus <i>mērus </i>miežu viņš man deva; jo viņš man sacīja, Neej tukšā pie savas vīramātes."
+      },
+      {
+        "verse": 18,
+        "en": "18Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.",
+        "lv": "18 Tad viņa sacīja, Sēdi mierā, mana meita, līdz tu zināsi, kā lieta kritīs: jo tas vīrietis nedusēs, līdz viņš šajā dienā nebūs šo pabeidzis."
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "en": "1Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.",
+        "lv": "1 Tad Boāzs devās uz vārtiem, un viņš tur apsēdās: un, lūk, radinieks, par kuru Boāzs runāja, nāca garām; kuram viņš sacīja, Ei, tāds un tāds! nogriezies sāņus, apsēdies šeit. Un viņš nogriezās sāņus un apsēdās."
+      },
+      {
+        "verse": 2,
+        "en": "2And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.",
+        "lv": "2 Un viņš ņēma desmit cilvēkus no pilsētas vecajiem un sacīja, Apsēdieties šeit. Un tie apsēdās."
+      },
+      {
+        "verse": 3,
+        "en": "3And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which was our brother Elimelech's:",
+        "lv": "3 Un viņš radiniekam sacīja, Naomi, kas ir iznākusi atpakaļ no Moāba zemes, pārdod zemes daļu, kas bija mūsu brāļa Elimeleha:"
+      },
+      {
+        "verse": 4,
+        "en": "4And I thought to advertise thee, saying, Buy <i>it </i>before the inhabitants, and before the elders of my people. If thou wilt redeem <i>it</i>, redeem <i>it</i>: but if thou wilt not redeem <i>it</i>, <i>then </i>tell me, that I may know: for <i>there is</i> none to redeem <i>it </i>beside thee; and I <i>am </i>after thee. And he said, I will redeem <i>it</i>.",
+        "lv": "4 Un es domāju tev ieteikt sacīdams, Pērc <i>to</i> iedzīvotāju priekšā un manu ļaužu vecaju priekšā. Ja tu <i>to </i>gribi izpirkt, izpērc <i>to</i>: bet ja tu <i>to </i>negribi izpirkt, <i>tad </i>stāsti man, lai es varu zināt: jo <i>nav </i>neviena, <i>to </i>izpirkt bez tevis; un es <i>esmu </i>pēc tevis. Un viņš sacīja, Es <i>to </i>izpirkšu. "
+      },
+      {
+        "verse": 5,
+        "en": "5Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy <i>it </i>also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.",
+        "lv": "5 Tad Boāzs sacīja, Kurā dienā tu pērc lauku no Naomi rokas, tev jāpērk <i>tas </i>arī no moābietes Rutes, mirušā sievas, uzcelt mirušā vārdu uz viņa mantojuma."
+      },
+      {
+        "verse": 6,
+        "en": "6And the kinsman said, I cannot redeem <i>it </i>for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem <i>it</i>.",
+        "lv": "6 <p>Un radinieks sacīja, Es <i>to </i>nevaru izpirkt priekš sevis, lai es nesamaitāju savu paša mantojumu: izpērc tu manas tiesības sev; jo es <i>to </i>nevaru izpirkt."
+      },
+      {
+        "verse": 7,
+        "en": "7Now this <i>was the manner</i> in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave <i>it </i>to his neighbour: and this <i>was </i>a testimony in Israel.",
+        "lv": "7 Tad nu šī <i>bija paraža</i> Israēlā senākos laikos attiecībā uz izpirkšanu un attiecībā uz maiņu, lai visu apstiprinātu; vīrietis novilka savu kurpi un <i>to </i>deva savam tuvākajam: un <i>šī </i>bija liecība Israēlā."
+      },
+      {
+        "verse": 8,
+        "en": "8Therefore the kinsman said unto Boaz, Buy <i>it </i>for thee. So he drew off his shoe.",
+        "lv": "8 Tāpēc radinieks Boāzam sacīja, Pērc <i>to</i> sev. Tā viņš novilka savu kurpi."
+      },
+      {
+        "verse": 9,
+        "en": "9And Boaz said unto the elders, and <i>unto </i>all the people, Ye <i>are </i>witnesses this day, that I have bought all that <i>was </i>Elimelech's, and all that <i>was </i>Chilion's and Mahlon's, of the hand of Naomi.",
+        "lv": "9 <p>Un Boāzs vecajiem un visiem ļaudīm sacīja, Jūs šajā dienā <i>esat </i>liecinieki, ka es esmu pircis visu, kas <i>bija </i>Elimeleha, un visu, kas <i>bija</i> Čiliona un Mahlona, no Naomi rokas."
+      },
+      {
+        "verse": 10,
+        "en": "10Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye <i>are </i>witnesses this day.",
+        "lv": "10 Turklāt moābieti Rutu, Mahlona sievu, es esmu pircis būt par savu sievu, lai uzceltu mirušā vārdu uz viņa mantojuma, lai mirušā vārds netiktu nogriezts no viņa brāļu vidus un no viņa vietas vārtiem: jūs <i>esat </i>liecinieki šajā dienā."
+      },
+      {
+        "verse": 11,
+        "en": "11And all the people that <i>were </i>in the gate, and the elders, said, <i>We are</i> witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:",
+        "lv": "11 Un visi ļaudis, kas <i>bija </i>vārtos, un vecaji sacīja, <i>Mēs esam</i> liecinieki. Tas KUNGS lai sievieti, kas ir nākusi tavā namā, dara kā Raheli un Leu, kuras abas uzbūvēja Israēla namu: un dari cienīgi Efratā, un esi slavens Betlēmē:"
+      },
+      {
+        "verse": 12,
+        "en": "12And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.",
+        "lv": "12 Un lai tavs nams ir kā Fareca nams, kuru Tamāra dzemdēja Jūdam, no sēklas, ko tas KUNGS tev dos no šīs jaunās sievietes."
+      },
+      {
+        "verse": 13,
+        "en": "13So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.",
+        "lv": "13 <p>Tā Boāzs ņēma Ruti, un tā bija viņa sieva: un, kad viņš pie viņas iegāja, tas KUNGS viņai deva kļūt grūtai, un viņa dzemdēja dēlu."
+      },
+      {
+        "verse": 14,
+        "en": "14And the women said unto Naomi, Blessed <i>be</i> the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.",
+        "lv": "14 Un sievietes Naomi sacīja, Svētīts <i>lai ir</i> tas KUNGS, kas šajā dienā tevi nav atstājis bez radinieka, lai viņa vārds var būt slavens Israēlā."
+      },
+      {
+        "verse": 15,
+        "en": "15And he shall be unto thee a restorer of <i>thy </i>life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.",
+        "lv": "15 Un viņš tev būs <i>tavas</i> dzīvības atjaunotājs un tavu vecumdienu barotājs: jo tava vedekla, kas tevi mīl, kas tev ir labāka par septiņiem dēliem, ir viņu dzemdējusi."
+      },
+      {
+        "verse": 16,
+        "en": "16And Naomi took the child, and laid it in her bosom, and became nurse unto it.",
+        "lv": "16 Un Naomi ņēma bērnu un to lika savā klēpī, un kļuva tam par aukli."
+      },
+      {
+        "verse": 17,
+        "en": "17And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he <i>is </i>the father of Jesse, the father of David.",
+        "lv": "17 Un viņas kaimiņienes tam deva vārdu sacīdamas, Naomi ir dzimis dēls; un viņas nosauca viņu vārdā Obeds: viņš <i>ir </i>Isaja tēvs, Dāvida tēvs."
+      },
+      {
+        "verse": 18,
+        "en": "18Now these <i>are </i>the generations of Pharez: Pharez begat Hezron,",
+        "lv": "18 <p>Tad nu šīs <i>ir </i>Fareca paaudzes: Farecs dzemdināja Hecronu,"
+      },
+      {
+        "verse": 19,
+        "en": "19And Hezron begat Ram, and Ram begat Amminadab,",
+        "lv": "19 Un Hecrons dzemdināja Ramu, un Rams dzemdināja Aminadabu,"
+      },
+      {
+        "verse": 20,
+        "en": "20And Amminadab begat Nahshon, and Nahshon begat Salmon,",
+        "lv": "20 Un Aminadabs dzemdināja Nāšonu, un Nāšons dzemdināja Salmonu,"
+      },
+      {
+        "verse": 21,
+        "en": "21And Salmon begat Boaz, and Boaz begat Obed,",
+        "lv": "21 Un Salmons dzemdināja Boāzu, un Boāzs dzemdināja Obedu,"
+      },
+      {
+        "verse": 22,
+        "en": "22And Obed begat Jesse, and Jesse begat David.",
+        "lv": "22 Un Obeds dzemdināja Isaju, un Isajs dzemdināja Dāvidu."
+      }
+    ]
+  }
+}

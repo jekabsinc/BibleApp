@@ -1,0 +1,582 @@
+{
+  "book": "1. Timotejam",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, <i>which is</i> our hope;",
+        "lv": "1 Pāvils, Jēzus Kristus apustulis, caur pavēli no Dieva, mūsu Glābēja, un Kunga Jēzus Kristus, <i>kas ir</i> mūsu cerība;"
+      },
+      {
+        "verse": 2,
+        "en": "2Unto Timothy, <i>my </i>own son in the faith: Grace, mercy, <i>and </i>peace, from God our Father and Jesus Christ our Lord.",
+        "lv": "2 Timotejam, <i>manam</i> paša dēlam ticībā: Žēlastība, žēlsirdība <i>un</i> miers no Dieva, mūsu Tēva, un Jēzus Kristus, mūsu Kunga."
+      },
+      {
+        "verse": 3,
+        "en": "3As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,",
+        "lv": "3 <p>Kā es tevi lūdzos vēl palikt Efezā, kad es gāju uz Maķedoniju, lai tu varētu piekodināt kādus, lai tie nemāca nekādu citu mācību,"
+      },
+      {
+        "verse": 4,
+        "en": "4Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: <i>so do</i>.",
+        "lv": "4 Nedz ņem vērā pasakas un bezgalīgus ciltsrakstus, kas veicina jautājumus, nevis dievbijīgu uztaisīšanu, kas ir ticībā: <i>tā dari</i>."
+      },
+      {
+        "verse": 5,
+        "en": "5Now the end of the commandment is charity out of a pure heart, and <i>of</i> a good conscience, and <i>of </i>faith unfeigned:",
+        "lv": "5 <p>Tad nu pavēles gals ir mīlestība no šķīstas sirds un <i>no</i> labas sirdsapziņas, un <i>no</i> neviltotas ticības:"
+      },
+      {
+        "verse": 6,
+        "en": "6From which some having swerved have turned aside unto vain jangling;",
+        "lv": "6 No kā daži novirzījušies ir nogriezušies uz veltīgu šķindoņu;"
+      },
+      {
+        "verse": 7,
+        "en": "7Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.",
+        "lv": "7 Vēlēdamies būt likuma mācītāji; nesaprazdami nedz ko tie saka, ne par ko tie apgalvo."
+      },
+      {
+        "verse": 8,
+        "en": "8But we know that the law <i>is </i>good, if a man use it lawfully;",
+        "lv": "8 Bet mēs zinām, ka likums <i>ir </i>labs, ja cilvēks to lieto likumīgi;"
+      },
+      {
+        "verse": 9,
+        "en": "9Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+        "lv": "9 Zinādami šo, ka likums nav taisīts priekš taisnā, bet priekš bezlikumīgiem un nepaklausīgiem, priekš bezdievīgiem un priekš grēciniekiem, priekš nesvētiem un apgānītājiem, priekš tēvu slepkavām un māšu slepkavām, priekš cilvēku kāvējiem,"
+      },
+      {
+        "verse": 10,
+        "en": "10For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;",
+        "lv": "10 Priekš mauciniekiem, priekš tiem, kas apgāna sevi ar vīriešiem, priekš cilvēku zagļiem, priekš meļiem, priekš nepatiesiem zvērētājiem un, ja ir kas cits kas ir pretī veselīgai mācībai;"
+      },
+      {
+        "verse": 11,
+        "en": "11According to the glorious gospel of the blessed God, which was committed to my trust.",
+        "lv": "11 <p>Pēc svētīgā Dieva krāšņā evaņģēlija, kas man tika uzticēts."
+      },
+      {
+        "verse": 12,
+        "en": "12And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;",
+        "lv": "12 Un es pasakos Kristum Jēzum, mūsu Kungam, kurš mani ir padarījis spējīgu, jo viņš mani skaitīja par uzticamu, mani ielikdams kalpošanā;"
+      },
+      {
+        "verse": 13,
+        "en": "13Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did <i>it </i>ignorantly in unbelief.",
+        "lv": "13 Kurš iepriekš biju zaimotājs un vajātājs, un pāri darītājs: bet es ieguvu žēlsirdību, tāpēc ka es <i>to</i> darīju nezinoši neticībā."
+      },
+      {
+        "verse": 14,
+        "en": "14And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
+        "lv": "14 Un mūsu Kunga žēlastība bija pārpārēm ar ticību un mīlestību, kas ir Kristū Jēzū."
+      },
+      {
+        "verse": 15,
+        "en": "15This <i>is </i>a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+        "lv": "15 Šis <i>ir </i>uzticams vārds un visas pieņemšanas cienīgs, ka Kristus Jēzus nāca pasaulē glābt grēciniekus; no kuriem es esmu galvenais."
+      },
+      {
+        "verse": 16,
+        "en": "16Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.",
+        "lv": "16 Tomēr šī iemesla dēļ es ieguvu žēlsirdību, lai vispirms manī Jēzus Kristus varētu parādīt visu ilgcietību par paraugu tiem, kas turpmāk viņam ticētu uz mūžīgu dzīvību."
+      },
+      {
+        "verse": 17,
+        "en": "17Now unto the King eternal, immortal, invisible, the only wise God, <i>be</i> honour and glory for ever and ever. Amen.",
+        "lv": "17 Tad nu <i>lai</i> Ķēniņam mūžīgam, nemirstīgam, neredzamam, vienīgajam gudrajam Dievam <i>ir</i> gods un godība mūžīgi mūžam. Āmen."
+      },
+      {
+        "verse": 18,
+        "en": "18This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;",
+        "lv": "18 Šo uzdevumu es tev uzticu, dēls Timotej, atbilstoši pravietojumiem, kas gāja iepriekš uz tevi, lai tu caur tiem varētu karot labu karu;"
+      },
+      {
+        "verse": 19,
+        "en": "19Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+        "lv": "19 Turēdams ticību un labu sirdsapziņu; ko daži atmezdami attiecībā uz ticību ir cietuši kuģa bojāeju:"
+      },
+      {
+        "verse": 20,
+        "en": "20Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.",
+        "lv": "20 No kuriem ir Himanejus un Aleksandrs; kurus es esmu nodevis Sātanam, lai tie var mācīties nezaimot."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1 I exhort therefore, that, first of all, supplications, prayers, intercessions, <i>and </i>giving of thanks, be made for all men;",
+        "lv": "1 Tāpēc es pamudinu, lai vispirms, lūgumi, lūgšanas, aizlūgumi <i>un</i> pateicības tiek veikti par visiem cilvēkiem;"
+      },
+      {
+        "verse": 2,
+        "en": "2For kings, and <i>for </i>all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.",
+        "lv": "2 Par ķēniņiem un <i>par</i> visiem, kas ir pie varas; lai mēs varam pavadīt klusu un mierīgu dzīvi visā dievbijībā un godīgumā."
+      },
+      {
+        "verse": 3,
+        "en": "3For this <i>is </i>good and acceptable in the sight of God our Saviour;",
+        "lv": "3 Jo šis <i>ir</i> labi un pieņemami Dieva, mūsu Glābēja, skatienā;"
+      },
+      {
+        "verse": 4,
+        "en": "4Who will have all men to be saved, and to come unto the knowledge of the truth.",
+        "lv": "4 Kurš grib, lai visi cilvēki tiktu glābti un nāktu pie patiesības atzīšanas."
+      },
+      {
+        "verse": 5,
+        "en": "5For <i>there is </i>one God, and one mediator between God and men, the man Christ Jesus;",
+        "lv": "5 Jo <i>ir</i> viens Dievs un viens starpnieks starp Dievu un cilvēkiem, cilvēks Kristus Jēzus;"
+      },
+      {
+        "verse": 6,
+        "en": "6Who gave himself a ransom for all, to be testified in due time.",
+        "lv": "6 Kurš atdeva sevi par izpirkuma maksu priekš visiem, tikt apliecināts savā laikā."
+      },
+      {
+        "verse": 7,
+        "en": "7Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, <i>and </i>lie not;) a teacher of the Gentiles in faith and verity.",
+        "lv": "7 Kā dēļ es esmu iecelts par sludinātāju un apustuli (es runāju patiesību Kristū <i>un</i> nemeloju); pagānu skolotāju ticībā un patiesumā."
+      },
+      {
+        "verse": 8,
+        "en": "8I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.",
+        "lv": "8 Tāpēc es gribu, lai vīrieši lūdz ikvienā vietā, paceldami svētās rokas bez bardzības un šaubīšanās."
+      },
+      {
+        "verse": 9,
+        "en": "9In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;",
+        "lv": "9 <p>Tāpat arī, lai sievietes izrotājas piedienīgā apģērbā, ar kaunīgumu un atturību; ne ar sapītiem matiem vai zeltu, vai pērlēm, vai dārgu tērpu;"
+      },
+      {
+        "verse": 10,
+        "en": "10But (which becometh women professing godliness) with good works.",
+        "lv": "10 Bet (kā pienākas sievietēm, kas apliecina dievbijību) ar labiem darbiem."
+      },
+      {
+        "verse": 11,
+        "en": "11Let the woman learn in silence with all subjection.",
+        "lv": "11 Lai sieviete mācās klusībā ar visu pakļaušanos."
+      },
+      {
+        "verse": 12,
+        "en": "12But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.",
+        "lv": "12 Bet es nepieļauju sievietei mācīt, ne piesavināties varu pār vīrieti, bet būt klusībā."
+      },
+      {
+        "verse": 13,
+        "en": "13For Adam was first formed, then Eve.",
+        "lv": "13 Jo Ādams tika izveidots pirmais, tad Ieva."
+      },
+      {
+        "verse": 14,
+        "en": "14And Adam was not deceived, but the woman being deceived was in the transgression.",
+        "lv": "14 Un Ādams netika pievilts, bet sieviete, tikdama pievilta, bija pārkāpumā."
+      },
+      {
+        "verse": 15,
+        "en": "15Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.",
+        "lv": "15 <p>Tomēr viņa tiks izglābta bērnu dzemdēšanā, ja tie paliek ticībā un mīlestībā, un svētumā ar atturību."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "1This <i>is </i>a true saying, If a man desire the office of a bishop, he desireth a good work.",
+        "lv": "1 Šis <i>ir</i> patiess vārds, Ja kāds vēlas bīskapa amatu, viņš vēlas labu darbu."
+      },
+      {
+        "verse": 2,
+        "en": "2A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;",
+        "lv": "2 Tad bīskapam jābūt bez vainas, vienas sievas vīram, modram, skaidrā prātā, labas uzvedības, viesmīlīgam, spējīgam mācīt;"
+      },
+      {
+        "verse": 3,
+        "en": "3Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;",
+        "lv": "3 Ne <i>[tādam, kas]</i> nodevies vīnam, ne ķildniekam, ne alkatīgam uz negodīgu peļņu; bet pacietīgam, ne skandālistam, ne mantkārīgam;"
+      },
+      {
+        "verse": 4,
+        "en": "4One that ruleth well his own house, having his children in subjection with all gravity;",
+        "lv": "4 Kādam, kas labi valda savu paša namu, kam savi bērni ir pakļauti ar visu krietnumu;"
+      },
+      {
+        "verse": 5,
+        "en": "5(For if a man know not how to rule his own house, how shall he take care of the church of God?)",
+        "lv": "5 (Jo ja kāds nezina, kā valdīt savu paša namu, kā viņš parūpēsies par Dieva draudzi?)"
+      },
+      {
+        "verse": 6,
+        "en": "6Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.",
+        "lv": "6 Ne jaunatgrieztam, lai paceldamies ar lepnumu viņš neiekristu velna nosodīšanā."
+      },
+      {
+        "verse": 7,
+        "en": "7Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.",
+        "lv": "7 Turklāt viņam jābūt labai liecībai no tiem, kas ir ārpusē; lai viņš neiekrīt negodā un velna slazdā."
+      },
+      {
+        "verse": 8,
+        "en": "8Likewise <i>must </i>the deacons <i>be </i>grave, not doubletongued, not given to much wine, not greedy of filthy lucre;",
+        "lv": "8 <p>Tāpat diakoniem <i>jābūt</i> cienīgiem, ne divkosīgiem, ne <i>[tādiem, kas]</i> nodevušies daudz vīnam, ne alkatīgiem uz negodīgu peļņu;"
+      },
+      {
+        "verse": 9,
+        "en": "9Holding the mystery of the faith in a pure conscience.",
+        "lv": "9 Turot ticības mistēriju šķīstā sirdsapziņā."
+      },
+      {
+        "verse": 10,
+        "en": "10And let these also first be proved; then let them use the office of a deacon, being <i>found </i>blameless.",
+        "lv": "10 Un lai šie arī vispirms tiek pārbaudīti; tad lai tie ieņem diakona amatu, esot at<i>rasti b</i>ez vainas."
+      },
+      {
+        "verse": 11,
+        "en": "11Even so <i>must their</i> wives <i>be </i>grave, not slanderers, sober, faithful in all things.",
+        "lv": "11 Tāpat <i>viņu</i> sievām <i>jābūt</i> cienīgām, ne neslavas cēlājām, skaidrā prātā, uzticīgām visā."
+      },
+      {
+        "verse": 12,
+        "en": "12Let the deacons be the husbands of one wife, ruling their children and their own houses well.",
+        "lv": "12 Lai diakoni ir vienas sievas vīri, labi valdīdami savus bērnus un savus pašu namus."
+      },
+      {
+        "verse": 13,
+        "en": "13For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.",
+        "lv": "13 Jo tie, kas ir labi izmantojuši diakona amatu, pērk sev labu pakāpi un lielu drosmi ticībā, kas ir Kristū Jēzū."
+      },
+      {
+        "verse": 14,
+        "en": "14These things write I unto thee, hoping to come unto thee shortly:",
+        "lv": "14 <p>Šo es tev rakstu, cerēdams drīz nākt pie tevis:"
+      },
+      {
+        "verse": 15,
+        "en": "15But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+        "lv": "15 Bet, ja es ilgi kavējos, lai tu vari zināt, kā tev pienākas uzvesties Dieva namā, kas ir dzīvā Dieva draudze, patiesības pīlārs un pamats."
+      },
+      {
+        "verse": 16,
+        "en": "16And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.",
+        "lv": "16 Un neapstrīdami liela ir dievišķuma mistērija: Dievs tika darīts redzams miesā, taisnots tai Garā, redzēts no eņģeļiem, sludināts pagāniem, ticēts pasaulē, uzņemts godībā."
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "en": "1Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;",
+        "lv": "1 Tad nu Gars īpaši saka, ka pēdējos laikos kādi aizies no ticības, pievērsdami uzmanību maldinošiem gariem un velnu mācībām;"
+      },
+      {
+        "verse": 2,
+        "en": "2Speaking lies in hypocrisy; having their conscience seared with a hot iron;",
+        "lv": "2 Runādami melus liekulībā; kuru sirdsapziņa ir iededzināta ar karstu dzelzi;"
+      },
+      {
+        "verse": 3,
+        "en": "3Forbidding to marry, <i>and commanding</i> to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.",
+        "lv": "3 Aizliegdami precēties <i>un pavēlēdami</i> atturēties no ēdieniem, ko Dievs ir radījis saņemt ar pateicību no tiem, kas tic un atzīst patiesību."
+      },
+      {
+        "verse": 4,
+        "en": "4For every creature of God <i>is </i>good, and nothing to be refused, if it be received with thanksgiving:",
+        "lv": "4 Jo ikviens Dieva radījums <i>ir</i> labs un nekas nav noraidāms, ja tas tiek saņemts ar pateicību:"
+      },
+      {
+        "verse": 5,
+        "en": "5For it is sanctified by the word of God and prayer.",
+        "lv": "5 Jo tas tiek svētdarīts caur Dieva vārdu un lūgšanu."
+      },
+      {
+        "verse": 6,
+        "en": "6If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.",
+        "lv": "6 <p>Ja tu brāļiem šo atgādini, tu būsi labs Jēzus Kristus kalpotājs, uzaudzināts ticības un labas mācības vārdos, līdz kam tu esi aizsniedzies."
+      },
+      {
+        "verse": 7,
+        "en": "7But refuse profane and old wives' fables, and exercise thyself <i>rather </i>unto godliness.",
+        "lv": "7 Bet noraidi zaimojošas un vecu sievu pasakas un <i>labāk</i> darbojies pie dievbijības."
+      },
+      {
+        "verse": 8,
+        "en": "8For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
+        "lv": "8 Jo ķermeņa darbošanās dod mazu labumu: bet dievbijība ir derīga visām lietām, kam ir tagad esošās un nākamās dzīvības apsolījums."
+      },
+      {
+        "verse": 9,
+        "en": "9This <i>is </i>a faithful saying and worthy of all acceptation.",
+        "lv": "9 Šis <i>ir</i> uzticams vārds un visas pieņemšanas cienīgs."
+      },
+      {
+        "verse": 10,
+        "en": "10For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.",
+        "lv": "10 Jo tāpēc mēs gan pūlamies, gan ciešam negodu, tādēļ ka mēs paļaujamies uz dzīvo Dievu, kurš ir visu cilvēku Glābējs, īpaši to, kas tic."
+      },
+      {
+        "verse": 11,
+        "en": "11These things command and teach.",
+        "lv": "11 Šo pavēli un māci."
+      },
+      {
+        "verse": 12,
+        "en": "12Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+        "lv": "12 Lai neviens nenicina tavu jaunību; bet esi ticīgo piemērs vārdā, dzīvošanā, mīlestībā, garā, ticībā, šķīstībā."
+      },
+      {
+        "verse": 13,
+        "en": "13Till I come, give attendance to reading, to exhortation, to doctrine.",
+        "lv": "13 Iekams es nāku, pievērsies lasīšanai, pamudināšanai, mācībai."
+      },
+      {
+        "verse": 14,
+        "en": "14Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.",
+        "lv": "14 Nepamet novārtā dāvanu, kas ir tevī, kas tev tika dota caur pravietojumu, ar prezbiteru roku uzlikšanu."
+      },
+      {
+        "verse": 15,
+        "en": "15Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.",
+        "lv": "15 Meditē uz šīm lietām; nododies tām pilnīgi; lai tava sekmēšanās var parādīties visiem."
+      },
+      {
+        "verse": 16,
+        "en": "16Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.",
+        "lv": "16 Pielūko par sevi un mācību; paliec tajos: jo šo darīdams tu izglābsi gan sevi, gan tos, kas tevi klausās."
+      }
+    ],
+    "5": [
+      {
+        "verse": 1,
+        "en": "1Rebuke not an elder, but intreat <i>him </i>as a father; <i>and </i>the younger men as brethren;",
+        "lv": "1 Vecāku nerāj, bet lūdzies <i>to</i> kā tēvu; <i>un</i> jaunākos vīriešus kā brāļus;"
+      },
+      {
+        "verse": 2,
+        "en": "2The elder women as mothers; the younger as sisters, with all purity.",
+        "lv": "2 Vecākās sievietes kā mātes; jaunākās kā māsas ar visu škīstību."
+      },
+      {
+        "verse": 3,
+        "en": "3Honour widows that are widows indeed.",
+        "lv": "3 <p>Godā atraitnes, kas patiešām ir atraitnes."
+      },
+      {
+        "verse": 4,
+        "en": "4But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.",
+        "lv": "4 Bet, ja kādai atraitnei ir bērni vai mazbērni, lai tie mācās vispirms rādīt pietāti mājās un atlīdzināt saviem vecākiem: jo tas ir labi un pieņemami Dieva priekšā."
+      },
+      {
+        "verse": 5,
+        "en": "5Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day.",
+        "lv": "5 Tad nu tā, kas ir patiešām atraitne un vientuļa, paļaujas uz Dievu un paliek lūgumos un lūgšanās nakti un dienu."
+      },
+      {
+        "verse": 6,
+        "en": "6But she that liveth in pleasure is dead while she liveth.",
+        "lv": "6 Bet tā, kas dzīvo baudā, ir mirusi, kamēr viņa dzīvo."
+      },
+      {
+        "verse": 7,
+        "en": "7And these things give in charge, that they may be blameless.",
+        "lv": "7 Un šo piekodini, lai tās var būt bez vainas."
+      },
+      {
+        "verse": 8,
+        "en": "8But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+        "lv": "8 Bet, ja kāds negādā par savējiem, un īpaši par tiem no viņa paša nama, viņš ir noliedzis ticību un ir sliktāks par neticīgo."
+      },
+      {
+        "verse": 9,
+        "en": "9Let not a widow be taken into the number under threescore years old, having been the wife of one man,",
+        "lv": "9 Atraitne lai netiek ieskaitīta zem sešdesmit gadu vecuma, kas bijusi viena vīrieša sieva, "
+      },
+      {
+        "verse": 10,
+        "en": "10Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints' feet, if she have relieved the afflicted, if she have diligently followed every good work.",
+        "lv": "10 Par kuru ir labu darbu liecība; ja viņa ir uzaudzinājusi bērnus, ja viņa ir izmitinājusi svešiniekus, ja viņa ir mazgājusi svēto kājas, ja viņa ir atvieglinājusi sāpinātos, ja viņa centīgi sekojusi ikvienam labam darbam."
+      },
+      {
+        "verse": 11,
+        "en": "11But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;",
+        "lv": "11 Bet jaunākās atraitnes noraidi: jo, kad tās sākušas kļūt baudkāras pretī Kristum, tās grib precēties;"
+      },
+      {
+        "verse": 12,
+        "en": "12Having damnation, because they have cast off their first faith.",
+        "lv": "12 Kurām ir sodība, tāpēc ka tās ir atmetušas savu pirmo ticību."
+      },
+      {
+        "verse": 13,
+        "en": "13And withal they learn <i>to be</i> idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.",
+        "lv": "13 Un ar to tās mācās <i>būt</i> bezdarbīgas, klejodamas apkārt no nama uz namu; un ne tikai bezdarbīgas, bet arī pļāpas un tādas, kas jaucas citu darīšanās, runādamas to, ko tām neklājas."
+      },
+      {
+        "verse": 14,
+        "en": "14I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.",
+        "lv": "14 Tāpēc es gribu, lai jaunākās sievietes precas, dzemdē bērnus, vada namu, nedod nekādu iemeslu pretiniekam runāt nievājoši."
+      },
+      {
+        "verse": 15,
+        "en": "15For some are already turned aside after Satan.",
+        "lv": "15 Jo dažas jau ir nogriezušās pakaļ Sātanam."
+      },
+      {
+        "verse": 16,
+        "en": "16If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.",
+        "lv": "16 Ja kādam vīrietim vai sievietei, kas tic, ir atraitnes, lai tie tās atvieglina un lai draudze netiek noslogota; lai tā var atvieglināt tās, kas ir patiesas atraitnes."
+      },
+      {
+        "verse": 17,
+        "en": "17Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.",
+        "lv": "17 <p>Lai vecaji, kas labi valda, tiek skaitīti divkārša goda cienīgi, īpaši tie, kas pūlas vārdā un mācībā."
+      },
+      {
+        "verse": 18,
+        "en": "18For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer <i>is </i>worthy of his reward.",
+        "lv": "18 Jo raksts saka, Tev nebūs uzlikt uzpurni vērsim, kas izmin labību. Un, Strādnieks <i>ir</i> sava atalgojuma cienīgs."
+      },
+      {
+        "verse": 19,
+        "en": "19Against an elder receive not an accusation, but before two or three witnesses.",
+        "lv": "19 Pret vecaju nepieņem apsūdzību, kā tikai divu vai triju liecinieku priekšā."
+      },
+      {
+        "verse": 20,
+        "en": "20Them that sin rebuke before all, that others also may fear.",
+        "lv": "20 Tos, kas grēko, norāj visu priekšā, lai citi arī var bīties."
+      },
+      {
+        "verse": 21,
+        "en": "21I charge <i>thee </i>before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.",
+        "lv": "21 <p>Es <i>tev</i> piekodinu Dieva un Kunga Jēzus Kristus, un izredzēto eņģeļu priekšā, lai tu ievēro šīs lietas, nedodams priekšroku vienai pār otru, neko nedarīdams ar aizspriedumiem."
+      },
+      {
+        "verse": 22,
+        "en": "22Lay hands suddenly on no man, neither be partaker of other men's sins: keep thyself pure.",
+        "lv": "22 <p>Neuzliec nevienam rokas pēkšņi, nedz esi citu cilvēku grēku līdzdalībnieks: sargā sevi šķīstu."
+      },
+      {
+        "verse": 23,
+        "en": "23Drink no longer water, but use a little wine for thy stomach's sake and thine often infirmities.",
+        "lv": "23 Nedzer vairs ūdeni, bet lieto nedaudz vīna tava vēdera un tavu biežo vājumu dēļ."
+      },
+      {
+        "verse": 24,
+        "en": "24Some men's sins are open beforehand, going before to judgment; and some <i>men </i>they follow after.",
+        "lv": "24 Dažu cilvēku grēki ir atklāti iepriekš, ejot iepriekš uz tiesu; un dažiem tie seko pakaļ."
+      },
+      {
+        "verse": 25,
+        "en": "25Likewise also the good works <i>of some</i> are manifest beforehand; and they that are otherwise cannot be hid.",
+        "lv": "25 Tāpat arī <i>dažu</i> labie darbi ir darīti redzami iepriekš; un tie, kas ir citādi, nevar tikt paslēpti."
+      }
+    ],
+    "6": [
+      {
+        "verse": 1,
+        "en": "1Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and <i>his </i>doctrine be not blasphemed.",
+        "lv": "1 Lai visi, kas ir kalpi zem jūga, skaita savus pašu saimniekus visa goda cienīgus, lai Dieva vārds un <i>viņa</i> mācība netiek zaimoti."
+      },
+      {
+        "verse": 2,
+        "en": "2And they that have believing masters, let them not despise <i>them</i>, because they are brethren; but rather do <i>them </i>service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort.",
+        "lv": "2 Un tie, kam ir ticīgi saimnieki, lai tie <i>tos</i> nenicina, tāpēc ka tie ir brāļi; bet labāk lai <i>tiem</i> kalpo, tāpēc ka tie ir uzticami un mīļoti, labuma līdzdalībnieki. Šo māci un pamudini."
+      },
+      {
+        "verse": 3,
+        "en": "3If any man teach otherwise, and consent not to wholesome words, <i>even </i>the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;",
+        "lv": "3 Ja kāds māca citādi un nepiekrīt veselīgiem vārdiem, <i>proti, </i>mūsu Kunga Jēzus Kristus vārdiem un mācībai, kas ir pēc dievbijības;"
+      },
+      {
+        "verse": 4,
+        "en": "4He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,",
+        "lv": "4 Viņš ir lepns, neko nezinādams, bet apsēsts ar jautājumiem un strīdiem par vārdiem, no kā nāk skaudība, strīds, bāršanās, ļauni minējumi,"
+      },
+      {
+        "verse": 5,
+        "en": "5Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.",
+        "lv": "5 Samaitāti strīdi no cilvēkiem ar samaitātu prātu un kam trūkst patiesības, pieņemdami, ka ieguvums ir dievbījība: no tādiem atraujies."
+      },
+      {
+        "verse": 6,
+        "en": "6But godliness with contentment is great gain.",
+        "lv": "6 <p>Bet dievbijība ar pieticību ir liels ieguvums."
+      },
+      {
+        "verse": 7,
+        "en": "7For we brought nothing into <i>this </i>world, <i>and it is</i> certain we can carry nothing out.",
+        "lv": "7 Jo mēs neko neienesām <i>šajā</i> pasaulē, <i>un ir</i> droši, ka mēs neko nevaram iznest."
+      },
+      {
+        "verse": 8,
+        "en": "8And having food and raiment let us be therewith content.",
+        "lv": "8 Un esot ēdienam un tērpam, lai ar to esam apmierināti."
+      },
+      {
+        "verse": 9,
+        "en": "9But they that will be rich fall into temptation and a snare, and <i>into </i>many foolish and hurtful lusts, which drown men in destruction and perdition.",
+        "lv": "9 Bet tie, kas grib būt bagāti, krīt kārdinājumā un slazdā, un daudzās muļķīgās un kaitīgās kārībās, kas cilvēkus velk iznīcībā un pazušanā."
+      },
+      {
+        "verse": 10,
+        "en": "10For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+        "lv": "10 Jo naudas mīlestība ir visa ļaunuma sakne: pēc kuras daži iekārodami, ir nomaldījušies no ticības un caurdūrušies ar daudz skumjām."
+      },
+      {
+        "verse": 11,
+        "en": "11But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.",
+        "lv": "11 <p>Bet tu, ak, Dieva cilvēk, bēdz no šī; un seko taisnībai, dievbijībai, ticībai, mīlestībai, pacietībai, lēnprātībai."
+      },
+      {
+        "verse": 12,
+        "en": "12Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.",
+        "lv": "12 Cīnies labo ticības cīņu, sagrāb mūžīgo dzīvību, uz ko tu arī esi aicināts un esi apliecinājis labu liecību daudzu liecinieku priekšā."
+      },
+      {
+        "verse": 13,
+        "en": "13I give thee charge in the sight of God, who quickeneth all things, and <i>before </i>Christ Jesus, who before Pontius Pilate witnessed a good confession;",
+        "lv": "13 Es tevi piekodinu Dieva skatienā, kurš visu atdzīvina un Kristus Jēzus <i>priekšā</i>, kurš Poncija Pilāta priekšā apliecināja labu atzīšanos;"
+      },
+      {
+        "verse": 14,
+        "en": "14That thou keep <i>this </i>commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:",
+        "lv": "14 Lai tu turi <i>šo</i> pavēli bez traipa, nenorājams līdz mūsu Kunga Jēzus Kristus parādīšanai:"
+      },
+      {
+        "verse": 15,
+        "en": "15Which in his times he shall shew, <i>who is</i> the blessed and only Potentate, the King of kings, and Lord of lords;",
+        "lv": "15 Ko viņš savos laikos parādīs, <i>kurš</i> <i>ir</i> svētīgais un vienīgais Potentāts, ķēniņu Ķēniņš un kungu Kungs;"
+      },
+      {
+        "verse": 16,
+        "en": "16Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom <i>be </i>honour and power everlasting. Amen.",
+        "lv": "16 Kuram vien ir nemirstība, mājojot gaismā, kurai neviens nevar tuvoties; kuru neviens nav redzējis, nedz var redzēt: kuram <i>lai ir</i> mūžīgs gods un vara. Āmen."
+      },
+      {
+        "verse": 17,
+        "en": "17Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;",
+        "lv": "17 Piekodini tiem, kas ir bagāti šajā pasaulē, lai tie nav augstprātīgi, ne paļaujas uz nedrošām bagātībām, bet uz dzīvo Dievu, kurš mums bagātīgi dod visu izbaudīt;"
+      },
+      {
+        "verse": 18,
+        "en": "18That they do good, that they be rich in good works, ready to distribute, willing to communicate;",
+        "lv": "18 Lai tie dara labu, lai tie ir bagāti labos darbos, gatavi izdalīt, labprātīgi dalīties;"
+      },
+      {
+        "verse": 19,
+        "en": "19Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.",
+        "lv": "19 Krādami priekš sevis krājumā labu pamatu pret nākamo laiku, lai tie var sagrābt mūžīgu dzīvību."
+      },
+      {
+        "verse": 20,
+        "en": "20O Timothy, keep that which is committed to thy trust, avoiding profane <i>and </i>vain babblings, and oppositions of science falsely so called:",
+        "lv": "20 Ak, Timotej, turi to, kas tev ir uzticēts, izvairīdamies no zaimojošām <i>un</i> tukšām pļāpām un pretestības no zinātnes, kas nepatiesi tā saukta:"
+      },
+      {
+        "verse": 21,
+        "en": "21Which some professing have erred concerning the faith. Grace <i>be </i>with thee. Amen. (<i>The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana.</i>)",
+        "lv": "21 Ko daži apliecinādami ir nomaldījušies attiecībā uz ticību. Žēlastība <i>lai</i> <i>ir</i> ar tevi. Āmen. (<i>Pirmā Timotejam tika rakstīta no Laodiķejas, kas ir Friģijas Pakatianas galvenā pilsēta.</i>)"
+      }
+    ]
+  }
+}

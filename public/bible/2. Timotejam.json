@@ -1,0 +1,428 @@
+{
+  "book": "2. Timotejam",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,",
+        "lv": "1 Pāvils, Jēzus Kristus apustulis, caur Dieva gribu atbilstoši dzīvības apsolījumam, kas ir Kristū Jēzū,"
+      },
+      {
+        "verse": 2,
+        "en": "2To Timothy, <i>my </i>dearly beloved son: Grace, mercy, <i>and </i>peace, from God the Father and Christ Jesus our Lord.",
+        "lv": "2 Timotejam, <i>manam</i> dārgi mīļotajam dēlam: Žēlastība, žēlsirdība <i>un</i> miers no Dieva Tēva un Kristus Jēzus, mūsu Kunga."
+      },
+      {
+        "verse": 3,
+        "en": "3I thank God, whom I serve from <i>my </i>forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;",
+        "lv": "3 Es pateicos Dievam, kuram es kalpoju no <i>saviem</i> priekštečiem ar šķīstu sirdsapziņu, ka man bez mitēšanās ir piemiņa par tevi savās lūgšanās nakti un dienu;"
+      },
+      {
+        "verse": 4,
+        "en": "4Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;",
+        "lv": "4 Ļoti vēlēdamies tevi redzēt, paturot prātā tavas asaras, lai es varu tikt pildīts ar prieku;"
+      },
+      {
+        "verse": 5,
+        "en": "5When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.",
+        "lv": "5 Kad es atsaucu atmiņā neviltoto ticību, kas ir tevī, kas vispirms mājoja tavā vecāmātē Loisā un tavā mātē Eunikā; un es esmu pārliecināts, ka arī tevī."
+      },
+      {
+        "verse": 6,
+        "en": "6Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.",
+        "lv": "6 <p>Tādēļ es tev atgādinu, lai tu modini Dieva dāvanu, kas ir tevī caur manu roku uzlikšanu."
+      },
+      {
+        "verse": 7,
+        "en": "7For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+        "lv": "7 Jo Dievs mums nav devis bijības garu; bet spēka un mīlestības, un savaldības."
+      },
+      {
+        "verse": 8,
+        "en": "8Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;",
+        "lv": "8 Tāpēc nekaunies par mūsu Kunga liecību, ne par mani, viņa ieslodzīto: bet esi evaņģēlija bēdu līdzdalībnieks atbilstoši Dieva spēkam;"
+      },
+      {
+        "verse": 9,
+        "en": "9Who hath saved us, and called <i>us </i>with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+        "lv": "9 Kurš mūs ir glābis un aicinājis ar svētu aicinājumu, ne pēc mūsu darbiem, bet pēc sava paša nodoma un žēlastībai, kas mums tika dota Kristū Jēzū, pirms pasaule iesākās,"
+      },
+      {
+        "verse": 10,
+        "en": "10But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:",
+        "lv": "10 Bet nu ir darīta redzama caur mūsu Glābēja Jēzus Kristus parādīšanos, kurš ir likvidējis nāvi un ir vedis gaismā dzīvību un nemirstību caur evaņģēliju:"
+      },
+      {
+        "verse": 11,
+        "en": "11Whereunto I am appointed a preacher, and an apostle, and a teacher of the Gentiles.",
+        "lv": "11 Kā dēļ es esmu iecelts par sludinātāju un apustuli, un pagānu skolotāju."
+      },
+      {
+        "verse": 12,
+        "en": "12For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.",
+        "lv": "12 Kā dēļ es arī šo ciešu: neraugoties uz to, es nekaunos: jo es zinu, kuram es esmu ticējis, un esmu pārliecināts, ka viņš spēj pasargāt to, ko es viņam esmu uzticējis pret to dienu."
+      },
+      {
+        "verse": 13,
+        "en": "13Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.",
+        "lv": "13 Turi stingri veselīgo vārdu veidolu, ko tu no manis esi dzirdējis, ticībā un mīlestībā, kas ir Kristū Jēzū."
+      },
+      {
+        "verse": 14,
+        "en": "14That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.",
+        "lv": "14 To labo lietu, kas tev tika uzticēta, pasargā caur Svēto Garu, kas mājo mūsos."
+      },
+      {
+        "verse": 15,
+        "en": "15This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.",
+        "lv": "15 Šo tu zini, ka visi tie, kas ir Āzijā, no manis ir novērsušies; no kuriem ir Figellus un Hermogens."
+      },
+      {
+        "verse": 16,
+        "en": "16The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:",
+        "lv": "16 Tas Kungs lai dod žēlsirdību Onesifora namam; jo viņš bieži mani atspirdzināja un nekaunējās no manas ķēdes:"
+      },
+      {
+        "verse": 17,
+        "en": "17But, when he was in Rome, he sought me out very diligently, and found <i>me</i>.",
+        "lv": "17 Bet, kad viņš bija Romā, viņš mani ļoti centīgi izmeklējās un <i>mani</i> atrada."
+      },
+      {
+        "verse": 18,
+        "en": "18The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.",
+        "lv": "18 Tas Kungs lai viņam dāvā, ka viņš var atrast žēlsirdību no tā Kunga tajā dienā: un cik daudzās lietās viņš man kalpoja Efezā, tu zini ļoti labi."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1Thou therefore, my son, be strong in the grace that is in Christ Jesus.",
+        "lv": "1 Tāpēc tu, mans dēls, esi stiprs žēlastībā, kas ir Kristū Jēzū."
+      },
+      {
+        "verse": 2,
+        "en": "2And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.",
+        "lv": "2 Un to, ko tu no manis esi dzirdējis starp daudz lieciniekiem, to pašu uztici uzticamiem cilvēkiem, kas spēs mācīt arī citus."
+      },
+      {
+        "verse": 3,
+        "en": "3Thou therefore endure hardness, as a good soldier of Jesus Christ.",
+        "lv": "3 Tāpēc izturi grūtumu kā labs Jēzus Kristus karavīrs."
+      },
+      {
+        "verse": 4,
+        "en": "4No man that warreth entangleth himself with the affairs of <i>this </i>life; that he may please him who hath chosen him to be a soldier.",
+        "lv": "4 Neviens, kas karo, nepinas ar <i>šīs</i> dzīves darīšanām; lai viņš var patikt tam, kas viņu ir izraudzījis par karavīru."
+      },
+      {
+        "verse": 5,
+        "en": "5And if a man also strive for masteries, <i>yet </i>is he not crowned, except he strive lawfully.",
+        "lv": "5 Un, ja kāds arī cīnās par kroni, <i>tomēr</i> viņš netiek kronēts, ja vien viņš necīnās likumīgi."
+      },
+      {
+        "verse": 6,
+        "en": "6The husbandman that laboureth must be first partaker of the fruits.",
+        "lv": "6 Zemkopim, kas pūlas, jābūt pirmajam dalībniekam pie augļiem."
+      },
+      {
+        "verse": 7,
+        "en": "7Consider what I say; and the Lord give thee understanding in all things.",
+        "lv": "7 Ņem vērā, ko es saku; un tas Kungs lai tev dod saprašanu visās lietās."
+      },
+      {
+        "verse": 8,
+        "en": "8Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:",
+        "lv": "8 Atceries, ka Jēzus Kristus no Dāvida sēklas tika uzcelts no mirušajiem pēc mana evaņģēlija:"
+      },
+      {
+        "verse": 9,
+        "en": "9Wherein I suffer trouble, as an evil doer, <i>even </i>unto bonds; but the word of God is not bound.",
+        "lv": "9 Kurā es ciešu bēdas kā ļauna darītājs, līdz <i>pat </i>saitēm; bet Dieva vārds nav saistīts."
+      },
+      {
+        "verse": 10,
+        "en": "10Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.",
+        "lv": "10 Tāpēc es izturu visu izredzēto dēļ, lai tie arī var iegūt glābšanu, kas ir Kristū Jēzū ar mūžīgu godību."
+      },
+      {
+        "verse": 11,
+        "en": "11<i>It is</i> a faithful saying: For if we be dead with <i>him</i>, we shall also live with <i>him</i>:",
+        "lv": "11 <i>Tas ir</i> uzticams vārds: Jo, ja mēs ar <i>viņu </i>esam<i> </i>miruši, mēs ar <i>viņu </i>arī<i> </i>dzīvosim:"
+      },
+      {
+        "verse": 12,
+        "en": "12If we suffer, we shall also reign with <i>him</i>: if we deny <i>him</i>, he also will deny us:",
+        "lv": "12 Ja mēs ciešam, mēs ar <i>viņu </i>arī<i> </i>valdīsim: ja mēs <i>viņu </i>noliedzam, viņš mūs arī noliegs:"
+      },
+      {
+        "verse": 13,
+        "en": "13If we believe not, <i>yet </i>he abideth faithful: he cannot deny himself.",
+        "lv": "13 Ja mēs neticam,<i> tomēr </i>viņš paliek uzticams: viņš nevar noliegt sevi pašu."
+      },
+      {
+        "verse": 14,
+        "en": "14Of these things put <i>them </i>in remembrance, charging <i>them </i>before the Lord that they strive not about words to no profit, <i>but </i>to the subverting of the hearers.",
+        "lv": "14 Par šo <i>tiem</i> atgādini, piekodinādams <i>tiem</i> tā Kunga priekšā, lai tie nestrīdas par vārdiem, kas nenes labumu, <i>bet</i> ir klausītāju sagraušanai."
+      },
+      {
+        "verse": 15,
+        "en": "15Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+        "lv": "15 Studē, lai sevi parādītu apstiprinātu Dievam, strādnieku, kam nevajag kaunēties, pareizi izdalot patiesības vārdu."
+      },
+      {
+        "verse": 16,
+        "en": "16But shun profane <i>and </i>vain babblings: for they will increase unto more ungodliness.",
+        "lv": "16 Bet izvairies no zaimojošām <i>un</i> veltīgām pļāpām: jo tie pieaugs uz vairāk bezdievības."
+      },
+      {
+        "verse": 17,
+        "en": "17And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;",
+        "lv": "17 Un viņu vārds ēdīs kā gangrēna: no kuriem ir Himanejus un Filetus;"
+      },
+      {
+        "verse": 18,
+        "en": "18Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.",
+        "lv": "18 Kuri attiecībā uz patiesību ir nomaldījušies, sacīdami, ka augšāmcelšanās jau ir pagājusi; un apgāž dažu ticību."
+      },
+      {
+        "verse": 19,
+        "en": "19Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.",
+        "lv": "19 <p>Neraugoties uz to, Dieva pamats stāv drošs ar šo zīmogu, Tas Kungs pazīst tos, kas ir viņa. Un, Lai ikviens, kas min Kristus vārdu, aiziet no nekrietnības."
+      },
+      {
+        "verse": 20,
+        "en": "20But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.",
+        "lv": "20 Bet lielā namā ir ne tikai zelta un sudraba trauki, bet arī koka un zemes; un daži godam, un daži negodam."
+      },
+      {
+        "verse": 21,
+        "en": "21If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, <i>and </i>prepared unto every good work.",
+        "lv": "21 Tāpēc, ja kāds šķīsta sevi no šiem, viņš būs trauks godam, svētdarīts un piemērots saimnieka izmantošanai, <i>un</i> sagatavots ikvienam labam darbam."
+      },
+      {
+        "verse": 22,
+        "en": "22Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.",
+        "lv": "22 Bēdz arī no jauneklīgām iekārēm: bet seko taisnībai, ticībai, mīlestībai, mieram ar tiem, kas sauc uz to Kungu no šķīstas sirds."
+      },
+      {
+        "verse": 23,
+        "en": "23But foolish and unlearned questions avoid, knowing that they do gender strifes.",
+        "lv": "23 Bet no muļķīgiem un neizglītotiem jautājumiem izvairies, zinādams, ka tie dzemdina strīdus."
+      },
+      {
+        "verse": 24,
+        "en": "24And the servant of the Lord must not strive; but be gentle unto all <i>men</i>, apt to teach, patient,",
+        "lv": "24 Un tā Kunga kalpam nav jāstrīdas: bet jābūt maigam pret visiem, prasmīgam mācīt, pacietīgam,"
+      },
+      {
+        "verse": 25,
+        "en": "25In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;",
+        "lv": "25 Lēnprātībā pamācot tos, kas turas pretī; vai Dievs jel tiem nedotu nožēlu uz patiesības atzīšanu;"
+      },
+      {
+        "verse": 26,
+        "en": "26And <i>that </i>they may recover themselves out of the snare of the devil, who are taken captive by him at his will.",
+        "lv": "26 Un <i>lai</i> tie var atgūties no velna slazda, kuri viņa gribā ir no viņa sagūstīti."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "",
+        "lv": "1 Zini arī šo, ka pēdējās dienās bīstami laiki nāks."
+      },
+      {
+        "verse": 2,
+        "en": "",
+        "lv": "2 Jo cilvēki būs sevis pašu mīlētāji, mantkārīgi, lielībnieki, lepni, zaimotāji, nepaklausīgi vecākiem, nepateicīgi, nesvēti,"
+      },
+      {
+        "verse": 3,
+        "en": "3Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
+        "lv": "3 Bez dabīgas pieķeršanās, solījumu lauzēji, nepatiesi apsūdzētāji, nesavaldīgi, nikni, labo nicinātāji,"
+      },
+      {
+        "verse": 4,
+        "en": "4Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
+        "lv": "4 Nodevēji, pārsteidzīgi, augstprātīgi, baudu mīlētāji vairāk nekā Dieva mīlētāji;"
+      },
+      {
+        "verse": 5,
+        "en": "5Having a form of godliness, but denying the power thereof: from such turn away.",
+        "lv": "5 Ar dievbijības veidolu, bet noliedzot tās spēku: no tādiem novērsies."
+      },
+      {
+        "verse": 6,
+        "en": "6For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
+        "lv": "6 <p>Jo no šādiem ir tie, kas iezogas namos un ved gūstā muļķīgas sievietes, apkrautas ar grēkiem, aizvestas ar dažādām iekārēm,"
+      },
+      {
+        "verse": 7,
+        "en": "7Ever learning, and never able to come to the knowledge of the truth.",
+        "lv": "7 Vienmēr mācīdamies un nekad nespēdami nākt pie patiesības atzīšanas."
+      },
+      {
+        "verse": 8,
+        "en": "8Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+        "lv": "8 Tad nu kā Jannes un Jambres stāvēja pretī Mozum, tā arī šie pretojas patiesībai: samaitātu prātu cilvēki, nelietīgi attiecībā uz ticību."
+      },
+      {
+        "verse": 9,
+        "en": "9But they shall proceed no further: for their folly shall be manifest unto all <i>men</i>, as theirs also was.",
+        "lv": "9 Bet tie netiks tālāk: jo viņu muļķība tiks darīta redzama visiem, kā arī to tika."
+      },
+      {
+        "verse": 10,
+        "en": "10But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
+        "lv": "10 Bet tu esi pilnīgi zinājis manu mācību, dzīves veidu, mērķi, ticību, ilgcietību, mīlestību, pacietību,"
+      },
+      {
+        "verse": 11,
+        "en": "11Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.",
+        "lv": "11 Vajāšanas, sāpes, kas nāca uz manis Antiohijā, Ikonijā, Listrā; kādas vajāšanas es izturēju: bet no tām visām tas Kungs mani izpestīja."
+      },
+      {
+        "verse": 12,
+        "en": "12Yea, and all that will live godly in Christ Jesus shall suffer persecution.",
+        "lv": "12 Jā, un visi, kas grib dzīvot dievbījīgi Kristū Jēzū, cietīs vajāšanu."
+      },
+      {
+        "verse": 13,
+        "en": "13But evil men and seducers shall wax worse and worse, deceiving, and being deceived.",
+        "lv": "13 Bet ļauni cilvēki un pavedinātāji kļūs sliktāki un sliktāki, pievildami un tikdami pievilti."
+      },
+      {
+        "verse": 14,
+        "en": "14But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned <i>them</i>;",
+        "lv": "14 Bet paliec tajā, ko tu esi mācījies un par ko esi ticis pārliecināts, zinādams no kura tu <i>to</i> esi mācījies;"
+      },
+      {
+        "verse": 15,
+        "en": "15And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
+        "lv": "15 Un ka no bērnības tu esi zinājis svētos rakstus, kas tevi spēj darīt gudru uz glābšanu caur ticību, kas ir Kristū Jēzū."
+      },
+      {
+        "verse": 16,
+        "en": "16All scripture is given by inspiration of God, and <i>is </i>profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+        "lv": "16 Viss raksts ir Dieva iedvests un <i>ir</i> derīgs mācībai, norāšanai, labošanai, pamācībai taisnībā:"
+      },
+      {
+        "verse": 17,
+        "en": "17That the man of God may be perfect, throughly furnished unto all good works.",
+        "lv": "17 Lai Dieva cilvēks var būt pilnīgs, viscaur apgādāts uz visiem labiem darbiem."
+      }
+    ],
+    "4": [
+      {
+        "verse": 1,
+        "en": "1I charge <i>thee </i>therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;",
+        "lv": "1 Tāpēc es <i>tev</i> piekodinu Dieva un Kunga Jēzus Kristus priekšā, kurš tiesās dzīvos un mirušos, pie viņa un viņa valstības parādīšanās;"
+      },
+      {
+        "verse": 2,
+        "en": "2Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.",
+        "lv": "2 Sludini vārdu; esi tūlītējs laikā, nelaikā; aizrādi, norāj, pamudini ar visu ilgcietību un mācību."
+      },
+      {
+        "verse": 3,
+        "en": "3For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;",
+        "lv": "3 Jo laiks nāks, kad tie neizturēs veselīgu mācību; bet pēc savu pašu iekārēm tie sev uzkraus skolotājus, <i>[tiem]</i> esot niezošām ausīm;"
+      },
+      {
+        "verse": 4,
+        "en": "4And they shall turn away <i>their </i>ears from the truth, and shall be turned unto fables.",
+        "lv": "4 Un tie novērsīs <i>savas</i> ausis no patiesības un tiks pievērsti pasakām."
+      },
+      {
+        "verse": 5,
+        "en": "5But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry.",
+        "lv": "5 Bet esi nomodā visā, izturi bēdas, dari evaņģēlista darbu, sniedz pilnu savas kalpošanas pierādījumu."
+      },
+      {
+        "verse": 6,
+        "en": "6For I am now ready to be offered, and the time of my departure is at hand.",
+        "lv": "6 <p>Jo es nu esmu gatavs tikt ziedots, un manas aiziešanas laiks ir tuvu klāt."
+      },
+      {
+        "verse": 7,
+        "en": "7I have fought a good fight, I have finished <i>my </i>course, I have kept the faith:",
+        "lv": "7 Es esmu cīnījies labu cīņu, es esmu pabeidzis <i>savu</i> kursu, es esmu turējis ticību:"
+      },
+      {
+        "verse": 8,
+        "en": "8Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.",
+        "lv": "8 Turpmāk man ir nolikts taisnības kronis, ko tas Kungs, taisnais tiesnesis, man dos tajā dienā: un ne tikai man, bet arī visiem tiem, kas mīl viņa parādīšanos."
+      },
+      {
+        "verse": 9,
+        "en": "9Do thy diligence to come shortly unto me:",
+        "lv": "9 <p>Centies nākt pie manis īsā laikā:"
+      },
+      {
+        "verse": 10,
+        "en": "10For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.",
+        "lv": "10 Jo Demas mani ir pametis, mīlēdams šo pašreizējo pasauli, un ir aizgājis uz Tesaloniku; Krescens uz Galatiju, Titus uz Dalmācīju."
+      },
+      {
+        "verse": 11,
+        "en": "11Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.",
+        "lv": "11 Tikai Lūka ir pie manis. Ņem Marku un ved viņu sev līdzi: jo viņš man ir derīgs priekš kalpošanas."
+      },
+      {
+        "verse": 12,
+        "en": "12And Tychicus have I sent to Ephesus.",
+        "lv": "12 Un Tiķiku es esmu sūtījis uz Efezu."
+      },
+      {
+        "verse": 13,
+        "en": "13The cloke that I left at Troas with Carpus, when thou comest, bring <i>with thee</i>, and the books, <i>but </i>especially the parchments.",
+        "lv": "13 Apmetni, ko es atstāju Troā ar Karpu, kad nāc, atved <i>sev līdzi</i>, un grāmatas, <i>bet</i> it īpaši pergamentus."
+      },
+      {
+        "verse": 14,
+        "en": "14Alexander the coppersmith did me much evil: the Lord reward him according to his works:",
+        "lv": "14 Varkalis Aleksandrs man darīja daudz ļauna: tas Kungs lai viņam atlīdzina pēc viņa darbiem:"
+      },
+      {
+        "verse": 15,
+        "en": "15Of whom be thou ware also; for he hath greatly withstood our words.",
+        "lv": "15 No kura tu arī piesargies; jo viņš ir ļoti stāvējis pretī mūsu vārdiem."
+      },
+      {
+        "verse": 16,
+        "en": "16At my first answer no man stood with me, but all <i>men </i>forsook me:<i> I pray God</i> that it may not be laid to their charge.",
+        "lv": "16 Pie manas pirmās atbildēšanas neviens nestāvēja ar mani, bet visi mani pameta: <i>es lūdzu Dievu</i>, lai tas viņiem netiktu pieskaitīts."
+      },
+      {
+        "verse": 17,
+        "en": "17Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and <i>that </i>all the Gentiles might hear: and I was delivered out of the mouth of the lion.",
+        "lv": "17 Neskatoties uz to, tas Kungs stāvēja ar mani un mani stiprināja; ka caur mani sludināšana varētu būt pilnīgi zināma un visi pagāni varētu dzirdēt: un es tiku izpestīts no lauvas mutes."
+      },
+      {
+        "verse": 18,
+        "en": "18And the Lord shall deliver me from every evil work, and will preserve <i>me </i>unto his heavenly kingdom: to whom be glory for ever and ever. Amen.",
+        "lv": "18 Un tas Kungs mani izpestīs no ikviena ļauna darba un <i>mani</i> pasaudzēs uz savu debesu valstību: kuram lai ir godība mūžīgi mūžam. Āmen."
+      },
+      {
+        "verse": 19,
+        "en": "19Salute Prisca and Aquila, and the household of Onesiphorus.",
+        "lv": "19 Sveicini Prisku un Akilu, un Onesifora saimi."
+      },
+      {
+        "verse": 20,
+        "en": "20Erastus abode at Corinth: but Trophimus have I left at Miletum sick.",
+        "lv": "20 Erastus palika Korintā: bet Trofimu es esmu atstājis neveselu Miletū."
+      },
+      {
+        "verse": 21,
+        "en": "21Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.",
+        "lv": "21 Centies nākt pirms ziemas, Eubulus tevi sveicina, un Pudens, un Linus, un Klaudija, un visi brāļi."
+      },
+      {
+        "verse": 22,
+        "en": "22The Lord Jesus Christ be with thy spirit. Grace <i>be </i>with you. Amen. (<i>The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.</i>)",
+        "lv": "22 Kungs Jēzus Kristus lai ir ar tavu garu. Žēlastība <i>lai ir</i> ar jums. Āmen. (<i>Otrā vēstule Timotejam, ieceltam pirmajam efeziešu draudzes bīskapam, tika rakstīta no Romas, kad Pāvils Nērona priekšā tika vests otro reizi.</i>)"
+      }
+    ]
+  }
+}

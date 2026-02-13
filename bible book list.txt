@@ -1,0 +1,66 @@
+Iesākums.json
+Izceļošana.json
+Levīti.json
+Skaitļi.json
+Atkārtotais likums.json
+Jozuas.json
+Tiesneši.json
+Rutes.json
+1. Samuēla.json
+2. Samuēla.json
+1. Ķēniņu.json
+2. Ķēniņu.json
+1. Hroniku.json
+2. Hroniku.json
+Ezras.json
+Nehemijas.json
+Esteres.json
+Ījaba.json
+Psalmi.json
+Sakāmvārdi.json
+Ekleziaste.json
+Salamana dziesma.json
+Jesajas.json
+Jeremijas.json
+Vaimanās.json
+Ecēhiēla.json
+Daniela.json
+Hozejas.json
+Joēla.json
+Amosa.json
+Obadijas.json
+Jonas.json
+Mihas.json
+Nahuma.json
+Habakuka.json
+Cefanjas.json
+Hagaja.json
+Zaharija.json
+Maleahija.json
+Mateja evaņģēlijs.json
+Marka Evaņģēlijs.json
+Lūkas evaņģēlijs.json
+Jāņa evaņģēlijs.json
+Apustuļu darbi.json
+Romiešiem.json
+1. Korintiešiem.json
+2. Korintiešiem.json
+Galatiešiem.json
+Efeziešiem.json
+Filipiešiem.json
+Kolosiešiem.json
+1. Tesaloniķiešiem.json
+2. Tesaloniķiešiem.json
+1. Timotejam.json
+2. Timotejam.json
+Titam.json
+Filemonam.json
+Ebrejiem.json
+Jēkaba.json
+1. Pētera.json
+2. Pētera.json
+1. Jāņa.json
+2. Jāņa.json
+3. Jāņa.json
+Jūdas.json
+Atklāsmes.json

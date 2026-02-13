@@ -1,0 +1,316 @@
+{
+  "book": "2. Pētera",
+  "chapters": {
+    "1": [
+      {
+        "verse": 1,
+        "en": "1Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:",
+        "lv": "1 Sīmanis Pēteris, Jēzus Kristus kalps un apustulis, tiem, kas ar mums ir ieguvuši to pašu dārgo ticību caur Dieva un mūsu Glābēja Jēzus Kristus taisnību:"
+      },
+      {
+        "verse": 2,
+        "en": "2Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,",
+        "lv": "2 Žēlastība un miers lai jums vairojas caur Dieva un Jēzus, mūsu Kunga, atzīšanu,"
+      },
+      {
+        "verse": 3,
+        "en": "3According as his divine power hath given unto us all things that <i>pertain </i>unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
+        "lv": "3 Atbilstoši tam, kā viņa dievišķais spēks mums ir devis visu, kas <i>pieder </i>dzīvībai un dievbijībai caur tā atzīšanu, kas mūs ir aicinājis uz godību un tikumu:"
+      },
+      {
+        "verse": 4,
+        "en": "4Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+        "lv": "4 Caur ko mums ir doti ārkārtīgi lieli un dārgi apsolījumi: lai caur šiem jūs varētu būt dievišķās dabas līdzdalībnieki, izbēguši samaitātībai, kas ir pasaulē caur iekāri."
+      },
+      {
+        "verse": 5,
+        "en": "5And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
+        "lv": "5 <p>Un bez tā, pieliekot visu rūpību, pielieciet savai ticībai pielikt tikumu; un tikumam atzīšanu;"
+      },
+      {
+        "verse": 6,
+        "en": "6And to knowledge temperance; and to temperance patience; and to patience godliness;t",
+        "lv": "6 Un atzīšanai atturību; un atturībai pacietību; un pacietībai dievbijību;"
+      },
+      {
+        "verse": 7,
+        "en": "7And to godliness brotherly kindness; and to brotherly kindness charity.",
+        "lv": "7 Un dievbijībai brāļu laipnību; un brāļu laipnībai mīlestību."
+      },
+      {
+        "verse": 8,
+        "en": "8For if these things be in you, and abound, they make <i>you that ye shall</i> neither <i>be</i> barren nor unfruitful in the knowledge of our Lord Jesus Christ.",
+        "lv": "8 Jo ja šīs lietas būs jūsos un vairosies, tās dara, <i>ka jūs neesat </i>nedz neauglīgi, ne neražīgi mūsu Kunga Jēzus Kristus atzīšanā."
+      },
+      {
+        "verse": 9,
+        "en": "9But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.",
+        "lv": "9 Bet tas, kam šīs trūkst, ir akls un nevar tālu redzēt, un ir aizmirsis, ka viņš tika šķīstīts no saviem vecajiem grēkiem."
+      },
+      {
+        "verse": 10,
+        "en": "10Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:",
+        "lv": "10 Tādēļ labāk, brāļi, centieties darīt drošu jūsu aicinājumu un izredzētību: jo, ja jūs šīs darīsiet, jūs nekad nekritīsiet:"
+      },
+      {
+        "verse": 11,
+        "en": "11For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.",
+        "lv": "11 Jo tā jums tiks pārpārēm nodrošināta ieiešana mūsu Kunga un Glābēja Jēzus Kristus mūžīgajā valstībā."
+      },
+      {
+        "verse": 12,
+        "en": "12Wherefore I will not be negligent to put you always in remembrance of these things, though ye know <i>them</i>, and be established in the present truth.",
+        "lv": "12 <p>Tādēļ es nebūšu nolaidīgs jums vienmēr šīm lietām atgādināt, kaut arī jūs <i>tās </i>zināt, un esat nostiprināti klātesošajā patiesībā."
+      },
+      {
+        "verse": 13,
+        "en": "13Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting <i>you</i> in remembrance;",
+        "lv": "13 Jā, es domāju to <i>[esam] </i>piemērotu, kamēr es esmu šajā mājoklī, modināt jūs, <i>jums </i>atgādinot;"
+      },
+      {
+        "verse": 14,
+        "en": "14Knowing that shortly I must put off <i>this</i> my tabernacle, even as our Lord Jesus Christ hath shewed me.",
+        "lv": "14 Zinādams, ka drīz man jānovelk <i>šis</i> mans mājoklis, gluži kā mūsu Kungs Jēzus Kristus man ir pavēstījis."
+      },
+      {
+        "verse": 15,
+        "en": "15Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.",
+        "lv": "15 Turklāt es pūlēšos, lai jūs pēc manas aiziešanas vienmēr spētu pieminēt šīs lietas."
+      },
+      {
+        "verse": 16,
+        "en": "16For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.",
+        "lv": "16 Jo mēs neesam sekojuši izveicīgi izgudrotām pasakām, kad mēs jums darījām zināmu mūsu Kunga Jēzus Kristus spēku un nākšanu, bet bijām viņa majestātes aculiecinieki."
+      },
+      {
+        "verse": 17,
+        "en": "17For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.",
+        "lv": "17 Jo viņš saņēma no Dieva Tēva godu un godību, kad nāca tāda balss uz viņu no teicamās godības, Šis ir mans mīļotais Dēls, kurā man ir labpatika."
+      },
+      {
+        "verse": 18,
+        "en": "18And this voice which came from heaven we heard, when we were with him in the holy mount.",
+        "lv": "18 Un šo balsi, kas nāca no debess, mēs dzirdējām, kad mēs ar viņu bijām svētajā kalnā."
+      },
+      {
+        "verse": 19,
+        "en": "19We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:",
+        "lv": "19 Mums ir arī drošāks pravietojuma vārds; jūs darāt labi, ka jūs ņemat to vērā, kā gaismu, kas spīd tumšā vietā līdz dienas ausmai un dienas zvaigzne uzlec jūsu sirdīs:"
+      },
+      {
+        "verse": 20,
+        "en": "20Knowing this first, that no prophecy of the scripture is of any private interpretation.",
+        "lv": "20 Vispirms zinādami šo, ka neviens rakstu pravietojums nav no nekāda privāta skaidrojuma."
+      },
+      {
+        "verse": 21,
+        "en": "21For the prophecy came not in old time by the will of man: but holy men of God spake <i>as they were </i>moved by the Holy Ghost.",
+        "lv": "21 Jo pravietojums senāk nenāca no cilvēku gribas: bet svēti Dieva cilvēki runāja, <i>kā tie tika </i>kustināti<i> </i>no Svētā Gara."
+      }
+    ],
+    "2": [
+      {
+        "verse": 1,
+        "en": "1But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.",
+        "lv": "1 Bet starp ļaudīm bija arī nepatiesi pravieši, gluži kā starp jums būs nepatiesi skolotāji, kas slepeni ievedīs nosodāmas ķecerības, pat noliegdami to Kungu, kas tos nopirka, un sev uzvedīs žiglu iznīcību."
+      },
+      {
+        "verse": 2,
+        "en": "2And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.",
+        "lv": "2 Un daudzi sekos to postošajiem ceļiem; kuru dēļ par patiesības ceļu tiks ļauni runāts."
+      },
+      {
+        "verse": 3,
+        "en": "3And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not.",
+        "lv": "3 Un caur mantkārību ar liekuļotiem vārdiem tie gūs no jums peļņu: kuru tiesa nu ilgi nevilcinās, un viņu nosodīšana nesnauž."
+      },
+      {
+        "verse": 4,
+        "en": "4For if God spared not the angels that sinned, but cast <i>them</i> down to hell, and delivered <i>them</i> into chains of darkness, to be reserved unto judgment;",
+        "lv": "4 Jo ja Dievs netaupīja eņģeļus, kas grēkoja, bet <i>tos</i> nometa uz elli, un <i>tos</i> nodeva tumsas ķēdēs tikt paturētiem uz tiesu;"
+      },
+      {
+        "verse": 5,
+        "en": "5And spared not the old world, but saved Noah the eighth <i>person</i>, a preacher of righteousness, bringing in the flood upon the world of the ungodly;",
+        "lv": "5 Un netaupīja veco pasauli, bet izglāba Noa, astoto <i>cilvēku</i>, taisnības sludinātāju, ievedot plūdus uz bezdievīgo <i>[cilvēku]</i> pasauli;"
+      },
+      {
+        "verse": 6,
+        "en": "6And turning the cities of Sodom and Gomorrha into ashes condemned <i>them</i> with an overthrow, making <i>them</i> an ensample unto those that after should live ungodly;",
+        "lv": "6 Un Sodomas un Gomoras pilsētas pārvēršot pelnos, <i>tās</i> notiesāja ar apgāšanu, <i>tās</i> darot<i> </i>par piemēru tiem, kas pēc tam dzīvotu bezdievīgi;"
+      },
+      {
+        "verse": 7,
+        "en": "7And delivered just Lot, vexed with the filthy conversation of the wicked:",
+        "lv": "7 Un izpestīja taisno Latu, nogurdinātu ar nelietīgo <i>[cilvēku]</i> nešķīsto dzīvošanu:"
+      },
+      {
+        "verse": 8,
+        "en": "8(For that righteous man dwelling among them, in seeing and hearing, vexed <i>his</i> righteous soul from day to day with <i>their</i> unlawful deeds;)",
+        "lv": "8 (Jo tas taisnais, mājodams starp tiem, redzot un dzirdot, dienu no dienas nogurdināja <i>savu </i>taisno dvēseli ar <i>viņu </i>nelikumīgajiem darbiem;)"
+      },
+      {
+        "verse": 9,
+        "en": "9The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:",
+        "lv": "9 Tas Kungs zina, kā dievbijīgos izpestīt no kārdinājumiem un netaisnos paturēt uz sodu tiesas dienai:"
+      },
+      {
+        "verse": 10,
+        "en": "10But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous <i>are they</i>, selfwilled, they are not afraid to speak evil of dignities.",
+        "lv": "10 Bet galvenokārt tos, kas staigā pēc miesas nešķīstības iekārē un nicina valdību. <i>Tie ir </i>nekaunīgi, iedomīgi, tie nebaidās runāt ļaunu par godājamajiem."
+      },
+      {
+        "verse": 11,
+        "en": "11Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.",
+        "lv": "11 Turpretim eņģeļi, kas ir lielāki spēkā un varenībā, pret tiem nenes nievājošu apsūdzību tā Kunga priekšā."
+      },
+      {
+        "verse": 12,
+        "en": "12But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;",
+        "lv": "12 Bet šie, kā dabīgi nesaprātīgi zvēri, taisīti, lai tiktu saņemti un iznīcināti, runā ļaunu par to, ko tie nesaprot; un pavisam ies bojā paši savā samaitāšanā;"
+      },
+      {
+        "verse": 13,
+        "en": "13And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots <i>they are</i> and blemishes, sporting themselves with their own deceivings while they feast with you;",
+        "lv": "13 Un saņems netaisnības atalgojumu, kā tie, kas uzskata to par baudu ļauties uzdzīvei dienas laikā. Plankumi<i> tie ir</i> un traipi, izpriecādamies ar savām pašu pievilšanām, kamēr tie ar jums dzīro;"
+      },
+      {
+        "verse": 14,
+        "en": "14Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:",
+        "lv": "14 Ar acīm, pilnām ar laulības pārkāpšanu, un kas nevar mitēties no grēka; pievildami nestabilas dvēseles: sirdi tie ir nodarbinājuši ar mantkārīgiem paradumiem; nolādēti bērni:"
+      },
+      {
+        "verse": 15,
+        "en": "15Which have forsaken the right way, and are gone astray, following the way of Balaam <i>the son </i>of Bosor, who loved the wages of unrighteousness;",
+        "lv": "15 Kas ir pametuši pareizo ceļu un ir nomaldījušies, sekodami Balāma, Bozora <i>dēla, </i>ceļam, kas mīlēja netaisnības algu;"
+      },
+      {
+        "verse": 16,
+        "en": "16But was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet.",
+        "lv": "16 Bet tika norāts par savu nekrietnību: mēmais ēzelis, runādams ar cilvēka balsi, aizliedza pravieša trakumu."
+      },
+      {
+        "verse": 17,
+        "en": "17These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.",
+        "lv": "17 Šīs ir akas bez ūdens, mākoņi, kas tiek nesti ar auku; kuriem tumsas migla tiek paturēta mūžīgi."
+      },
+      {
+        "verse": 18,
+        "en": "18For when they speak great swelling <i>words </i>of vanity, they allure through the lusts of the flesh,<i> through much</i> wantonness, those that were clean escaped from them who live in error.",
+        "lv": "18 Jo kad tie runā pārtūkušus niecības <i>vārdus</i>, tie vilina caur miesas iekārēm,<i> caur daudz</i> izlaidībām, tos, kas bija tīri izbēguši no tiem, kas dzīvo maldos."
+      },
+      {
+        "verse": 19,
+        "en": "19While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage.",
+        "lv": "19 Kamēr tie viņiem apsola brīvību, tie paši ir samaitāšanas kalpi: jo no kura kāds tiek uzvarēts, no tā viņš tiek novests kalpībā."
+      },
+      {
+        "verse": 20,
+        "en": "20For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.",
+        "lv": "20 Jo ja pēc tam, kad tie ir izbēguši pasaules apgānīšanām caur tā Kunga un Glābēja Jēzus Kristus atzīšanu, tie atkal tur tiek sapīti un pārvarēti, pēdējais gals ar tiem ir sliktāks par sākumu."
+      },
+      {
+        "verse": 21,
+        "en": "21For it had been better for them not to have known the way of righteousness, than, after they have known <i>it</i>, to turn from the holy commandment delivered unto them.",
+        "lv": "21 Jo tiem būtu bijis labāk neatzīt taisnības ceļu, nekā, pēc tam, kad tie <i>to</i> ir atzinuši, griezties no tiem nodotas svētās pavēles."
+      },
+      {
+        "verse": 22,
+        "en": "22But it is happened unto them according to the true proverb, The dog <i>is </i>turned to his own vomit again; and the sow that was washed to her wallowing in the mire.",
+        "lv": "22 Bet tiem ir noticis atbilstoši patiesajam sakāmvārdam, Suns atgriežas atpakaļ pie sava paša vēmekļa; un cūka, kas tika mazgāta, pie savas vārtīšanās dubļos."
+      }
+    ],
+    "3": [
+      {
+        "verse": 1,
+        "en": "1This second epistle, beloved, I now write unto you; in <i>both </i>which I stir up your pure minds by way of remembrance:",
+        "lv": "1 Šo otro vēstuli, mīļotie, es nu jums rakstu; kurās es jūsu šķīstos prātus modinu caur pieminēšanu:"
+      },
+      {
+        "verse": 2,
+        "en": "2That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:",
+        "lv": "2 Lai jūs varat paturēt prātā vārdus, kas iepriekš tika runāti caur svētajiem praviešiem, un mūsu Kunga un Glābēja apustuļu pavēli:"
+      },
+      {
+        "verse": 3,
+        "en": "3Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,",
+        "lv": "3 Vispirms zinādami šo, ka pēdējās dienās nāks nievātāji, staigādami pēc savām pašu iekārēm,"
+      },
+      {
+        "verse": 4,
+        "en": "4And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue <i>as they were</i> from the beginning of the creation.",
+        "lv": "4 Un sacīdami, Kur ir viņa nākšanas apsolījums? jo kopš tēvi aizmiga, viss paliek <i>kā tas bija</i> no radīšanas iesākuma."
+      },
+      {
+        "verse": 5,
+        "en": "5For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:",
+        "lv": "5 Jo par to viņi ir tīši nezinoši, ka caur Dieva vārdu debesis bija senāk un zeme, stāvēdamas no ūdens un ūdenī:"
+      },
+      {
+        "verse": 6,
+        "en": "6Whereby the world that then was, being overflowed with water, perished:",
+        "lv": "6 Caur ko pasaule, kas tad bija, pārpludināta ar ūdeni, gāja bojā:"
+      },
+      {
+        "verse": 7,
+        "en": "7But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.",
+        "lv": "7 Bet debesis un zeme, kas ir tagad, caur to pašu vārdu tiek turētas krājumā, paturētas ugunij pret tiesas dienu un bezdievīgu cilvēku pazušanu."
+      },
+      {
+        "verse": 8,
+        "en": "8But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.",
+        "lv": "8 <p>Bet, mīļotie, neesiet nezinoši par šo vienu lietu, ka viena diena pie tā Kunga ir kā tūkstoš gadu, un tūkstoš gadu kā viena diena."
+      },
+      {
+        "verse": 9,
+        "en": "9The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.",
+        "lv": "9 Tas Kungs nav laisks attiecībā uz savu apsolījumu, kā daži cilvēki uzskata par laiskumu; bet ir ilgcietīgs pret mums, negribēdams, lai kāds ietu bojā, bet lai visi nāktu uz nožēlu."
+      },
+      {
+        "verse": 10,
+        "en": "10But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.",
+        "lv": "10 Bet tā Kunga diena nāks kā zaglis naktī; kurā debesis zudīs ar lielu troksni, un elementi kusīs ar kvēlu karstumu, arī zeme un darbi, kas ir tajā, tiks sadedzināti."
+      },
+      {
+        "verse": 11,
+        "en": "11<i>Seeing</i> then <i>that</i> all these things shall be dissolved, what manner <i>of persons</i> ought ye to be in <i>all</i> holy conversation and godliness,",
+        "lv": "11 Tad <i>nu</i>, <i>tā kā</i> viss šis tiks iznīcināts, kādiem cilvēkiem jums jābūt <i>visā </i>svētā dzīvošanā un dievbījībā,"
+      },
+      {
+        "verse": 12,
+        "en": "12Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?",
+        "lv": "12 Gaidot un steidzoties uz Dieva dienas nākšanu, kurā debesis aizdedzinātas tiks iznīcinātas, un elementi kusīs ar kvēlu karstumu?"
+      },
+      {
+        "verse": 13,
+        "en": "13Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.",
+        "lv": "13 Neraugoties uz to, mēs, atbilstoši viņa apsolījumam, gaidām uz jaunām debesīm un jaunu zemi, kurās taisnība mājo."
+      },
+      {
+        "verse": 14,
+        "en": "14Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.",
+        "lv": "14 Tādēļ, mīļotie, tā kā jūs gaidāt pēc šādām lietām, centieties, lai jūs no viņa varat tikt atrasti mierā, bez traipa un nevainojami."
+      },
+      {
+        "verse": 15,
+        "en": "15And account <i>that</i> the longsuffering of our Lord <i>is</i> salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;",
+        "lv": "15 <p>Un skaitiet, <i>ka </i>mūsu Kunga ilgcietība<i> ir </i>glābšana; gluži kā arī mūsu mīļotais brālis Pāvils, atbilstoši viņam dotajai gudrībai, ir jums rakstījis;"
+      },
+      {
+        "verse": 16,
+        "en": "16As also in all <i>his</i> epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as <i>they do</i> also the other scriptures, unto their own destruction.",
+        "lv": "16 Kā arī visās <i>savās </i>vēstulēs, par to tajās runādams; kurās dažas lietas ir grūti saprast, ko tie, kas ir nemācīti un nestabili, sagroza, kā arī citus rakstus, savai pašu iznīcināšanai."
+      },
+      {
+        "verse": 17,
+        "en": "17Ye therefore, beloved, seeing ye know <i>these things </i>before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness.",
+        "lv": "17 Tāpēc jūs, mīļotie, tā kā jūs zināt <i>šo </i>iepriekš, sargājaties, lai arī jūs, aizvesti ar nelietīgo maldiem, nenokrītat no savas pašu nelokāmības."
+      },
+      {
+        "verse": 18,
+        "en": "18But grow in grace, and <i>in</i> the knowledge of our Lord and Saviour Jesus Christ. To him <i>be</i> glory both now and for ever. Amen.",
+        "lv": "18 Bet audziet žēlastībā un mūsu Kunga un Glābēja Jēzus Kristus atzīšanā. Viņam <i>lai</i> <i>ir </i>godība gan tagad, gan mūžīgi. Āmen."
+      }
+    ]
+  }
+}

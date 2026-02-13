@@ -23,7 +23,22 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="dark">
+
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+        (function () {
+          try {
+            var t = localStorage.getItem('bible_theme');
+            var theme = (t === 'light') ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', theme);
+          } catch (e) {}
+        })();`,
+          }}
+        />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
