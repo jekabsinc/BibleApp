@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 
 type Mode = "all" | "any" | "exact";
-type Scope = "all" | "ot" | "nt" | "book";
+type Scope = "all" | "ot" | "nt" | "book" | "range";
 type Lang = "en" | "lv";
 
 type VerseRow = { verse: number; en: string; lv: string };
@@ -129,6 +129,9 @@ export async function GET(req: Request) {
   const mode = (searchParams.get("mode") ?? "all") as Mode;
   const lang = (searchParams.get("lang") ?? "en") as Lang;
   const book = (searchParams.get("book") ?? "").trim();
+  const fromBook = (searchParams.get("from") ?? "").trim();
+  const toBook = (searchParams.get("to") ?? "").trim();
+
 
   if (!q) return NextResponse.json({ results: [] });
 
@@ -154,6 +157,19 @@ export async function GET(req: Request) {
     if (scope === "book" && bookName !== book) continue;
     if (scope === "nt" && !NT_BOOKS.has(bookName)) continue;
     if (scope === "ot" && NT_BOOKS.has(bookName)) continue;
+
+    if (scope === "range") {
+      const a = orderIndex.get(fromBook);
+      const b = orderIndex.get(toBook);
+      if (a == null || b == null) continue;
+
+      const lo = Math.min(a, b);
+      const hi = Math.max(a, b);
+
+      const i = orderIndex.get(bookName) ?? -1;
+      if (i < lo || i > hi) continue;
+    }
+
 
     const file = fileMap.get(bookName.toLowerCase());
     if (!file) continue;

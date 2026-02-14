@@ -48,7 +48,7 @@ export default async function BookChaptersPage(props: {
       <div className="max-w-4xl mx-auto">
         <div>
           <Link className="underline" href="/">
-            Books
+            Grāmatas
           </Link>
           <h1 className="mt-2 text-2xl font-semibold">{data.book}</h1>
         </div>
