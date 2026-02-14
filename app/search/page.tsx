@@ -3,7 +3,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { usePathname, useRouter} from "next/navigation";
 
 type Scope = "all" | "ot" | "nt" | "book" | "range";
 type Mode = "all" | "any" | "exact";
@@ -155,31 +155,23 @@ function RadioRow({
   );
 }
 
-function getParam(sp: ReturnType<typeof useSearchParams>, k: string) {
-  const v = sp.get(k);
-  return v == null ? "" : v;
-}
-
 export default function SearchPage() {
-  const sp = useSearchParams();
   const router = useRouter();
   const pathname = usePathname();
 
-  // book scope prefill from query param "book"
-  const bookFromQuery = (sp.get("book") ?? "").trim();
-
   // restore state from URL
-  const qFromUrl = getParam(sp, "q");
-  const scopeFromUrl = (sp.get("scope") as Scope) || "";
-  const modeFromUrl = (sp.get("mode") as Mode) || "";
-  const langFromUrl = (sp.get("lang") as Lang) || "";
+  const [bookFromQuery, setBookFromQuery] = useState("");
+  const [qFromUrl, setQFromUrl] = useState("");
+  const [scopeFromUrl, setScopeFromUrl] = useState<Scope | "">("");
+  const [modeFromUrl, setModeFromUrl] = useState<Mode | "">("");
+  const [langFromUrl, setLangFromUrl] = useState<Lang | "">("");
 
-  const [q, setQ] = useState(qFromUrl);
-  const [scope, setScope] = useState<Scope>(
-    (scopeFromUrl as Scope) || (bookFromQuery ? "book" : "all")
-  );
-  const [mode, setMode] = useState<Mode>((modeFromUrl as Mode) || "all");
-  const [lang, setLang] = useState<Lang>((langFromUrl as Lang) || "en");
+
+  const [q, setQ] = useState("");
+  const [scope, setScope] = useState<Scope>("all");
+  const [mode, setMode] = useState<Mode>("all");
+  const [lang, setLang] = useState<Lang>("en");
+
   const [fromBook, setFromBook] = useState<string>(BOOKS[0]);
   const [toBook, setToBook] = useState<string>("Ījaba");
 
@@ -191,6 +183,35 @@ export default function SearchPage() {
 
   // prevent double auto-run in strict mode
   const didAutoRun = useRef(false);
+
+  useEffect(() => {
+  const params = new URLSearchParams(window.location.search);
+
+  const b = (params.get("book") ?? "").trim();
+  const qq = (params.get("q") ?? "").trim();
+  const sc = (params.get("scope") as Scope) || "";
+  const md = (params.get("mode") as Mode) || "";
+  const lg = (params.get("lang") as Lang) || "";
+  const fr = (params.get("from") ?? "").trim();
+  const to = (params.get("to") ?? "").trim();
+
+  setBookFromQuery(b);
+  setQFromUrl(qq);
+  setScopeFromUrl(sc);
+  setModeFromUrl(md);
+  setLangFromUrl(lg);
+
+  if (fr) setFromBook(fr);
+  if (to) setToBook(to);
+
+  // also apply to live state
+  if (qq) setQ(qq);
+  if (sc) setScope(sc);
+  else if (b) setScope("book");
+
+  if (md) setMode(md);
+  if (lg) setLang(lg);
+}, []);
 
   // init lang from localStorage ONLY if URL doesn't specify it
   useEffect(() => {
@@ -224,7 +245,7 @@ export default function SearchPage() {
 
 
   function pushStateToUrl(next: { q?: string; scope?: Scope; mode?: Mode; lang?: Lang; from?: string; to?: string }) {
-    const params = new URLSearchParams(sp.toString());
+    const params = new URLSearchParams(window.location.search);
 
     const nq = next.q ?? q;
     const ns = next.scope ?? scope;
@@ -317,7 +338,7 @@ export default function SearchPage() {
 
     Promise.resolve().then(() => runSearch());
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [qFromUrl]);
 
   // Restore scroll after results render (from sessionStorage)
   // Restore scroll after results render (from sessionStorage)
