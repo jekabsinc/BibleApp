@@ -132,14 +132,29 @@ export default async function Page() {
   return (
     <main style={{ padding: 16, background: "var(--bg)", color: "var(--text)" }}>
       <h1 style={{ marginBottom: 12 }}>Izvēlies grāmatu</h1>
+      <style>{`
+        @media (max-width: 640px) {
+          .bookGrid {
+            grid-template-columns: repeat(3, 1fr) !important;
+            gap: 8px !important;
+          }
+          .bookGrid a {
+            padding: 10px !important;
+            font-size: 13px !important;
+            line-height: 1.2 !important;
+          }
+        }
+      `}</style>
 
       <div
+        className="bookGrid"
         style={{
           display: "grid",
           gridTemplateColumns: "repeat(auto-fill, minmax(140px, 1fr))",
           gap: 10,
         }}
       >
+
         {books.map((b) => (
           <Link
             key={b}
@@ -153,6 +168,9 @@ export default async function Page() {
               color: bookColor(b),
               background: "var(--bg)",
               textAlign: "center",
+              whiteSpace: "nowrap",
+              overflow: "hidden",
+              textOverflow: "ellipsis",
             }}
           >
             {b}
