@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useRouter} from "next/navigation";
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 
 const HEADER_H = 56;
@@ -71,7 +71,6 @@ export default function ReaderClient({
   const [theme, setTheme] = useState<Theme>(() => readTheme());
 
   const router = useRouter();
-  const searchParams = useSearchParams();
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
@@ -160,7 +159,8 @@ export default function ReaderClient({
   }, [mode, headerOffset]);
 
   useEffect(() => {
-    const raw = searchParams.get("v");
+    const params = new URLSearchParams(window.location.search);
+    const raw = params.get("v");
     if (!raw) return;
 
     const vnum = Number(raw);
@@ -173,7 +173,8 @@ export default function ReaderClient({
       const top = window.scrollY + el.getBoundingClientRect().top - headerOffset - 8;
       window.scrollTo(0, top);
     });
-  }, [searchParams, headerOffset]);
+  }, [headerOffset]);
+
 
 
 
