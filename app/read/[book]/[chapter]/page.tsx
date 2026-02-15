@@ -76,7 +76,7 @@ export default async function Reader(props: {
       }}>
         <strong>!!!Tulkošana joprojām ir procesā!!!</strong><br />
         Ja ir kādi ieteikumi, pretenzijas, pamanītas kļūdas (gramatikas, teksta, tulkojuma), 
-        lūdzu, rakstiet uz draudzealuksne@gmail.com vai pa tālruni 25611648.
+        lūdzu, rakstiet uz draudzealuksne@gmail.com
       </div>
 
     </main>

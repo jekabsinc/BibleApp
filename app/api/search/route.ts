@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
-type Mode = "all" | "any" | "exact";
+type Mode = "all" | "allw" | "any" | "exact";
 type Scope = "all" | "ot" | "nt" | "book" | "range";
 type Lang = "en" | "lv";
 
@@ -22,7 +22,7 @@ const NT_BOOKS = new Set([
   "Galatiešiem",
   "Efeziešiem",
   "Filipiešiem",
-  "Kolosiēšiem",
+  "Kolosiešiem",
   "1. Tesaloniķiešiem",
   "2. Tesaloniķiešiem",
   "1. Timotejam",
@@ -56,15 +56,44 @@ function words(q: string) {
   return norm(q).split(/\s+/).filter(Boolean);
 }
 
-function matchText(haystack: string, q: string, mode: Mode) {
-  const h = norm(haystack);
-  const w = words(q);
-  if (!w.length) return false;
+function matchAllWholeWords(text: string, q: string) {
+  const hay = words(text); // normalized tokens from verse
+  const need = words(q);   // normalized tokens from query
+  if (!need.length) return false;
 
-  if (mode === "exact") return h.includes(norm(q));
-  if (mode === "all") return w.every((x) => h.includes(x));
-  return w.some((x) => h.includes(x));
+  const set = new Set(hay);
+  return need.every((t) => set.has(t));
 }
+
+
+function matchAllPartialWords(text: string, q: string) {
+  const plain = norm(text);
+  const toks = words(q);
+  if (!toks.length) return false;
+  return toks.every((t) => plain.includes(t));
+}
+
+function matchAnyWord(text: string, q: string) {
+  const plain = norm(text);
+  const toks = words(q);
+  if (!toks.length) return false;
+  return toks.some((t) => plain.includes(t));
+}
+
+function matchExactPhrase(text: string, q: string) {
+  const plain = stripTags(text).toLowerCase().replace(/\s+/g, " ").trim();
+  const needle = q.toLowerCase().replace(/\s+/g, " ").trim();
+  if (!needle) return false;
+  return plain.includes(needle);
+}
+
+function matchText(text: string, q: string, mode: Mode) {
+  if (mode === "allw") return matchAllWholeWords(text, q); // Visi vārdi
+  if (mode === "all") return matchAllPartialWords(text, q); // Nepilnīgs vārds/vārdi
+  if (mode === "any") return matchAnyWord(text, q);
+  return matchExactPhrase(text, q);
+}
+
 
 function readBookOrder(dir: string): string[] {
   // preferred: file at project root

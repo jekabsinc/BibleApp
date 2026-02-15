@@ -5,7 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { usePathname, useRouter } from "next/navigation";
 
 type Scope = "all" | "ot" | "nt" | "book" | "range";
-type Mode = "all" | "any" | "exact";
+type Mode = "all" | "allw" | "any" | "exact";
 type Lang = "en" | "lv";
 
 type Result = {
@@ -281,9 +281,41 @@ export default function SearchPage() {
           </div>
 
           <div>
-            <RadioRow checked={mode === "all"} label="Visi vārdi" onChange={() => { setMode("all"); pushStateToUrl({ mode: "all" }); }} />
-            <RadioRow checked={mode === "any"} label="Jebkurš vārds" onChange={() => { setMode("any"); pushStateToUrl({ mode: "any" }); }} />
-            <RadioRow checked={mode === "exact"} label="Frāze" onChange={() => { setMode("exact"); pushStateToUrl({ mode: "exact" }); }} />
+            <RadioRow
+              checked={mode === "all"}
+              label="Nepilnīgs vārds/vārdi"
+              onChange={() => {
+                setMode("all");
+                pushStateToUrl({ mode: "all" });
+              }}
+            />
+
+            <RadioRow
+              checked={mode === "allw"}
+              label="Visi vārdi"
+              onChange={() => {
+                setMode("allw");
+                pushStateToUrl({ mode: "allw" });
+              }}
+            />
+
+            <RadioRow
+              checked={mode === "any"}
+              label="Jebkurš vārds"
+              onChange={() => {
+                setMode("any");
+                pushStateToUrl({ mode: "any" });
+              }}
+            />
+
+            <RadioRow
+              checked={mode === "exact"}
+              label="Frāze"
+              onChange={() => {
+                setMode("exact");
+                pushStateToUrl({ mode: "exact" });
+              }}
+            />
           </div>
         </div>
 
