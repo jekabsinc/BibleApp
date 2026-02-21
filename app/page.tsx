@@ -74,8 +74,8 @@ const SECTIONS: Array<{ color: string; books: string[] }> = [
       "Efeziešiem",
       "Filipiešiem",
       "Kolosiešiem",
-      "1. tesaloniķiešiem",
-      "2. tesaloniķiešiem",
+      "1. tesalonikiešiem",
+      "2. tesalonikiešiem",
       "1. Timotejam",
       "2. Timotejam",
       "Titam",
@@ -106,7 +106,7 @@ const CANONICAL_ORDER = [
   "Hozejas","Joēla","Amosa","Obadijas","Jonas","Mihas","Nahuma","Habakuka","Cefanijas","Hagaja","Zaharija","Maleahija",
   "Mateja evaņģēlijs","Marka Evaņģēlijs","Lūkas evaņģēlijs","Jāņa evaņģēlijs","Apustuļu darbi",
   "Romiešiem","1. Korintiešiem","2. Korintiešiem","Galatiešiem","Efeziešiem","Filipiešiem","Kolosiešiem",
-  "1. tesaloniķiešiem","2. tesaloniķiešiem","1. Timotejam","2. Timotejam","Titam","Filemonam","Ebrejiem",
+  "1. tesalonikiešiem","2. tesalonikiešiem","1. Timotejam","2. Timotejam","Titam","Filemonam","Ebrejiem",
   "Jēkaba","1. Pētera","2. Pētera","1. Jāņa","2. Jāņa","3. Jāņa","Jūdas","Atklāsmes",
 ];
 

@@ -31,8 +31,8 @@ const BOOKS = [
   "Ījaba","Psalmi","Sakāmvārdi","Ekleziaste","Salamana dziesma","Jesajas","Jeremijas","Vaimanās","Ecēhiēla","Daniela",
   "Hozejas","Joēla","Amosa","Obadijas","Jonas","Mihas","Nahuma","Habakuka","Cefanjas","Hagaja","Zaharija","Maleahija",
   "Mateja evaņģēlijs","Marka Evaņģēlijs","Lūkas evaņģēlijs","Jāņa evaņģēlijs","Apustuļu darbi","Romiešiem",
-  "1. Korintiešiem","2. Korintiešiem","Galatiešiem","Efeziešiem","Filipiešiem","Kolosiešiem","1. Tesaloniķiešiem",
-  "2. Tesaloniķiešiem","1. Timotejam","2. Timotejam","Titam","Filemonam","Ebrejiem","Jēkaba","1. Pētera","2. Pētera",
+  "1. Korintiešiem","2. Korintiešiem","Galatiešiem","Efeziešiem","Filipiešiem","Kolosiešiem","1. Tesalonikiešiem",
+  "2. Tesalonikiešiem","1. Timotejam","2. Timotejam","Titam","Filemonam","Ebrejiem","Jēkaba","1. Pētera","2. Pētera",
   "1. Jāņa","2. Jāņa","3. Jāņa","Jūdas","Atklāsmes",
 ] as const;
 
