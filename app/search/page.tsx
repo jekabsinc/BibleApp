@@ -28,8 +28,8 @@ const SEARCH_SCROLL_KEY = "search_scroll_y";
 const BOOKS = [
   "Iesākums","Izceļošana","Levīti","Skaitļi","Atkārtotais likums","Jozuas","Tiesneši","Rutes",
   "1. Samuēla","2. Samuēla","1. Ķēniņu","2. Ķēniņu","1. Hroniku","2. Hroniku","Ezras","Nehemijas","Esteres",
-  "Ījaba","Psalmi","Sakāmvārdi","Ekleziaste","Salamana dziesma","Jesajas","Jeremijas","Vaimanās","Ecēhiēla","Daniela",
-  "Hozejas","Joēla","Amosa","Obadijas","Jonas","Mihas","Nahuma","Habakuka","Cefanjas","Hagaja","Zaharija","Maleahija",
+  "Ījaba","Psalmi","Sakāmvārdi","Ekleziasti","Salamana dziesma","Jesajas","Jeremijas","Vaimanas","Ecehiēla","Daniēla",
+  "Hozejas","Joēla","Amosa","Obadijas","Jonas","Mihas","Nahuma","Habakuka","Cefanijas","Hagaja","Zaharija","Maleahija",
   "Mateja evaņģēlijs","Marka Evaņģēlijs","Lūkas evaņģēlijs","Jāņa evaņģēlijs","Apustuļu darbi","Romiešiem",
   "1. Korintiešiem","2. Korintiešiem","Galatiešiem","Efeziešiem","Filipiešiem","Kolosiešiem","1. Tesalonikiešiem",
   "2. Tesalonikiešiem","1. Timotejam","2. Timotejam","Titam","Filemonam","Ebrejiem","Jēkaba","1. Pētera","2. Pētera",
