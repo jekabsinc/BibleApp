@@ -1,9 +1,45 @@
 @import "tailwindcss";
 
+/* =========================
+   BASE THEME VARIABLES
+========================= */
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  --bg: #ffffff;
+  --text: #000000;
+
+  /* Suggestion box */
+  --sb-bg: #ffffff;
+  --sb-border: rgba(0, 0, 0, 0.12);
+  --sb-text: rgba(0, 0, 0, 0.9);
+  --sb-muted: rgba(0, 0, 0, 0.65);
+  --sb-input-bg: #ffffff;
+  --sb-input-border: rgba(0, 0, 0, 0.16);
 }
+
+/* Dark theme toggle (your existing system) */
+html[data-theme="dark"] {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+
+  --bg: #0f0f0f;
+  --text: #ffffff;
+
+  /* Suggestion box dark */
+  --sb-bg: rgba(255, 255, 255, 0.04);
+  --sb-border: rgba(255, 255, 255, 0.12);
+  --sb-text: rgba(255, 255, 255, 0.92);
+  --sb-muted: rgba(255, 255, 255, 0.7);
+  --sb-input-bg: rgba(0, 0, 0, 0.35);
+  --sb-input-border: rgba(255, 255, 255, 0.14);
+}
+
+/* =========================
+   TAILWIND THEME BRIDGE
+========================= */
 
 @theme inline {
   --color-background: var(--background);
@@ -12,28 +48,9 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-:root {
-  --bg: #ffffff;
-  --text: #000000;
-}
-
-html[data-theme="dark"] {
-  --bg: #0f0f0f;
-  --text: #ffffff;
-}
+/* =========================
+   GLOBAL BODY
+========================= */
 
 html,
 body {
@@ -41,7 +58,12 @@ body {
   color: var(--text);
   margin: 0;
   padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+/* =========================
+   SESSION WARNING
+========================= */
 
 .tw-session-warning {
   position: sticky;
@@ -65,4 +87,90 @@ body {
   cursor: pointer;
   line-height: 1;
   padding: 4px 8px;
+}
+
+/* =========================
+   SUGGESTION BOX
+========================= */
+
+.suggestBox {
+  margin-top: 16px;
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid var(--sb-border);
+  background: var(--sb-bg);
+  color: var(--sb-text);
+}
+
+.suggestTitle {
+  font-size: 14px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: var(--sb-text);
+}
+
+.suggestRow {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.suggestMuted {
+  font-size: 14px;
+  color: var(--sb-muted);
+}
+
+.suggestSelect,
+.suggestTextarea {
+  background: var(--sb-input-bg);
+  color: var(--sb-text);
+  border: 1px solid var(--sb-input-border);
+  border-radius: 12px;
+  outline: none;
+  transition: border 0.15s ease;
+}
+
+.suggestSelect {
+  padding: 6px 8px;
+}
+
+.suggestTextarea {
+  width: 100%;
+  margin-top: 12px;
+  padding: 12px;
+  resize: vertical;
+  font-family: inherit;
+}
+
+.suggestTextarea::placeholder {
+  color: var(--sb-muted);
+}
+
+.suggestSelect:focus,
+.suggestTextarea:focus {
+  border-color: #888;
+}
+
+.suggestBtn {
+  padding: 8px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--sb-input-border);
+  background: transparent;
+  color: var(--sb-text);
+  cursor: pointer;
+  transition: background 0.15s ease, border 0.15s ease;
+}
+
+.suggestBtn:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+html[data-theme="dark"] .suggestBtn:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.suggestBtn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }

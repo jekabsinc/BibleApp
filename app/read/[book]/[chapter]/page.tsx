@@ -2,6 +2,7 @@ import fs from "fs/promises";
 import path from "path";
 import Link from "next/link";
 import ReaderShell from "./ReaderShell";
+import SuggestionBox from "./SuggestionBox";
 
 
 type Verse = { verse: number; en: string; lv: string };
@@ -78,6 +79,7 @@ export default async function Reader(props: {
         Ja ir kādi ieteikumi, pretenzijas, pamanītas kļūdas (gramatikas, teksta, tulkojuma), 
         lūdzu, rakstiet uz draudzealuksne@gmail.com
       </div>
+      <SuggestionBox book={book} chapter={chapter} maxVerse={verses.length} />
 
     </main>
   );
