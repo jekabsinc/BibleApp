@@ -44,6 +44,10 @@ function stripTags(s: string) {
   return s.replace(/<[^>]*>/g, "");
 }
 
+function normBookKey(s: string) {
+  return s.trim().toLowerCase().replaceAll("ķ", "k").replaceAll("Ķ", "k");
+}
+
 function norm(s: string) {
   return stripTags(s)
     .toLowerCase()
@@ -170,7 +174,7 @@ export async function GET(req: Request) {
   const fileMap = buildExistingFilesMap(dir);
 
   const orderIndex = new Map<string, number>();
-  orderedBooks.forEach((b, i) => orderIndex.set(b, i));
+  orderedBooks.forEach((b, i) => orderIndex.set(normBookKey(b), i));
 
   let truncated = false;
 
@@ -183,19 +187,19 @@ export async function GET(req: Request) {
   }> = [];
 
   for (const bookName of orderedBooks) {
-    if (scope === "book" && bookName !== book) continue;
+    if (scope === "book" && normBookKey(bookName) !== normBookKey(book)) continue;
     if (scope === "nt" && !NT_BOOKS.has(bookName)) continue;
     if (scope === "ot" && NT_BOOKS.has(bookName)) continue;
 
     if (scope === "range") {
-      const a = orderIndex.get(fromBook);
-      const b = orderIndex.get(toBook);
+      const a = orderIndex.get(normBookKey(fromBook));
+      const b = orderIndex.get(normBookKey(toBook));
       if (a == null || b == null) continue;
 
       const lo = Math.min(a, b);
       const hi = Math.max(a, b);
 
-      const i = orderIndex.get(bookName) ?? -1;
+      const i = orderIndex.get(normBookKey(bookName)) ?? -1;
       if (i < lo || i > hi) continue;
     }
 
