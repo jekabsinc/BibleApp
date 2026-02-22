@@ -40,12 +40,21 @@ const NT_BOOKS = new Set([
   "Atklāsmes",
 ]);
 
+const NT_BOOK_KEYS = new Set(Array.from(NT_BOOKS, normBookKey));
+
 function stripTags(s: string) {
   return s.replace(/<[^>]*>/g, "");
 }
 
 function normBookKey(s: string) {
-  return s.trim().toLowerCase().replaceAll("ķ", "k").replaceAll("Ķ", "k");
+  return s
+    .normalize("NFC")
+    .replace(/\u00A0/g, " ")   // NBSP -> space
+    .replace(/\s+/g, " ")      // collapse whitespace
+    .trim()
+    .toLowerCase()
+    .replaceAll("ķ", "k")
+    .replaceAll("Ķ", "k");
 }
 
 function norm(s: string) {
@@ -133,7 +142,7 @@ function buildExistingFilesMap(dir: string) {
   const map = new Map<string, string>(); // lower(bookName) -> actual filename
   for (const f of files) {
     const name = f.replace(/\.json$/i, "");
-    map.set(name.toLowerCase(), f);
+    map.set(normBookKey(name), f);
   }
   return map;
 }
@@ -187,9 +196,11 @@ export async function GET(req: Request) {
   }> = [];
 
   for (const bookName of orderedBooks) {
-    if (scope === "book" && normBookKey(bookName) !== normBookKey(book)) continue;
-    if (scope === "nt" && !NT_BOOKS.has(bookName)) continue;
-    if (scope === "ot" && NT_BOOKS.has(bookName)) continue;
+    const bk = normBookKey(bookName);
+
+    if (scope === "book" && bk !== normBookKey(book)) continue;
+    if (scope === "nt" && !NT_BOOK_KEYS.has(bk)) continue;
+    if (scope === "ot" && NT_BOOK_KEYS.has(bk)) continue;
 
     if (scope === "range") {
       const a = orderIndex.get(normBookKey(fromBook));
@@ -199,12 +210,12 @@ export async function GET(req: Request) {
       const lo = Math.min(a, b);
       const hi = Math.max(a, b);
 
-      const i = orderIndex.get(normBookKey(bookName)) ?? -1;
+      const i = orderIndex.get(bk) ?? -1;
       if (i < lo || i > hi) continue;
     }
 
 
-    const file = fileMap.get(bookName.toLowerCase());
+    const file = fileMap.get(bk);
     if (!file) continue;
 
     const raw = fs.readFileSync(path.join(dir, file), "utf-8");
