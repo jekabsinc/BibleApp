@@ -77,7 +77,7 @@ export default function SuggestionBox(props: {
 
       <div className="suggestRow" style={{ marginTop: 10 }}>
         <button className="suggestBtn" onClick={submit} disabled={status === "sending"}>
-          Ieteikts
+          Ieteikt
         </button>
 
         {status === "sent" && <span className="suggestMuted">Ieteikums nosūtīts</span>}
