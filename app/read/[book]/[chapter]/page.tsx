@@ -75,9 +75,8 @@ export default async function Reader(props: {
         fontSize: "14px",
         lineHeight: 1.5
       }}>
-        <strong>!!!Tulkošana joprojām ir procesā!!!</strong><br />
-        Ja ir kādi ieteikumi, pretenzijas, pamanītas kļūdas (gramatikas, teksta, tulkojuma), 
-        lūdzu, rakstiet uz draudzealuksne@gmail.com
+        <strong style={{fontSize: "20px"}}>!!!Tulkošana joprojām ir procesā!!!</strong><br />
+        ↓ Ja ir kādi ieteikumi, pamanītas kļūdas (gramatikas, teksta, tulkojuma), ievadiet tos tālāk. ↓
       </div>
       <SuggestionBox book={book} chapter={chapter} maxVerse={verses.length} />
 
