@@ -1,6 +1,8 @@
 // app/api/suggest/route.ts
 import { NextResponse } from "next/server";
 
+console.log("VERCEL ENV:", process.env.SUGGEST_SCRIPT_URL);
+
 export async function POST(req: Request) {
   try {
     const body = await req.json();
