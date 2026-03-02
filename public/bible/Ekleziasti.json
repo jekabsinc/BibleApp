@@ -20,7 +20,7 @@
       {
         "verse": 4,
         "en": "4<i>One</i> generation passeth away, and <i>another </i>generation cometh: but the earth abideth for ever.",
-        "lv": "4 <p><i>Viena </i>paaudze zūd, un <i>cita </i>paaudze nāk: bet zeme paliek mūžīgi."
+        "lv": "4 <span class='p'></span> <i>Viena </i>paaudze zūd, un <i>cita </i>paaudze nāk: bet zeme paliek mūžīgi."
       },
       {
         "verse": 5,
@@ -45,7 +45,7 @@
       {
         "verse": 9,
         "en": "9The thing that hath been, it <i>is that</i> which shall be; and that which is done <i>is </i>that which shall be done: and <i>there is</i> no new <i>thing </i>under the sun.",
-        "lv": "9 <p>Tas, kas ir bijis, tas<i> ir tas</i>, kas būs; un tas, kas ir darīts, <i>ir </i>tas, kas tiks darīts: un nav <i>nekā </i>jauna zem saules."
+        "lv": "9 <span class='p'></span> Tas, kas ir bijis, tas<i> ir tas</i>, kas būs; un tas, kas ir darīts, <i>ir </i>tas, kas tiks darīts: un nav <i>nekā </i>jauna zem saules."
       },
       {
         "verse": 10,
@@ -60,7 +60,7 @@
       {
         "verse": 12,
         "en": "12I the Preacher was king over Israel in Jerusalem.",
-        "lv": "12 <p>Es, Sludinātājs, biju ķēniņš pār Israēlu Jeruzālemē."
+        "lv": "12 <span class='p'></span> Es, Sludinātājs, biju ķēniņš pār Israēlu Jeruzālemē."
       },
       {
         "verse": 13,
@@ -152,7 +152,7 @@
       {
         "verse": 12,
         "en": "12And I turned myself to behold wisdom, and madness, and folly: for what <i>can </i>the man <i>do </i>that cometh after the king? <i>even</i> that which hath been already done.",
-        "lv": "12 <p>Un es apgriezos uzlūkot gudrību un trakumu, un muļķību: jo ko <i>var darīt </i>cilvēks, kurš nāk pēc ķēniņa? <i>proti,</i> to, kas jau ir bijis darīts."
+        "lv": "12 <span class='p'></span> Un es apgriezos uzlūkot gudrību un trakumu, un muļķību: jo ko <i>var darīt </i>cilvēks, kurš nāk pēc ķēniņa? <i>proti,</i> to, kas jau ir bijis darīts."
       },
       {
         "verse": 13,
@@ -182,7 +182,7 @@
       {
         "verse": 18,
         "en": "18Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
-        "lv": "18 <p>Jā, es ienīdu visu savu pūliņu, ko es biju uzņēmies zem saules: tāpēc ka man to jāatstāj cilvēkam, kas būs pēc manis."
+        "lv": "18 <span class='p'></span> Jā, es ienīdu visu savu pūliņu, ko es biju uzņēmies zem saules: tāpēc ka man to jāatstāj cilvēkam, kas būs pēc manis."
       },
       {
         "verse": 19,
@@ -212,7 +212,7 @@
       {
         "verse": 24,
         "en": "24<i>There is</i> nothing better for a man, <i>than </i>that he should eat and drink, and <i>that </i>he should make his soul enjoy good in his labour. This also I saw, that it <i>was </i>from the hand of God.",
-        "lv": "24 <p>Nav nekā labāka priekš cilvēka, <i>kā </i>ka viņš ēstu un dzertu un <i>ka </i>viņš liktu savai dvēselei izbaudīt labu viņa pūliņā. Šo arī es redzēju, ka tas <i>bija </i>no Dieva rokas."
+        "lv": "24 <span class='p'></span> Nav nekā labāka priekš cilvēka, <i>kā </i>ka viņš ēstu un dzertu un <i>ka </i>viņš liktu savai dvēselei izbaudīt labu viņa pūliņā. Šo arī es redzēju, ka tas <i>bija </i>no Dieva rokas."
       },
       {
         "verse": 25,
@@ -279,7 +279,7 @@
       {
         "verse": 11,
         "en": "11He hath made every <i>thing </i>beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
-        "lv": "11 <p>Viņš ir darījis ikvienu <i>lietu </i>skaistu savā laikā: arī viņš ir licis pasauli viņu sirdī, tā lai neviens nevarētu izmeklēt darbu, ko Dievs dara no iesākuma līdz galam."
+        "lv": "11 <span class='p'></span> Viņš ir darījis ikvienu <i>lietu </i>skaistu savā laikā: arī viņš ir licis pasauli viņu sirdī, tā lai neviens nevarētu izmeklēt darbu, ko Dievs dara no iesākuma līdz galam."
       },
       {
         "verse": 12,
@@ -304,7 +304,7 @@
       {
         "verse": 16,
         "en": "16And moreover I saw under the sun the place of judgment, <i>that wickedness</i> was there; and the place of righteousness, <i>that </i>iniquity <i>was </i>there.",
-        "lv": "16 <p>Un turklāt es redzēju zem saules tiesas vietu, <i>ka </i>tur bija<i> nelietība</i>; un taisnības vietu, <i>ka </i>tur<i> bija </i>nekrietnība."
+        "lv": "16 <span class='p'></span> Un turklāt es redzēju zem saules tiesas vietu, <i>ka </i>tur bija<i> nelietība</i>; un taisnības vietu, <i>ka </i>tur<i> bija </i>nekrietnība."
       },
       {
         "verse": 17,
@@ -356,7 +356,7 @@
       {
         "verse": 4,
         "en": "4Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This <i>is</i> also vanity and vexation of spirit.",
-        "lv": "4 <p>Atkal es ņēmu vērā visu smago darbu un ikvienu pareizu darbu, ka par šo cilvēks tiek apskausts no sava tuvākā. Šī arī <i>ir </i>niecība un gara nogurdināšana."
+        "lv": "4 <span class='p'></span> Atkal es ņēmu vērā visu smago darbu un ikvienu pareizu darbu, ka par šo cilvēks tiek apskausts no sava tuvākā. Šī arī <i>ir </i>niecība un gara nogurdināšana."
       },
       {
         "verse": 5,
@@ -371,7 +371,7 @@
       {
         "verse": 7,
         "en": "7Then I returned, and I saw vanity under the sun.",
-        "lv": "7 <p>Tad es atgriezos, un es redzēju niecību zem saules."
+        "lv": "7 <span class='p'></span> Tad es atgriezos, un es redzēju niecību zem saules."
       },
       {
         "verse": 8,
@@ -381,7 +381,7 @@
       {
         "verse": 9,
         "en": "9Two <i>are </i>better than one; because they have a good reward for their labour.",
-        "lv": "9 <p>Divi <i>ir </i>labāki nekā viens; tāpēc ka tiem ir labs atalgojums par viņu pūliņu."
+        "lv": "9 <span class='p'></span> Divi <i>ir </i>labāki nekā viens; tāpēc ka tiem ir labs atalgojums par viņu pūliņu."
       },
       {
         "verse": 10,
@@ -401,7 +401,7 @@
       {
         "verse": 13,
         "en": "13Better <i>is</i> a poor and a wise child than an old and foolish king, who will no more be admonished.",
-        "lv": "13 <p>Labāks <i>ir </i>nabags un gudrs bērns nekā vecs un muļķīgs ķēniņš, kurš vairs negrib tikts pamācīts."
+        "lv": "13 <span class='p'></span> Labāks <i>ir </i>nabags un gudrs bērns nekā vecs un muļķīgs ķēniņš, kurš vairs negrib tikts pamācīts."
       },
       {
         "verse": 14,
@@ -458,12 +458,12 @@
       {
         "verse": 8,
         "en": "8If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for<i> he that is</i> higher than the highest regardeth; and<i> there be</i> higher than they.",
-        "lv": "8 <p>Ja tu redzi nabagā apspiešanu un vardarbīgu tiesas un taisnīguma samaitāšanu provincē, nebrīnies par to lietu: jo <i>tas, kas ir </i>augstāks nekā augstākais, uzskata; un <i>ir </i>augstāks nekā tie."
+        "lv": "8 <span class='p'></span> Ja tu redzi nabagā apspiešanu un vardarbīgu tiesas un taisnīguma samaitāšanu provincē, nebrīnies par to lietu: jo <i>tas, kas ir </i>augstāks nekā augstākais, uzskata; un <i>ir </i>augstāks nekā tie."
       },
       {
         "verse": 9,
         "en": "9Moreover the profit of the earth is for all: the king <i>himself </i>is served by the field.",
-        "lv": "9 <p>Turklāt zemes labums ir priekš visiem: ķēniņš <i>pats</i> tiek apkalpots no lauka."
+        "lv": "9 <span class='p'></span> Turklāt zemes labums ir priekš visiem: ķēniņš <i>pats</i> tiek apkalpots no lauka."
       },
       {
         "verse": 10,
@@ -508,7 +508,7 @@
       {
         "verse": 18,
         "en": "18Behold that which I have seen: <i>it is</i> good and comely <i>for one</i> to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it <i>is </i>his portion.",
-        "lv": "18 <p>Lūk, tas, ko es esmu redzējis: <i>ir </i>labi un pieklājas <i>cilvēkam </i>ēst un dzert, un izbaudīt no visa sava pūliņa, ko viņš ir uzņēmies zem saules visas savas dzīves dienas, ko Dievs tam dod: jo tā <i>ir </i>viņa daļa."
+        "lv": "18 <span class='p'></span> Lūk, tas, ko es esmu redzējis: <i>ir </i>labi un pieklājas <i>cilvēkam </i>ēst un dzert, un izbaudīt no visa sava pūliņa, ko viņš ir uzņēmies zem saules visas savas dzīves dienas, ko Dievs tam dod: jo tā <i>ir </i>viņa daļa."
       },
       {
         "verse": 19,
@@ -535,7 +535,7 @@
       {
         "verse": 3,
         "en": "3If a man beget an hundred <i>children</i>, and live many years, so that the days of his years be many, and his soul be not filled with good, and also <i>that</i> he have no burial; I say, <i>that </i>an untimely birth <i>is </i>better than he.",
-        "lv": "3 <p>Ja cilvēks dzemdina simts <i>bērnu </i>un dzīvo daudz gadus, tā ka viņa gadu dienu ir daudz, un viņa dvēsele netiek pildīta ar labu, un arī<i> </i>viņam nav apbedīšanas; es saku, <i>ka </i>nelaikā dzimušais <i>ir </i>labāks nekā tas."
+        "lv": "3 <span class='p'></span> Ja cilvēks dzemdina simts <i>bērnu </i>un dzīvo daudz gadus, tā ka viņa gadu dienu ir daudz, un viņa dvēsele netiek pildīta ar labu, un arī<i> </i>viņam nav apbedīšanas; es saku, <i>ka </i>nelaikā dzimušais <i>ir </i>labāks nekā tas."
       },
       {
         "verse": 4,
@@ -550,7 +550,7 @@
       {
         "verse": 6,
         "en": "6Yea, though he live a thousand years twice <i>told</i>, yet hath he seen no good: do not all go to one place?",
-        "lv": "6 <p>Jā, kaut arī viņš dzīvo divkārt tūkstoš gadus, tomēr viņš nav redzējis labu: vai visi neiet uz vienu vietu?"
+        "lv": "6 <span class='p'></span> Jā, kaut arī viņš dzīvo divkārt tūkstoš gadus, tomēr viņš nav redzējis labu: vai visi neiet uz vienu vietu?"
       },
       {
         "verse": 7,
@@ -565,7 +565,7 @@
       {
         "verse": 9,
         "en": "9Better <i>is </i>the sight of the eyes than the wandering of the desire: this <i>is </i>also vanity and vexation of spirit.",
-        "lv": "9 <p>Labāks <i>ir </i>acu skatiens nekā vēlmes klejošana: šī arī <i>ir </i>niecība un gara nogurdināšana."
+        "lv": "9 <span class='p'></span> Labāks <i>ir </i>acu skatiens nekā vēlmes klejošana: šī arī <i>ir </i>niecība un gara nogurdināšana."
       },
       {
         "verse": 10,
@@ -575,7 +575,7 @@
       {
         "verse": 11,
         "en": "11Seeing there be many things that increase vanity, what <i>is </i>man the better?",
-        "lv": "11 <p>Tā kā ir daudz lietu, kas liek pieaugt niecībai, kas <i>ir</i> cilvēkam labāk?"
+        "lv": "11 <span class='p'></span> Tā kā ir daudz lietu, kas liek pieaugt niecībai, kas <i>ir</i> cilvēkam labāk?"
       },
       {
         "verse": 12,
@@ -592,7 +592,7 @@
       {
         "verse": 2,
         "en": "2<i>It is</i> better to go to the house of mourning, than to go to the house of feasting: for that <i>is </i>the end of all men; and the living will lay <i>it </i>to his heart.",
-        "lv": "2 <p><i>Ir </i>labāk iet sēru namā nekā iet dzīru namā: jo šis ir visu cilvēku gals; un dzīvais <i>to </i>liks pie savas sirds."
+        "lv": "2 <span class='p'></span> <i>Ir </i>labāk iet sēru namā nekā iet dzīru namā: jo šis ir visu cilvēku gals; un dzīvais <i>to </i>liks pie savas sirds."
       },
       {
         "verse": 3,
@@ -617,7 +617,7 @@
       {
         "verse": 7,
         "en": "7Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
-        "lv": "7 <p>Bez šaubām, apspiešana gudro dara traku; un dāvana iznīcina sirdi."
+        "lv": "7 <span class='p'></span> Bez šaubām, apspiešana gudro dara traku; un dāvana iznīcina sirdi."
       },
       {
         "verse": 8,
@@ -697,7 +697,7 @@
       {
         "verse": 23,
         "en": "23All this have I proved by wisdom: I said, I will be wise; but it was far from me.",
-        "lv": "23 <p>Visu šo es esmu pārbaudījis caur gudrību: es sacīju, Es būšu gudrs; bet tas bija tālu no manis."
+        "lv": "23 <span class='p'></span> Visu šo es esmu pārbaudījis caur gudrību: es sacīju, Es būšu gudrs; bet tas bija tālu no manis."
       },
       {
         "verse": 24,
@@ -754,12 +754,12 @@
       {
         "verse": 5,
         "en": "5Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment.",
-        "lv": "5 Kas vien ievēro pavēli, nejutīs neko ļaunu: un gudra cilvēka sirds izšķir gan laiku, gan tiesu. "
+        "lv": "5 Kas vien ievēro pavēli, nejutīs neko ļaunu: un gudra cilvēka sirds izšķir gan laiku, gan tiesu."
       },
       {
         "verse": 6,
         "en": "6Because to every purpose there is time and judgment, therefore the misery of man <i>is </i>great upon him.",
-        "lv": "6 <p>Tāpēc ikvienam nolūkam ir laiks un tiesa, tāpēc cilvēka posts <i>ir </i>liels pār viņu."
+        "lv": "6 <span class='p'></span> Tāpēc ikvienam nolūkam ir laiks un tiesa, tāpēc cilvēka posts <i>ir </i>liels pār viņu."
       },
       {
         "verse": 7,
@@ -789,7 +789,7 @@
       {
         "verse": 12,
         "en": "12Though a sinner do evil an hundred times, and his <i>days </i>be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:",
-        "lv": "12 <p>Kaut arī grēcinieks dara ļaunu simts reižu, un viņa <i>dienas </i>tiek paildzinātas, tomēr, bez šaubām, es zinu, ka klāsies labi tiem, kas bīstas Dievu, kas bīstas viņa priekšā:"
+        "lv": "12 <span class='p'></span> Kaut arī grēcinieks dara ļaunu simts reižu, un viņa <i>dienas </i>tiek paildzinātas, tomēr, bez šaubām, es zinu, ka klāsies labi tiem, kas bīstas Dievu, kas bīstas viņa priekšā:"
       },
       {
         "verse": 13,
@@ -809,7 +809,7 @@
       {
         "verse": 16,
         "en": "16When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also <i>there is that </i>neither day nor night seeth sleep with his eyes:)",
-        "lv": "16 <p>Kad es liku savu sirdi atzīt gudrību un redzēt darbošanos, kas tiek darīta uz zemes: (jo <i>ir </i>arī <i>kas</i>, nedz dienu, ne nakti neredz miegu ar savām acīm:)"
+        "lv": "16 <span class='p'></span> Kad es liku savu sirdi atzīt gudrību un redzēt darbošanos, kas tiek darīta uz zemes: (jo <i>ir </i>arī <i>kas</i>, nedz dienu, ne nakti neredz miegu ar savām acīm:)"
       },
       {
         "verse": 17,
@@ -836,7 +836,7 @@
       {
         "verse": 4,
         "en": "4For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.",
-        "lv": "4 <p>Jo tam, kas ir pievienojies visiem dzīvajiem, ir cerība: jo dzīvs suns ir labāks par mirušu lauvu."
+        "lv": "4 <span class='p'></span> Jo tam, kas ir pievienojies visiem dzīvajiem, ir cerība: jo dzīvs suns ir labāks par mirušu lauvu."
       },
       {
         "verse": 5,
@@ -851,7 +851,7 @@
       {
         "verse": 7,
         "en": "7Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.",
-        "lv": "7 <p>Ej, ēd savu maizi ar prieku un dzer savu vīnu ar līksmu sirdi; jo Dievs nu pieņem tavus darbus."
+        "lv": "7 <span class='p'></span> Ej, ēd savu maizi ar prieku un dzer savu vīnu ar līksmu sirdi; jo Dievs nu pieņem tavus darbus."
       },
       {
         "verse": 8,
@@ -871,7 +871,7 @@
       {
         "verse": 11,
         "en": "11I returned, and saw under the sun, that the race <i>is </i>not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.",
-        "lv": "11 <p>Es atgriezos un redzēju zem saules, ka sacīkstes nav ašajam, ne kauja stiprajam, nedz arī maize gudrajam, ne bagātība saprātīgajiem, ne labvēlība prasmīgajiem; bet laiks un nejaušība gadās tiem visiem."
+        "lv": "11 <span class='p'></span> Es atgriezos un redzēju zem saules, ka sacīkstes nav ašajam, ne kauja stiprajam, nedz arī maize gudrajam, ne bagātība saprātīgajiem, ne labvēlība prasmīgajiem; bet laiks un nejaušība gadās tiem visiem."
       },
       {
         "verse": 12,
@@ -881,7 +881,7 @@
       {
         "verse": 13,
         "en": "13This wisdom have I seen also under the sun, and it <i>seemed </i>great unto me:",
-        "lv": "13 <p>Šo gudrību arī es esmu redzējis zem saules, un tā man <i>šķita</i> liela:"
+        "lv": "13 <span class='p'></span> Šo gudrību arī es esmu redzējis zem saules, un tā man <i>šķita</i> liela:"
       },
       {
         "verse": 14,
@@ -988,7 +988,7 @@
       {
         "verse": 16,
         "en": "16 Woe to thee, O land, when thy king <i>is </i>a child, and thy princes eat in the morning!",
-        "lv": "16 <p>Vai tev, ak, zeme, kad tavs ķēniņš ir bērns un tavi prinči ēd no rīta!"
+        "lv": "16 <span class='p'></span> Vai tev, ak, zeme, kad tavs ķēniņš ir bērns un tavi prinči ēd no rīta!"
       },
       {
         "verse": 17,
@@ -998,17 +998,17 @@
       {
         "verse": 18,
         "en": "18By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
-        "lv": "18 <p>Caur lielu slinkumu ēka sagrūst; un caur roku bezdarbību namam pil cauri."
+        "lv": "18 <span class='p'></span> Caur lielu slinkumu ēka sagrūst; un caur roku bezdarbību namam pil cauri."
       },
       {
         "verse": 19,
         "en": "19A feast is made for laughter, and wine maketh merry: but money answereth all <i>things</i>.",
-        "lv": "19 <p>Dzīres tiek darītas priekš smiekliem, un vīns ielīksmo: bet nauda atbild visam."
+        "lv": "19 <span class='p'></span> Dzīres tiek darītas priekš smiekliem, un vīns ielīksmo: bet nauda atbild visam."
       },
       {
         "verse": 20,
         "en": "20Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
-        "lv": "20 <p>Nelādi ķēniņu, nē, ne savās domās; un nelādi bagāto savā guļamkambarī: jo gaisa putns nesīs balsi un tas, kam ir spārni, izstāstīs lietu."
+        "lv": "20 <span class='p'></span> Nelādi ķēniņu, nē, ne savās domās; un nelādi bagāto savā guļamkambarī: jo gaisa putns nesīs balsi un tas, kam ir spārni, izstāstīs lietu."
       }
     ],
     "11": [
@@ -1045,7 +1045,7 @@
       {
         "verse": 7,
         "en": "7Truly the light <i>is </i>sweet, and a pleasant <i>thing it is</i> for the eyes to behold the sun:",
-        "lv": "7 <p>Patiešām gaisma <i>ir </i>salda, un patīkami acīm <i>ir </i>uzlūkot sauli:"
+        "lv": "7 <span class='p'></span> Patiešām gaisma <i>ir </i>salda, un patīkami acīm <i>ir </i>uzlūkot sauli:"
       },
       {
         "verse": 8,
@@ -1055,7 +1055,7 @@
       {
         "verse": 9,
         "en": "9Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these <i>things </i>God will bring thee into judgment.",
-        "lv": "9 <p>Priecājies, ak, jaunekli, savā jaunībā; un lai tava sirds tevi iepriecina tavas jaunības dienās un staigā savas sirds ceļos un savu acu skatienā: bet zini, ka par to visu Dievs tevi vedīs tiesā."
+        "lv": "9 <span class='p'></span> Priecājies, ak, jaunekli, savā jaunībā; un lai tava sirds tevi iepriecina tavas jaunības dienās un staigā savas sirds ceļos un savu acu skatienā: bet zini, ka par to visu Dievs tevi vedīs tiesā."
       },
       {
         "verse": 10,
@@ -1102,7 +1102,7 @@
       {
         "verse": 8,
         "en": "8Vanity of vanities, saith the preacher; all <i>is </i>vanity.",
-        "lv": "8 <p>Niecību niecība, saka sludinātājs; viss <i>ir </i>niecība."
+        "lv": "8 <span class='p'></span> Niecību niecība, saka sludinātājs; viss <i>ir </i>niecība."
       },
       {
         "verse": 9,
@@ -1127,7 +1127,7 @@
       {
         "verse": 13,
         "en": "13Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this <i>is </i>the whole <i>duty </i>of man.",
-        "lv": "13 <p>Klausīsimies visas lietas gala vārdu: Bīsties Dievu un turi viņa pavēles: jo šis <i>ir </i>viss cilvēka <i>pienākums.</i>"
+        "lv": "13 <span class='p'></span> Klausīsimies visas lietas gala vārdu: Bīsties Dievu un turi viņa pavēles: jo šis <i>ir </i>viss cilvēka <i>pienākums.</i>"
       },
       {
         "verse": 14,

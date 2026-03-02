@@ -50,7 +50,7 @@
       {
         "verse": 10,
         "en": "10Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace <i>that should come </i>unto you:",
-        "lv": "10 <p>Par kuru glābšanu pravieši ir jautājuši un rūpīgi meklējuši, kas pravietoja par žēlastību, kam uz jums <i>jānāk</i>:"
+        "lv": "10 <span class='p'></span> Par kuru glābšanu pravieši ir jautājuši un rūpīgi meklējuši, kas pravietoja par žēlastību, kam uz jums <i>jānāk</i>:"
       },
       {
         "verse": 11,
@@ -65,7 +65,7 @@
       {
         "verse": 13,
         "en": "13Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;",
-        "lv": "13 <p>Tādēļ apjoziet sava prāta gurnus, esiet skaidrā prātā un ceriet līdz galam uz žēlastību, kas jums tiks atnesta pie Jēzus Kristus atklāšanās;"
+        "lv": "13 <span class='p'></span> Tādēļ apjoziet sava prāta gurnus, esiet skaidrā prātā un ceriet līdz galam uz žēlastību, kas jums tiks atnesta pie Jēzus Kristus atklāšanās;"
       },
       {
         "verse": 14,
@@ -105,7 +105,7 @@
       {
         "verse": 21,
         "en": "21Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
-        "lv": "21 Kas caur viņu ticat uz Dievu, kas viņu uzcēla no mirušajiem un viņam deva godību; lai jūsu ticība un cerība varētu būt uz Dievu. "
+        "lv": "21 Kas caur viņu ticat uz Dievu, kas viņu uzcēla no mirušajiem un viņam deva godību; lai jūsu ticība un cerība varētu būt uz Dievu."
       },
       {
         "verse": 22,
@@ -147,7 +147,7 @@
       {
         "verse": 4,
         "en": "4To whom coming,<i> as unto</i> a living stone, disallowed indeed of men, but chosen of God, <i>and</i> precious,",
-        "lv": "4 <p>Pie kura nākdami, <i>kā pie </i>dzīva akmens, patiesi noraidīta no cilvēkiem, bet izraudzīta no Dieva <i>un </i>dārga,"
+        "lv": "4 <span class='p'></span> Pie kura nākdami, <i>kā pie </i>dzīva akmens, patiesi noraidīta no cilvēkiem, bet izraudzīta no Dieva <i>un </i>dārga,"
       },
       {
         "verse": 5,
@@ -182,7 +182,7 @@
       {
         "verse": 11,
         "en": "11Dearly beloved, I beseech <i>you </i>as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;",
-        "lv": "11 <p>Dārgie mīļotie, es <i>jūs </i>lūdzos kā svešiniekus un svētceļniekus, atturieties no miesīgām iekārēm, kas karo pret dvēseli;"
+        "lv": "11 <span class='p'></span> Dārgie mīļotie, es <i>jūs </i>lūdzos kā svešiniekus un svētceļniekus, atturieties no miesīgām iekārēm, kas karo pret dvēseli;"
       },
       {
         "verse": 12,
@@ -192,7 +192,7 @@
       {
         "verse": 13,
         "en": "13Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;",
-        "lv": "13 <p>Pakļaujieties ikvienai cilvēku kārtībai tā Kunga dēļ: vai ķēniņam kā augstākajam;"
+        "lv": "13 <span class='p'></span> Pakļaujieties ikvienai cilvēku kārtībai tā Kunga dēļ: vai ķēniņam kā augstākajam;"
       },
       {
         "verse": 14,
@@ -217,7 +217,7 @@
       {
         "verse": 18,
         "en": "18Servants, <i>be</i> subject to <i>your </i>masters with all fear; not only to the good and gentle, but also to the froward.",
-        "lv": "18 <p>Kalpi, pakļaujieties <i>saviem</i> saimniekiem ar visu bijāšanu; ne tikai labiem un maigiem, bet arī patgalvīgiem."
+        "lv": "18 <span class='p'></span> Kalpi, pakļaujieties <i>saviem</i> saimniekiem ar visu bijāšanu; ne tikai labiem un maigiem, bet arī patgalvīgiem."
       },
       {
         "verse": 19,
@@ -294,7 +294,7 @@
       {
         "verse": 8,
         "en": "8Finally,<i> be ye</i> all of one mind, having compassion one of another, love as brethren, <i>be </i>pitiful, <i>be </i>courteous:",
-        "lv": "8 <p>Visbeidzot, <i>esiet </i>visi vienā prātā ar līdzjūtību cits pret citu, mīliet kā brāļi, <i>esiet </i>žēlīgi, <i>esiet </i>laipni:"
+        "lv": "8 <span class='p'></span> Visbeidzot, <i>esiet </i>visi vienā prātā ar līdzjūtību cits pret citu, mīliet kā brāļi, <i>esiet </i>žēlīgi, <i>esiet </i>laipni:"
       },
       {
         "verse": 9,
@@ -314,7 +314,7 @@
       {
         "verse": 12,
         "en": "12For the eyes of the Lord <i>are </i>over the righteous, and his ears <i>are open</i> unto their prayers: but the face of the Lord <i>is </i>against them that do evil.",
-        "lv": "12 <p>Jo tā Kunga acis <i>ir </i>pār taisnajiem, un viņa ausis <i>ir atvērtas</i> viņu lūgšanām: bet tā Kunga seja <i>ir </i>pret tiem, kas dara ļaunu."
+        "lv": "12 <span class='p'></span> Jo tā Kunga acis <i>ir </i>pār taisnajiem, un viņa ausis <i>ir atvērtas</i> viņu lūgšanām: bet tā Kunga seja <i>ir </i>pret tiem, kas dara ļaunu."
       },
       {
         "verse": 13,
@@ -344,7 +344,7 @@
       {
         "verse": 18,
         "en": "18For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
-        "lv": "18 <p>Jo Kristus arī vienreiz ir cietis par grēkiem, taisnais par netaisnajiem, lai viņš varētu mūs pievest Dievam, būdams nonāvēts miesā, bet atdzīvināts caur to Garu:"
+        "lv": "18 <span class='p'></span> Jo Kristus arī vienreiz ir cietis par grēkiem, taisnais par netaisnajiem, lai viņš varētu mūs pievest Dievam, būdams nonāvēts miesā, bet atdzīvināts caur to Garu:"
       },
       {
         "verse": 19,
@@ -488,7 +488,7 @@
       {
         "verse": 5,
         "en": "5Likewise, ye younger, submit yourselves unto the elder. Yea, all <i>of you</i> be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.",
-        "lv": "5 <p>Tāpat jūs, jaunākie, pakļaujieties vecajiem. Jā, visi <i>no jums</i> esiet pakļauti cits citam un esiet apģērbti ar pazemību: jo Dievs pretojas lepnajiem un dod žēlastību pazemīgajiem."
+        "lv": "5 <span class='p'></span> Tāpat jūs, jaunākie, pakļaujieties vecajiem. Jā, visi <i>no jums</i> esiet pakļauti cits citam un esiet apģērbti ar pazemību: jo Dievs pretojas lepnajiem un dod žēlastību pazemīgajiem."
       },
       {
         "verse": 6,
@@ -503,7 +503,7 @@
       {
         "verse": 8,
         "en": "8Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:",
-        "lv": "8 <p>Esiet skaidrā prātā, esiet modri; tāpēc ka jūsu pretinieks velns kā rēcošs lauva staigā apkārt, meklēdams, kuru viņš var aprīt:"
+        "lv": "8 <span class='p'></span> Esiet skaidrā prātā, esiet modri; tāpēc ka jūsu pretinieks velns kā rēcošs lauva staigā apkārt, meklēdams, kuru viņš var aprīt:"
       },
       {
         "verse": 9,

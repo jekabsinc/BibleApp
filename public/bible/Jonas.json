@@ -20,7 +20,7 @@
       {
         "verse": 4,
         "en": "4But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
-        "lv": "4 <p>Bet tas KUNGS jūrā izsūtīja lielu vēju, un jūrā bija varena auka, tā ka kuģis bija kā tiktu salauzts."
+        "lv": "4 <span class='p'></span> Bet tas KUNGS jūrā izsūtīja lielu vēju, un jūrā bija varena auka, tā ka kuģis bija kā tiktu salauzts."
       },
       {
         "verse": 5,
@@ -55,7 +55,7 @@
       {
         "verse": 11,
         "en": "11Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
-        "lv": "11 <p>Tad tie viņam sacīja, Ko mums tev būs darīt, lai jūra var mums būt rāma? jo jūra bangoja un bija vētraina."
+        "lv": "11 <span class='p'></span> Tad tie viņam sacīja, Ko mums tev būs darīt, lai jūra var mums būt rāma? jo jūra bangoja un bija vētraina."
       },
       {
         "verse": 12,
@@ -85,7 +85,7 @@
       {
         "verse": 17,
         "en": "17Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
-        "lv": "17 <p>Tad nu tas KUNGS bija sagatavojis lielu zivi, aprīt Jonu. Un Jona bija zivs vēderā trīs dienas un trīs naktis."
+        "lv": "17 <span class='p'></span> Tad nu tas KUNGS bija sagatavojis lielu zivi, aprīt Jonu. Un Jona bija zivs vēderā trīs dienas un trīs naktis."
       }
     ],
     "2": [
@@ -112,7 +112,7 @@
       {
         "verse": 5,
         "en": "5The waters compassed me about, <i>even </i>to the soul: the depth closed me round about, the weeds were wrapped about my head.",
-        "lv": "5 Ūdeņi mani apstāja apkārt, līdz <i>pat </i>dvēselei: dziļums mani ieslēdza apkārt, jūraszāles tika aptītas ap manu galvu."
+        "lv": "5 Ūdeņi mani apstāja apkārt, līdz <i>pat </i>dvēselei: dziļums mani ieslēdza apkārt, jūraszāles bija aptinušās ap manu galvu."
       },
       {
         "verse": 6,
@@ -164,7 +164,7 @@
       {
         "verse": 5,
         "en": "5So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
-        "lv": "5 <p>Tā Ninives ļaudis ticēja Dievam un izsludināja gavēni, un uzvilka maisaudumu, no to lielākā līdz to mazākajam."
+        "lv": "5 <span class='p'></span> Tā Ninives ļaudis ticēja Dievam un izsludināja gavēni, un uzvilka maisaudumu, no to lielākā līdz to mazākajam."
       },
       {
         "verse": 6,
@@ -189,7 +189,7 @@
       {
         "verse": 10,
         "en": "10And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did <i>it </i>not.",
-        "lv": "10 <p>Un Dievs redzēja viņu darbus, ka tie griezās no sava ļaunā ceļa; un Dievs nožēloja par ļaunumu, ko viņš bija sacījis, ka viņš tiem darītu; un viņš <i>to </i>nedarīja."
+        "lv": "10 <span class='p'></span> Un Dievs redzēja viņu darbus, ka tie griezās no sava ļaunā ceļa; un Dievs nožēloja par ļaunumu, ko viņš bija sacījis, ka viņš tiem darītu; un viņš <i>to </i>nedarīja."
       }
     ],
     "4": [
@@ -211,7 +211,7 @@
       {
         "verse": 4,
         "en": "4Then said the LORD, Doest thou well to be angry?",
-        "lv": "4 <p>Tad tas KUNGS sacīja, Vai tu dari labi dusmojoties?"
+        "lv": "4 <span class='p'></span> Tad tas KUNGS sacīja, Vai tu dari labi dusmojoties?"
       },
       {
         "verse": 5,

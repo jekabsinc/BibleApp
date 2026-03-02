@@ -25,7 +25,7 @@
       {
         "verse": 5,
         "en": "5 This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.",
-        "lv": "5 <p>Šī tad ir ziņa, ko mēs no viņa esam dzirdējuši un jums paziņojam, ka Dievs ir gaisma un viņā nepavisam nav tumsas."
+        "lv": "5 <span class='p'></span> Šī tad ir ziņa, ko mēs no viņa esam dzirdējuši un jums paziņojam, ka Dievs ir gaisma un viņā nepavisam nav tumsas."
       },
       {
         "verse": 6,
@@ -67,7 +67,7 @@
       {
         "verse": 3,
         "en": "3And hereby we do know that we know him, if we keep his commandments.",
-        "lv": "3 <p>Un ar šo mēs zinām, ka mēs viņu pazīstam, ja mēs turam viņa pavēles."
+        "lv": "3 <span class='p'></span> Un ar šo mēs zinām, ka mēs viņu pazīstam, ja mēs turam viņa pavēles."
       },
       {
         "verse": 4,
@@ -127,7 +127,7 @@
       {
         "verse": 15,
         "en": "15Love not the world, neither the things <i>that are</i> in the world. If any man love the world, the love of the Father is not in him.",
-        "lv": "15 <p>Nemīliet pasauli, nedz to,<i> kas ir</i> pasaulē. Ja kāds mīl pasauli, viņā nav tā Tēva mīlestības."
+        "lv": "15 <span class='p'></span> Nemīliet pasauli, nedz to,<i> kas ir</i> pasaulē. Ja kāds mīl pasauli, viņā nav tā Tēva mīlestības."
       },
       {
         "verse": 16,
@@ -142,7 +142,7 @@
       {
         "verse": 18,
         "en": "18Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.",
-        "lv": "18 <p>Bērniņi, ir pēdējais laiks: un kā jūs esat dzirdējuši, ka antikrists nāks, pat tagad ir daudz antikristu; no kā mēs zinām, ka ir pēdējais laiks."
+        "lv": "18 <span class='p'></span> Bērniņi, ir pēdējais laiks: un kā jūs esat dzirdējuši, ka antikrists nāks, pat tagad ir daudz antikristu; no kā mēs zinām, ka ir pēdējais laiks."
       },
       {
         "verse": 19,
@@ -254,7 +254,7 @@
       {
         "verse": 11,
         "en": "11For this is the message that ye heard from the beginning, that we should love one another.",
-        "lv": "11 <p>Jo šī ir ziņa, ko jūs dzirdējāt no iesākuma, ka mums jāmīl citam citu."
+        "lv": "11 <span class='p'></span> Jo šī ir ziņa, ko jūs dzirdējāt no iesākuma, ka mums jāmīl citam citu."
       },
       {
         "verse": 12,
@@ -356,7 +356,7 @@
       {
         "verse": 7,
         "en": "7Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
-        "lv": "7 <p>Mīļotie, mīlēsim cits citu: jo mīlestība ir no Dieva; un ikviens, kas mīl, ir dzimis no Dieva un pazīst Dievu."
+        "lv": "7 <span class='p'></span> Mīļotie, mīlēsim cits citu: jo mīlestība ir no Dieva; un ikviens, kas mīl, ir dzimis no Dieva un pazīst Dievu."
       },
       {
         "verse": 8,
@@ -421,7 +421,7 @@
       {
         "verse": 20,
         "en": "20If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
-        "lv": "20 <p>Ja kāds saka, Es mīlu Dievu, un ienīst savu brāli, viņš ir melis: jo tas, kas nemīl savu brāli, kuru viņš ir redzējis, kā viņš var mīlēt Dievu, kuru viņš nav redzējis?"
+        "lv": "20 <span class='p'></span> Ja kāds saka, Es mīlu Dievu, un ienīst savu brāli, viņš ir melis: jo tas, kas nemīl savu brāli, kuru viņš ir redzējis, kā viņš var mīlēt Dievu, kuru viņš nav redzējis?"
       },
       {
         "verse": 21,
@@ -458,7 +458,7 @@
       {
         "verse": 6,
         "en": "6This is he that came by water and blood, <i>even </i>Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.",
-        "lv": "6 <p>Šis ir tas, kas nāca caur ūdeni un asinīm, <i>proti, </i>Jēzus Kristus; ne tikai caur ūdeni, bet caur ūdeni un asinīm. Un tas ir tas Gars, kas dod liecību, tāpēc ka tas Gars ir patiesība."
+        "lv": "6 <span class='p'></span> Šis ir tas, kas nāca caur ūdeni un asinīm, <i>proti, </i>Jēzus Kristus; ne tikai caur ūdeni, bet caur ūdeni un asinīm. Un tas ir tas Gars, kas dod liecību, tāpēc ka tas Gars ir patiesība."
       },
       {
         "verse": 7,

@@ -65,7 +65,7 @@
       {
         "verse": 13,
         "en": "13And David said unto the young man that told him, Whence <i>art </i>thou? And he answered, I <i>am </i>the son of a stranger, an Amalekite.",
-        "lv": "13 <p>Un Dāvids sacīja jauneklim, kas viņam stāstīja, No kurienes tu <i>esi</i>? Un viņš atbildēja, Es <i>esmu </i>svešinieka, amalekieša, dēls."
+        "lv": "13 <span class='p'></span> Un Dāvids sacīja jauneklim, kas viņam stāstīja, No kurienes tu <i>esi</i>? Un viņš atbildēja, Es <i>esmu </i>svešinieka, amalekieša, dēls."
       },
       {
         "verse": 14,
@@ -85,7 +85,7 @@
       {
         "verse": 17,
         "en": "17And David lamented with this lamentation over Saul and over Jonathan his son:",
-        "lv": "17 <p>Un Dāvids vaimanāja ar šīm vaimanām pār Saulu un pār viņa dēlu Jonatānu:"
+        "lv": "17 <span class='p'></span> Un Dāvids vaimanāja ar šīm vaimanām pār Saulu un pār viņa dēlu Jonatānu:"
       },
       {
         "verse": 18,
@@ -162,7 +162,7 @@
       {
         "verse": 5,
         "en": "5And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed <i>be </i>ye of the LORD, that ye have shewed this kindness unto your lord, <i>even </i>unto Saul, and have buried him.",
-        "lv": "5 <p>Un Dāvids sūtīja vēstnešus pie Jabešgilādas vīriem un viņiem sacīja, <i>Esiet </i>tā KUNGA svētīti, ka jūs esat rādījuši šo laipnību savam kungam, <i>proti,</i> Saulam, un esat viņu apbedījuši."
+        "lv": "5 <span class='p'></span> Un Dāvids sūtīja vēstnešus pie Jabešgilādas vīriem un viņiem sacīja, <i>Esiet </i>tā KUNGA svētīti, ka jūs esat rādījuši šo laipnību savam kungam, <i>proti,</i> Saulam, un esat viņu apbedījuši."
       },
       {
         "verse": 6,
@@ -177,7 +177,7 @@
       {
         "verse": 8,
         "en": "8But Abner the son of Ner, captain of Saul's host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;",
-        "lv": "8 <p>Bet Abnērs, Nēra dēls, Saula karapulka kapteinis, ņēma Išbošetu, Saula dēlu, un veda viņu uz Mahanaimu;"
+        "lv": "8 <span class='p'></span> Bet Abnērs, Nēra dēls, Saula karapulka kapteinis, ņēma Išbošetu, Saula dēlu, un veda viņu uz Mahanaimu;"
       },
       {
         "verse": 9,
@@ -197,7 +197,7 @@
       {
         "verse": 12,
         "en": "12And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.",
-        "lv": "12 <p>Un Abnērs, Nēra dēls, un Išbošeta, Saula dēla, kalpi izgāja no Mahanaimas uz Gibeonu."
+        "lv": "12 <span class='p'></span> Un Abnērs, Nēra dēls, un Išbošeta, Saula dēla, kalpi izgāja no Mahanaimas uz Gibeonu."
       },
       {
         "verse": 13,
@@ -227,7 +227,7 @@
       {
         "verse": 18,
         "en": "18And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel <i>was as </i>light of foot as a wild roe.",
-        "lv": "18 <p>Un tur bija trīs Cerujas dēli, Joābs un Abišajs, un Asahels: un Asahēls <i>bija </i>tik<i> </i>vieglām kājām kā savvaļas stirna."
+        "lv": "18 <span class='p'></span> Un tur bija trīs Cerujas dēli, Joābs un Abišajs, un Asahels: un Asahēls <i>bija </i>tik<i> </i>vieglām kājām kā savvaļas stirna."
       },
       {
         "verse": 19,
@@ -262,7 +262,7 @@
       {
         "verse": 25,
         "en": "25And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.",
-        "lv": "25 <p>Un Benjamīna bērni sapulcējās kopā pēc Abnēra un kļuva par vienu karaspēku, un nostājās pakalna galā."
+        "lv": "25 <span class='p'></span> Un Benjamīna bērni sapulcējās kopā pēc Abnēra un kļuva par vienu karaspēku, un nostājās pakalna galā."
       },
       {
         "verse": 26,
@@ -297,7 +297,7 @@
       {
         "verse": 32,
         "en": "32And they took up Asahel, and buried him in the sepulchre of his father, which <i>was in </i>Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day.",
-        "lv": "32 <p>Un viņi paņēma Asahēlu un viņu apbedīja viņa tēva kapa vietā, kas <i>bija </i>Bētlemē. Un Joābs un viņa vīri gāja visu nakti, un viņi rītausmā nonāca Hebronā."
+        "lv": "32 <span class='p'></span> Un viņi paņēma Asahēlu un viņu apbedīja viņa tēva kapa vietā, kas <i>bija </i>Bētlemē. Un Joābs un viņa vīri gāja visu nakti, un viņi rītausmā nonāca Hebronā."
       }
     ],
     "3": [
@@ -309,7 +309,7 @@
       {
         "verse": 2,
         "en": "2And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;",
-        "lv": "2 <p>Un Dāvidam Hebronā dzima dēli: un viņa pirmdzimtais bija Amnons no jezreēlietes Ahinoāmas;"
+        "lv": "2 <span class='p'></span> Un Dāvidam Hebronā dzima dēli: un viņa pirmdzimtais bija Amnons no jezreēlietes Ahinoāmas;"
       },
       {
         "verse": 3,
@@ -329,7 +329,7 @@
       {
         "verse": 6,
         "en": "6And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.",
-        "lv": "6 <p>Un notika, kamēr bija karš starp Saula namu un Dāvida namu, ka Abnērs darīja sevi stipru priekš Saula nama."
+        "lv": "6 <span class='p'></span> Un notika, kamēr bija karš starp Saula namu un Dāvida namu, ka Abnērs darīja sevi stipru priekš Saula nama."
       },
       {
         "verse": 7,
@@ -359,12 +359,12 @@
       {
         "verse": 12,
         "en": "12And Abner sent messengers to David on his behalf, saying, Whose <i>is </i>the land? saying <i>also</i>, Make thy league with me, and, behold, my hand <i>shall be</i> with thee, to bring about all Israel unto thee.",
-        "lv": "12 <p>Un Abnērs sūtīja vēstnešus pie Dāvida viņa vārdā sacīdams, Kuram <i>ir</i> zeme? <i>arī</i> sacīdams, Slēdz savienību ar mani, un, lūk, mana roka <i>būs </i>ar tevi, visu Israēlu vest pie tevis."
+        "lv": "12 <span class='p'></span> Un Abnērs sūtīja vēstnešus pie Dāvida viņa vārdā sacīdams, Kuram <i>ir</i> zeme? <i>arī</i> sacīdams, Slēdz savienību ar mani, un, lūk, mana roka <i>būs </i>ar tevi, visu Israēlu vest pie tevis."
       },
       {
         "verse": 13,
         "en": "13And he said, Well; I will make a league with thee: but one thing I require of thee, that is, Thou shalt not see my face, except thou first bring Michal Saul's daughter, when thou comest to see my face.",
-        "lv": "13 <p>Un viņš sacīja, Labi; es slēgšu ar tevi savienību: bet vienu lietu es jautāju no tevis, tas ir, Tu neredzēsi manu seju, ja vien tu vispirms neatved Mihālu, Saula meitu, kad tu nāc redzēt manu seju."
+        "lv": "13 <span class='p'></span> Un viņš sacīja, Labi; es slēgšu ar tevi savienību: bet vienu lietu es jautāju no tevis, tas ir, Tu neredzēsi manu seju, ja vien tu vispirms neatved Mihālu, Saula meitu, kad tu nāc redzēt manu seju."
       },
       {
         "verse": 14,
@@ -384,7 +384,7 @@
       {
         "verse": 17,
         "en": "17And Abner had communication with the elders of Israel, saying, Ye sought for David in times past <i>to be</i> king over you:",
-        "lv": "17 <p>Un Abnērs bija sarunājies ar Israēla vecajiem sacīdams, Jūs agrāk meklējāt Dāvidu <i>būt </i>ķēniņam pār jums."
+        "lv": "17 <span class='p'></span> Un Abnērs bija sarunājies ar Israēla vecajiem sacīdams, Jūs agrāk meklējāt Dāvidu <i>būt </i>ķēniņam pār jums."
       },
       {
         "verse": 18,
@@ -409,7 +409,7 @@
       {
         "verse": 22,
         "en": "22And, behold, the servants of David and Joab came from <i>pursuing </i>a troop, and brought in a great spoil with them: but Abner <i>was </i>not with David in Hebron; for he had sent him away, and he was gone in peace.",
-        "lv": "22 <p>Un, lūk, Dāvida un Joāba kalpi nāca no karaspēka <i>vajāšanas </i>un veda sev līdzi lielu laupījumu: bet Abnērs ne<i>bija</i> kopā ar Dāvidu Hebronā; jo viņš to bija sūtījs prom, un viņš bija aizgājis mierā."
+        "lv": "22 <span class='p'></span> Un, lūk, Dāvida un Joāba kalpi nāca no karaspēka <i>vajāšanas </i>un veda sev līdzi lielu laupījumu: bet Abnērs ne<i>bija</i> kopā ar Dāvidu Hebronā; jo viņš to bija sūtījs prom, un viņš bija aizgājis mierā."
       },
       {
         "verse": 23,
@@ -439,7 +439,7 @@
       {
         "verse": 28,
         "en": "28And afterward when David heard <i>it</i>, he said, I and my kingdom <i>are </i>guiltless before the LORD for ever from the blood of Abner the son of Ner:",
-        "lv": "28 <p>Un pēcāk, kad Dāvids <i>to </i>dzirdēja, viņš sacīja, Es un mana valstība <i>esam</i> bezvainīgi tā KUNGA priekšā mūžīgi no Abnēra, Nēra dēla, asinīm:"
+        "lv": "28 <span class='p'></span> Un pēcāk, kad Dāvids <i>to </i>dzirdēja, viņš sacīja, Es un mana valstība <i>esam</i> bezvainīgi tā KUNGA priekšā mūžīgi no Abnēra, Nēra dēla, asinīm:"
       },
       {
         "verse": 29,
@@ -454,7 +454,7 @@
       {
         "verse": 31,
         "en": "31And David said to Joab, and to all the people that <i>were </i>with him, Rend your clothes, and gird you with sackcloth, and mourn before Abner. And king David <i>himself </i>followed the bier.",
-        "lv": "31 <p>Un Dāvids sacīja Joābam un visiem ļaudīm, kas <i>bija</i> ar viņu, Saplēsiet savas drēbes un apjozieties ar maisaudumu, un sērojiet Abnēra priekšā. Un ķēniņš Dāvids <i>pats </i>sekoja zārkam."
+        "lv": "31 <span class='p'></span> Un Dāvids sacīja Joābam un visiem ļaudīm, kas <i>bija</i> ar viņu, Saplēsiet savas drēbes un apjozieties ar maisaudumu, un sērojiet Abnēra priekšā. Un ķēniņš Dāvids <i>pats </i>sekoja zārkam."
       },
       {
         "verse": 32,
@@ -541,7 +541,7 @@
       {
         "verse": 9,
         "en": "9And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, <i>As</i> the LORD liveth, who hath redeemed my soul out of all adversity,",
-        "lv": "9 <p>Un Dāvids atbildēja Rehābam un viņa brālim Baānam, bērotieša Rimona dēliem, un viņiem sacīja, <i>Kā </i>tas KUNGS dzīvo, kas manu dvēseli ir izpircis no visām likstām,"
+        "lv": "9 <span class='p'></span> Un Dāvids atbildēja Rehābam un viņa brālim Baānam, bērotieša Rimona dēliem, un viņiem sacīja, <i>Kā </i>tas KUNGS dzīvo, kas manu dvēseli ir izpircis no visām likstām,"
       },
       {
         "verse": 10,
@@ -578,7 +578,7 @@
       {
         "verse": 4,
         "en": "4David was thirty years old when he began to reign, <i>and </i>he reigned forty years.",
-        "lv": "4 <p>Dāvids bija trīsdesmit gadu vecs, kad viņš iesāka valdīt, <i>un </i>viņš valdīja četrdesmit gadus."
+        "lv": "4 <span class='p'></span> Dāvids bija trīsdesmit gadu vecs, kad viņš iesāka valdīt, <i>un </i>viņš valdīja četrdesmit gadus."
       },
       {
         "verse": 5,
@@ -588,7 +588,7 @@
       {
         "verse": 6,
         "en": "6And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.",
-        "lv": "6 <p>Un ķēniņš un viņa vīri gāja uz Jeruzālemi pie jebusiešiem, tās zemes iedzīvotājiem: kas runāja uz Dāvidu sacīdami, Ja vien tu neņem prom aklos un klibos, tu šurp nenāksi: domādami, <i>[ka]</i> Dāvids nevar šurp nākt."
+        "lv": "6 <span class='p'></span> Un ķēniņš un viņa vīri gāja uz Jeruzālemi pie jebusiešiem, tās zemes iedzīvotājiem: kas runāja uz Dāvidu sacīdami, Ja vien tu neņem prom aklos un klibos, tu šurp nenāksi: domādami, <i>[ka]</i> Dāvids nevar šurp nākt."
       },
       {
         "verse": 7,
@@ -613,7 +613,7 @@
       {
         "verse": 11,
         "en": "11And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.",
-        "lv": "11 <p>Un Tiras ķēniņš Hirāms sūtīja vēstnešus pie Dāvida un ciedru kokus, un galdniekus, un mūrniekus: un tie uzbūvēja Dāvidam namu."
+        "lv": "11 <span class='p'></span> Un Tiras ķēniņš Hirāms sūtīja vēstnešus pie Dāvida un ciedru kokus, un galdniekus, un mūrniekus: un tie uzbūvēja Dāvidam namu."
       },
       {
         "verse": 12,
@@ -623,7 +623,7 @@
       {
         "verse": 13,
         "en": "13And David took <i>him </i>more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.",
-        "lv": "13 <p>Un Dāvids no Jeruzālemes ņēma <i>sev</i> vēl konkubīnes un sievas pēc tam, kad viņš bija nācis no Hebronas: un Dāvidam dzima vēl dēli un meitas."
+        "lv": "13 <span class='p'></span> Un Dāvids no Jeruzālemes ņēma <i>sev</i> vēl konkubīnes un sievas pēc tam, kad viņš bija nācis no Hebronas: un Dāvidam dzima vēl dēli un meitas."
       },
       {
         "verse": 14,
@@ -643,7 +643,7 @@
       {
         "verse": 17,
         "en": "17But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard <i>of it</i>, and went down to the hold.",
-        "lv": "17 <p>Bet, kad filistieši dzirdēja, ka viņi ir svaidījuši Dāvidu par ķēniņu pār Israēlu, visi filistieši uznāca meklēt Dāvidu; un Dāvids <i>par to</i> dzirdēja un nogāja uz nocietinājumu."
+        "lv": "17 <span class='p'></span> Bet, kad filistieši dzirdēja, ka viņi ir svaidījuši Dāvidu par ķēniņu pār Israēlu, visi filistieši uznāca meklēt Dāvidu; un Dāvids <i>par to</i> dzirdēja un nogāja uz nocietinājumu."
       },
       {
         "verse": 18,
@@ -668,7 +668,7 @@
       {
         "verse": 22,
         "en": "22And the Philistines came up yet again, and spread themselves in the valley of Rephaim.",
-        "lv": "22 <p>Un filistieši vēl atkal uznāca un izpletās Refaīma ielejā."
+        "lv": "22 <span class='p'></span> Un filistieši vēl atkal uznāca un izpletās Refaīma ielejā."
       },
       {
         "verse": 23,
@@ -715,7 +715,7 @@
       {
         "verse": 6,
         "en": "6And when they came to Nachon's threshingfloor, Uzzah put forth<i> his hand</i> to the ark of God, and took hold of it; for the oxen shook <i>it</i>.",
-        "lv": "6 <p>Un, kad viņi nāca pie Nahona kuļamklona, Uza izstiepa <i>savu roku</i> pie Dieva šķirsta un to satvēra; jo vērši <i>to</i> purināja."
+        "lv": "6 <span class='p'></span> Un, kad viņi nāca pie Nahona kuļamklona, Uza izstiepa <i>savu roku</i> pie Dieva šķirsta un to satvēra; jo vērši <i>to</i> purināja."
       },
       {
         "verse": 7,
@@ -730,7 +730,7 @@
       {
         "verse": 9,
         "en": "9And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?",
-        "lv": "9 <p>Un Dāvids tajā dienā baidījās no tā KUNGA un sacīja, Kā tā KUNGA šķirsts nāks pie manis?"
+        "lv": "9 <span class='p'></span> Un Dāvids tajā dienā baidījās no tā KUNGA un sacīja, Kā tā KUNGA šķirsts nāks pie manis?"
       },
       {
         "verse": 10,
@@ -745,7 +745,7 @@
       {
         "verse": 12,
         "en": "12And it was told king David, saying, The LORD hath blessed the house of Obededom, and all that <i>pertaineth</i> unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obededom into the city of David with gladness.",
-        "lv": "12 <p>Un ķēniņam Dāvidam tika stāstīts sakot, Tas KUNGS ir svētījis Obededoma namu un visu, kas viņam <i>pieder</i>, Dieva šķirsta dēļ. Tā Dāvids gāja un ar līksmību veda Dieva šķirstu no Obededoma nama uz Dāvida pilsētu."
+        "lv": "12 <span class='p'></span> Un ķēniņam Dāvidam tika stāstīts sakot, Tas KUNGS ir svētījis Obededoma namu un visu, kas viņam <i>pieder</i>, Dieva šķirsta dēļ. Tā Dāvids gāja un ar līksmību veda Dieva šķirstu no Obededoma nama uz Dāvida pilsētu."
       },
       {
         "verse": 13,
@@ -765,12 +765,12 @@
       {
         "verse": 16,
         "en": "16And as the ark of the LORD came into the city of David, Michal Saul's daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart.",
-        "lv": "16 <p>Un tā KUNGA šķirstam nākot Dāvida pilsētā, Mihāla, Saula meita, palūkojās caur logu un redzēja ķēniņu Dāvidu lēkājam un dejojam tā KUNGA priekšā; un viņa to nicināja savā sirdī."
+        "lv": "16 <span class='p'></span> Un tā KUNGA šķirstam nākot Dāvida pilsētā, Mihāla, Saula meita, palūkojās caur logu un redzēja ķēniņu Dāvidu lēkājam un dejojam tā KUNGA priekšā; un viņa to nicināja savā sirdī."
       },
       {
         "verse": 17,
         "en": "17And they brought in the ark of the LORD, and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the LORD.",
-        "lv": "17 <p>Un viņi ieveda tā KUNGA šķirstu un to novietoja savā vietā, mājokļa vidū, ko Dāvids tam bija uzslējis: un Dāvids ziedoja dedzināmos upurus un miera ziedojumus tā KUNGA priekšā."
+        "lv": "17 <span class='p'></span> Un viņi ieveda tā KUNGA šķirstu un to novietoja savā vietā, mājokļa vidū, ko Dāvids tam bija uzslējis: un Dāvids ziedoja dedzināmos upurus un miera ziedojumus tā KUNGA priekšā."
       },
       {
         "verse": 18,
@@ -785,7 +785,7 @@
       {
         "verse": 20,
         "en": "20Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!",
-        "lv": "20 <p>Tad Dāvids atgriezās svētīt savu saimi. Un Mihāla, Saula meita, iznāca satikt Dāvidu un sacīja, Cik krāšņs šodien bija Israēla ķēniņš, kurš šodien atsedzās savu kalpu kalpoņu acīs, kā viens no neliešiem nekaunīgi atsedzas!"
+        "lv": "20 <span class='p'></span> Tad Dāvids atgriezās svētīt savu saimi. Un Mihāla, Saula meita, iznāca satikt Dāvidu un sacīja, Cik krāšņs šodien bija Israēla ķēniņš, kurš šodien atsedzās savu kalpu kalpoņu acīs, kā viens no neliešiem nekaunīgi atsedzas!"
       },
       {
         "verse": 21,
@@ -822,7 +822,7 @@
       {
         "verse": 4,
         "en": "4And it came to pass that night, that the word of the LORD came unto Nathan, saying,",
-        "lv": "4 <p>Un notika tajā naktī, ka tā KUNGA vārds nāca uz Natānu sacīdams,"
+        "lv": "4 <span class='p'></span> Un notika tajā naktī, ka tā KUNGA vārds nāca uz Natānu sacīdams,"
       },
       {
         "verse": 5,
@@ -862,7 +862,7 @@
       {
         "verse": 12,
         "en": "12And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.",
-        "lv": "12 <p>Un, kad tavas dienas būs piepildītas un tu gulēsi pie saviem tēviem, es uzcelšu tavu sēklu pēc tevis, kas iznāks no tavām iekšām, un es nostiprināšu viņa valstību."
+        "lv": "12 <span class='p'></span> Un, kad tavas dienas būs piepildītas un tu gulēsi pie saviem tēviem, es uzcelšu tavu sēklu pēc tevis, kas iznāks no tavām iekšām, un es nostiprināšu viņa valstību."
       },
       {
         "verse": 13,
@@ -892,7 +892,7 @@
       {
         "verse": 18,
         "en": "18Then went king David in, and sat before the LORD, and he said, Who <i>am </i>I, O Lord GOD? and what is my house, that thou hast brought me hitherto?",
-        "lv": "18 <p>Tad ķēniņš Dāvids iegāja un sēdēja tā KUNGA priekšā un sacīja, Kas es <i>esmu</i>, ak, Kungs DIEVS? un kas ir mans nams, ka tu mani līdz šim esi atvedis?"
+        "lv": "18 <span class='p'></span> Tad ķēniņš Dāvids iegāja un sēdēja tā KUNGA priekšā un sacīja, Kas es <i>esmu</i>, ak, Kungs DIEVS? un kas ir mans nams, ka tu mani līdz šim esi atvedis?"
       },
       {
         "verse": 19,
@@ -964,7 +964,7 @@
       {
         "verse": 3,
         "en": "3David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.",
-        "lv": "3 <p>Dāvids nokāva arī Hadadezeru, Rehoba dēlu, Cobas ķēniņu, viņam dodoties atgūt savu robežu pie Eifratas upes."
+        "lv": "3 <span class='p'></span> Dāvids nokāva arī Hadadezeru, Rehoba dēlu, Cobas ķēniņu, viņam dodoties atgūt savu robežu pie Eifratas upes."
       },
       {
         "verse": 4,
@@ -994,7 +994,7 @@
       {
         "verse": 9,
         "en": "9When Toi king of Hamath heard that David had smitten all the host of Hadadezer,",
-        "lv": "9 <p>Kad Toī, Hamatas ķēniņš, dzirdēja, ka Dāvids ir sitis visu Hadadezera karapulku,"
+        "lv": "9 <span class='p'></span> Kad Toī, Hamatas ķēniņš, dzirdēja, ka Dāvids ir sitis visu Hadadezera karapulku,"
       },
       {
         "verse": 10,
@@ -1019,7 +1019,7 @@
       {
         "verse": 14,
         "en": "14And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David's servants. And the LORD preserved David whithersoever he went.",
-        "lv": "14 <p>Un viņš lika garnizonus Edomā; pa visu Edomu viņš lika garnizonus, un visi tie no Edoma kļuva par Dāvida kalpiem. Un tas KUNGS pasaudzēja Dāvidu, kurp vien viņš gāja."
+        "lv": "14 <span class='p'></span> Un viņš lika garnizonus Edomā; pa visu Edomu viņš lika garnizonus, un visi tie no Edoma kļuva par Dāvida kalpiem. Un tas KUNGS pasaudzēja Dāvidu, kurp vien viņš gāja."
       },
       {
         "verse": 15,
@@ -1066,7 +1066,7 @@
       {
         "verse": 5,
         "en": "5Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.",
-        "lv": "5 <p>Tad ķēniņš Dāvids sūtīja un atveda viņu no Mačira, Ammiēla dēla, nama no Lodebaras."
+        "lv": "5 <span class='p'></span> Tad ķēniņš Dāvids sūtīja un atveda viņu no Mačira, Ammiēla dēla, nama no Lodebaras."
       },
       {
         "verse": 6,
@@ -1076,7 +1076,7 @@
       {
         "verse": 7,
         "en": "7And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father's sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.",
-        "lv": "7 <p>Un Dāvids viņam sacīja, Nebīsties: jo es tev bez šaubām rādīšu laipnību tava tēva Jonatāna dēļ un atjaunošu tev visu tava tēva Saula zemi; un tu pastāvīgi ēdīsi maizi pie mana galda."
+        "lv": "7 <span class='p'></span> Un Dāvids viņam sacīja, Nebīsties: jo es tev bez šaubām rādīšu laipnību tava tēva Jonatāna dēļ un atjaunošu tev visu tava tēva Saula zemi; un tu pastāvīgi ēdīsi maizi pie mana galda."
       },
       {
         "verse": 8,
@@ -1086,7 +1086,7 @@
       {
         "verse": 9,
         "en": "9Then the king called to Ziba, Saul's servant, and said unto him, I have given unto thy master's son all that pertained to Saul and to all his house.",
-        "lv": "9 <p>Tad ķēniņš aicināja Cibu, Saula kalpu, un viņam sacīja, Es esmu devis tava saimnieka dēlam visu, kas piederēja Saulam un visam viņa namam."
+        "lv": "9 <span class='p'></span> Tad ķēniņš aicināja Cibu, Saula kalpu, un viņam sacīja, Es esmu devis tava saimnieka dēlam visu, kas piederēja Saulam un visam viņa namam."
       },
       {
         "verse": 10,
@@ -1138,7 +1138,7 @@
       {
         "verse": 6,
         "en": "6And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men.",
-        "lv": "6 <p>Un, kad Amona bērni redzēja, ka viņi smird Dāvida priekšā, Amona bērni sūtīja un nolīga Betrehoba sīriešus un Cobas sīriešus, divdesmit tūkstošus kājnieku, un no ķēniņa Maahas tūkstoš vīru, un no Ištoba divpadsmit tūkstošus vīru."
+        "lv": "6 <span class='p'></span> Un, kad Amona bērni redzēja, ka viņi smird Dāvida priekšā, Amona bērni sūtīja un nolīga Betrehoba sīriešus un Cobas sīriešus, divdesmit tūkstošus kājnieku, un no ķēniņa Maahas tūkstoš vīru, un no Ištoba divpadsmit tūkstošus vīru."
       },
       {
         "verse": 7,
@@ -1183,7 +1183,7 @@
       {
         "verse": 15,
         "en": "15And when the Syrians saw that they were smitten before Israel, they gathered themselves together.",
-        "lv": "15 <p>Un, kad sīrieši redzēja, ka viņi ir sakauti Israēla priekšā, viņi sapulcējās kopā."
+        "lv": "15 <span class='p'></span> Un, kad sīrieši redzēja, ka viņi ir sakauti Israēla priekšā, viņi sapulcējās kopā."
       },
       {
         "verse": 16,
@@ -1215,7 +1215,7 @@
       {
         "verse": 2,
         "en": "2And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king's house: and from the roof he saw a woman washing herself; and the woman <i>was </i>very beautiful to look upon.",
-        "lv": "2 <p>Un notika pievakarē, ka Dāvids cēlās no savas gultas un staigāja uz ķēniņa nama jumta: un no jumta viņš redzēja sievieti mazgājamies; un tā sieviete <i>bija </i>ļoti skaista pēc izskata."
+        "lv": "2 <span class='p'></span> Un notika pievakarē, ka Dāvids cēlās no savas gultas un staigāja uz ķēniņa nama jumta: un no jumta viņš redzēja sievieti mazgājamies; un tā sieviete <i>bija </i>ļoti skaista pēc izskata."
       },
       {
         "verse": 3,
@@ -1235,7 +1235,7 @@
       {
         "verse": 6,
         "en": "6And David sent to Joab, <i>saying,</i> Send me Uriah the Hittite. And Joab sent Uriah to David.",
-        "lv": "6 <p>Un Dāvids sūtīja pie Joāba <i>sacīdams,</i> Sūti man hitieti Uriju. Un Joābs sūtīja Uriju pie Dāvida."
+        "lv": "6 <span class='p'></span> Un Dāvids sūtīja pie Joāba <i>sacīdams,</i> Sūti man hitieti Uriju. Un Joābs sūtīja Uriju pie Dāvida."
       },
       {
         "verse": 7,
@@ -1275,7 +1275,7 @@
       {
         "verse": 14,
         "en": "14And it came to pass in the morning, that David wrote a letter to Joab, and sent <i>it</i> by the hand of Uriah.",
-        "lv": "14 <p>Un notika no rīta, ka Dāvids rakstīja vēstuli Joābam un <i>to</i> sūtīja caur Urijas roku."
+        "lv": "14 <span class='p'></span> Un notika no rīta, ka Dāvids rakstīja vēstuli Joābam un <i>to</i> sūtīja caur Urijas roku."
       },
       {
         "verse": 15,
@@ -1295,7 +1295,7 @@
       {
         "verse": 18,
         "en": "18Then Joab sent and told David all the things concerning the war;",
-        "lv": "18 <p>Tad Joābs sūtīja un stāstīja Dāvidam visu par karu;"
+        "lv": "18 <span class='p'></span> Tad Joābs sūtīja un stāstīja Dāvidam visu par karu;"
       },
       {
         "verse": 19,
@@ -1315,7 +1315,7 @@
       {
         "verse": 22,
         "en": "22So the messenger went, and came and shewed David all that Joab had sent him for.",
-        "lv": "22 <p>Un vēstnesis aizgāja un nāca, un pavēstīja Dāvidam visu, kā dēļ Joābs viņu bija sūtījis."
+        "lv": "22 <span class='p'></span> Un vēstnesis aizgāja un nāca, un pavēstīja Dāvidam visu, kā dēļ Joābs viņu bija sūtījis."
       },
       {
         "verse": 23,
@@ -1335,7 +1335,7 @@
       {
         "verse": 26,
         "en": "26And when the wife of Uriah heard that Uriah her husband was dead, she mourned for her husband.",
-        "lv": "26 <p>Un, kad Urijas sieva dzirdēja, ka viņas vīrs Urija bija miris, viņa sēroja par savu vīru."
+        "lv": "26 <span class='p'></span> Un, kad Urijas sieva dzirdēja, ka viņas vīrs Urija bija miris, viņa sēroja par savu vīru."
       },
       {
         "verse": 27,
@@ -1377,7 +1377,7 @@
       {
         "verse": 7,
         "en": "7And Nathan said to David, Thou <i>art </i>the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;",
-        "lv": "7 <p>Un Natāns Dāvidam sacīja, Tu <i>esi</i> tas vīrs. Tā saka tas KUNGS, Israēla Dievs, Es tevi svaidīju par ķēniņu pār Israēlu, un es tevi izpestīju no Saula rokas;"
+        "lv": "7 <span class='p'></span> Un Natāns Dāvidam sacīja, Tu <i>esi</i> tas vīrs. Tā saka tas KUNGS, Israēla Dievs, Es tevi svaidīju par ķēniņu pār Israēlu, un es tevi izpestīju no Saula rokas;"
       },
       {
         "verse": 8,
@@ -1417,7 +1417,7 @@
       {
         "verse": 15,
         "en": "15And Nathan departed unto his house. And the LORD struck the child that Uriah's wife bare unto David, and it was very sick.",
-        "lv": "15 <p>Un Natāns aizgāja uz savu namu. Un tas KUNGS sita bērnu, ko Urijas sieva Dāvidam dzemdēja, un tas bija ļoti nevesels."
+        "lv": "15 <span class='p'></span> Un Natāns aizgāja uz savu namu. Un tas KUNGS sita bērnu, ko Urijas sieva Dāvidam dzemdēja, un tas bija ļoti nevesels."
       },
       {
         "verse": 16,
@@ -1462,7 +1462,7 @@
       {
         "verse": 24,
         "en": "24And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.",
-        "lv": "24 <p>Un Dāvids mierināja savu sievu Batšebu un iegāja pie viņas, un gulēja pie viņas: un viņa dzemdēja dēlu, un viņš nosauca viņa vārdu Salamans: un tas KUNGS viņu mīlēja."
+        "lv": "24 <span class='p'></span> Un Dāvids mierināja savu sievu Batšebu un iegāja pie viņas, un gulēja pie viņas: un viņa dzemdēja dēlu, un viņš nosauca viņa vārdu Salamans: un tas KUNGS viņu mīlēja."
       },
       {
         "verse": 25,
@@ -1472,7 +1472,7 @@
       {
         "verse": 26,
         "en": "26And Joab fought against Rabbah of the children of Ammon, and took the royal city.",
-        "lv": "26 <p>Un Joābs cīnījās pret Amona bērnu Rabu un ieņēma karalisko pilsētu."
+        "lv": "26 <span class='p'></span> Un Joābs cīnījās pret Amona bērnu Rabu un ieņēma karalisko pilsētu."
       },
       {
         "verse": 27,
@@ -1529,7 +1529,7 @@
       {
         "verse": 6,
         "en": "6So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray thee, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.",
-        "lv": "6 <p>Tā Amnons apgūlās un izlikās nevesels: un, kad ķēniņš nāca viņu raudzīt, Amnons ķēniņam sacīja, Es tevi lūdzu, lai mana māsa Tamāra nāk un pagatavo man pāris plāceņus manā skatienā, lai es varu ēst no viņas rokas."
+        "lv": "6 <span class='p'></span> Tā Amnons apgūlās un izlikās nevesels: un, kad ķēniņš nāca viņu raudzīt, Amnons ķēniņam sacīja, Es tevi lūdzu, lai mana māsa Tamāra nāk un pagatavo man pāris plāceņus manā skatienā, lai es varu ēst no viņas rokas."
       },
       {
         "verse": 7,
@@ -1574,7 +1574,7 @@
       {
         "verse": 15,
         "en": "15Then Amnon hated her exceedingly; so that the hatred wherewith he hated her <i>was</i> greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone.",
-        "lv": "15 <p>Tad Amnons viņu ārkārtīgi ienīda; tā ka naids, ar ko viņš to ienīda, <i>bija </i>lielāks par mīlestību, ar ko viņš to mīlēja. Un Amnons viņai sacīja, Celies, ej prom."
+        "lv": "15 <span class='p'></span> Tad Amnons viņu ārkārtīgi ienīda; tā ka naids, ar ko viņš to ienīda, <i>bija </i>lielāks par mīlestību, ar ko viņš to mīlēja. Un Amnons viņai sacīja, Celies, ej prom."
       },
       {
         "verse": 16,
@@ -1594,7 +1594,7 @@
       {
         "verse": 19,
         "en": "19And Tamar put ashes on her head, and rent her garment of divers colours that <i>was </i>on her, and laid her hand on her head, and went on crying.",
-        "lv": "19 <p>Un Tamāra lika pelnus uz savas galvas un saplēsa savu dažādu krāsu apģērbu, kas viņai <i>bija</i>, un lika savu roku uz savas galvas, un gāja raudādama."
+        "lv": "19 <span class='p'></span> Un Tamāra lika pelnus uz savas galvas un saplēsa savu dažādu krāsu apģērbu, kas viņai <i>bija</i>, un lika savu roku uz savas galvas, un gāja raudādama."
       },
       {
         "verse": 20,
@@ -1604,7 +1604,7 @@
       {
         "verse": 21,
         "en": "21But when king David heard of all these things, he was very wroth.",
-        "lv": "21 <p>Bet, kad ķēniņš Dāvids par šo visu dzirdēja, viņš ļoti apskaitās."
+        "lv": "21 <span class='p'></span> Bet, kad ķēniņš Dāvids par šo visu dzirdēja, viņš ļoti apskaitās."
       },
       {
         "verse": 22,
@@ -1614,7 +1614,7 @@
       {
         "verse": 23,
         "en": "23And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which <i>is</i> beside Ephraim: and Absalom invited all the king's sons.",
-        "lv": "23 <p>Un notika pēc diviem pilniem gadiem, ka Absalomam bija avju cirpēji Baālhacorā, kas <i>ir </i>blakus Efraīmam, un Absaloms ielūdza visus ķēniņa dēlus."
+        "lv": "23 <span class='p'></span> Un notika pēc diviem pilniem gadiem, ka Absalomam bija avju cirpēji Baālhacorā, kas <i>ir </i>blakus Efraīmam, un Absaloms ielūdza visus ķēniņa dēlus."
       },
       {
         "verse": 24,
@@ -1639,7 +1639,7 @@
       {
         "verse": 28,
         "en": "28Now Absalom had commanded his servants, saying, Mark ye now when Amnon's heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant.",
-        "lv": "28 <p>Tad nu Absaloms bija pavēlējis saviem kalpiem sacīdams, Atzīmējiet nu, kad Amnona sirds ir līksma no vīna un kad es jums saku, Sitiet Amnonu; tad nogaliniet viņu, nebīstieties: vai es jums neesmu pavēlējis? esiet drosmīgi un varonīgi."
+        "lv": "28 <span class='p'></span> Tad nu Absaloms bija pavēlējis saviem kalpiem sacīdams, Atzīmējiet nu, kad Amnona sirds ir līksma no vīna un kad es jums saku, Sitiet Amnonu; tad nogaliniet viņu, nebīstieties: vai es jums neesmu pavēlējis? esiet drosmīgi un varonīgi."
       },
       {
         "verse": 29,
@@ -1649,7 +1649,7 @@
       {
         "verse": 30,
         "en": "30And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king's sons, and there is not one of them left.",
-        "lv": "30 <p>Un notika, kamēr viņi bija ceļā, ka Dāvidam nāca vēstis sakot, ka Absaloms ir nokāvis visus ķēniņa dēlus, un no tiem neviens nav palicis."
+        "lv": "30 <span class='p'></span> Un notika, kamēr viņi bija ceļā, ka Dāvidam nāca vēstis sakot, ka Absaloms ir nokāvis visus ķēniņa dēlus, un no tiem neviens nav palicis."
       },
       {
         "verse": 31,
@@ -1684,7 +1684,7 @@
       {
         "verse": 37,
         "en": "37But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And <i>David </i>mourned for his son every day.",
-        "lv": "37 <p>Bet Absaloms bēga un gāja pie Talmaja, Amihūra dēla, Gešūra ķēniņa. Un <i>Dāvids</i> ik dienu<i> </i>sēroja par savu dēlu."
+        "lv": "37 <span class='p'></span> Bet Absaloms bēga un gāja pie Talmaja, Amihūra dēla, Gešūra ķēniņa. Un <i>Dāvids</i> ik dienu<i> </i>sēroja par savu dēlu."
       },
       {
         "verse": 38,
@@ -1716,7 +1716,7 @@
       {
         "verse": 4,
         "en": "4And when the woman of Tekoah spake to the king, she fell on her face to the ground, and did obeisance, and said, Help, O king.",
-        "lv": "4 <p>Un, kad Tekojas sieviete runāja ar ķēniņu, viņa krita uz savas sejas zemē, un paklanījās un sacīja, Palīdzi, ak, ķēniņ."
+        "lv": "4 <span class='p'></span> Un, kad Tekojas sieviete runāja ar ķēniņu, viņa krita uz savas sejas zemē, un paklanījās un sacīja, Palīdzi, ak, ķēniņ."
       },
       {
         "verse": 5,
@@ -1801,7 +1801,7 @@
       {
         "verse": 21,
         "en": "21And the king said unto Joab, Behold now, I have done this thing: go therefore, bring the young man Absalom again.",
-        "lv": "21 <p>Un ķēniņš Joābam sacīja, Lūk, nu, es šo esmu darījis: tāpēc ej un atved atpakaļ jaunekli Absalomu."
+        "lv": "21 <span class='p'></span> Un ķēniņš Joābam sacīja, Lūk, nu, es šo esmu darījis: tāpēc ej un atved atpakaļ jaunekli Absalomu."
       },
       {
         "verse": 22,
@@ -1821,7 +1821,7 @@
       {
         "verse": 25,
         "en": "25But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him.",
-        "lv": "25 <p>Bet visā Israēlā nebija neviena tik ļoti slavēta kā Absaloms par viņa skaistumu: no viņa kāju pēdām līdz pat viņa galvas kronim viņā nebija nekādas vainas."
+        "lv": "25 <span class='p'></span> Bet visā Israēlā nebija neviena tik ļoti slavēta kā Absaloms par viņa skaistumu: no viņa kāju pēdām līdz pat viņa galvas kronim viņā nebija nekādas vainas."
       },
       {
         "verse": 26,
@@ -1836,7 +1836,7 @@
       {
         "verse": 28,
         "en": "28So Absalom dwelt two full years in Jerusalem, and saw not the king's face.",
-        "lv": "28 <p>Tā Absaloms dzīvoja Jeruzalemē pilnus divus gadus un neredzēja ķēniņa seju."
+        "lv": "28 <span class='p'></span> Tā Absaloms dzīvoja Jeruzalemē pilnus divus gadus un neredzēja ķēniņa seju."
       },
       {
         "verse": 29,
@@ -1898,7 +1898,7 @@
       {
         "verse": 7,
         "en": "7And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron.",
-        "lv": "7 <p>Un notika pēc četrdesmit gadiem, ka Absaloms ķēniņam sacīja, Es tevi lūdzu, ļauj man iet un maksāt savu solījumu Hebronā, ko es esmu solījis tam KUNGAM."
+        "lv": "7 <span class='p'></span> Un notika pēc četrdesmit gadiem, ka Absaloms ķēniņam sacīja, Es tevi lūdzu, ļauj man iet un maksāt savu solījumu Hebronā, ko es esmu solījis tam KUNGAM."
       },
       {
         "verse": 8,
@@ -1913,7 +1913,7 @@
       {
         "verse": 10,
         "en": "10But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron.",
-        "lv": "10 <p>Bet Absaloms sūtīja spiegus pa visām Israēla ciltīm sacīdams, Tiklīdz jūs dzirdiet taures skaņu, tad jums būs sacīt, Absaloms valda Hebronā."
+        "lv": "10 <span class='p'></span> Bet Absaloms sūtīja spiegus pa visām Israēla ciltīm sacīdams, Tiklīdz jūs dzirdiet taures skaņu, tad jums būs sacīt, Absaloms valda Hebronā."
       },
       {
         "verse": 11,
@@ -1928,7 +1928,7 @@
       {
         "verse": 13,
         "en": "13And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom.",
-        "lv": "13 <p>Un pie Dāvida nāca vēstnesis sacīdams, Israēla vīru sirdis ir pēc Absaloma."
+        "lv": "13 <span class='p'></span> Un pie Dāvida nāca vēstnesis sacīdams, Israēla vīru sirdis ir pēc Absaloma."
       },
       {
         "verse": 14,
@@ -1958,7 +1958,7 @@
       {
         "verse": 19,
         "en": "19Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou <i>art </i>a stranger, and also an exile.",
-        "lv": "19 <p>Tad ķēniņš gitietim Itajam sacīja, Kādēļ arī tu nāc ar mums? atgriezies savā vietā un paliec pie ķēniņa: jo tu <i>esi </i>svešinieks un arī trimdinieks."
+        "lv": "19 <span class='p'></span> Tad ķēniņš gitietim Itajam sacīja, Kādēļ arī tu nāc ar mums? atgriezies savā vietā un paliec pie ķēniņa: jo tu <i>esi </i>svešinieks un arī trimdinieks."
       },
       {
         "verse": 20,
@@ -1983,7 +1983,7 @@
       {
         "verse": 24,
         "en": "24And lo Zadok also, and all the Levites <i>were </i>with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.",
-        "lv": "24 <p>Un, lūk, arī Cadoks un visi levīti <i>bija </i>ar viņu, nesdami Dieva derības šķirstu: un viņi nolika Dieva šķirstu; un Abjatārs devās, līdz visi ļaudis bija izgājuši no pilsētas."
+        "lv": "24 <span class='p'></span> Un, lūk, arī Cadoks un visi levīti <i>bija </i>ar viņu, nesdami Dieva derības šķirstu: un viņi nolika Dieva šķirstu; un Abjatārs devās, līdz visi ļaudis bija izgājuši no pilsētas."
       },
       {
         "verse": 25,
@@ -2013,17 +2013,17 @@
       {
         "verse": 30,
         "en": "30And David went up by the ascent of <i>mount </i>Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that <i>was </i>with him covered every man his head, and they went up, weeping as they went up.",
-        "lv": "30 <p>Un Dāvids uzkāpa pa Olīvu <i>kalna</i> nogāzi un raudāja uzkāpjot, un viņam bija apsegta galva, un viņš gāja basām kājām: un visi ļaudis, kas <i>bija </i>ar viņu, apsedza ikviens savu galvu, un viņi uzkāpa, raudādami, kāpjot augšā."
+        "lv": "30 <span class='p'></span> Un Dāvids uzkāpa pa Olīvu <i>kalna</i> nogāzi un raudāja uzkāpjot, un viņam bija apsegta galva, un viņš gāja basām kājām: un visi ļaudis, kas <i>bija </i>ar viņu, apsedza ikviens savu galvu, un viņi uzkāpa, raudādami, kāpjot augšā."
       },
       {
         "verse": 31,
         "en": "31And <i>one </i>told David, saying, Ahithophel <i>is</i> among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.",
-        "lv": "31 <p>Un <i>kāds </i>stāstīja Dāvidam sacīdams, Ahitofels <i>ir</i> starp sazvērniekiem ar Absalomu. Un Dāvids sacīja, ak, KUNGS, es tevi lūdzu, pārvērt Ahitofela padomu par muļķību."
+        "lv": "31 <span class='p'></span> Un <i>kāds </i>stāstīja Dāvidam sacīdams, Ahitofels <i>ir</i> starp sazvērniekiem ar Absalomu. Un Dāvids sacīja, ak, KUNGS, es tevi lūdzu, pārvērt Ahitofela padomu par muļķību."
       },
       {
         "verse": 32,
         "en": "32And it came to pass, that <i>when </i>David was come to the top <i>of the</i> <i>mount</i>, where he worshipped God, behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head:",
-        "lv": "32 <p>Un notika, ka, <i>kad </i>Dāvids bija nācis <i>kalna </i>galā, kur viņš godināja Dievu, lūk, arkietis Hušajs nāca viņu satikt ar saviem svārkiem saplēstiem un zemi uz savas galvas:"
+        "lv": "32 <span class='p'></span> Un notika, ka, <i>kad </i>Dāvids bija nācis <i>kalna </i>galā, kur viņš godināja Dievu, lūk, arkietis Hušajs nāca viņu satikt ar saviem svārkiem saplēstiem un zemi uz savas galvas:"
       },
       {
         "verse": 33,
@@ -2075,7 +2075,7 @@
       {
         "verse": 5,
         "en": "5And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name <i>was </i>Shimei, the son of Gera: he came forth, and cursed still as he came.",
-        "lv": "5 <p>Un, kad ķēniņš Dāvids nāca Bahurīmā, lūk, no turienes iznāca vīrs no Saula nama ģimenes, kura vārds <i>bija</i> Šimī, Gera dēls: viņš iznāca un lādēja vēl viņam nākot."
+        "lv": "5 <span class='p'></span> Un, kad ķēniņš Dāvids nāca Bahurīmā, lūk, no turienes iznāca vīrs no Saula nama ģimenes, kura vārds <i>bija</i> Šimī, Gera dēls: viņš iznāca un lādēja vēl viņam nākot."
       },
       {
         "verse": 6,
@@ -2095,7 +2095,7 @@
       {
         "verse": 9,
         "en": "9Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head.",
-        "lv": "9 <p>Tad Abišajs, Cerujas dēls, ķēniņam sacīja, Kāpēc šim beigtam sunim vajadzētu nolādēt manu kungu ķēniņu? ļauj man pāriet, es tevi lūdzu, un noraut viņa galvu."
+        "lv": "9 <span class='p'></span> Tad Abišajs, Cerujas dēls, ķēniņam sacīja, Kāpēc šim beigtam sunim vajadzētu nolādēt manu kungu ķēniņu? ļauj man pāriet, es tevi lūdzu, un noraut viņa galvu."
       },
       {
         "verse": 10,
@@ -2125,7 +2125,7 @@
       {
         "verse": 15,
         "en": "15And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him.",
-        "lv": "15 <p>Un Absaloms un visi ļaudis, Israēla vīri, nāca uz Jeruzālemi un Ahitofels ar viņu."
+        "lv": "15 <span class='p'></span> Un Absaloms un visi ļaudis, Israēla vīri, nāca uz Jeruzālemi un Ahitofels ar viņu."
       },
       {
         "verse": 16,
@@ -2150,7 +2150,7 @@
       {
         "verse": 20,
         "en": "20Then said Absalom to Ahithophel, Give counsel among you what we shall do.",
-        "lv": "20 <p>Tad Absaloms Ahitofelam sacīja, Dod padomu starp jums, ko mums būs darīt."
+        "lv": "20 <span class='p'></span> Tad Absaloms Ahitofelam sacīja, Dod padomu starp jums, ko mums būs darīt."
       },
       {
         "verse": 21,
@@ -2242,7 +2242,7 @@
       {
         "verse": 15,
         "en": "15Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I counselled.",
-        "lv": "15 <p>Tad Hušajs priesteriem Cadokam un Abjatāram sacīja, Tā un tā Ahitofels deva padomu Absalomam un Israēla vecajiem; un tā un tā es esmu devis padomu."
+        "lv": "15 <span class='p'></span> Tad Hušajs priesteriem Cadokam un Abjatāram sacīja, Tā un tā Ahitofels deva padomu Absalomam un Israēla vecajiem; un tā un tā es esmu devis padomu."
       },
       {
         "verse": 16,
@@ -2282,7 +2282,7 @@
       {
         "verse": 23,
         "en": "23And when Ahithophel saw that his counsel was not followed, he saddled <i>his </i>ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.",
-        "lv": "23 <p>Un, kad Ahitofels redzēja, ka viņa padomam netika sekots, viņš apsegloja <i>savu </i>ēzeli un cēlās, un devās mājās uz savu namu, uz savu pilsētu, un saveda kārtībā savu saimi, un pakārās, un nomira, un tika apbedīts sava tēva kapa vietā."
+        "lv": "23 <span class='p'></span> Un, kad Ahitofels redzēja, ka viņa padomam netika sekots, viņš apsegloja <i>savu </i>ēzeli un cēlās, un devās mājās uz savu namu, uz savu pilsētu, un saveda kārtībā savu saimi, un pakārās, un nomira, un tika apbedīts sava tēva kapa vietā."
       },
       {
         "verse": 24,
@@ -2292,7 +2292,7 @@
       {
         "verse": 25,
         "en": "25And Absalom made Amasa captain of the host instead of Joab: which Amasa <i>was </i>a man's son, whose name <i>was </i>Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to Zeruiah Joab's mother.",
-        "lv": "25 <p>Un Absaloms Amasu iecēla par karapulka kapteini Joāba vietā: Amasa <i>bija </i>vīra dēls, kura vārds <i>bija </i>Itra, israēlietis, kas iegāja pie Abigailas, Nahaša meitas, Cerujas, Joāba mātes, māsas."
+        "lv": "25 <span class='p'></span> Un Absaloms Amasu iecēla par karapulka kapteini Joāba vietā: Amasa <i>bija </i>vīra dēls, kura vārds <i>bija </i>Itra, israēlietis, kas iegāja pie Abigailas, Nahaša meitas, Cerujas, Joāba mātes, māsas."
       },
       {
         "verse": 26,
@@ -2344,7 +2344,7 @@
       {
         "verse": 6,
         "en": "6So the people went out into the field against Israel: and the battle was in the wood of Ephraim;",
-        "lv": "6 <p>Tā ļaudis izgāja laukā pret Israēlu: un kauja bija Efraīma mežā;"
+        "lv": "6 <span class='p'></span> Tā ļaudis izgāja laukā pret Israēlu: un kauja bija Efraīma mežā;"
       },
       {
         "verse": 7,
@@ -2359,7 +2359,7 @@
       {
         "verse": 9,
         "en": "9And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away.",
-        "lv": "9 <p>Un Absaloms satika Dāvida kalpus. Un Absaloms jāja uz mūļa, un mūlis gāja zem liela ozola bieziem lielzariem, un viņa galva tika satverta no ozola, un viņš tika pacelts starp debesi un zemi; un mūlis, kas bija zem viņa, aizgāja."
+        "lv": "9 <span class='p'></span> Un Absaloms satika Dāvida kalpus. Un Absaloms jāja uz mūļa, un mūlis gāja zem liela ozola bieziem lielzariem, un viņa galva tika satverta no ozola, un viņš tika pacelts starp debesi un zemi; un mūlis, kas bija zem viņa, aizgāja."
       },
       {
         "verse": 10,
@@ -2404,12 +2404,12 @@
       {
         "verse": 18,
         "en": "18Now Absalom in his lifetime had taken and reared up for himself a pillar, which <i>is </i>in the king's dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom's place.",
-        "lv": "18 <p>Tad nu Absaloms sava mūža laikā bija ņēmis un uzslējis sev pīlāru, kas <i>ir </i>ķēniņa lejā: jo viņš sacīja, Man nav dēla, kas turētu manu vārdu piemiņā: un viņš nosauca pīlāri pēc sava paša vārda, un tas līdz šai dienai tiek saukts, Absaloma vieta."
+        "lv": "18 <span class='p'></span> Tad nu Absaloms sava mūža laikā bija ņēmis un uzslējis sev pīlāru, kas <i>ir </i>ķēniņa lejā: jo viņš sacīja, Man nav dēla, kas turētu manu vārdu piemiņā: un viņš nosauca pīlāri pēc sava paša vārda, un tas līdz šai dienai tiek saukts, Absaloma vieta."
       },
       {
         "verse": 19,
         "en": "19Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.",
-        "lv": "19 <p>Tad Ahimaacs, Cadoka dēls, sacīja, Ļauj man nu skriet un nest ķēniņam vēstis, kā tas KUNGS viņu ir atriebis no viņa ienaidniekiem."
+        "lv": "19 <span class='p'></span> Tad Ahimaacs, Cadoka dēls, sacīja, Ļauj man nu skriet un nest ķēniņam vēstis, kā tas KUNGS viņu ir atriebis no viņa ienaidniekiem."
       },
       {
         "verse": 20,
@@ -2479,7 +2479,7 @@
       {
         "verse": 33,
         "en": "33And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!",
-        "lv": "33 <p>Un ķēniņš bija ļoti aizkustināts, un uzkāpa kambarī virs vārtiem, un raudāja: un, ejot, viņš sacīja tā, Ak, mans dēls, Absalom, mans dēls, mans dēls Abisalom! kaut Dievs dotu, ka es būtu nomiris par tevi, ak, Absalom, mans dēls, mans dēls!"
+        "lv": "33 <span class='p'></span> Un ķēniņš bija ļoti aizkustināts, un uzkāpa kambarī virs vārtiem, un raudāja: un, ejot, viņš sacīja tā, Ak, mans dēls, Absalom, mans dēls, mans dēls Abisalom! kaut Dievs dotu, ka es būtu nomiris par tevi, ak, Absalom, mans dēls, mans dēls!"
       }
     ],
     "19": [
@@ -2526,7 +2526,7 @@
       {
         "verse": 9,
         "en": "9And all the people were at strife throughout all the tribes of Israel, saying, The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom.",
-        "lv": "9 <p>Un visi ļaudis bija strīdā pa visām Israēla ciltīm sacīdami, Ķēniņš mūs izglāba no mūsu ienaidnieku rokas, un viņš mūs izpestīja no filistiešu rokas; un nu viņš ir bēdzis no tās zemes Absaloma dēļ."
+        "lv": "9 <span class='p'></span> Un visi ļaudis bija strīdā pa visām Israēla ciltīm sacīdami, Ķēniņš mūs izglāba no mūsu ienaidnieku rokas, un viņš mūs izpestīja no filistiešu rokas; un nu viņš ir bēdzis no tās zemes Absaloma dēļ."
       },
       {
         "verse": 10,
@@ -2536,7 +2536,7 @@
       {
         "verse": 11,
         "en": "11And king David sent to Zadok and to Abiathar the priests, saying, Speak unto the elders of Judah, saying, Why are ye the last to bring the king back to his house? seeing the speech of all Israel is come to the king, <i>even </i>to his house.",
-        "lv": "11 <p>Un ķēniņš Dāvids sūtīja pie priesteriem Cadoka un Abjatāra sacīdams, Runājiet uz Jūdas vecajiem sacīdami, Kāpēc jūs esat pēdējie vest ķēniņu atpakaļ viņa namā? jo visa Israēla runa ir nākusi pie ķēniņa, līdz <i>pat </i>viņa namam."
+        "lv": "11 <span class='p'></span> Un ķēniņš Dāvids sūtīja pie priesteriem Cadoka un Abjatāra sacīdams, Runājiet uz Jūdas vecajiem sacīdami, Kāpēc jūs esat pēdējie vest ķēniņu atpakaļ viņa namā? jo visa Israēla runa ir nākusi pie ķēniņa, līdz <i>pat </i>viņa namam."
       },
       {
         "verse": 12,
@@ -2561,7 +2561,7 @@
       {
         "verse": 16,
         "en": "16And Shimei the son of Gera, a Benjamite, which <i>was</i> of Bahurim, hasted and came down with the men of Judah to meet king David.",
-        "lv": "16 <p>Un Šimī, Geras dēls, benjamīnietis, kas bija no Bahurīma, steidzās un nonāca ar Jūdas vīriem satikt ķēniņu Dāvidu."
+        "lv": "16 <span class='p'></span> Un Šimī, Geras dēls, benjamīnietis, kas bija no Bahurīma, steidzās un nonāca ar Jūdas vīriem satikt ķēniņu Dāvidu."
       },
       {
         "verse": 17,
@@ -2601,7 +2601,7 @@
       {
         "verse": 24,
         "en": "24And Mephibosheth the son of Saul came down to meet the king, and had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came <i>again </i>in peace.",
-        "lv": "24 <p>Un Mefibošets, Saula dēls, nonāca satikt ķēniņu un nebija nedz apkopis savas kājas, nedz saposis savu bārdu, nedz mazgājis savas drēbes kopš dienas, kad ķēniņš aizgāja, līdz dienai, kad viņš nāca <i>atpakaļ</i> mierā."
+        "lv": "24 <span class='p'></span> Un Mefibošets, Saula dēls, nonāca satikt ķēniņu un nebija nedz apkopis savas kājas, nedz saposis savu bārdu, nedz mazgājis savas drēbes kopš dienas, kad ķēniņš aizgāja, līdz dienai, kad viņš nāca <i>atpakaļ</i> mierā."
       },
       {
         "verse": 25,
@@ -2636,7 +2636,7 @@
       {
         "verse": 31,
         "en": "31And Barzillai the Gileadite came down from Rogelim, and went over Jordan with the king, to conduct him over Jordan.",
-        "lv": "31 <p>Un gileādietis Bercilajs nonāca no Rogelimas un pārgāja Jordānai ar ķēniņu, viņu pavadīt pāri Jordānai."
+        "lv": "31 <span class='p'></span> Un gileādietis Bercilajs nonāca no Rogelimas un pārgāja Jordānai ar ķēniņu, viņu pavadīt pāri Jordānai."
       },
       {
         "verse": 32,
@@ -2718,7 +2718,7 @@
       {
         "verse": 4,
         "en": "4Then said the king to Amasa, Assemble me the men of Judah within three days, and be thou here present.",
-        "lv": "4 <p>Tad ķēniņš Amasam sacīja, Sapulcini man Jūdas vīriešus trīs dienu laikā un esi šeit klāt."
+        "lv": "4 <span class='p'></span> Tad ķēniņš Amasam sacīja, Sapulcini man Jūdas vīriešus trīs dienu laikā un esi šeit klāt."
       },
       {
         "verse": 5,
@@ -2768,7 +2768,7 @@
       {
         "verse": 14,
         "en": "14And he went through all the tribes of Israel unto Abel, and to Bethmaachah, and all the Berites: and they were gathered together, and went also after him.",
-        "lv": "14 <p>Un viņš gāja cauri visām Israēla ciltīm līdz Abelai un Betmaahai, un visiem berītiem: un tie bija sapulcējušies kopā un arī gāja pēc viņa."
+        "lv": "14 <span class='p'></span> Un viņš gāja cauri visām Israēla ciltīm līdz Abelai un Betmaahai, un visiem berītiem: un tie bija sapulcējušies kopā un arī gāja pēc viņa."
       },
       {
         "verse": 15,
@@ -2778,7 +2778,7 @@
       {
         "verse": 16,
         "en": "16Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee.",
-        "lv": "16 <p>Tad kāda gudra sieviete no pilsētas sauca, Klausieties, klausieties; sakiet, es jūs lūdzu, Joābam, Nāc tuvu šurp, lai es varu ar tevi runāt."
+        "lv": "16 <span class='p'></span> Tad kāda gudra sieviete no pilsētas sauca, Klausieties, klausieties; sakiet, es jūs lūdzu, Joābam, Nāc tuvu šurp, lai es varu ar tevi runāt."
       },
       {
         "verse": 17,
@@ -2813,7 +2813,7 @@
       {
         "verse": 23,
         "en": "23Now Joab <i>was</i> over all the host of Israel: and Benaiah the son of Jehoiada <i>was</i> over the Cherethites and over the Pelethites:",
-        "lv": "23 <p>Tad nu Joābs <i>bija </i>pār visu Israēla karapulku: un Benaja, Jehojadas dēls, <i>bija</i> pār keretiešiem un pār peletiešiem:"
+        "lv": "23 <span class='p'></span> Tad nu Joābs <i>bija </i>pār visu Israēla karapulku: un Benaja, Jehojadas dēls, <i>bija</i> pār keretiešiem un pār peletiešiem:"
       },
       {
         "verse": 24,
@@ -2890,7 +2890,7 @@
       {
         "verse": 12,
         "en": "12And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabeshgilead, which had stolen them from the street of Bethshan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa:",
-        "lv": "12 <p>Un Dāvids gāja un ņēma Saula kaulus un viņa dēla Jonatāna kaulus no Jabešgileādas vīriešiem, kas tos bija nozaguši no Betšaanas ielas, kur filistieši tos bija pakāruši, kad filistieši bija nokāvuši Saulu Gilboā."
+        "lv": "12 <span class='p'></span> Un Dāvids gāja un ņēma Saula kaulus un viņa dēla Jonatāna kaulus no Jabešgileādas vīriešiem, kas tos bija nozaguši no Betšaanas ielas, kur filistieši tos bija pakāruši, kad filistieši bija nokāvuši Saulu Gilboā."
       },
       {
         "verse": 13,
@@ -2905,7 +2905,7 @@
       {
         "verse": 15,
         "en": "15Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.",
-        "lv": "15 <p>Turklāt filistiešiem atkal bija karš ar Israēlu; un Dāvids nogāja, un viņa kalpi līdz ar viņu, un cīnījās pret filistiešiem: un Dāvids nogura."
+        "lv": "15 <span class='p'></span> Turklāt filistiešiem atkal bija karš ar Israēlu; un Dāvids nogāja, un viņa kalpi līdz ar viņu, un cīnījās pret filistiešiem: un Dāvids nogura."
       },
       {
         "verse": 16,
@@ -3239,7 +3239,7 @@
       {
         "verse": 8,
         "en": "8These <i>be</i> the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same <i>was </i>Adino the Eznite: <i>he lift up his</i> <i>spear </i>against eight hundred, whom he slew at one time.",
-        "lv": "8 <p>Šie <i>ir </i>vareno vārdi, kuri bija Dāvidam: tahkemonietis, kas sēdēja krēslā, galvenais starp kapteiņiem; tas pats <i>bija </i>Adino ecnietis: <i>viņš pacēla savu</i> <i>šķēpu </i>pret astoņiem simtiem, kurus viņš nokāva vienā reizē."
+        "lv": "8 <span class='p'></span> Šie <i>ir </i>vareno vārdi, kuri bija Dāvidam: tahkemonietis, kas sēdēja krēslā, galvenais starp kapteiņiem; tas pats <i>bija </i>Adino ecnietis: <i>viņš pacēla savu</i> <i>šķēpu </i>pret astoņiem simtiem, kurus viņš nokāva vienā reizē."
       },
       {
         "verse": 9,
@@ -3421,7 +3421,7 @@
       {
         "verse": 5,
         "en": "5And they passed over Jordan, and pitched in Aroer, on the right side of the city that <i>lieth </i>in the midst of the river of Gad, and toward Jazer:",
-        "lv": "5 <p>Un viņi gāja pāri Jordānai un apmetās Aroerā, pilsētas, kas <i>guļ</i> Gada upes vidū, labajā pusē, un uz Jazeru:"
+        "lv": "5 <span class='p'></span> Un viņi gāja pāri Jordānai un apmetās Aroerā, pilsētas, kas <i>guļ</i> Gada upes vidū, labajā pusē, un uz Jazeru:"
       },
       {
         "verse": 6,
@@ -3446,7 +3446,7 @@
       {
         "verse": 10,
         "en": "10And David's heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant; for I have done very foolishly.",
-        "lv": "10 <p>Un Dāvida sirds viņu sita pēc tam, kad viņš bija skaitījis ļaudis. Un Dāvids tam KUNGAM sacīja, Es esmu ļoti grēkojis tajā, ko esmu darījis: un nu, es tevi lūdzos, ak, KUNGS, atņem sava kalpa nekrietnību: jo es esmu darījis ļoti muļķīgi."
+        "lv": "10 <span class='p'></span> Un Dāvida sirds viņu sita pēc tam, kad viņš bija skaitījis ļaudis. Un Dāvids tam KUNGAM sacīja, Es esmu ļoti grēkojis tajā, ko esmu darījis: un nu, es tevi lūdzos, ak, KUNGS, atņem sava kalpa nekrietnību: jo es esmu darījis ļoti muļķīgi."
       },
       {
         "verse": 11,
@@ -3471,7 +3471,7 @@
       {
         "verse": 15,
         "en": "15So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men.",
-        "lv": "15 <p>Un tas KUNGS sūtīja sērgu uz Israēlu no rīta līdz noteiktajam laikam: un no ļaudīm nomira no Dana līdz Bēršebai septiņdesmit tūkstoši vīriešu."
+        "lv": "15 <span class='p'></span> Un tas KUNGS sūtīja sērgu uz Israēlu no rīta līdz noteiktajam laikam: un no ļaudīm nomira no Dana līdz Bēršebai septiņdesmit tūkstoši vīriešu."
       },
       {
         "verse": 16,
@@ -3486,7 +3486,7 @@
       {
         "verse": 18,
         "en": "18And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite.",
-        "lv": "18 <p>Un Gads tajā dienā nāca pie Dāvida un viņam sacīja, Dodies, uzslien altāri tam KUNGAM jebusieša Aravnas kuļamklonā."
+        "lv": "18 <span class='p'></span> Un Gads tajā dienā nāca pie Dāvida un viņam sacīja, Dodies, uzslien altāri tam KUNGAM jebusieša Aravnas kuļamklonā."
       },
       {
         "verse": 19,

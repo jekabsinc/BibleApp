@@ -30,7 +30,7 @@
       {
         "verse": 6,
         "en": "6I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
-        "lv": "6 <p>Es brīnos, ka jūs tik drīz esat nocelti uz citu evaņgēliju no tā, kas jūs aicināja Kristus žēlastībā:"
+        "lv": "6 <span class='p'></span> Es brīnos, ka jūs tik drīz esat nocelti uz citu evaņgēliju no tā, kas jūs aicināja Kristus žēlastībā:"
       },
       {
         "verse": 7,
@@ -40,7 +40,7 @@
       {
         "verse": 8,
         "en": "8But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
-        "lv": "8 <p>Bet kaut arī mēs vai eņģelis no debess jums sludina kādu citu evaņģēliju nekā to, ko mēs jums esam sludinājuši, lai viņš ir nolādēts."
+        "lv": "8 <span class='p'></span> Bet kaut arī mēs vai eņģelis no debess jums sludina kādu citu evaņģēliju nekā to, ko mēs jums esam sludinājuši, lai viņš ir nolādēts."
       },
       {
         "verse": 9,
@@ -120,7 +120,7 @@
       {
         "verse": 24,
         "en": "24And they glorified God in me.",
-        "lv": "24 Un tie manī pagodināja Dievu. "
+        "lv": "24 Un tie manī pagodināja Dievu."
       }
     ],
     "2": [
@@ -197,7 +197,7 @@
       {
         "verse": 15,
         "en": "15We <i>who are </i>Jews by nature, and not sinners of the Gentiles,",
-        "lv": "15 <p>Mēs, <i>kuri esam</i> jūdi no dabas un ne grēcinieki no pagāniem,"
+        "lv": "15 <span class='p'></span> Mēs, <i>kuri esam</i> jūdi no dabas un ne grēcinieki no pagāniem,"
       },
       {
         "verse": 16,
@@ -486,7 +486,7 @@
       {
         "verse": 22,
         "en": "22For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
-        "lv": "22 <p>Jo ir rakstīts, ka Ābrahāmam bija divi dēli, viens no verdzenes, otrs no brīvās."
+        "lv": "22 <span class='p'></span> Jo ir rakstīts, ka Ābrahāmam bija divi dēli, viens no verdzenes, otrs no brīvās."
       },
       {
         "verse": 23,
@@ -613,7 +613,7 @@
       {
         "verse": 16,
         "en": "16<i>This</i> I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
-        "lv": "16 <p><i>Šo</i> tad es saku, Staigājiet tai Garā un jūs nepiepildīsiet miesas iekāres."
+        "lv": "16 <span class='p'></span> <i>Šo</i> tad es saku, Staigājiet tai Garā un jūs nepiepildīsiet miesas iekāres."
       },
       {
         "verse": 17,
@@ -628,7 +628,7 @@
       {
         "verse": 19,
         "en": "19Now the works of the flesh are manifest, which are <i>these</i>; Adultery, fornication, uncleanness, lasciviousness,",
-        "lv": "19 <p>Tad nu miesas darbi ir darīti redzami, kas ir; Laulības pārkāpšana, netiklība, nešķīstība, izvirtība,"
+        "lv": "19 <span class='p'></span> Tad nu miesas darbi ir darīti redzami, kas ir; Laulības pārkāpšana, netiklība, nešķīstība, izvirtība,"
       },
       {
         "verse": 20,
@@ -643,7 +643,7 @@
       {
         "verse": 22,
         "en": "22But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
-        "lv": "22 <p>Bet tā Gara auglis ir mīlestība, prieks, miers, ilgcietība, maigums, labestība, ticība,"
+        "lv": "22 <span class='p'></span> Bet tā Gara auglis ir mīlestība, prieks, miers, ilgcietība, maigums, labestība, ticība,"
       },
       {
         "verse": 23,
@@ -675,7 +675,7 @@
       {
         "verse": 2,
         "en": "2Bear ye one another's burdens, and so fulfil the law of Christ.",
-        "lv": "2 <p>Nesiet cits cita nastas, un tā piepildiet Kristus likumu."
+        "lv": "2 <span class='p'></span> Nesiet cits cita nastas, un tā piepildiet Kristus likumu."
       },
       {
         "verse": 3,
@@ -695,7 +695,7 @@
       {
         "verse": 6,
         "en": "6Let him that is taught in the word communicate unto him that teacheth in all good things.",
-        "lv": "6 <p>Lai tas, kas tiek mācīts vārdā, dalās visās labās lietās ar to, kas māca."
+        "lv": "6 <span class='p'></span> Lai tas, kas tiek mācīts vārdā, dalās visās labās lietās ar to, kas māca."
       },
       {
         "verse": 7,
@@ -720,7 +720,7 @@
       {
         "verse": 11,
         "en": "11Ye see how large a letter I have written unto you with mine own hand.",
-        "lv": "11 <p>Redzat cik lielu vēstuli es jums esmu rakstījis ar savu paša roku."
+        "lv": "11 <span class='p'></span> Redzat cik lielu vēstuli es jums esmu rakstījis ar savu paša roku."
       },
       {
         "verse": 12,

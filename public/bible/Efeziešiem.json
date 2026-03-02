@@ -30,7 +30,7 @@
       {
         "verse": 6,
         "en": "6To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.",
-        "lv": "6 <p>Viņa žēlastības godības slavai, iekš kā viņš mūs ir darījis pieņemtus mīļotajā."
+        "lv": "6 <span class='p'></span> Viņa žēlastības godības slavai, iekš kā viņš mūs ir darījis pieņemtus mīļotajā."
       },
       {
         "verse": 7,
@@ -75,7 +75,7 @@
       {
         "verse": 15,
         "en": "15Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,",
-        "lv": "15 <p>Tādēļ arī es, pēc tam kad es dzirdēju par jūsu ticību Kungā Jēzū un mīlestību uz visiem svētajiem,"
+        "lv": "15 <span class='p'></span> Tādēļ arī es, pēc tam kad es dzirdēju par jūsu ticību Kungā Jēzū un mīlestību uz visiem svētajiem,"
       },
       {
         "verse": 16,
@@ -421,7 +421,7 @@
       {
         "verse": 17,
         "en": "17This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
-        "lv": "17 <p>Tāpēc es šo saku un apliecinu tai Kungā, lai jūs turpmāk nestaigājat kā citi pagāni staigā sava prāta niecībā,"
+        "lv": "17 <span class='p'></span> Tāpēc es šo saku un apliecinu tai Kungā, lai jūs turpmāk nestaigājat kā citi pagāni staigā sava prāta niecībā,"
       },
       {
         "verse": 18,
@@ -461,7 +461,7 @@
       {
         "verse": 25,
         "en": "25Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
-        "lv": "25 <p>Tādēļ nolikdami melošanu, runājiet ikviens patiesību ar savu tuvāko: jo mēs esam cits cita locekļi."
+        "lv": "25 <span class='p'></span> Tādēļ nolikdami melošanu, runājiet ikviens patiesību ar savu tuvāko: jo mēs esam cits cita locekļi."
       },
       {
         "verse": 26,
@@ -513,7 +513,7 @@
       {
         "verse": 3,
         "en": "3But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;",
-        "lv": "3 <p>Bet netiklība un visa nešķīstība vai mantkārība, lai pat netiek minēta starp jums, kā pieklājas svētajiem;"
+        "lv": "3 <span class='p'></span> Bet netiklība un visa nešķīstība vai mantkārība, lai pat netiek minēta starp jums, kā pieklājas svētajiem;"
       },
       {
         "verse": 4,
@@ -573,7 +573,7 @@
       {
         "verse": 15,
         "en": "15See then that ye walk circumspectly, not as fools, but as wise,",
-        "lv": "15 <p>Raugiet, lai jūs staigājat piesardzīgi, ne kā muļķi, bet kā gudri,"
+        "lv": "15 <span class='p'></span> Raugiet, lai jūs staigājat piesardzīgi, ne kā muļķi, bet kā gudri,"
       },
       {
         "verse": 16,
@@ -588,7 +588,7 @@
       {
         "verse": 18,
         "en": "18And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
-        "lv": "18 <p>Un neesiet piedzērušies ar vīnu, iekš kā ir pārmērība; bet esiet piepildīti ar to Garu;"
+        "lv": "18 <span class='p'></span> Un neesiet piedzērušies ar vīnu, iekš kā ir pārmērība; bet esiet piepildīti ar to Garu;"
       },
       {
         "verse": 19,
@@ -608,7 +608,7 @@
       {
         "verse": 22,
         "en": "22Wives, submit yourselves unto your own husbands, as unto the Lord.",
-        "lv": "22 <p>Sievas pakļaujieties saviem pašu vīriem kā tam Kungam."
+        "lv": "22 <span class='p'></span> Sievas pakļaujieties saviem pašu vīriem kā tam Kungam."
       },
       {
         "verse": 23,
@@ -653,7 +653,7 @@
       {
         "verse": 31,
         "en": "31For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.",
-        "lv": "31 Šī iemesla dēļ vīrietis atstās savu tēvu un māti un pievienosies savai sievai, un tie divi būs viena miesa. "
+        "lv": "31 Šī iemesla dēļ vīrietis atstās savu tēvu un māti un pievienosies savai sievai, un tie divi būs viena miesa."
       },
       {
         "verse": 32,
@@ -690,7 +690,7 @@
       {
         "verse": 5,
         "en": "5Servants, be obedient to them that are <i>your </i>masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;",
-        "lv": "5 <p>Kalpi, esiet paklausīgi tiem, kas ir <i>jūsu</i> saimnieki pēc miesas, ar bijāšanu un drebēšanu, savas sirds skaidrībā, kā Kristum;"
+        "lv": "5 <span class='p'></span> Kalpi, esiet paklausīgi tiem, kas ir <i>jūsu</i> saimnieki pēc miesas, ar bijāšanu un drebēšanu, savas sirds skaidrībā, kā Kristum;"
       },
       {
         "verse": 6,
@@ -715,7 +715,7 @@
       {
         "verse": 10,
         "en": "10Finally, my brethren, be strong in the Lord, and in the power of his might.",
-        "lv": "10 <p>Visbeidzot, mani brāļi, esiet stipri tai Kungā un viņa varenības spēkā."
+        "lv": "10 <span class='p'></span> Visbeidzot, mani brāļi, esiet stipri tai Kungā un viņa varenības spēkā."
       },
       {
         "verse": 11,

@@ -20,7 +20,7 @@
       {
         "verse": 4,
         "en": "4. And it came to pass, when I heard these words, that I sat down and wept, and mourned <i>certain</i> days, and fasted, and prayed before the God of heaven,",
-        "lv": "4 <p>Un notika, kad es dzirdēju šos vārdus, ka es apsēdos un raudāju, un sēroju <i>kādas </i>dienas, un gavēju, un lūdzu debess Dieva priekšā,"
+        "lv": "4 <span class='p'></span> Un notika, kad es dzirdēju šos vārdus, ka es apsēdos un raudāju, un sēroju <i>kādas </i>dienas, un gavēju, un lūdzu debess Dieva priekšā,"
       },
       {
         "verse": 5,
@@ -102,7 +102,7 @@
       {
         "verse": 9,
         "en": "9. Then I came to the governors beyond the river, and gave them the king's letters. Now the king had sent captains of the army and horsemen with me.",
-        "lv": "9 <p>Tad es nācu pie pārvaldniekiem aiz upes un devu viņiem ķēniņa vēstules. Tad nu ķēniņš ar mani bija sūtījis armijas kapteiņus un jātniekus."
+        "lv": "9 <span class='p'></span> Tad es nācu pie pārvaldniekiem aiz upes un devu viņiem ķēniņa vēstules. Tad nu ķēniņš ar mani bija sūtījis armijas kapteiņus un jātniekus."
       },
       {
         "verse": 10,
@@ -117,7 +117,7 @@
       {
         "verse": 12,
         "en": "12. And I arose in the night, I and some few men with me; neither told I <i>any </i>man what my God had put in my heart to do at Jerusalem: neither <i>was there any</i> beast with me, save the beast that I rode upon.",
-        "lv": "12 <p>Un es cēlos naktī, es un kādi daži vīrieši ar mani; nedz es kādam stāstīju, ko mans Dievs bija licis manā sirdī darīt Jeruzālemē: nedz <i>bija kāds</i> zvērs ar mani, kā vien zvērs, uz kura es jāju."
+        "lv": "12 <span class='p'></span> Un es cēlos naktī, es un kādi daži vīrieši ar mani; nedz es kādam stāstīju, ko mans Dievs bija licis manā sirdī darīt Jeruzālemē: nedz <i>bija kāds</i> zvērs ar mani, kā vien zvērs, uz kura es jāju."
       },
       {
         "verse": 13,
@@ -142,7 +142,7 @@
       {
         "verse": 17,
         "en": "17. Then said I unto them, Ye see the distress that we <i>are</i> in, how Jerusalem <i>lieth</i> waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.",
-        "lv": "17 <p>Tad es tiem sacīju, Jūs redzat spaidus, kuros mēs <i>esam</i>, kā Jeruzāleme <i>guļ </i>postā un tās vārti ir sadedzināti ar uguni: nāciet un uzbūvēsim Jeruzālemes mūri, lai mēs vairs neesam par negodu."
+        "lv": "17 <span class='p'></span> Tad es tiem sacīju, Jūs redzat spaidus, kuros mēs <i>esam</i>, kā Jeruzāleme <i>guļ </i>postā un tās vārti ir sadedzināti ar uguni: nāciet un uzbūvēsim Jeruzālemes mūri, lai mēs vairs neesam par negodu."
       },
       {
         "verse": 18,
@@ -356,7 +356,7 @@
       {
         "verse": 7,
         "en": "7.But it came to pass, <i>that </i>when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, <i>and </i>that the breaches began to be stopped, then they were very wroth,",
-        "lv": "7 <p>Bet notika, <i>ka,</i> kad Sanbalats un Tobija, un arābi, un amonieši un un ašdodieši dzirdēja, ka ir uztaisīti Jeruzālemes mūri <i>un </i>ka robi iesāka tikt aiztaisīti, tad viņi ļoti apskaitās,"
+        "lv": "7 <span class='p'></span> Bet notika, <i>ka,</i> kad Sanbalats un Tobija, un arābi, un amonieši un un ašdodieši dzirdēja, ka ir uztaisīti Jeruzālemes mūri <i>un </i>ka robi iesāka tikt aiztaisīti, tad viņi ļoti apskaitās,"
       },
       {
         "verse": 8,
@@ -386,7 +386,7 @@
       {
         "verse": 13,
         "en": "13.Therefore set I in the lower places behind the wall, <i>and </i>on the higher places, I even set the people after their families with their swords, their spears, and their bows.",
-        "lv": "13 <p>Tāpēc es nostādīju zemākajās vietās aiz mūra, <i>un </i>augstākajās vietās es pat nostādīju ļaudis pēc viņu ģimenēm ar to zobeniem, to šķēpiem un to lokiem."
+        "lv": "13 <span class='p'></span> Tāpēc es nostādīju zemākajās vietās aiz mūra, <i>un </i>augstākajās vietās es pat nostādīju ļaudis pēc viņu ģimenēm ar to zobeniem, to šķēpiem un to lokiem."
       },
       {
         "verse": 14,
@@ -416,7 +416,7 @@
       {
         "verse": 19,
         "en": "19.And I said unto the nobles, and to the rulers, and to the rest of the people, The work <i>is </i>great and large, and we are separated upon the wall, one far from another.",
-        "lv": "19 <p>Un es sacīju dižciltīgajiem un valdniekiem, un pārējiem no ļaudīm, Darbs <i>ir </i>liels un plašs, un mēs esam nošķirti uz mūra, tālu cits no cita."
+        "lv": "19 <span class='p'></span> Un es sacīju dižciltīgajiem un valdniekiem, un pārējiem no ļaudīm, Darbs <i>ir </i>liels un plašs, un mēs esam nošķirti uz mūra, tālu cits no cita."
       },
       {
         "verse": 20,
@@ -463,7 +463,7 @@
       {
         "verse": 5,
         "en": "5. Yet now our flesh <i>is</i> as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and <i>some </i>of our daughters are brought unto bondage <i>already</i>: neither <i>is it</i> in our power to <i>redeem them</i>; for other men have our lands and vineyards.",
-        "lv": "6 <p>Un es ļoti sadusmojos, kad es dzirdēju viņu saucienu un šos vārdus."
+        "lv": "6 <span class='p'></span> Un es ļoti sadusmojos, kad es dzirdēju viņu saucienu un šos vārdus."
       },
       {
         "verse": 6,
@@ -503,7 +503,7 @@
       {
         "verse": 13,
         "en": "13. Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise.",
-        "lv": "14 <p>Turklāt no laika, kad es biju iecelts par viņu pārvaldnieku Jūdas zemē, no divdesmitā gada līdz pat ķēniņa Artakserksa trīsdesmit otrajam gadam, <i>tas ir,</i> divpadsmit gadus, es un mani brāļi neesam ēduši pārvaldnieka maizi."
+        "lv": "14 <span class='p'></span> Turklāt no laika, kad es biju iecelts par viņu pārvaldnieku Jūdas zemē, no divdesmitā gada līdz pat ķēniņa Artakserksa trīsdesmit otrajam gadam, <i>tas ir,</i> divpadsmit gadus, es un mani brāļi neesam ēduši pārvaldnieka maizi."
       },
       {
         "verse": 14,
@@ -610,7 +610,7 @@
       {
         "verse": 15,
         "en": "15. So the wall was finished in the twenty and fifth <i>day </i>of <i>the month</i> Elul, in fifty and two days.",
-        "lv": "15 <p>Tā mūris tika pabeigts Elula <i>mēneša</i> divdesmit piektajā <i>dienā</i>, piecdesmit divās dienās."
+        "lv": "15 <span class='p'></span> Tā mūris tika pabeigts Elula <i>mēneša</i> divdesmit piektajā <i>dienā</i>, piecdesmit divās dienās."
       },
       {
         "verse": 16,
@@ -620,7 +620,7 @@
       {
         "verse": 17,
         "en": "17. Moreover in those days the nobles of Judah sent many letters unto Tobiah, and <i>the letters</i> of Tobiah came unto them.",
-        "lv": "17 <p>Turklāt tajās dienās Jūdas dižciltīgie sūtīja Tobijam daudz vēstules, un Tobijas <i>vēstules </i>nāca pie viņiem."
+        "lv": "17 <span class='p'></span> Turklāt tajās dienās Jūdas dižciltīgie sūtīja Tobijam daudz vēstules, un Tobijas <i>vēstules </i>nāca pie viņiem."
       },
       {
         "verse": 18,
@@ -657,7 +657,7 @@
       {
         "verse": 5,
         "en": "5. And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,",
-        "lv": "5 <p>Un mans Dievs lika manā sirdī sapulcināt kopā dižciltīgos un valdniekus, un ļaudis, lai tie varētu tikt saskaitīti pēc ciltsraksta. Un es atradu ciltsrakstu pierakstu tiem, kas atnāca vispirms, un atradu iekš tā rakstītus,"
+        "lv": "5 <span class='p'></span> Un mans Dievs lika manā sirdī sapulcināt kopā dižciltīgos un valdniekus, un ļaudis, lai tie varētu tikt saskaitīti pēc ciltsraksta. Un es atradu ciltsrakstu pierakstu tiem, kas atnāca vispirms, un atradu iekš tā rakstītus,"
       },
       {
         "verse": 6,
@@ -827,7 +827,7 @@
       {
         "verse": 39,
         "en": "39. The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
-        "lv": "39 <p>Priesteri: Jedajas bērni, no Ješua nama, deviņi simti septiņdesmit trīs."
+        "lv": "39 <span class='p'></span> Priesteri: Jedajas bērni, no Ješua nama, deviņi simti septiņdesmit trīs."
       },
       {
         "verse": 40,
@@ -847,22 +847,22 @@
       {
         "verse": 43,
         "en": "43. The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four.",
-        "lv": "43 <p>Levīti: Ješua bērni, Kadmiels un Hodevas bērni, septiņdesmit četri."
+        "lv": "43 <span class='p'></span> Levīti: Ješua bērni, Kadmiels un Hodevas bērni, septiņdesmit četri."
       },
       {
         "verse": 44,
         "en": "44. The singers: the children of Asaph, an hundred forty and eight.",
-        "lv": "44 <p>Dziedātāji: Asafa bērni, simts četrdesmit astoņi."
+        "lv": "44 <span class='p'></span> Dziedātāji: Asafa bērni, simts četrdesmit astoņi."
       },
       {
         "verse": 45,
         "en": "45. The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight.",
-        "lv": "45 <p>Vārtu sargi: Šalluma bērni, Atera bērni, Talmona bērni, Akkuba bērni, Hatita bērni, Šobaja bērni, simts trīsdesmit astoņi."
+        "lv": "45 <span class='p'></span> Vārtu sargi: Šalluma bērni, Atera bērni, Talmona bērni, Akkuba bērni, Hatita bērni, Šobaja bērni, simts trīsdesmit astoņi."
       },
       {
         "verse": 46,
         "en": "46. The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,",
-        "lv": "46 <p>Netinimi: Ziha bērni, Hašufa bērni, Tabaota bērni,"
+        "lv": "46 <span class='p'></span> Netinimi: Ziha bērni, Hašufa bērni, Tabaota bērni,"
       },
       {
         "verse": 47,
@@ -917,7 +917,7 @@
       {
         "verse": 57,
         "en": "57. The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Perida,",
-        "lv": "57 <p>Salamana kalpu bērni: Sotai bērni, Sofereta bērni, Perida bērni,"
+        "lv": "57 <span class='p'></span> Salamana kalpu bērni: Sotai bērni, Sofereta bērni, Perida bērni,"
       },
       {
         "verse": 58,
@@ -947,7 +947,7 @@
       {
         "verse": 63,
         "en": "63. And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took <i>one </i>of the daughters of Barzillai the Gileadite to wife, and was called after their name.",
-        "lv": "63 <p>Un no priesteriem: Habaja bērni, Koza bērni, Barzilaja bērni, kas ņēma <i>vienu </i>no Gileādieša Barzilaja meitām par sievu un tika saukti pēc viņu vārda."
+        "lv": "63 <span class='p'></span> Un no priesteriem: Habaja bērni, Koza bērni, Barzilaja bērni, kas ņēma <i>vienu </i>no Gileādieša Barzilaja meitām par sievu un tika saukti pēc viņu vārda."
       },
       {
         "verse": 64,
@@ -962,7 +962,7 @@
       {
         "verse": 66,
         "en": "66. The whole congregation together <i>was </i>forty and two thousand three hundred and threescore,",
-        "lv": "66 <p>Visa sanāksme kopā <i>bija</i> četrdesmit divi tūkstoši trīs simti sešdesmit,"
+        "lv": "66 <span class='p'></span> Visa sanāksme kopā <i>bija</i> četrdesmit divi tūkstoši trīs simti sešdesmit,"
       },
       {
         "verse": 67,
@@ -982,7 +982,7 @@
       {
         "verse": 70,
         "en": "70. And <i>some </i>of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests' garments.",
-        "lv": "70 <p>Un <i>daži </i>no tēvu galvenajiem deva darbam. Tiršata deva dārgumiem tūkstoš zelta drahmu, piecdesmit traukus, piecsimt trīsdesmit priesteru apģērbus."
+        "lv": "70 <span class='p'></span> Un <i>daži </i>no tēvu galvenajiem deva darbam. Tiršata deva dārgumiem tūkstoš zelta drahmu, piecdesmit traukus, piecsimt trīsdesmit priesteru apģērbus."
       },
       {
         "verse": 71,
@@ -1064,7 +1064,7 @@
       {
         "verse": 13,
         "en": "13. And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.",
-        "lv": "13 <p>Un otrajā dienā sapulcējās kopā visu ļaužu tēvu galvenie, priesteri un levīti pie rakstu mācītāja Ezras, proti, lai saprastu likuma vārdus."
+        "lv": "13 <span class='p'></span> Un otrajā dienā sapulcējās kopā visu ļaužu tēvu galvenie, priesteri un levīti pie rakstu mācītāja Ezras, proti, lai saprastu likuma vārdus."
       },
       {
         "verse": 14,
@@ -1079,7 +1079,7 @@
       {
         "verse": 16,
         "en": "16. So the people went forth, and brought <i>them</i>, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.",
-        "lv": "16 <p>Tā ļaudis izgāja un <i>tos </i>atnesa, un taisīja paši sev būdiņas, ikviens uz sava nama jumta un savos pagalmos, un Dieva nama pagalmos, un ūdens vārtu ielā, un Efraima vārtu ielā."
+        "lv": "16 <span class='p'></span> Tā ļaudis izgāja un <i>tos </i>atnesa, un taisīja paši sev būdiņas, ikviens uz sava nama jumta un savos pagalmos, un Dieva nama pagalmos, un ūdens vārtu ielā, un Efraima vārtu ielā."
       },
       {
         "verse": 17,
@@ -1111,7 +1111,7 @@
       {
         "verse": 4,
         "en": "4. Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, <i>and </i>Chenani, and cried with a loud voice unto the LORD their God.",
-        "lv": "4 <p>Tad uz kāpnēm nostājās levīti, Ješua un Bani, Kadmiels, Šebanija, Bunni, Šerebija, Bani, <i>un </i>Čenani un sauca ar skaļu balsi uz to KUNGU, savu Dievu."
+        "lv": "4 <span class='p'></span> Tad uz kāpnēm nostājās levīti, Ješua un Bani, Kadmiels, Šebanija, Bunni, Šerebija, Bani, <i>un </i>Čenani un sauca ar skaļu balsi uz to KUNGU, savu Dievu."
       },
       {
         "verse": 5,
@@ -1423,7 +1423,7 @@
       {
         "verse": 28,
         "en": "28. And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;",
-        "lv": "28 <p>Un pārējie ļaudis, priesteri, levīti, vārtu sargi, dziedātāji, netinimi un visi tie, kas bija atšķīrušies no zemju ļaudīm Dieva likumam, viņu sievas, viņu dēli un viņu meitas, ikviens ar atzīšanu un ar saprašanu;"
+        "lv": "28 <span class='p'></span> Un pārējie ļaudis, priesteri, levīti, vārtu sargi, dziedātāji, netinimi un visi tie, kas bija atšķīrušies no zemju ļaudīm Dieva likumam, viņu sievas, viņu dēli un viņu meitas, ikviens ar atzīšanu un ar saprašanu;"
       },
       {
         "verse": 29,
@@ -1495,7 +1495,7 @@
       {
         "verse": 3,
         "en": "3. Now these <i>are </i>the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, <i>to wit, </i>Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants.",
-        "lv": "3 <p>Tad nu šie <i>ir </i>provinces galvenie, kas mājoja Jeruzālemē: bet Jūdas pilsētās ikviens mājoja savā īpašumā savās pilsētās, <i>proti,</i> Israēls, priesteri un levīti, un netinimi, un Salamana kalpu bērni."
+        "lv": "3 <span class='p'></span> Tad nu šie <i>ir </i>provinces galvenie, kas mājoja Jeruzālemē: bet Jūdas pilsētās ikviens mājoja savā īpašumā savās pilsētās, <i>proti,</i> Israēls, priesteri un levīti, un netinimi, un Salamana kalpu bērni."
       },
       {
         "verse": 4,
@@ -1580,7 +1580,7 @@
       {
         "verse": 20,
         "en": "20. And the residue of Israel, of the priests, <i>and </i>the Levites, <i>were </i>in all the cities of Judah, every one in his inheritance.",
-        "lv": "20 <p>Un pārējie no Israēla, priesteriem <i>un </i>levītiem <i>bija </i>visās Jūdas pilsētās, ikviens savā mantojumā."
+        "lv": "20 <span class='p'></span> Un pārējie no Israēla, priesteriem <i>un </i>levītiem <i>bija </i>visās Jūdas pilsētās, ikviens savā mantojumā."
       },
       {
         "verse": 21,
@@ -1712,7 +1712,7 @@
       {
         "verse": 10,
         "en": "10. And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,",
-        "lv": "10 <p>Un Ješua dzemdināja Jojakimu, Jojakims arī dzemdināja Eliašibu, un Eliašibs dzemdināja Jojadu,"
+        "lv": "10 <span class='p'></span> Un Ješua dzemdināja Jojakimu, Jojakims arī dzemdināja Eliašibu, un Eliašibs dzemdināja Jojadu,"
       },
       {
         "verse": 11,
@@ -1772,7 +1772,7 @@
       {
         "verse": 22,
         "en": "22. The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, <i>were </i>recorded chief of the fathers: also the priests, to the reign of Darius the Persian.",
-        "lv": "22 <p>Eliašiba, Jojadas, Johanana un Jadduas dienās levīti <i>tika </i>reģistrēti kā tēvu galvenie: arī priesteri līdz Persieša Dārija valdīšanai."
+        "lv": "22 <span class='p'></span> Eliašiba, Jojadas, Johanana un Jadduas dienās levīti <i>tika </i>reģistrēti kā tēvu galvenie: arī priesteri līdz Persieša Dārija valdīšanai."
       },
       {
         "verse": 23,
@@ -1797,7 +1797,7 @@
       {
         "verse": 27,
         "en": "27. And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, <i>with </i>cymbals, psalteries, and with harps.",
-        "lv": "27 <p>Un Jeruzālemes mūra iesvētīšanas laikā tie meklēja levītus no visām viņu vietām, lai tos vestu uz Jeruzālemi, lai turētu iesvētīšanu ar līksmību, gan ar pateicībām, gan ar dziedāšanu, <i>ar </i>šķīvjiem, psalterijiem un ar arfām."
+        "lv": "27 <span class='p'></span> Un Jeruzālemes mūra iesvētīšanas laikā tie meklēja levītus no visām viņu vietām, lai tos vestu uz Jeruzālemi, lai turētu iesvētīšanu ar līksmību, gan ar pateicībām, gan ar dziedāšanu, <i>ar </i>šķīvjiem, psalterijiem un ar arfām."
       },
       {
         "verse": 28,
@@ -1882,7 +1882,7 @@
       {
         "verse": 44,
         "en": "44. And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
-        "lv": "44 <p>Un tajā laikā kādi tika iecelti par kambariem priekš dārgumiem, upuriem, pirmaugļiem un desmitajām tiesām, lai savāktu tajos no pilsētu laukiem likuma daļas priesteriem un levītiem: jo Jūda priecājās par priesteriem un levītiem, kas apkalpoja."
+        "lv": "44 <span class='p'></span> Un tajā laikā kādi tika iecelti par kambariem priekš dārgumiem, upuriem, pirmaugļiem un desmitajām tiesām, lai savāktu tajos no pilsētu laukiem likuma daļas priesteriem un levītiem: jo Jūda priecājās par priesteriem un levītiem, kas apkalpoja."
       },
       {
         "verse": 45,
@@ -1919,7 +1919,7 @@
       {
         "verse": 4,
         "en": "4. And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, <i>was </i>allied unto Tobiah:",
-        "lv": "4 <p>Un pirms tam priesteris Eliašibs, <i>[kam]</i> bija mūsu Dieva nama kambara uzraudzība, <i>bija </i>apvienojies ar Tobiju:"
+        "lv": "4 <span class='p'></span> Un pirms tam priesteris Eliašibs, <i>[kam]</i> bija mūsu Dieva nama kambara uzraudzība, <i>bija </i>apvienojies ar Tobiju:"
       },
       {
         "verse": 5,
@@ -1949,7 +1949,7 @@
       {
         "verse": 10,
         "en": "10. And I perceived that the portions of the Levites had not been given <i>them</i>: for the Levites and the singers, that did the work, were fled every one to his field.",
-        "lv": "10 <p>Un es nomanīju, ka levītu daļas <i>viņiem </i>nebija dotas: jo levīti un dziedātāji, kas darīja darbu, bija bēguši ikviens uz savu lauku."
+        "lv": "10 <span class='p'></span> Un es nomanīju, ka levītu daļas <i>viņiem </i>nebija dotas: jo levīti un dziedātāji, kas darīja darbu, bija bēguši ikviens uz savu lauku."
       },
       {
         "verse": 11,
@@ -1974,7 +1974,7 @@
       {
         "verse": 15,
         "en": "15. In those days saw I in Judah <i>some </i>treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all <i>manner of</i> burdens, which they brought into Jerusalem on the sabbath day: and I testified <i>against them</i> in the day wherein they sold victuals.",
-        "lv": "15 <p>Tajās dienās es redzēju Jūdā <i>dažus </i>sabatā minam vīna spaidus un ienesam kūlīšus, un apkraujam ēzeļus; kā arī vīnu, vīnogas un vīģes, un visu <i>veidu </i>nastas, ko tie sabata dienā ienesa Jeruzālemē: un es liecināju<i> pret viņiem </i>dienā, kurā tie pārdeva pārtiku."
+        "lv": "15 <span class='p'></span> Tajās dienās es redzēju Jūdā <i>dažus </i>sabatā minam vīna spaidus un ienesam kūlīšus, un apkraujam ēzeļus; kā arī vīnu, vīnogas un vīģes, un visu <i>veidu </i>nastas, ko tie sabata dienā ienesa Jeruzālemē: un es liecināju<i> pret viņiem </i>dienā, kurā tie pārdeva pārtiku."
       },
       {
         "verse": 16,
@@ -2014,7 +2014,7 @@
       {
         "verse": 23,
         "en": "23. In those days also saw I Jews <i>that </i>had married wives of Ashdod, of Ammon, <i>and </i>of Moab:",
-        "lv": "23 <p>Tajās dienās es arī redzēju jūdus, <i>kas </i>bija apprecējuši sievas no Ašdodas, Amona <i>un </i>Moāba:"
+        "lv": "23 <span class='p'></span> Tajās dienās es arī redzēju jūdus, <i>kas </i>bija apprecējuši sievas no Ašdodas, Amona <i>un </i>Moāba:"
       },
       {
         "verse": 24,

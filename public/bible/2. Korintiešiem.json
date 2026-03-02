@@ -15,7 +15,7 @@
       {
         "verse": 3,
         "en": "3Blessed <i>be </i>God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;",
-        "lv": "3 <p>Svētīts lai<i> ir</i> Dievs, proti, mūsu Kunga Jēzus Kristus Tēvs, žēlsirdību Tēvs un visa mierinājuma Dievs;"
+        "lv": "3 <span class='p'></span> Svētīts lai<i> ir</i> Dievs, proti, mūsu Kunga Jēzus Kristus Tēvs, žēlsirdību Tēvs un visa mierinājuma Dievs;"
       },
       {
         "verse": 4,
@@ -60,7 +60,7 @@
       {
         "verse": 12,
         "en": "12For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.",
-        "lv": "12 <p>Jo mūsu priecāšanās ir šī, mūsu sirdsapziņas liecība, ka vienkāršībā un dievbijīgā patiesumā, ne ar miesīgu gudrību, bet caur Dieva žēlastību, mūsu dzīvošana ir bijusi pasaulē, un vēl bagātīgāk pret jums."
+        "lv": "12 <span class='p'></span> Jo mūsu priecāšanās ir šī, mūsu sirdsapziņas liecība, ka vienkāršībā un dievbijīgā patiesumā, ne ar miesīgu gudrību, bet caur Dieva žēlastību, mūsu dzīvošana ir bijusi pasaulē, un vēl bagātīgāk pret jums."
       },
       {
         "verse": 13,
@@ -147,7 +147,7 @@
       {
         "verse": 5,
         "en": "5But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.",
-        "lv": "5 <p>Bet, ja kāds ir izraisījis noskumšanu, viņš nav mani noskumdinājis, kā tikai daļēji: lai es nepārslogotu jūs visus."
+        "lv": "5 <span class='p'></span> Bet, ja kāds ir izraisījis noskumšanu, viņš nav mani noskumdinājis, kā tikai daļēji: lai es nepārslogotu jūs visus."
       },
       {
         "verse": 6,
@@ -192,7 +192,7 @@
       {
         "verse": 14,
         "en": "14Now thanks <i>be </i>unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.",
-        "lv": "14 <p>Tad nu pateicība Dievam, kas vienmēr mums liek svinēt uzvaru Kristū un caur mums ikvienā vietā dara redzamu savas atzīšanas smaržu."
+        "lv": "14 <span class='p'></span> Tad nu pateicība Dievam, kas vienmēr mums liek svinēt uzvaru Kristū un caur mums ikvienā vietā dara redzamu savas atzīšanas smaržu."
       },
       {
         "verse": 15,
@@ -239,7 +239,7 @@
       {
         "verse": 6,
         "en": "6Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.",
-        "lv": "6 <p>Kurš arī mūs ir darījis par spējīgiem jaunā testamenta kalpotājiem; ne burta, bet gara: jo burts nogalina, bet gars dod dzīvību."
+        "lv": "6 <span class='p'></span> Kurš arī mūs ir darījis par spējīgiem jaunā testamenta kalpotājiem; ne burta, bet gara: jo burts nogalina, bet gars dod dzīvību."
       },
       {
         "verse": 7,
@@ -336,7 +336,7 @@
       {
         "verse": 7,
         "en": "7But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.",
-        "lv": "7 <p>Bet mums šis dārgums ir zemes traukos, lai spēka pārākums var būt no Dieva un ne no mums."
+        "lv": "7 <span class='p'></span> Bet mums šis dārgums ir zemes traukos, lai spēka pārākums var būt no Dieva un ne no mums."
       },
       {
         "verse": 8,
@@ -438,7 +438,7 @@
       {
         "verse": 9,
         "en": "9Wherefore we labour, that, whether present or absent, we may be accepted of him.",
-        "lv": "9 <p>Tādēļ mēs pūlamies, lai, vai klāt vai prom, mēs varam būt no viņa pieņemti."
+        "lv": "9 <span class='p'></span> Tādēļ mēs pūlamies, lai, vai klāt vai prom, mēs varam būt no viņa pieņemti."
       },
       {
         "verse": 10,
@@ -483,7 +483,7 @@
       {
         "verse": 18,
         "en": "18And all things <i>are </i>of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;",
-        "lv": "18 <p>Un viss <i>ir</i> no Dieva, kurš mūs ir samierinājis ar sevi pašu caur Jēzu Kristu un mums ir devis samierināšanas kalpošanu;"
+        "lv": "18 <span class='p'></span> Un viss <i>ir</i> no Dieva, kurš mūs ir samierinājis ar sevi pašu caur Jēzu Kristu un mums ir devis samierināšanas kalpošanu;"
       },
       {
         "verse": 19,
@@ -575,7 +575,7 @@
       {
         "verse": 15,
         "en": "15And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?",
-        "lv": "15 <p>Un kāda ir saskaņa Kristum ar Beliālu? vai kāda ir daļa tam, kas tic, ar neticīgo?"
+        "lv": "15 <span class='p'></span> Un kāda ir saskaņa Kristum ar Beliālu? vai kāda ir daļa tam, kas tic, ar neticīgo?"
       },
       {
         "verse": 16,
@@ -607,7 +607,7 @@
       {
         "verse": 3,
         "en": "3I speak not <i>this </i>to condemn <i>you</i>: for I have said before, that ye are in our hearts to die and live with <i>you</i>.",
-        "lv": "3 <p>Es <i>šo</i> nerunāju, lai <i>jūs</i> nosodītu: jo es esmu sacījis iepriekš, ka jūs esat mūsu sirdīs mirt un dzīvot ar <i>jums</i>."
+        "lv": "3 <span class='p'></span> Es <i>šo</i> nerunāju, lai <i>jūs</i> nosodītu: jo es esmu sacījis iepriekš, ka jūs esat mūsu sirdīs mirt un dzīvot ar <i>jums</i>."
       },
       {
         "verse": 4,
@@ -637,12 +637,12 @@
       {
         "verse": 9,
         "en": "9Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.",
-        "lv": "9 <p>Tad nu es priecājos, ne ka jūs tikāt noskumdināti, bet ka jūs noskumāt uz nožēlu: jo jūs tikāt noskumdināti dievišķā veidā, lai jūs no mums nekur nevarētu saņemt zaudējumu."
+        "lv": "9 <span class='p'></span> Tad nu es priecājos, ne ka jūs tikāt noskumdināti, bet ka jūs noskumāt uz nožēlu: jo jūs tikāt noskumdināti dievišķā veidā, lai jūs no mums nekur nevarētu saņemt zaudējumu."
       },
       {
         "verse": 10,
         "en": "10For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.",
-        "lv": "10 Jo dievišķa noskumšana strādā nožēlu uz glābšanu, kas nav jānožēlo: bet pasaules noskumšana strādā nāvi. "
+        "lv": "10 Jo dievišķa noskumšana strādā nožēlu uz glābšanu, kas nav jānožēlo: bet pasaules noskumšana strādā nāvi."
       },
       {
         "verse": 11,
@@ -709,7 +709,7 @@
       {
         "verse": 7,
         "en": "7Therefore, as ye abound in every <i>thing</i>, <i>in </i>faith, and utterance, and knowledge, and <i>in </i>all diligence, and <i>in </i>your love to us, <i>see </i>that ye abound in this grace also.",
-        "lv": "7 <p>Tāpēc, kā jūs pieņematies ikvienā <i>lietā</i>, ticībā un izpausmē, un atzīšanā, un centībā, un savā mīlestībā uz mums, <i>pielūkojiet</i>, lai jūs pieņematies arī šajā žēlastībā."
+        "lv": "7 <span class='p'></span> Tāpēc, kā jūs pieņematies ikvienā <i>lietā</i>, ticībā un izpausmē, un atzīšanā, un centībā, un savā mīlestībā uz mums, <i>pielūkojiet</i>, lai jūs pieņematies arī šajā žēlastībā."
       },
       {
         "verse": 8,
@@ -754,7 +754,7 @@
       {
         "verse": 16,
         "en": "16But thanks <i>be </i>to God, which put the same earnest care into the heart of Titus for you.",
-        "lv": "16 <p>Bet <i>lai</i> <i>ir</i> pateicība Dievam, kas Titus sirdī lika tās pašas dedzīgās rūpes par jums."
+        "lv": "16 <span class='p'></span> Bet <i>lai</i> <i>ir</i> pateicība Dievam, kas Titus sirdī lika tās pašas dedzīgās rūpes par jums."
       },
       {
         "verse": 17,
@@ -794,7 +794,7 @@
       {
         "verse": 24,
         "en": "24Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.",
-        "lv": "24 Tādēļ parādiet tiem un draudžu priekšā pierādījumu savai mīlestībai un mūsu lielīšanai par jums."
+        "lv": "24 Tādēļ parādiet tiem un draudžu priekšā pierādījumu savai mīlestībai un mūsu lielībai par jums."
       }
     ],
     "9": [
@@ -821,7 +821,7 @@
       {
         "verse": 5,
         "en": "5Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as <i>a matter of</i> bounty, and not as of covetousness.",
-        "lv": "5 <p>Tāpēc es domāju par vajadzīgu pamudināt brāļus, lai tie iepriekš ietu pie jums un iepriekš sagatavotu jūsu dāsnumu, par ko jūs iepriekš esat paziņojuši, lai tas varētu būt gatavs kā <i>no</i> dāsnuma un ne kā no mantkārības."
+        "lv": "5 <span class='p'></span> Tāpēc es domāju par vajadzīgu pamudināt brāļus, lai tie iepriekš ietu pie jums un iepriekš sagatavotu jūsu dāsnumu, par ko jūs iepriekš esat paziņojuši, lai tas varētu būt gatavs kā <i>no</i> dāsnuma un ne kā no mantkārības."
       },
       {
         "verse": 6,
@@ -933,7 +933,7 @@
       {
         "verse": 12,
         "en": "12For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.",
-        "lv": "12 <p>Jo mēs neuzdrošināmies sevi pieskaitīt vai sevi salīdzināt ar kādiem, kas sevi uzteic: bet tie, mērīdami sevi ar sevi un salīdzinādami sevi savā starpā, nav gudri."
+        "lv": "12 <span class='p'></span> Jo mēs neuzdrošināmies sevi pieskaitīt vai sevi salīdzināt ar kādiem, kas sevi uzteic: bet tie, mērīdami sevi ar sevi un salīdzinādami sevi savā starpā, nav gudri."
       },
       {
         "verse": 13,
@@ -1045,7 +1045,7 @@
       {
         "verse": 16,
         "en": "16I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.",
-        "lv": "16 <p>Es atkal saku, Lai neviens mani neuzskata par muļķi; pretējā gadījumā vēl kā muļķi uzņemiet mani, lai es varu nedaudz sevi lielīt."
+        "lv": "16 <span class='p'></span> Es atkal saku, Lai neviens mani neuzskata par muļķi; pretējā gadījumā vēl kā muļķi uzņemiet mani, lai es varu nedaudz sevi lielīt."
       },
       {
         "verse": 17,
@@ -1080,7 +1080,7 @@
       {
         "verse": 23,
         "en": "23Are they ministers of Christ? (I speak as a fool) I <i>am </i>more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.",
-        "lv": "23 <p>Vai tie ir Kristus kalpotāji? (es runāju kā muļķis) es vairāk; pūliņos pārpārēm, cirtienos pāri mēram, cietumos biežāk, nāvēs bieži."
+        "lv": "23 <span class='p'></span> Vai tie ir Kristus kalpotāji? (es runāju kā muļķis) es vairāk; pūliņos pārpārēm, cirtienos pāri mēram, cietumos biežāk, nāvēs bieži."
       },
       {
         "verse": 24,
@@ -1152,7 +1152,7 @@
       {
         "verse": 4,
         "en": "4How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.",
-        "lv": "4 Kā viņš tika aizrauts paradīzē un dzirdēja neizrunājamus vārdus, ko cilvēkam nav likumīgi izteikt. "
+        "lv": "4 Kā viņš tika aizrauts paradīzē un dzirdēja neizrunājamus vārdus, ko cilvēkam nav likumīgi izteikt."
       },
       {
         "verse": 5,
@@ -1177,7 +1177,7 @@
       {
         "verse": 9,
         "en": "9And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
-        "lv": "9 <p>Un viņš man sacīja, Mana žēlastība priekš tevis ir pietiekoša: jo mans stiprums tiek darīts pilnīgs nespēkā. Tāpēc ar lielāko prieku es labāk lepošos savos vājumos, lai Kristus spēks var dusēt uz manis."
+        "lv": "9 <span class='p'></span> Un viņš man sacīja, Mana žēlastība priekš tevis ir pietiekoša: jo mans stiprums tiek darīts pilnīgs nespēkā. Tāpēc ar lielāko prieku es labāk lepošos savos vājumos, lai Kristus spēks var dusēt uz manis."
       },
       {
         "verse": 10,
@@ -1187,7 +1187,7 @@
       {
         "verse": 11,
         "en": "11I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.",
-        "lv": "11 <p>Es esmu kļuvis par muļķi lepodamies; jūs mani esat piespieduši: jo man vajadzēja no jums tikt uzteiktam: jo nekur es neesmu aiz pašiem galvenajiem apustuļiem, kaut arī es neesmu nekas."
+        "lv": "11 <span class='p'></span> Es esmu kļuvis par muļķi lepodamies; jūs mani esat piespieduši: jo man vajadzēja no jums tikt uzteiktam: jo nekur es neesmu aiz pašiem galvenajiem apustuļiem, kaut arī es neesmu nekas."
       },
       {
         "verse": 12,
@@ -1294,7 +1294,7 @@
       {
         "verse": 11,
         "en": "11Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
-        "lv": "11 <p>Visbeidzot, brāļi, ardievu. Esiet pilnīgi, turiet drošu prātu, esiet vienā prātā, dzīvojiet mierā; un mīlestības un miera Dievs būs ar jums."
+        "lv": "11 <span class='p'></span> Visbeidzot, brāļi, ardievu. Esiet pilnīgi, turiet drošu prātu, esiet vienā prātā, dzīvojiet mierā; un mīlestības un miera Dievs būs ar jums."
       },
       {
         "verse": 12,

@@ -25,7 +25,7 @@
       {
         "verse": 5,
         "en": "5I <i>am </i>black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
-        "lv": "5 <p>Es <i>esmu </i>melna, bet piemīlīga, ak, jūs, Jeruzālemes meitas, kā Kedaras teltis, kā Sālamana aizkari."
+        "lv": "5 <span class='p'></span> Es <i>esmu </i>melna, bet piemīlīga, ak, jūs, Jeruzālemes meitas, kā Kedaras teltis, kā Sālamana aizkari."
       },
       {
         "verse": 6,
@@ -35,17 +35,17 @@
       {
         "verse": 7,
         "en": "7Tell me, O thou whom my soul loveth, where thou feedest, where thou makest <i>thy flock</i> to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?",
-        "lv": "7 <p>Stāsti man, ak, tu, kuru mana dvēsele mīl, kur tu gani, kur tu<i> savam ganāmpulkam</i> liec dusēt pusdienlaikā: jo kāpēc man jābūt kā tādai, kas nogriežas pie tavu biedru ganāmpulkiem?"
+        "lv": "7 <span class='p'></span> Stāsti man, ak, tu, kuru mana dvēsele mīl, kur tu gani, kur tu<i> savam ganāmpulkam</i> liec dusēt pusdienlaikā: jo kāpēc man jābūt kā tādai, kas nogriežas pie tavu biedru ganāmpulkiem?"
       },
       {
         "verse": 8,
         "en": "8If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents.",
-        "lv": "8 <p>Ja tu nezini, ak, tu, daiļākā starp sievietēm, izej pa ganāmpulka pēdām un gani savus kazlēnus blakus ganu teltīm."
+        "lv": "8 <span class='p'></span> Ja tu nezini, ak, tu, daiļākā starp sievietēm, izej pa ganāmpulka pēdām un gani savus kazlēnus blakus ganu teltīm."
       },
       {
         "verse": 9,
         "en": "9I have compared thee, O my love, to a company of horses in Pharaoh's chariots.",
-        "lv": "9 <p>Es tevi esmu pielīdzinājis, ak, mana iemīļotā, zirgu grupai faraona ratos."
+        "lv": "9 <span class='p'></span> Es tevi esmu pielīdzinājis, ak, mana iemīļotā, zirgu grupai faraona ratos."
       },
       {
         "verse": 10,
@@ -60,7 +60,7 @@
       {
         "verse": 12,
         "en": "12While the king <i>sitteth </i>at his table, my spikenard sendeth forth the smell thereof.",
-        "lv": "12 <p>Kamēr ķēniņš <i>sēž </i>pie sava galda, mani nardi izsūta to smaržu."
+        "lv": "12 <span class='p'></span> Kamēr ķēniņš <i>sēž </i>pie sava galda, mani nardi izsūta to smaržu."
       },
       {
         "verse": 13,
@@ -127,7 +127,7 @@
       {
         "verse": 8,
         "en": "8The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.",
-        "lv": "8 <p>Mana mīļotā balss! lūk, viņš nāk lēkdams uz kalniem, lēkādams uz pakalniem."
+        "lv": "8 <span class='p'></span> Mana mīļotā balss! lūk, viņš nāk lēkdams uz kalniem, lēkādams uz pakalniem."
       },
       {
         "verse": 9,
@@ -137,7 +137,7 @@
       {
         "verse": 10,
         "en": "10My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.",
-        "lv": "10 <p>Mans mīļotais runāja un man sacīja, Celies, mana iemīļotā, mana daiļā un nāc prom."
+        "lv": "10 <span class='p'></span> Mans mīļotais runāja un man sacīja, Celies, mana iemīļotā, mana daiļā un nāc prom."
       },
       {
         "verse": 11,
@@ -157,7 +157,7 @@
       {
         "verse": 14,
         "en": "14O my dove, <i>that art</i> in the clefts of the rock, in the secret <i>places </i>of the stairs, let me see thy countenance, let me hear thy voice; for sweet <i>is </i>thy voice, and thy countenance <i>is </i>comely.",
-        "lv": "14 <p>Ak, mana dūja,<i> kas esi </i>klinšu plaisās, kāpņu slepenās <i>vietās</i>, ļauj man redzēt tavu vaigu, ļauj man dzirdēt tavu balsi; jo salda <i>ir</i> tava balss, un tavs vaigs <i>ir </i>piemīlīgs."
+        "lv": "14 <span class='p'></span> Ak, mana dūja,<i> kas esi </i>klinšu plaisās, kāpņu slepenās <i>vietās</i>, ļauj man redzēt tavu vaigu, ļauj man dzirdēt tavu balsi; jo salda <i>ir</i> tava balss, un tavs vaigs <i>ir </i>piemīlīgs."
       },
       {
         "verse": 15,
@@ -204,7 +204,7 @@
       {
         "verse": 6,
         "en": "6Who <i>is </i>this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?",
-        "lv": "6 <p>Kas <i>ir </i>šis, kas nāk no tuksneša kā dūmu pīlāri, iesmaržots ar mirrēm un vīraku, ar visiem tirgotāja pulveriem?"
+        "lv": "6 <span class='p'></span> Kas <i>ir </i>šis, kas nāk no tuksneša kā dūmu pīlāri, iesmaržots ar mirrēm un vīraku, ar visiem tirgotāja pulveriem?"
       },
       {
         "verse": 7,
@@ -271,7 +271,7 @@
       {
         "verse": 8,
         "en": "8Come with me from Lebanon, <i>my </i>spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards.",
-        "lv": "8 <p>Nāc ar mani no Lebanona, <i>mana </i>laulātā, ar mani no Lebanona: lūkojies no Amana augšas, no Šenira un Hermona augšas, no lauvu midzeņiem, no leopardu kalniem."
+        "lv": "8 <span class='p'></span> Nāc ar mani no Lebanona, <i>mana </i>laulātā, ar mani no Lebanona: lūkojies no Amana augšas, no Šenira un Hermona augšas, no lauvu midzeņiem, no leopardu kalniem."
       },
       {
         "verse": 9,
@@ -311,19 +311,19 @@
       {
         "verse": 16,
         "en": "16Awake, O north wind; and come, thou south; blow upon my garden, <i>that </i>the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
-        "lv": "16 <p>Mosties, ak, ziemeļu vējš; un nāc, tu dienvidvējš; pūt uz manu dārzu, <i>lai </i>tā smaržīgās zāles var izlidot. Lai mans mīļotais nāk savā dārzā un ēd savus patīkamos augļus."
+        "lv": "16 <span class='p'></span> Mosties, ak, ziemeļu vējš; un nāc, tu dienvidvējš; pūt uz manu dārzu, <i>lai </i>tā smaržīgās zāles var izlidot. Lai mans mīļotais nāk savā dārzā un ēd savus patīkamos augļus."
       }
     ],
     "5": [
       {
         "verse": 1,
         "en": "1 I am come into my garden, my sister, <i>my </i>spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
-        "lv": "1 Es esmu nācis savā dārzā, mana māsa, <i>mana </i>laulātā: es esmu vācis savas mirres ar savām smaržīgajām zālēm; es esmu ēdis savu medus kāri ar savu medu; es esmu dzēris savu vīnu ar savu pienu: ēdiet, ak, draugi; dzeriet, jā, dzeriet pārpārēm, ak, mīļotie. "
+        "lv": "1 Es esmu nācis savā dārzā, mana māsa, <i>mana </i>laulātā: es esmu vācis savas mirres ar savām smaržīgajām zālēm; es esmu ēdis savu medus kāri ar savu medu; es esmu dzēris savu vīnu ar savu pienu: ēdiet, ak, draugi; dzeriet, jā, dzeriet pārpārēm, ak, mīļotie."
       },
       {
         "verse": 2,
         "en": "2I sleep, but my heart waketh: <i>it is</i> the voice of my beloved that knocketh, <i>saying</i>, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, <i>and </i>my locks with the drops of the night.",
-        "lv": "2 <p>Es guļu, bet mana sirds mostas: <i>tā ir </i>mana mīļotā balss, kas klauvē <i>sacīdams</i>, Atver man, mana māsa, mana mīlestība, mana dūja, mana neapgānītā: jo mana galva ir pildīta ar rasu, <i>un </i>manas cirtas ar nakts pilieniem."
+        "lv": "2 <span class='p'></span> Es guļu, bet mana sirds mostas: <i>tā ir </i>mana mīļotā balss, kas klauvē <i>sacīdams</i>, Atver man, mana māsa, mana mīlestība, mana dūja, mana neapgānītā: jo mana galva ir pildīta ar rasu, <i>un </i>manas cirtas ar nakts pilieniem."
       },
       {
         "verse": 3,
@@ -358,7 +358,7 @@
       {
         "verse": 9,
         "en": "9What <i>is</i> thy beloved more than <i>another </i>beloved, O thou fairest among women? what <i>is </i>thy beloved more than <i>another </i>beloved, that thou dost so charge us?",
-        "lv": "9 <p>Kas <i>ir </i>tavs mīļotais vairāk nekā <i>cits</i> mīļotais, ak, tu, daiļākā starp sievietēm? kas <i>ir </i>tavs mīļotais vairāk nekā <i>cits </i>mīļotais, ka tu mūs tā piekodini?"
+        "lv": "9 <span class='p'></span> Kas <i>ir </i>tavs mīļotais vairāk nekā <i>cits</i> mīļotais, ak, tu, daiļākā starp sievietēm? kas <i>ir </i>tavs mīļotais vairāk nekā <i>cits </i>mīļotais, ka tu mūs tā piekodini?"
       },
       {
         "verse": 10,
@@ -415,7 +415,7 @@
       {
         "verse": 4,
         "en": "4Thou <i>art </i>beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as <i>an army</i> with banners.",
-        "lv": "4 <p>Tu <i>esi </i>skaista, ak, mana mīlestība, kā Tirza, piemīlīga kā Jeruzāleme, briesmīga <i>kā armija</i> ar karogiem."
+        "lv": "4 <span class='p'></span> Tu <i>esi </i>skaista, ak, mana mīlestība, kā Tirza, piemīlīga kā Jeruzāleme, briesmīga <i>kā armija</i> ar karogiem."
       },
       {
         "verse": 5,
@@ -445,7 +445,7 @@
       {
         "verse": 10,
         "en": "10Who <i>is </i>she <i>that </i>looketh forth as the morning, fair as the moon, clear as the sun, <i>and</i> terrible as an <i>army </i>with banners?",
-        "lv": "10 <p>Kas <i>ir </i>tā, <i>kas</i> lūkojas kā rīts, daiļa kā mēness, skaidra kā saule <i>un </i>briesmīga<i> </i>kā <i>armija </i>ar karogiem?"
+        "lv": "10 <span class='p'></span> Kas <i>ir </i>tā, <i>kas</i> lūkojas kā rīts, daiļa kā mēness, skaidra kā saule <i>un </i>briesmīga<i> </i>kā <i>armija </i>ar karogiem?"
       },
       {
         "verse": 11,
@@ -512,7 +512,7 @@
       {
         "verse": 10,
         "en": "10I <i>am </i>my beloved's, and his desire <i>is </i>toward me.",
-        "lv": "10 <p>Es <i>esmu </i>sava mīļotā, un viņa vēlme <i>ir </i>pret mani."
+        "lv": "10 <span class='p'></span> Es <i>esmu </i>sava mīļotā, un viņa vēlme <i>ir </i>pret mani."
       },
       {
         "verse": 11,
@@ -569,7 +569,7 @@
       {
         "verse": 8,
         "en": "8We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?",
-        "lv": "8 <p>Mums ir maza māsa, un viņai nav krūšu: ko mēs darīsim mūsu māsai dienā, kad pēc viņas tiks runāts?"
+        "lv": "8 <span class='p'></span> Mums ir maza māsa, un viņai nav krūšu: ko mēs darīsim mūsu māsai dienā, kad pēc viņas tiks runāts?"
       },
       {
         "verse": 9,
@@ -599,7 +599,7 @@
       {
         "verse": 14,
         "en": "14Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.",
-        "lv": "14 <p>Steidzies, mans mīļotais, un esi kā stirna vai jauns briedis uz smaržīgu zāļu kalniem."
+        "lv": "14 <span class='p'></span> Steidzies, mans mīļotais, un esi kā stirna vai jauns briedis uz smaržīgu zāļu kalniem."
       }
     ]
   }

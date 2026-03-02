@@ -49,7 +49,7 @@
       },
       {
         "verse": 10,
-        "en": "10 <p>Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that <i>there </i>be no divisions among you; but <i>that </i>ye be perfectly joined together in the same mind and in the same judgment.",
+        "en": "10 <span class='p'></span> Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that <i>there </i>be no divisions among you; but <i>that </i>ye be perfectly joined together in the same mind and in the same judgment.",
         "lv": "10 Tad nu es jūs lūdzos brāļi caur mūsu Kunga Jēzus Kristus vārdu, lai jūs visi runātu to pašu un lai starp jums nebūtu šķelšanās; bet, ka jūs būtu pilnīgi savienoti kopā tādā pašā prātā un tādā pašā spriedumā."
       },
       {
@@ -167,7 +167,7 @@
       {
         "verse": 2,
         "en": "2For I determined not to know any thing among you, save Jesus Christ, and him crucified.",
-        "lv": "2 Jo es nospriedu nezināt neko starp jums, kā vien Jēzu Kristu un viņu krustā sistu. "
+        "lv": "2 Jo es nospriedu nezināt neko starp jums, kā vien Jēzu Kristu un viņu krustā sistu."
       },
       {
         "verse": 3,
@@ -197,7 +197,7 @@
       {
         "verse": 8,
         "en": "8Which none of the princes of this world knew: for had they known <i>it</i>, they would not have crucified the Lord of glory.",
-        "lv": "8 Ko neviens no šīs pasaules prinčiem neatzina: jo, <i>[ja]</i> tie <i>to </i>būtu atzinuši, tie nebūtu krustā situši godības Kungu. "
+        "lv": "8 Ko neviens no šīs pasaules prinčiem neatzina: jo, <i>[ja]</i> tie <i>to </i>būtu atzinuši, tie nebūtu krustā situši godības Kungu."
       },
       {
         "verse": 9,
@@ -254,7 +254,7 @@
       {
         "verse": 3,
         "en": "3For ye are yet carnal: for whereas<i> there is</i> among you envying, and strife, and divisions, are ye not carnal, and walk as men?",
-        "lv": "3 <p>Jo jūs vēl esat miesīgi: jo tā kā starp jums <i>ir</i> skaudība un strīds, un šķelšanās, vai jūs neesat miesīgi un nestaigājat kā cilvēki?"
+        "lv": "3 <span class='p'></span> Jo jūs vēl esat miesīgi: jo tā kā starp jums <i>ir</i> skaudība un strīds, un šķelšanās, vai jūs neesat miesīgi un nestaigājat kā cilvēki?"
       },
       {
         "verse": 4,
@@ -294,7 +294,7 @@
       {
         "verse": 11,
         "en": "11For other foundation can no man lay than that is laid, which is Jesus Christ.",
-        "lv": "11 <p>Jo citu pamatu neviens nevar likt kā to, kas ir likts, kas ir Jēzus Kristus."
+        "lv": "11 <span class='p'></span> Jo citu pamatu neviens nevar likt kā to, kas ir likts, kas ir Jēzus Kristus."
       },
       {
         "verse": 12,
@@ -319,7 +319,7 @@
       {
         "verse": 16,
         "en": "16Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?",
-        "lv": "16 <p>Vai jūs nezināt, ka jūs esat Dieva templis un ka Dieva Gars mājo jūsos?"
+        "lv": "16 <span class='p'></span> Vai jūs nezināt, ka jūs esat Dieva templis un ka Dieva Gars mājo jūsos?"
       },
       {
         "verse": 17,
@@ -401,7 +401,7 @@
       {
         "verse": 9,
         "en": "9For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.",
-        "lv": "9 <p>Jo es domāju, ka Dievs mūs, apustuļus, nolicis pēdējos, kā noteiktus nāvei: jo mēs esam darīti par izrādi pasaulei un eņģeļiem, un cilvēkiem."
+        "lv": "9 <span class='p'></span> Jo es domāju, ka Dievs mūs, apustuļus, nolicis pēdējos, kā noteiktus nāvei: jo mēs esam darīti par izrādi pasaulei un eņģeļiem, un cilvēkiem."
       },
       {
         "verse": 10,
@@ -451,7 +451,7 @@
       {
         "verse": 19,
         "en": "19But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.",
-        "lv": "19 <p>Bet es nākšu pie jums drīz, ja tas Kungs gribēs, un dabūšu zināt, ne runu no tiem, kas ir uzpūsti, bet spēku."
+        "lv": "19 <span class='p'></span> Bet es nākšu pie jums drīz, ja tas Kungs gribēs, un dabūšu zināt, ne runu no tiem, kas ir uzpūsti, bet spēku."
       },
       {
         "verse": 20,
@@ -498,7 +498,7 @@
       {
         "verse": 7,
         "en": "7Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:",
-        "lv": "7 <p>Tāpēc izmēziet veco ieraugu, lai jūs varat būt jauna mīkla, kā jūs esat neraudzēti. Jo tāpat Kristus, mūsu pashā, ir upurēts par mums:"
+        "lv": "7 <span class='p'></span> Tāpēc izmēziet veco ieraugu, lai jūs varat būt jauna mīkla, kā jūs esat neraudzēti. Jo tāpat Kristus, mūsu pashā, ir upurēts par mums:"
       },
       {
         "verse": 8,
@@ -575,7 +575,7 @@
       {
         "verse": 9,
         "en": "9Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
-        "lv": "9 <p>Vai jūs nezināt, ka netaisnie neiemantos Dieva valstību? Nepievilieties: nedz netikļi, ne elkdievīgie, ne laulības pārkāpēji, ne sievišķīgie, ne tie, kas guļ ar vīriešiem,"
+        "lv": "9 <span class='p'></span> Vai jūs nezināt, ka netaisnie neiemantos Dieva valstību? Nepievilieties: nedz netikļi, ne elkdievīgie, ne laulības pārkāpēji, ne sievišķīgie, ne tie, kas guļ ar vīriešiem,"
       },
       {
         "verse": 10,
@@ -605,7 +605,7 @@
       {
         "verse": 15,
         "en": "15Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make <i>them </i>the members of an harlot? God forbid.",
-        "lv": "15 <p>Vai jūs nezināt, ka jūsu ķermeņi ir Kristus locekļi? vai tad es ņemšu Kristus locekļus un <i>tos</i> darīšu par ielasmeitas locekļiem? Nedod Dievs."
+        "lv": "15 <span class='p'></span> Vai jūs nezināt, ka jūsu ķermeņi ir Kristus locekļi? vai tad es ņemšu Kristus locekļus un <i>tos</i> darīšu par ielasmeitas locekļiem? Nedod Dievs."
       },
       {
         "verse": 16,
@@ -630,7 +630,7 @@
       {
         "verse": 20,
         "en": "20For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.",
-        "lv": "20 Jo jūs esat dārgi nopirkti: tāpēc pagodiniet Dievu savā ķermenī un savā garā, kas ir Dieva. "
+        "lv": "20 Jo jūs esat dārgi nopirkti: tāpēc pagodiniet Dievu savā ķermenī un savā garā, kas ir Dieva."
       }
     ],
     "7": [
@@ -682,7 +682,7 @@
       {
         "verse": 10,
         "en": "10And unto the married I command, yet not I, but the Lord, Let not the wife depart from <i>her </i>husband:",
-        "lv": "10 <p>Un precētajiem es pavēlu, tomēr ne es, bet tas Kungs, Lai sieva neaiziet no <i>sava</i> vīra:"
+        "lv": "10 <span class='p'></span> Un precētajiem es pavēlu, tomēr ne es, bet tas Kungs, Lai sieva neaiziet no <i>sava</i> vīra:"
       },
       {
         "verse": 11,
@@ -757,7 +757,7 @@
       {
         "verse": 25,
         "en": "25Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.",
-        "lv": "25 <p>Tad nu par jaunavām man nav tā Kunga pavēles: tomēr es dodu savu spriedumu, kā tāds, kas ir ieguvis žēlsirdību no tā Kunga būt uzticams."
+        "lv": "25 <span class='p'></span> Tad nu par jaunavām man nav tā Kunga pavēles: tomēr es dodu savu spriedumu, kā tāds, kas ir ieguvis žēlsirdību no tā Kunga būt uzticams."
       },
       {
         "verse": 26,
@@ -782,7 +782,7 @@
       {
         "verse": 30,
         "en": "30And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;",
-        "lv": "30 Gan tie, kas raud, kā tie, kas neraud; gan tie, kas priecājas, kā tie, kas nepriecājas; gan tie, kas pērk, kā tie, kam tas nepieder; "
+        "lv": "30 Gan tie, kas raud, kā tie, kas neraud; gan tie, kas priecājas, kā tie, kas nepriecājas; gan tie, kas pērk, kā tie, kam tas nepieder;"
       },
       {
         "verse": 31,
@@ -859,7 +859,7 @@
       {
         "verse": 5,
         "en": "5For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)",
-        "lv": "5 Jo kaut arī ir tā saucamie dievi, vai debesī, vai uz zemes, (kā ir daudz dievu un daudz kungu,) "
+        "lv": "5 Jo kaut arī ir tā saucamie dievi, vai debesī, vai uz zemes, (kā ir daudz dievu un daudz kungu,)"
       },
       {
         "verse": 6,
@@ -874,7 +874,7 @@
       {
         "verse": 8,
         "en": "8But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.",
-        "lv": "8 <p>Bet barība mūs neuzteic Dievam: jo nedz, ja mēs ēdam, mēs esam labāki; nedz, ja neēdam, mēs esam sliktāki."
+        "lv": "8 <span class='p'></span> Bet barība mūs neuzteic Dievam: jo nedz, ja mēs ēdam, mēs esam labāki; nedz, ja neēdam, mēs esam sliktāki."
       },
       {
         "verse": 9,
@@ -936,7 +936,7 @@
       {
         "verse": 7,
         "en": "7Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?",
-        "lv": "7 <p>Kurš jel kad iet karā par saviem līdzekļiem? kurš stāda vīna dārzu un neēd no tā augli? vai kurš gana ganāmpulku un neēd no ganāmpulka piena?"
+        "lv": "7 <span class='p'></span> Kurš jel kad iet karā par saviem līdzekļiem? kurš stāda vīna dārzu un neēd no tā augli? vai kurš gana ganāmpulku un neēd no ganāmpulka piena?"
       },
       {
         "verse": 8,
@@ -976,7 +976,7 @@
       {
         "verse": 15,
         "en": "15But I have used none of these things: neither have I written these things, that it should be so done unto me: for <i>it were </i>better for me to die, than that any man should make my glorying void.",
-        "lv": "15 <p>Bet es no tā neko neesmu lietojis: nedz es to esmu rakstījis, lai man tā tiktu darīts: jo man labāk <i>būtu</i> mirt nekā, ka kāds manu lepošanos darītu tukšu."
+        "lv": "15 <span class='p'></span> Bet es no tā neko neesmu lietojis: nedz es to esmu rakstījis, lai man tā tiktu darīts: jo man labāk <i>būtu</i> mirt nekā, ka kāds manu lepošanos darītu tukšu."
       },
       {
         "verse": 16,
@@ -990,13 +990,13 @@
       },
       {
         "verse": 18,
-        "en": "18What is my reward then? <i>Verily </i>that, when I  preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.",
+        "en": "18What is my reward then? <i>Verily </i>that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.",
         "lv": "18 Kas tad ir mans atalgojums? <i>Patiesi</i>, ka, kad es sludinu evaņģēliju, es Kristus evaņģēliju varu darīt bez maksas, lai es ļaunprātīgi neizmantoju savu varu evaņģēlijā."
       },
       {
         "verse": 19,
         "en": "19For though I be free from all <i>men</i>, yet have I made myself servant unto all, that I might gain the more.",
-        "lv": "19 <p>Jo kaut arī es esmu brīvs no visiem, tomēr es esmu sevi darījis visiem par kalpu, lai es varētu iegūt jo vairāk."
+        "lv": "19 <span class='p'></span> Jo kaut arī es esmu brīvs no visiem, tomēr es esmu sevi darījis visiem par kalpu, lai es varētu iegūt jo vairāk."
       },
       {
         "verse": 20,
@@ -1011,7 +1011,7 @@
       {
         "verse": 22,
         "en": "22To the weak became I as weak, that I might gain the weak: I am made all things to all <i>men</i>, that I might by all means save some.",
-        "lv": "22 Vājiem es kļuvu kā vājš, lai es varētu iegūtu vājos: visiem es esmu darīts viss, lai visādi kādus varētu izglābt. "
+        "lv": "22 Vājiem es kļuvu kā vājš, lai es varētu iegūtu vājos: visiem es esmu darīts viss, lai visādi kādus varētu izglābt."
       },
       {
         "verse": 23,
@@ -1021,7 +1021,7 @@
       {
         "verse": 24,
         "en": "24Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.",
-        "lv": "24 Vai jūs nezināt, ka tie, kas skrien sacīkstēs, skrien visi, bet viens saņem godalgu? Tā skrieniet, lai jūs varat iegūt. "
+        "lv": "24 Vai jūs nezināt, ka tie, kas skrien sacīkstēs, skrien visi, bet viens saņem godalgu? Tā skrieniet, lai jūs varat iegūt."
       },
       {
         "verse": 25,
@@ -1073,7 +1073,7 @@
       {
         "verse": 7,
         "en": "7Neither be ye idolaters, as <i>were </i>some of them; as it is written, The people sat down to eat and drink, and rose up to play.",
-        "lv": "7 <p>Nedz esiet elkdievīgi, kā <i>bija</i> daži no tiem; kā ir rakstīts, Ļaudis apsēdās ēst un dzert, un cēlās rotaļāties."
+        "lv": "7 <span class='p'></span> Nedz esiet elkdievīgi, kā <i>bija</i> daži no tiem; kā ir rakstīts, Ļaudis apsēdās ēst un dzert, un cēlās rotaļāties."
       },
       {
         "verse": 8,
@@ -1093,7 +1093,7 @@
       {
         "verse": 11,
         "en": "11Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.",
-        "lv": "11 <p>Tad nu viss tas tiem notika par piemēriem: un tie ir rakstīti mūsu pamācīšanai, uz kuriem pasaules gali ir nākuši."
+        "lv": "11 <span class='p'></span> Tad nu viss tas tiem notika par piemēriem: un tie ir rakstīti mūsu pamācīšanai, uz kuriem pasaules gali ir nākuši."
       },
       {
         "verse": 12,
@@ -1118,7 +1118,7 @@
       {
         "verse": 16,
         "en": "16The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?",
-        "lv": "16 <p>Svētības kauss, ko mēs svētījam, vai tā nav vienība ar Kristus asinīm? Maize, ko laužam, vai tā nav vienība ar Kristus ķermeni?"
+        "lv": "16 <span class='p'></span> Svētības kauss, ko mēs svētījam, vai tā nav vienība ar Kristus asinīm? Maize, ko laužam, vai tā nav vienība ar Kristus ķermeni?"
       },
       {
         "verse": 17,
@@ -1153,7 +1153,7 @@
       {
         "verse": 23,
         "en": "23All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.",
-        "lv": "23 <p>Viss man ir likumīgi, bet viss nav izdevīgi: viss man ir likumīgi, bet viss neuztaisa."
+        "lv": "23 <span class='p'></span> Viss man ir likumīgi, bet viss nav izdevīgi: viss man ir likumīgi, bet viss neuztaisa."
       },
       {
         "verse": 24,
@@ -1290,7 +1290,7 @@
       {
         "verse": 17,
         "en": "17Now in this that I declare <i>unto you</i> I praise <i>you </i>not, that ye come together not for the better, but for the worse.",
-        "lv": "17 <p>Tad nu šajā, ko es <i>jums</i> paziņoju, es jūs neslavēju, ka jūs sanākat kopā ne uz labāku, bet uz sliktāku."
+        "lv": "17 <span class='p'></span> Tad nu šajā, ko es <i>jums</i> paziņoju, es jūs neslavēju, ka jūs sanākat kopā ne uz labāku, bet uz sliktāku."
       },
       {
         "verse": 18,
@@ -1305,7 +1305,7 @@
       {
         "verse": 20,
         "en": "20When ye come together therefore into one place, <i>this </i>is not to eat the Lord's supper.",
-        "lv": "20 <p>Tāpēc, kad jūs sanākat kopā vienā vietā, <i>šis</i> nav, lai ēstu tā Kunga vakariņas."
+        "lv": "20 <span class='p'></span> Tāpēc, kad jūs sanākat kopā vienā vietā, <i>šis</i> nav, lai ēstu tā Kunga vakariņas."
       },
       {
         "verse": 21,
@@ -1320,7 +1320,7 @@
       {
         "verse": 23,
         "en": "23For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the <i>same </i>night in which he was betrayed took bread:",
-        "lv": "23 <p>Jo es esmu saņēmis no tā Kunga to, ko es arī jums nodevu, Ka Kungs Jēzus <i>tajā pašā</i> naktī, kurā viņš tika nodots, ņēma maizi:"
+        "lv": "23 <span class='p'></span> Jo es esmu saņēmis no tā Kunga to, ko es arī jums nodevu, Ka Kungs Jēzus <i>tajā pašā</i> naktī, kurā viņš tika nodots, ņēma maizi:"
       },
       {
         "verse": 24,
@@ -1437,7 +1437,7 @@
       {
         "verse": 12,
         "en": "12For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also <i>is </i>Christ.",
-        "lv": "12 <p>Jo kā ķermenis ir viens, un <i>[tam]</i> ir daudz locekļu, un visi šī viena ķermeņa locekļi, būdami daudzi, ir viens ķermenis: tā arī Kristus. "
+        "lv": "12 <span class='p'></span> Jo kā ķermenis ir viens, un <i>[tam]</i> ir daudz locekļu, un visi šī viena ķermeņa locekļi, būdami daudzi, ir viens ķermenis: tā arī Kristus."
       },
       {
         "verse": 13,
@@ -1512,7 +1512,7 @@
       {
         "verse": 27,
         "en": "27Now ye are the body of Christ, and members in particular.",
-        "lv": "27 <p>Tad nu jūs esat Kristus ķermenis un katrs atsevišķi loceklis."
+        "lv": "27 <span class='p'></span> Tad nu jūs esat Kristus ķermenis un katrs atsevišķi loceklis."
       },
       {
         "verse": 28,
@@ -1539,7 +1539,7 @@
       {
         "verse": 1,
         "en": "1Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
-        "lv": "1 Kaut arī es runāju ar cilvēku un eņģeļu mēlēm, un <i>[man]</i> nav mīlestības, es esmu kļuvis kā skanošs misiņš vai šķindošs šķīvis. "
+        "lv": "1 Kaut arī es runāju ar cilvēku un eņģeļu mēlēm, un <i>[man]</i> nav mīlestības, es esmu kļuvis kā skanošs misiņš vai šķindošs šķīvis."
       },
       {
         "verse": 2,
@@ -1554,12 +1554,12 @@
       {
         "verse": 4,
         "en": "4Charity suffereth long, <i>and </i>is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
-        "lv": "4 <p>Mīlestība pacieš ilgi, ir laipna; mīlestība neskauž; mīlestība neplātās, nav uzpūsta,"
+        "lv": "4 <span class='p'></span> Mīlestība pacieš ilgi, ir laipna; mīlestība neskauž; mīlestība neplātās, nav uzpūsta,"
       },
       {
         "verse": 5,
         "en": "5Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;",
-        "lv": "5 Neizturas nepiedienīgi, nemeklē savu <i>[labumu]</i>, nav viegli aizkaitināma, nedomā ļaunu; "
+        "lv": "5 Neizturas nepiedienīgi, nemeklē savu <i>[labumu]</i>, nav viegli aizkaitināma, nedomā ļaunu;"
       },
       {
         "verse": 6,
@@ -1716,7 +1716,7 @@
       {
         "verse": 23,
         "en": "23If therefore the whole church be come together into one place, and all speak with tongues, and there come in <i>those that</i> are unlearned, or unbelievers, will they not say that ye are mad?",
-        "lv": "23 <p>Tāpēc, ja visa draudze ir sanākusi kopā vienā vietā un visi runā ar mēlēm, un ienāk nemācītie vai neticīgie, vai tie nesacīs, ka jūs esat traki?"
+        "lv": "23 <span class='p'></span> Tāpēc, ja visa draudze ir sanākusi kopā vienā vietā un visi runā ar mēlēm, un ienāk nemācītie vai neticīgie, vai tie nesacīs, ka jūs esat traki?"
       },
       {
         "verse": 24,
@@ -1796,7 +1796,7 @@
       {
         "verse": 39,
         "en": "39Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.",
-        "lv": "39 Tādēļ, brāļi, iekārojiet pravietot un neliedziet runāt ar mēlēm. "
+        "lv": "39 Tādēļ, brāļi, iekārojiet pravietot un neliedziet runāt ar mēlēm."
       },
       {
         "verse": 40,
@@ -1863,7 +1863,7 @@
       {
         "verse": 12,
         "en": "12Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?",
-        "lv": "12 <p>Tad nu, ja Kristus tiek sludināts, ka viņš uzcēlās no mirušajiem, kā daži starp jums saka, ka nav mirušo augšāmcelšanās?"
+        "lv": "12 <span class='p'></span> Tad nu, ja Kristus tiek sludināts, ka viņš uzcēlās no mirušajiem, kā daži starp jums saka, ka nav mirušo augšāmcelšanās?"
       },
       {
         "verse": 13,
@@ -1903,7 +1903,7 @@
       {
         "verse": 20,
         "en": "20But now is Christ risen from the dead, <i>and </i>become the firstfruits of them that slept.",
-        "lv": "20 <p>Bet nu, Kristus ir uzcēlies no mirušajiem <i>un</i> kļuvis par pirmaugļiem no tiem, kas gulēja."
+        "lv": "20 <span class='p'></span> Bet nu, Kristus ir uzcēlies no mirušajiem <i>un</i> kļuvis par pirmaugļiem no tiem, kas gulēja."
       },
       {
         "verse": 21,
@@ -1938,7 +1938,7 @@
       {
         "verse": 27,
         "en": "27For he hath put all things under his feet. But when he saith all things are put under<i> him, it is</i> manifest that he is excepted, which did put all things under him.",
-        "lv": "27 Jo viņš ir licis visu zem viņa kājām. Bet, kad viņš saka viss ir likts zem <i>viņa</i>, ir skaidrs, ka viņu izņemot, kas lika visu zem viņa. "
+        "lv": "27 Jo viņš ir licis visu zem viņa kājām. Bet, kad viņš saka viss ir likts zem <i>viņa</i>, ir skaidrs, ka viņu izņemot, kas lika visu zem viņa."
       },
       {
         "verse": 28,
@@ -1978,7 +1978,7 @@
       {
         "verse": 35,
         "en": "35But some <i>man </i>will say, How are the dead raised up? and with what body do they come?",
-        "lv": "35 <p>Bet daži sacīs, Kā mirušie tiek uzcelti? un ar kādu ķermeni tie nāk?"
+        "lv": "35 <span class='p'></span> Bet daži sacīs, Kā mirušie tiek uzcelti? un ar kādu ķermeni tie nāk?"
       },
       {
         "verse": 36,
@@ -2033,7 +2033,7 @@
       {
         "verse": 46,
         "en": "46Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.",
-        "lv": "46 Taču pirmais nav garīgais, bet tas, kas ir dabīgais; un pēcāk tas, kas ir garīgais. "
+        "lv": "46 Taču pirmais nav garīgais, bet tas, kas ir dabīgais; un pēcāk tas, kas ir garīgais."
       },
       {
         "verse": 47,
@@ -2058,7 +2058,7 @@
       {
         "verse": 51,
         "en": "51Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,",
-        "lv": "51 <p>Lūk, es jums rādu mistēriju; Mēs visi neaizmigsim, bet visi tiksim pārmainīti,"
+        "lv": "51 <span class='p'></span> Lūk, es jums rādu mistēriju; Mēs visi neaizmigsim, bet visi tiksim pārmainīti,"
       },
       {
         "verse": 52,
@@ -2120,7 +2120,7 @@
       {
         "verse": 5,
         "en": "5Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.",
-        "lv": "5 <p>Tad nu es nākšu pie jums, kad es iešu caur Maķedoniju: jo es iešu caur Maķedoniju."
+        "lv": "5 <span class='p'></span> Tad nu es nākšu pie jums, kad es iešu caur Maķedoniju: jo es iešu caur Maķedoniju."
       },
       {
         "verse": 6,
@@ -2190,7 +2190,7 @@
       {
         "verse": 19,
         "en": "19The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.",
-        "lv": "19 <p>Āzijas draudzes jūs sveicina. Akila un Priskilla jūs daudz sveicina tai Kungā ar draudzi, kas ir viņu namā."
+        "lv": "19 <span class='p'></span> Āzijas draudzes jūs sveicina. Akila un Priskilla jūs daudz sveicina tai Kungā ar draudzi, kas ir viņu namā."
       },
       {
         "verse": 20,

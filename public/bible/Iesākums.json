@@ -30,12 +30,12 @@
       {
         "verse": 6,
         "en": "6And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
-        "lv": "6 <p>Un Dievs sacīja, Lai ir debesjums ūdeņu vidū, un lai tas atdala ūdeņus no ūdeņiem."
+        "lv": "6 <span class='p'></span> Un Dievs sacīja, Lai ir debesjums ūdeņu vidū, un lai tas atdala ūdeņus no ūdeņiem."
       },
       {
         "verse": 7,
         "en": "7And God made the firmament, and divided the waters which were under the firmament from the waters which <i>were </i>above the firmament: and it was so.",
-        "lv": "7 Un Dievs taisīja debesjumu un atdalīja ūdeņus, kas bija zem debesjuma no ūdeņiem, kas <i>bija </i>virs debesjuma: un tā bija."
+        "lv": "7 Un Dievs taisīja debesjumu un atdalīja ūdeņus, kas bija zem debesjuma, no ūdeņiem, kas <i>bija </i>virs debesjuma: un tā bija."
       },
       {
         "verse": 8,
@@ -55,7 +55,7 @@
       {
         "verse": 11,
         "en": "11And God said, Let the earth bring forth grass, the herb yielding seed, <i>and </i>the fruit tree yielding fruit after his kind, whose seed <i>is </i>in itself, upon the earth: and it was so.",
-        "lv": "11 <p>Un Dievs sacīja, Lai zeme izdod zāli, sēklu nesošus augus, <i>un </i>augli nesošus augļu kokus pēc savas kārtas, kuru sēkla <i>ir </i>tajos, uz zemes: un tā bija."
+        "lv": "11 <span class='p'></span> Un Dievs sacīja, Lai zeme izdod zāli, sēklu nesošus augus, <i>un </i>augli nesošus augļu kokus pēc savas kārtas, kuru sēkla <i>ir </i>tajos, uz zemes: un tā bija."
       },
       {
         "verse": 12,
@@ -70,7 +70,7 @@
       {
         "verse": 14,
         "en": "14And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:",
-        "lv": "14 <p>Un Dievs sacīja, Lai ir gaismas debess debesjumā atdalīt dienu no nakts; un lai tās ir par zīmēm un par sezonām, un par dienām, un gadiem:"
+        "lv": "14 <span class='p'></span> Un Dievs sacīja, Lai ir gaismas debess debesjumā atdalīt dienu no nakts; un lai tās ir par zīmēm un par sezonām, un par dienām, un gadiem:"
       },
       {
         "verse": 15,
@@ -120,7 +120,7 @@
       {
         "verse": 24,
         "en": "24And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
-        "lv": "24 <p>Un Dievs sacīja, Lai zeme izdod dzīvos radījumus pēc savas kārtas, lopu un rāpuli, un zemes zvēru pēc savas kārtas: un tā bija."
+        "lv": "24 <span class='p'></span> Un Dievs sacīja, Lai zeme izdod dzīvos radījumus pēc savas kārtas, lopu un rāpuli, un zemes zvēru pēc savas kārtas: un tā bija."
       },
       {
         "verse": 25,
@@ -130,7 +130,7 @@
       {
         "verse": 26,
         "en": "26And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
-        "lv": "26 <p>Un Dievs sacīja, Taisīsim cilvēku mūsu tēlā, pēc mūsu līdzības: un lai tie valda pār jūras zivi un pār gaisa lidoni, un pār lopu, un pār visu zemi, un pār ikvienu rāpuli, kas rāpo uz zemes."
+        "lv": "26 <span class='p'></span> Un Dievs sacīja, Taisīsim cilvēku mūsu tēlā, pēc mūsu līdzības: un lai tie valda pār jūras zivi un pār gaisa lidoni, un pār lopu, un pār visu zemi, un pār ikvienu rāpuli, kas rāpo uz zemes."
       },
       {
         "verse": 27,
@@ -145,7 +145,7 @@
       {
         "verse": 29,
         "en": "29And God said, Behold, I have given you every herb bearing seed, which <i>is </i>upon the face of all the earth, and every tree, in the which <i>is </i>the fruit of a tree yielding seed; to you it shall be for meat.",
-        "lv": "29 <p>Un Dievs sacīja, Lūk, es jums esmu devis ikvienu sēklu nesošu augu, kas <i>ir </i>uz visas zemes virsas, un ikvienu koku, kurā <i>ir </i>sēklu nesoša koka auglis; jums tas būs par barību."
+        "lv": "29 <span class='p'></span> Un Dievs sacīja, Lūk, es jums esmu devis ikvienu sēklu nesošu augu, kas <i>ir </i>uz visas zemes virsas, un ikvienu koku, kurā <i>ir </i>sēklu nesoša koka auglis; jums tas būs par barību."
       },
       {
         "verse": 30,
@@ -177,7 +177,7 @@
       {
         "verse": 4,
         "en": "4These <i>are </i>the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,",
-        "lv": "4 <p>Šīs <i>ir</i> debesu un zemes paaudzes, kad tās tika radītas, dienā, kad tas KUNGS Dievs taisīja zemi un debesis,"
+        "lv": "4 <span class='p'></span> Šīs <i>ir</i> debesu un zemes paaudzes, kad tās tika radītas, dienā, kad tas KUNGS Dievs taisīja zemi un debesis,"
       },
       {
         "verse": 5,
@@ -197,7 +197,7 @@
       {
         "verse": 8,
         "en": "8And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.",
-        "lv": "8 <p>Un tas KUNGS Dievs Ēdenē stādīja dārzu uz austrumiem; un tur viņš lika cilvēku, kuru viņš bija veidojis."
+        "lv": "8 <span class='p'></span> Un tas KUNGS Dievs Ēdenē stādīja dārzu uz austrumiem; un tur viņš lika cilvēku, kuru viņš bija veidojis."
       },
       {
         "verse": 9,
@@ -247,7 +247,7 @@
       {
         "verse": 18,
         "en": "18And the LORD God said, <i>It is</i> not good that the man should be alone; I will make him an help meet for him.",
-        "lv": "18 <p>Un tas KUNGS Dievs sacīja, Nav labi, ka cilvēks būtu viens; es viņam taisīšu priekš viņa atbilstošu palīgu."
+        "lv": "18 <span class='p'></span> Un tas KUNGS Dievs sacīja, Nav labi, ka cilvēks būtu viens; es viņam taisīšu priekš viņa atbilstošu palīgu."
       },
       {
         "verse": 19,
@@ -262,7 +262,7 @@
       {
         "verse": 21,
         "en": "21And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;",
-        "lv": "21 <p>Un tas KUNGS Dievs lika dziļam miegam krist uz Ādama, un tas gulēja: un viņš ņēma vienu no viņa ribām un tās vietā aizvēra miesu;"
+        "lv": "21 <span class='p'></span> Un tas KUNGS Dievs lika dziļam miegam krist uz Ādama, un tas gulēja: un viņš ņēma vienu no viņa ribām un tās vietā aizvēra miesu;"
       },
       {
         "verse": 22,
@@ -314,7 +314,7 @@
       {
         "verse": 6,
         "en": "6And when the woman saw that the tree <i>was </i>good for food, and that it <i>was </i>pleasant to the eyes, and a tree to be desired to make <i>one </i>wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.",
-        "lv": "6 <p>Un, kad sieviete redzēja, ka koks <i>bija </i>labs ēdienam un ka tas <i>bija </i>patīkams acīm, un koks <i>[ir]</i> vēlams, lai darītu gudru, viņa ņēma no tā augļa un ēda, un deva arī savam vīram ar sevi; un viņš ēda."
+        "lv": "6 <span class='p'></span> Un, kad sieviete redzēja, ka koks <i>bija </i>labs ēdienam un ka tas <i>bija </i>patīkams acīm, un koks <i>[ir]</i> vēlams, lai darītu gudru, viņa ņēma no tā augļa un ēda, un deva arī savam vīram ar sevi; un viņš ēda."
       },
       {
         "verse": 7,
@@ -354,17 +354,17 @@
       {
         "verse": 14,
         "en": "14And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:",
-        "lv": "14 <p>Un tas KUNGS Dievs sacīja čūskai, Tāpēc ka tu šo esi darījusi, tu esi nolādēta pār visiem lopiem un pār ikvienu lauka zvēru; uz sava vēdera tu iesi un pīšļus tu ēdīsi visas savas dzīves dienas:"
+        "lv": "14 <span class='p'></span> Un tas KUNGS Dievs sacīja čūskai, Tāpēc ka tu šo esi darījusi, tu esi nolādēta pār visiem lopiem un pār ikvienu lauka zvēru; uz sava vēdera tu iesi un pīšļus tu ēdīsi visas savas dzīves dienas:"
       },
       {
         "verse": 15,
         "en": "15And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.",
-        "lv": "15 <p>Un es likšu ienaidu starp tevi un sievieti un starp tavu sēklu un viņas sēklu; tas savainos tavu galvu, un tu savainosi viņa papēdi."
+        "lv": "15 <span class='p'></span> Un es likšu ienaidu starp tevi un sievieti un starp tavu sēklu un viņas sēklu; tas savainos tavu galvu, un tu savainosi viņa papēdi."
       },
       {
         "verse": 16,
         "en": "16Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire <i>shall </i>be to thy husband, and he shall rule over thee.",
-        "lv": "16 <p>Sievietei viņš sacīja, Es ļoti vairošu tavu noskumšanu un tavu ieņemšanu; noskumšanā tu dzemdēsi bērnus; un tava vēlme būs pie tava vīra, un viņš pār tevi valdīs."
+        "lv": "16 <span class='p'></span> Sievietei viņš sacīja, Es ļoti vairošu tavu noskumšanu un tavu ieņemšanu; noskumšanā tu dzemdēsi bērnus; un tava vēlme būs pie tava vīra, un viņš pār tevi valdīs."
       },
       {
         "verse": 17,
@@ -394,7 +394,7 @@
       {
         "verse": 22,
         "en": "22And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:",
-        "lv": "22 <p>Un tas KUNGS Dievs sacīja, Lūk, cilvēks ir kļuvis kā viens no mums, atzīt labu un ļaunu: un nu, lai viņš neizstiepj savu roku un neņem arī no dzīvības koka, un neēd, un nedzīvo mūžīgi:"
+        "lv": "22 <span class='p'></span> Un tas KUNGS Dievs sacīja, Lūk, cilvēks ir kļuvis kā viens no mums, atzīt labu un ļaunu: un nu, lai viņš neizstiepj savu roku un neņem arī no dzīvības koka, un neēd, un nedzīvo mūžīgi:"
       },
       {
         "verse": 23,
@@ -446,12 +446,12 @@
       {
         "verse": 8,
         "en": "8And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.",
-        "lv": "8 <p>Un Kains sarunājās ar savu brāli Ābelu: un notika, kad tie bija laukā, ka Kains cēlās pret savu brāli Ābelu un to nokāva."
+        "lv": "8 <span class='p'></span> Un Kains sarunājās ar savu brāli Ābelu: un notika, kad tie bija laukā, ka Kains cēlās pret savu brāli Ābelu un to nokāva."
       },
       {
         "verse": 9,
         "en": "9And the LORD said unto Cain, Where <i>is</i> Abel thy brother? And he said, I know not: <i>Am </i>I my brother's keeper?",
-        "lv": "9 <p>Un tas KUNGS sacīja Kainam, Kur <i>ir </i>Ābels, tavs brālis? Un viņš sacīja, Es nezinu: <i>Vai </i>es <i>esmu </i>sava brāļa sargs?"
+        "lv": "9 <span class='p'></span> Un tas KUNGS sacīja Kainam, Kur <i>ir </i>Ābels, tavs brālis? Un viņš sacīja, Es nezinu: <i>Vai </i>es <i>esmu </i>sava brāļa sargs?"
       },
       {
         "verse": 10,
@@ -486,7 +486,7 @@
       {
         "verse": 16,
         "en": "16And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.",
-        "lv": "16 <p>Un Kains izgāja no tā KUNGA klātbūtnes un mājoja Noda zemē, uz austrumiem no Ēdenes."
+        "lv": "16 <span class='p'></span> Un Kains izgāja no tā KUNGA klātbūtnes un mājoja Noda zemē, uz austrumiem no Ēdenes."
       },
       {
         "verse": 17,
@@ -531,7 +531,7 @@
       {
         "verse": 25,
         "en": "25And Adam knew his wife again; and she bare a son, and called his name Seth: For God, <i>said she</i>, hath appointed me another seed instead of Abel, whom Cain slew.",
-        "lv": "25 <p>Un Ādams atkal atzina savu sievu; un viņa dzemdēja dēlu un nosauca viņa vārdu Sets: Jo Dievs, <i>viņa sacīja</i>, ir iecēlis man citu sēklu Ābela vietā, ko Kains nokāva."
+        "lv": "25 <span class='p'></span> Un Ādams atkal atzina savu sievu; un viņa dzemdēja dēlu un nosauca viņa vārdu Sets: Jo Dievs, <i>viņa sacīja</i>, ir iecēlis man citu sēklu Ābela vietā, ko Kains nokāva."
       },
       {
         "verse": 26,
@@ -553,7 +553,7 @@
       {
         "verse": 3,
         "en": "3And Adam lived an hundred and thirty years, and begat <i>a son</i> in his own likeness, after his image; and called his name Seth:",
-        "lv": "3 <p>Un Ādams dzīvoja simts trīsdesmit gadu un dzemdināja <i>dēlu </i>savā paša līdzībā, pēc sava tēla; un nosauca viņa vārdu Sets:"
+        "lv": "3 <span class='p'></span> Un Ādams dzīvoja simts trīsdesmit gadu un dzemdināja <i>dēlu </i>savā paša līdzībā, pēc sava tēla; un nosauca viņa vārdu Sets:"
       },
       {
         "verse": 4,
@@ -583,7 +583,7 @@
       {
         "verse": 9,
         "en": "9And Enos lived ninety years, and begat Cainan:",
-        "lv": "9 <p>Un Enošs dzīvoja deviņdesmit gadu un dzemdināja Kainānu:"
+        "lv": "9 <span class='p'></span> Un Enošs dzīvoja deviņdesmit gadu un dzemdināja Kainānu:"
       },
       {
         "verse": 10,
@@ -598,7 +598,7 @@
       {
         "verse": 12,
         "en": "12And Cainan lived seventy years, and begat Mahalaleel:",
-        "lv": "12 <p>Un Kaināns dzīvoja septiņdesmit gadu un dzemdināja Mahalalēlu:"
+        "lv": "12 <span class='p'></span> Un Kaināns dzīvoja septiņdesmit gadu un dzemdināja Mahalalēlu:"
       },
       {
         "verse": 13,
@@ -613,7 +613,7 @@
       {
         "verse": 15,
         "en": "15And Mahalaleel lived sixty and five years, and begat Jared:",
-        "lv": "15 <p>Un Mahalalēls dzīvoja sešdesmit piecus gadus un dzemdināja Jaredu:"
+        "lv": "15 <span class='p'></span> Un Mahalalēls dzīvoja sešdesmit piecus gadus un dzemdināja Jaredu:"
       },
       {
         "verse": 16,
@@ -628,7 +628,7 @@
       {
         "verse": 18,
         "en": "18And Jared lived an hundred sixty and two years, and he begat Enoch:",
-        "lv": "18 <p>Un Jareds dzīvoja simts divus gadus, un viņš dzemdināja Ēnohu:"
+        "lv": "18 <span class='p'></span> Un Jareds dzīvoja simts divus gadus, un viņš dzemdināja Ēnohu:"
       },
       {
         "verse": 19,
@@ -643,7 +643,7 @@
       {
         "verse": 21,
         "en": "21And Enoch lived sixty and five years, and begat Methuselah:",
-        "lv": "21 <p>Un Ēnohs dzīvoja sešdesmit piecus gadus un dzemdināja Metuselahu:"
+        "lv": "21 <span class='p'></span> Un Ēnohs dzīvoja sešdesmit piecus gadus un dzemdināja Metuselahu:"
       },
       {
         "verse": 22,
@@ -658,7 +658,7 @@
       {
         "verse": 24,
         "en": "24And Enoch walked with God: and he <i>was </i>not; for God took him.",
-        "lv": "24 <p>Un Ēnohs staigāja ar Dievu: un viņa nebija; jo Dievs viņu paņēma."
+        "lv": "24 <span class='p'></span> Un Ēnohs staigāja ar Dievu: un viņa nebija; jo Dievs viņu paņēma."
       },
       {
         "verse": 25,
@@ -678,7 +678,7 @@
       {
         "verse": 28,
         "en": "28And Lamech lived an hundred eighty and two years, and begat a son:",
-        "lv": "28 <p>Un Lamehs dzīvoja simts astoņdesmit divus gadus un dzemdināja dēlu:"
+        "lv": "28 <span class='p'></span> Un Lamehs dzīvoja simts astoņdesmit divus gadus un dzemdināja dēlu:"
       },
       {
         "verse": 29,
@@ -725,7 +725,7 @@
       {
         "verse": 5,
         "en": "5And GOD saw that the wickedness of man <i>was </i>great in the earth, and <i>that </i>every imagination of the thoughts of his heart <i>was </i>only evil continually.",
-        "lv": "5 <p>Un DIEVS redzēja, ka cilvēka nelietība zemē <i>bija </i>liela un <i>ka </i>ikviena viņa sirds domu iztēle <i>bija </i>tikai ļauna pastāvīgi."
+        "lv": "5 <span class='p'></span> Un DIEVS redzēja, ka cilvēka nelietība zemē <i>bija </i>liela un <i>ka </i>ikviena viņa sirds domu iztēle <i>bija </i>tikai ļauna pastāvīgi."
       },
       {
         "verse": 6,
@@ -740,12 +740,12 @@
       {
         "verse": 8,
         "en": "8But Noah found grace in the eyes of the LORD.",
-        "lv": "8 <p>Bet Noa atrada žēlastību tā KUNGA acīs."
+        "lv": "8 <span class='p'></span> Bet Noa atrada žēlastību tā KUNGA acīs."
       },
       {
         "verse": 9,
         "en": "9These <i>are </i>the generations of Noah: Noah was a just man <i>and</i> perfect in his generations, <i>and </i>Noah walked with God.",
-        "lv": "9 <p>Šīs <i>ir </i>Noa paaudzes: Noa bija taisns vīrietis <i>un </i>pilnīgs savās paaudzēs, <i>un </i>Noa staigāja ar Dievu."
+        "lv": "9 <span class='p'></span> Šīs <i>ir </i>Noa paaudzes: Noa bija taisns vīrietis <i>un </i>pilnīgs savās paaudzēs, <i>un </i>Noa staigāja ar Dievu."
       },
       {
         "verse": 10,
@@ -770,7 +770,7 @@
       {
         "verse": 14,
         "en": "14Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
-        "lv": "14 <p>Taisi sev šķirstu no gofēra koka; telpas tev būs taisīt šķirstā, un to būs ieziest ar piķi iekšpusē un ārpusē."
+        "lv": "14 <span class='p'></span> Taisi sev šķirstu no gofēra koka; telpas tev būs taisīt šķirstā, un to būs ieziest ar piķi iekšpusē un ārpusē."
       },
       {
         "verse": 15,
@@ -847,7 +847,7 @@
       {
         "verse": 7,
         "en": "7And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.",
-        "lv": "7 <p>Un Noa un viņa dēli, un viņa sieva, un viņa dēlu sievas kopā ar viņu iegāja šķirstā plūdu ūdeņu dēļ."
+        "lv": "7 <span class='p'></span> Un Noa un viņa dēli, un viņa sieva, un viņa dēlu sievas kopā ar viņu iegāja šķirstā plūdu ūdeņu dēļ."
       },
       {
         "verse": 8,
@@ -867,7 +867,7 @@
       {
         "verse": 11,
         "en": "11In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
-        "lv": "11 <p>Noas dzīves sešsimtajā gadā, otrajā mēnesī, mēneša septiņpadsmitajā dienā, tajā pašā dienā visi lielā dziļuma avoti tika uzlauzti, un debess logi tika atvērti."
+        "lv": "11 <span class='p'></span> Noas dzīves sešsimtajā gadā, otrajā mēnesī, mēneša septiņpadsmitajā dienā, tajā pašā dienā visi lielā dziļuma avoti tika uzlauzti, un debess logi tika atvērti."
       },
       {
         "verse": 12,
@@ -897,7 +897,7 @@
       {
         "verse": 17,
         "en": "17And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.",
-        "lv": "17 <p>Un plūdi bija uz zemes četrdesmit dienas; un ūdeņi pieauga un uznesa šķirstu, un tas tika pacelts virs zemes."
+        "lv": "17 <span class='p'></span> Un plūdi bija uz zemes četrdesmit dienas; un ūdeņi pieauga un uznesa šķirstu, un tas tika pacelts virs zemes."
       },
       {
         "verse": 18,
@@ -954,7 +954,7 @@
       {
         "verse": 4,
         "en": "4And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
-        "lv": "4 <p>Un šķirsts atdusējās septītajā mēnesī, mēneša septiņpadsmitajā dienā uz Ararata kalniem."
+        "lv": "4 <span class='p'></span> Un šķirsts atdusējās septītajā mēnesī, mēneša septiņpadsmitajā dienā uz Ararata kalniem."
       },
       {
         "verse": 5,
@@ -964,7 +964,7 @@
       {
         "verse": 6,
         "en": "6And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
-        "lv": "6 <p>Un notika četrdesmit dienu beigās, ka Noa atvēra šķirsta logu, ko viņš bija taisījis:"
+        "lv": "6 <span class='p'></span> Un notika četrdesmit dienu beigās, ka Noa atvēra šķirsta logu, ko viņš bija taisījis:"
       },
       {
         "verse": 7,
@@ -999,7 +999,7 @@
       {
         "verse": 13,
         "en": "13And it came to pass in the six hundredth and first year, in the first <i>month</i>, the first <i>day </i>of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
-        "lv": "13 <p>Un notika seši simti pirmajā gadā, pirmajā <i>mēnesī</i>, mēneša pirmajā <i>dienā </i>ūdeņi bija nožuvuši no zemes: un Noa nocēla šķirsta apsegu un palūkojās, un, lūk, zemes virsa bija sausa."
+        "lv": "13 <span class='p'></span> Un notika seši simti pirmajā gadā, pirmajā <i>mēnesī</i>, mēneša pirmajā <i>dienā </i>ūdeņi bija nožuvuši no zemes: un Noa nocēla šķirsta apsegu un palūkojās, un, lūk, zemes virsa bija sausa."
       },
       {
         "verse": 14,
@@ -1009,7 +1009,7 @@
       {
         "verse": 15,
         "en": "15And God spake unto Noah, saying,",
-        "lv": "15 <p>Un Dievs runāja uz Nou sacīdams,"
+        "lv": "15 <span class='p'></span> Un Dievs runāja uz Nou sacīdams,"
       },
       {
         "verse": 16,
@@ -1024,7 +1024,7 @@
       {
         "verse": 18,
         "en": "18And Noah went forth, and his sons, and his wife, and his sons' wives with him:",
-        "lv": "18 <p>Un Noa izgāja, un viņa dēli, un viņa sieva, un viņa dēlu sievas kopā ar viņu:"
+        "lv": "18 <span class='p'></span> Un Noa izgāja, un viņa dēli, un viņa sieva, un viņa dēlu sievas kopā ar viņu:"
       },
       {
         "verse": 19,
@@ -1034,12 +1034,12 @@
       {
         "verse": 20,
         "en": "20And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
-        "lv": "20 <p>Un Noa uzbūvēja altāri tam KUNGAM; un ņēma no ikviena šķīsta zvēra un no ikviena šķīsta lidoņa, un ziedoja dedzināmos ziedojumus uz altāra."
+        "lv": "20 <span class='p'></span> Un Noa uzbūvēja altāri tam KUNGAM; un ņēma no ikviena šķīsta zvēra un no ikviena šķīsta lidoņa, un ziedoja dedzināmos ziedojumus uz altāra."
       },
       {
         "verse": 21,
         "en": "21And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart <i>is </i>evil from his youth; neither will I again smite any more every thing living, as I have done.",
-        "lv": "21 <p>Un tas KUNGS saoda saldo smaržu; un tas KUNGS sacīja savā sirdī, Es vairs nenolādēšu zemi cilvēka dēļ; jo cilvēka sirds iztēle <i>ir </i>ļauna no viņa jaunības; nedz es atkal sitīšu ikvienu dzīvību, kā es esmu darījis."
+        "lv": "21 <span class='p'></span> Un tas KUNGS saoda saldo smaržu; un tas KUNGS sacīja savā sirdī, Es vairs nenolādēšu zemi cilvēka dēļ; jo cilvēka sirds iztēle <i>ir </i>ļauna no viņa jaunības; nedz es atkal sitīšu ikvienu dzīvību, kā es esmu darījis."
       },
       {
         "verse": 22,
@@ -1066,7 +1066,7 @@
       {
         "verse": 4,
         "en": "4But flesh with the life thereof, <i>which is </i>the blood thereof, shall ye not eat.",
-        "lv": "4 <p>Bet miesu ar tās dzīvību, <i>kas ir</i> tās asinis, jums nebūs ēst."
+        "lv": "4 <span class='p'></span> Bet miesu ar tās dzīvību, <i>kas ir</i> tās asinis, jums nebūs ēst."
       },
       {
         "verse": 5,
@@ -1086,7 +1086,7 @@
       {
         "verse": 8,
         "en": "8And God spake unto Noah, and to his sons with him, saying,",
-        "lv": "8 <p>Un Dievs runāja uz Nou un uz viņa dēliem ar viņu sacīdams,"
+        "lv": "8 <span class='p'></span> Un Dievs runāja uz Nou un uz viņa dēliem ar viņu sacīdams,"
       },
       {
         "verse": 9,
@@ -1136,7 +1136,7 @@
       {
         "verse": 18,
         "en": "18And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham <i>is </i>the father of Canaan.",
-        "lv": "18 <p>Un Noas dēli, kas izgāja no šķirsta, bija Šems un Hams un Jafets: un Hams <i>ir </i>Kanaāna tēvs."
+        "lv": "18 <span class='p'></span> Un Noas dēli, kas izgāja no šķirsta, bija Šems un Hams un Jafets: un Hams <i>ir </i>Kanaāna tēvs."
       },
       {
         "verse": 19,
@@ -1146,12 +1146,12 @@
       {
         "verse": 20,
         "en": "20And Noah began <i>to be</i> an husbandman, and he planted a vineyard:",
-        "lv": "20 <p>Un Noa iesāka <i>būt </i>zemkopis, un viņš stādīja vīna dārzu:"
+        "lv": "20 <span class='p'></span> Un Noa iesāka <i>būt </i>zemkopis, un viņš stādīja vīna dārzu:"
       },
       {
         "verse": 21,
         "en": "21And he drank of the wine, and was drunken; and he was uncovered within his tent.",
-        "lv": "21 <p>Un viņš dzēra no vīna un piedzērās; un viņš bija neapsegts savā teltī."
+        "lv": "21 <span class='p'></span> Un viņš dzēra no vīna un piedzērās; un viņš bija neapsegts savā teltī."
       },
       {
         "verse": 22,
@@ -1171,22 +1171,22 @@
       {
         "verse": 25,
         "en": "25And he said, Cursed <i>be </i>Canaan; a servant of servants shall he be unto his brethren.",
-        "lv": "25 <p>Un viņš sacīja, Nolādēts<i> lai ir</i> Kanaāns; kalpu kalps viņš būs saviem brāļiem."
+        "lv": "25 <span class='p'></span> Un viņš sacīja, Nolādēts<i> lai ir</i> Kanaāns; kalpu kalps viņš būs saviem brāļiem."
       },
       {
         "verse": 26,
         "en": "26And he said, Blessed <i>be </i>the LORD God of Shem; and Canaan shall be his servant.",
-        "lv": "26 <p>Un viņš sacīja, Svētīts <i>lai ir </i>tas KUNGS, Šema Dievs; un Kanaāns būs viņa kalps."
+        "lv": "26 <span class='p'></span> Un viņš sacīja, Svētīts <i>lai ir </i>tas KUNGS, Šema Dievs; un Kanaāns būs viņa kalps."
       },
       {
         "verse": 27,
         "en": "27God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.",
-        "lv": "27 <p>Dievs palielinās Jafetu, un viņš mājos Šema teltīs; un Kanaāns būs viņa kalps."
+        "lv": "27 <span class='p'></span> Dievs palielinās Jafetu, un viņš mājos Šema teltīs; un Kanaāns būs viņa kalps."
       },
       {
         "verse": 28,
         "en": "28And Noah lived after the flood three hundred and fifty years.",
-        "lv": "28 <p>Un Noa dzīvoja pēc plūdiem trīs simti piecdesmit gadu."
+        "lv": "28 <span class='p'></span> Un Noa dzīvoja pēc plūdiem trīs simti piecdesmit gadu."
       },
       {
         "verse": 29,
@@ -1203,7 +1203,7 @@
       {
         "verse": 2,
         "en": "2The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
-        "lv": "2 <p>Jafeta dēli; Gomers un Magogs, un Mādajs, un Jāvāns, un Tubals, un Mešehs, un Tirass."
+        "lv": "2 <span class='p'></span> Jafeta dēli; Gomers un Magogs, un Mādajs, un Jāvāns, un Tubals, un Mešehs, un Tirass."
       },
       {
         "verse": 3,
@@ -1223,7 +1223,7 @@
       {
         "verse": 6,
         "en": "6And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
-        "lv": "6 <p>Un Hama dēli; Kušs un Micraims, un Pūts, un Kanaāns."
+        "lv": "6 <span class='p'></span> Un Hama dēli; Kušs un Micraims, un Pūts, un Kanaāns."
       },
       {
         "verse": 7,
@@ -1233,7 +1233,7 @@
       {
         "verse": 8,
         "en": "8And Cush begat Nimrod: he began to be a mighty one in the earth.",
-        "lv": "8 <p>Un Kušs dzemdināja Nimrodu: viņš iesāka būt varenais zemē."
+        "lv": "8 <span class='p'></span> Un Kušs dzemdināja Nimrodu: viņš iesāka būt varenais zemē."
       },
       {
         "verse": 9,
@@ -1268,7 +1268,7 @@
       {
         "verse": 15,
         "en": "15And Canaan begat Sidon his firstborn, and Heth,",
-        "lv": "15 <p>Un Kanaāns dzemdinājs savu pirmdzimto Sidonu un Hetu,"
+        "lv": "15 <span class='p'></span> Un Kanaāns dzemdinājs savu pirmdzimto Sidonu un Hetu,"
       },
       {
         "verse": 16,
@@ -1370,7 +1370,7 @@
       {
         "verse": 3,
         "en": "3And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.",
-        "lv": "3 <p>Un tie sacīja cits citam, Iesim nu, taisīsim ķieģeļus, un tos dedzināt dedzināsim. Un tiem ķieģeļi bija par akmeņiem, un piķis tiem bija par javu."
+        "lv": "3 <span class='p'></span> Un tie sacīja cits citam, Iesim nu, taisīsim ķieģeļus, un tos dedzināt dedzināsim. Un tiem ķieģeļi bija par akmeņiem, un piķis tiem bija par javu."
       },
       {
         "verse": 4,
@@ -1380,7 +1380,7 @@
       {
         "verse": 5,
         "en": "5And the LORD came down to see the city and the tower, which the children of men builded.",
-        "lv": "5 <p>Un tas KUNGS nonāca redzēt pilsētu un torni, kuru cilvēku bērni būvēja."
+        "lv": "5 <span class='p'></span> Un tas KUNGS nonāca redzēt pilsētu un torni, kuru cilvēku bērni būvēja."
       },
       {
         "verse": 6,
@@ -1405,7 +1405,7 @@
       {
         "verse": 10,
         "en": "10These <i>are </i>the generations of Shem: Shem <i>was </i>an hundred years old, and begat Arphaxad two years after the flood:",
-        "lv": "10 <p>Šīs <i>ir </i>Šema paaudzes: Šems <i>bija </i>simts gadus vecs un dzemdināja Arpahšadu divus gadus pēc plūdiem:"
+        "lv": "10 <span class='p'></span> Šīs <i>ir </i>Šema paaudzes: Šems <i>bija </i>simts gadus vecs un dzemdināja Arpahšadu divus gadus pēc plūdiem:"
       },
       {
         "verse": 11,
@@ -1490,7 +1490,7 @@
       {
         "verse": 27,
         "en": "27Now these <i>are </i>the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.",
-        "lv": "27 <p>Tad nu šīs <i>ir </i>Teraha paaudzes: Terahs dzemdināja Ābramu, Nāhoru un Hārānu; un Hārāns dzemdināja Latu."
+        "lv": "27 <span class='p'></span> Tad nu šīs <i>ir </i>Teraha paaudzes: Terahs dzemdināja Ābramu, Nāhoru un Hārānu; un Hārāns dzemdināja Latu."
       },
       {
         "verse": 28,
@@ -1510,7 +1510,7 @@
       {
         "verse": 31,
         "en": "31And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.",
-        "lv": "31 <p>Un Terahs ņēma Ābramu, savu dēlu un Latu, Hārāna dēlu, savu dēla dēlu, un Sāraju, savu vedeklu, sava dēla Ābrama sievu; un tie izgāja kopā ar tiem no kaldeju Ūras, iet uz Kanaāna zemi; un tie nāca uz Hārānu un mājoja tur."
+        "lv": "31 <span class='p'></span> Un Terahs ņēma Ābramu, savu dēlu un Latu, Hārāna dēlu, savu dēla dēlu, un Sāraju, savu vedeklu, sava dēla Ābrama sievu; un tie izgāja kopā ar tiem no kaldeju Ūras, iet uz Kanaāna zemi; un tie nāca uz Hārānu un mājoja tur."
       },
       {
         "verse": 32,
@@ -1537,7 +1537,7 @@
       {
         "verse": 4,
         "en": "4So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram <i>was </i>seventy and five years old when he departed out of Haran.",
-        "lv": "4 <p>Tā Ābrams aizgāja, kā tas KUNGS uz viņu bija runājis; un Lats gāja kopā ar viņu: un Ābrams <i>bija</i> septiņdesmit piecus gadus vecs, kad viņš izgāja no Hārānas."
+        "lv": "4 <span class='p'></span> Tā Ābrams aizgāja, kā tas KUNGS uz viņu bija runājis; un Lats gāja kopā ar viņu: un Ābrams <i>bija</i> septiņdesmit piecus gadus vecs, kad viņš izgāja no Hārānas."
       },
       {
         "verse": 5,
@@ -1547,7 +1547,7 @@
       {
         "verse": 6,
         "en": "6And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite <i>was </i>then in the land.",
-        "lv": "6 <p>Un Ābrams gāja caur zemi uz Sihemas vietu, uz Mores līdzenumu. Un tad Kanaānietis <i>bija</i> tai zemē."
+        "lv": "6 <span class='p'></span> Un Ābrams gāja caur zemi uz Sihemas vietu, uz Mores līdzenumu. Un tad Kanaānietis <i>bija</i> tai zemē."
       },
       {
         "verse": 7,
@@ -1567,7 +1567,7 @@
       {
         "verse": 10,
         "en": "10And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine <i>was </i>grievous in the land.",
-        "lv": "10 <p>Un zemē bija bads: un Ābrams nogāja uz Ēģipti tur piemājot; jo bads <i>bija </i>grūts zemē."
+        "lv": "10 <span class='p'></span> Un zemē bija bads: un Ābrams nogāja uz Ēģipti tur piemājot; jo bads <i>bija </i>grūts zemē."
       },
       {
         "verse": 11,
@@ -1587,7 +1587,7 @@
       {
         "verse": 14,
         "en": "14And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she <i>was </i>very fair.",
-        "lv": "14 <p>Un notika, ka, kad Ābrams bija nācis Ēģiptē, ēģiptieši uzlūkoja sievieti, ka viņa <i>bija </i>ļoti glīta."
+        "lv": "14 <span class='p'></span> Un notika, ka, kad Ābrams bija nācis Ēģiptē, ēģiptieši uzlūkoja sievieti, ka viņa <i>bija </i>ļoti glīta."
       },
       {
         "verse": 15,
@@ -1644,7 +1644,7 @@
       {
         "verse": 5,
         "en": "5And Lot also, which went with Abram, had flocks, and herds, and tents.",
-        "lv": "5 <p>Un arī Latam, kas gāja ar Ābramu, bija sīklopi un liellopi, un teltis."
+        "lv": "5 <span class='p'></span> Un arī Latam, kas gāja ar Ābramu, bija sīklopi un liellopi, un teltis."
       },
       {
         "verse": 6,
@@ -1674,7 +1674,7 @@
       {
         "verse": 11,
         "en": "11Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.",
-        "lv": "11 <p>Tad Lats izraudzījās sev visu Jordānas līdzenumu; un Lats devās ceļā uz austrumiem: un tie nošķīrās viens no otra."
+        "lv": "11 <span class='p'></span> Tad Lats izraudzījās sev visu Jordānas līdzenumu; un Lats devās ceļā uz austrumiem: un tie nošķīrās viens no otra."
       },
       {
         "verse": 12,
@@ -1689,7 +1689,7 @@
       {
         "verse": 14,
         "en": "14And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:",
-        "lv": "14 <p>Un tas KUNGS sacīja Ābramam pēc tam, kad Lats bija nošķīries no viņa, Pacel nu savas acis un lūkojies no vietas, kur tu esi, uz ziemeļiem un dienvidiem, un uz austrumiem, un uz rietumiem:"
+        "lv": "14 <span class='p'></span> Un tas KUNGS sacīja Ābramam pēc tam, kad Lats bija nošķīries no viņa, Pacel nu savas acis un lūkojies no vietas, kur tu esi, uz ziemeļiem un dienvidiem, un uz austrumiem, un uz rietumiem:"
       },
       {
         "verse": 15,
@@ -1771,12 +1771,12 @@
       {
         "verse": 12,
         "en": "12And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.",
-        "lv": "12 <p>Un tie ņēma Latu, Ābrama brāļa dēlu, kas mājoja Sodomā, un viņa mantas un aizgāja."
+        "lv": "12 <span class='p'></span> Un tie ņēma Latu, Ābrama brāļa dēlu, kas mājoja Sodomā, un viņa mantas un aizgāja."
       },
       {
         "verse": 13,
         "en": "13And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these <i>were </i>confederate with Abram.",
-        "lv": "13 <p>Un nāca viens, kas bija izbēdzis, un stāstīja ebrejam Ābramam; jo viņš mājoja amorieša Mamres, Eškola brāļa un Ānēra brāļa, līdzenumā: un šie <i>bija </i>apvienojušies ar Ābramu."
+        "lv": "13 <span class='p'></span> Un nāca viens, kas bija izbēdzis, un stāstīja ebrejam Ābramam; jo viņš mājoja amorieša Mamres, Eškola brāļa un Ānēra brāļa, līdzenumā: un šie <i>bija </i>apvienojušies ar Ābramu."
       },
       {
         "verse": 14,
@@ -1796,7 +1796,7 @@
       {
         "verse": 17,
         "en": "17And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that <i>were </i>with him, at the valley of Shaveh, which <i>is </i>the king's dale.",
-        "lv": "17 <p>Un Sodomas ķēniņš izgāja viņu satikt pēc viņa atgriešanās no Kedorlaomera un no ķēniņu, kas <i>bija </i>ar viņu, slaktiņa, Šāves ielejā, kas <i>ir </i>ķēniņa leja."
+        "lv": "17 <span class='p'></span> Un Sodomas ķēniņš izgāja viņu satikt pēc viņa atgriešanās no Kedorlaomera un no ķēniņu, kas <i>bija </i>ar viņu, slaktiņa, Šāves ielejā, kas <i>ir </i>ķēniņa leja."
       },
       {
         "verse": 18,
@@ -1811,7 +1811,7 @@
       {
         "verse": 20,
         "en": "20And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.",
-        "lv": "20 <p>Un svētīts lai ir visaugstākais Dievs, kas nodeva tavus ienaidniekus tavā rokā. Un viņš deva tam desmito tiesu no visa."
+        "lv": "20 <span class='p'></span> Un svētīts lai ir visaugstākais Dievs, kas nodeva tavus ienaidniekus tavā rokā. Un viņš deva tam desmito tiesu no visa."
       },
       {
         "verse": 21,
@@ -1821,7 +1821,7 @@
       {
         "verse": 22,
         "en": "22And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,",
-        "lv": "22 <p>Un Ābrams Sodomas ķēniņam sacīja, Es esmu pacēlis savu roku uz to KUNGU, visaugstāko Dievu, debess un zemes īpašnieku,"
+        "lv": "22 <span class='p'></span> Un Ābrams Sodomas ķēniņam sacīja, Es esmu pacēlis savu roku uz to KUNGU, visaugstāko Dievu, debess un zemes īpašnieku,"
       },
       {
         "verse": 23,
@@ -1843,7 +1843,7 @@
       {
         "verse": 2,
         "en": "2And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house <i>is </i>this Eliezer of Damascus?",
-        "lv": "2 <p>Un Ābrams sacīja, Kungs DIEVS, ko tu man dosi, jo es eju bez bērniem, un mana nama pārzinis <i>ir </i>šis Eliezers no Damaskas?"
+        "lv": "2 <span class='p'></span> Un Ābrams sacīja, Kungs DIEVS, ko tu man dosi, jo es eju bez bērniem, un mana nama pārzinis <i>ir </i>šis Eliezers no Damaskas?"
       },
       {
         "verse": 3,
@@ -1853,7 +1853,7 @@
       {
         "verse": 4,
         "en": "4And, behold, the word of the LORD <i>came </i>unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.",
-        "lv": "4 <p>Un, lūk, tā KUNGA vārds <i>nāca</i> uz viņu sacīdams, Šis nebūs tavs mantinieks; bet tas, kas iznāks no tavām paša iekšām, būs tavs mantinieks."
+        "lv": "4 <span class='p'></span> Un, lūk, tā KUNGA vārds <i>nāca</i> uz viņu sacīdams, Šis nebūs tavs mantinieks; bet tas, kas iznāks no tavām paša iekšām, būs tavs mantinieks."
       },
       {
         "verse": 5,
@@ -1863,12 +1863,12 @@
       {
         "verse": 6,
         "en": "6And he believed in the LORD; and he counted it to him for righteousness.",
-        "lv": "6 <p>Un viņš ticēja uz to KUNGU; un viņš to tam skaitīja par taisnību."
+        "lv": "6 <span class='p'></span> Un viņš ticēja uz to KUNGU; un viņš to tam skaitīja par taisnību."
       },
       {
         "verse": 7,
         "en": "7And he said unto him, I <i>am </i>the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it.",
-        "lv": "7 <p>Un viņš tam sacīja, Es <i>esmu </i>tas KUNGS, kas tevi izveda no haldiešu Ūras, tev dot šo zemi to iemantot."
+        "lv": "7 <span class='p'></span> Un viņš tam sacīja, Es <i>esmu </i>tas KUNGS, kas tevi izveda no haldiešu Ūras, tev dot šo zemi to iemantot."
       },
       {
         "verse": 8,
@@ -1893,7 +1893,7 @@
       {
         "verse": 12,
         "en": "12And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him.",
-        "lv": "12 <p>Un, kad saule rietēja, dziļš miegs krita uz Ābramu; un, rau, lielas tumsas šausmas krita uz viņa."
+        "lv": "12 <span class='p'></span> Un, kad saule rietēja, dziļš miegs krita uz Ābramu; un, rau, lielas tumsas šausmas krita uz viņa."
       },
       {
         "verse": 13,
@@ -1960,7 +1960,7 @@
       {
         "verse": 4,
         "en": "4And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.",
-        "lv": "4 <p>Un viņš iegāja pie Hagares, un viņa kļuva grūta: un, kad viņa redzēja, ka viņa bija kļuvusi grūta, viņas saimniece bija nicināta viņas acīs."
+        "lv": "4 <span class='p'></span> Un viņš iegāja pie Hagares, un viņa kļuva grūta: un, kad viņa redzēja, ka viņa bija kļuvusi grūta, viņas saimniece bija nicināta viņas acīs."
       },
       {
         "verse": 5,
@@ -1975,7 +1975,7 @@
       {
         "verse": 7,
         "en": "7And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur.",
-        "lv": "7 <p>Un tā KUNGA eņģelis viņu atrada pie ūdens avota tuksnesī, pie avota ceļā uz Šūru."
+        "lv": "7 <span class='p'></span> Un tā KUNGA eņģelis viņu atrada pie ūdens avota tuksnesī, pie avota ceļā uz Šūru."
       },
       {
         "verse": 8,
@@ -1995,7 +1995,7 @@
       {
         "verse": 11,
         "en": "11And the angel of the LORD said unto her, Behold, thou <i>art</i> with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.",
-        "lv": "11 <p>Un tā KUNGA eņģelis tai sacīja, Lūk, tu <i>esi </i>grūta un dzemdēsi dēlu, un tev viņa vārdu būs saukt Ismaēls; tāpēc ka tas KUNGS ir dzirdējis tavas sāpes."
+        "lv": "11 <span class='p'></span> Un tā KUNGA eņģelis tai sacīja, Lūk, tu <i>esi </i>grūta un dzemdēsi dēlu, un tev viņa vārdu būs saukt Ismaēls; tāpēc ka tas KUNGS ir dzirdējis tavas sāpes."
       },
       {
         "verse": 12,
@@ -2015,7 +2015,7 @@
       {
         "verse": 15,
         "en": "15And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.",
-        "lv": "15 <p>Un Hagare dzemdēja Ābramam dēlu: un Ābrams nosauca sava dēla vārdu, ko Hagare dzemdēja, Ismaēls."
+        "lv": "15 <span class='p'></span> Un Hagare dzemdēja Ābramam dēlu: un Ābrams nosauca sava dēla vārdu, ko Hagare dzemdēja, Ismaēls."
       },
       {
         "verse": 16,
@@ -2047,7 +2047,7 @@
       {
         "verse": 5,
         "en": "5Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.",
-        "lv": "5 <p>Nedz vairs tavs vārds tiks saukts Ābrams, bet tavs vārds būs Ābrahāms; jo par<i> </i>daudzu tautu tēvu es tevi esmu darījis."
+        "lv": "5 <span class='p'></span> Nedz vairs tavs vārds tiks saukts Ābrams, bet tavs vārds būs Ābrahāms; jo par<i> </i>daudzu tautu tēvu es tevi esmu darījis."
       },
       {
         "verse": 6,
@@ -2067,7 +2067,7 @@
       {
         "verse": 9,
         "en": "9And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.",
-        "lv": "9 <p>Un Dievs Ābrahāmam sacīja, Tāpēc tev būs turēt manu derību, tev un tavai sēklai pēc tevis viņu paaudzēs."
+        "lv": "9 <span class='p'></span> Un Dievs Ābrahāmam sacīja, Tāpēc tev būs turēt manu derību, tev un tavai sēklai pēc tevis viņu paaudzēs."
       },
       {
         "verse": 10,
@@ -2097,7 +2097,7 @@
       {
         "verse": 15,
         "en": "15And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah <i>shall </i>her name <i>be</i>.",
-        "lv": "15 <p>Un Dievs Ābrahāmam sacīja, Kas attiecas uz Sāraju, tavu sievu, tev nebūs saukt viņas vārdu Sāraja, bet Sāra <i>būs </i>viņas vārds."
+        "lv": "15 <span class='p'></span> Un Dievs Ābrahāmam sacīja, Kas attiecas uz Sāraju, tavu sievu, tev nebūs saukt viņas vārdu Sāraja, bet Sāra <i>būs </i>viņas vārds."
       },
       {
         "verse": 16,
@@ -2107,7 +2107,7 @@
       {
         "verse": 17,
         "en": "17Then Abraham fell upon his face, and laughed, and said in his heart, Shall <i>a child </i>be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?",
-        "lv": "17 <p>Tad Ābrahāms krita uz savas sejas un smējās, un sacīja savā sirdī, Vai <i>bērns </i>dzims tam, kas ir simts gadu vecs? un vai Sāra, kas ir deviņdesmit gadu veca, dzemdēs?"
+        "lv": "17 <span class='p'></span> Tad Ābrahāms krita uz savas sejas un smējās, un sacīja savā sirdī, Vai <i>bērns </i>dzims tam, kas ir simts gadu vecs? un vai Sāra, kas ir deviņdesmit gadu veca, dzemdēs?"
       },
       {
         "verse": 18,
@@ -2137,7 +2137,7 @@
       {
         "verse": 23,
         "en": "23And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham's house; and circumcised the flesh of their foreskin in the selfsame day, as God had said unto him.",
-        "lv": "23 <p>Un Ābrahāms ņēma Ismaēlu, savu dēlu, un visus, kas bija dzimuši viņa namā, un visus, kas bija pirkti ar viņa naudu, ikvienu vīriešu kārtas cilvēku starp Ābrahāma nama vīriešiem; un apgraizīja viņu priekšādas miesu tajā pašā dienā, kā Dievs viņam bija sacījis."
+        "lv": "23 <span class='p'></span> Un Ābrahāms ņēma Ismaēlu, savu dēlu, un visus, kas bija dzimuši viņa namā, un visus, kas bija pirkti ar viņa naudu, ikvienu vīriešu kārtas cilvēku starp Ābrahāma nama vīriešiem; un apgraizīja viņu priekšādas miesu tajā pašā dienā, kā Dievs viņam bija sacījis."
       },
       {
         "verse": 24,
@@ -2204,7 +2204,7 @@
       {
         "verse": 9,
         "en": "9And they said unto him, Where <i>is </i>Sarah thy wife? And he said, Behold, in the tent.",
-        "lv": "9 <p>Un tie viņam sacīja, Kur <i>ir</i> Sāra, tava sieva? Un viņš sacīja, Lūk, teltī."
+        "lv": "9 <span class='p'></span> Un tie viņam sacīja, Kur <i>ir</i> Sāra, tava sieva? Un viņš sacīja, Lūk, teltī."
       },
       {
         "verse": 10,
@@ -2239,7 +2239,7 @@
       {
         "verse": 16,
         "en": "16And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way.",
-        "lv": "16 <p>Un tie vīrieši cēlās no turienes un lūkojās uz Sodomu: un Ābrahāms gāja ar tiem tos pavadīt."
+        "lv": "16 <span class='p'></span> Un tie vīrieši cēlās no turienes un lūkojās uz Sodomu: un Ābrahāms gāja ar tiem tos pavadīt."
       },
       {
         "verse": 17,
@@ -2274,7 +2274,7 @@
       {
         "verse": 23,
         "en": "23And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",
-        "lv": "23 <p>Un Ābrahāms tuvojās un sacīja, Vai tu arī iznīcināsi taisnos ar nelietīgajiem?"
+        "lv": "23 <span class='p'></span> Un Ābrahāms tuvojās un sacīja, Vai tu arī iznīcināsi taisnos ar nelietīgajiem?"
       },
       {
         "verse": 24,
@@ -2346,7 +2346,7 @@
       {
         "verse": 4,
         "en": "4But before they lay down, the men of the city, <i>even </i>the men of Sodom, compassed the house round, both old and young, all the people from every quarter:",
-        "lv": "4 <p>Bet pirms tie apgūlās, pilsētas vīrieši, <i>proti</i>, Sodomas vīrieši apņēma namu visapkārt, gan veci, gan jauni, visi ļaudis no visām malām:"
+        "lv": "4 <span class='p'></span> Bet pirms tie apgūlās, pilsētas vīrieši, <i>proti</i>, Sodomas vīrieši apņēma namu visapkārt, gan veci, gan jauni, visi ļaudis no visām malām:"
       },
       {
         "verse": 5,
@@ -2386,7 +2386,7 @@
       {
         "verse": 12,
         "en": "12And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring <i>them </i>out of this place:",
-        "lv": "12 <p>Un vīrieši Latam sasacīja, Vai tev šeit ir vēl kāds? znots un tavi dēli, un tavas meitas, un kas vien tev ir pilsētā, izved <i>tos </i>no šīs vietas:"
+        "lv": "12 <span class='p'></span> Un vīrieši Latam sasacīja, Vai tev šeit ir vēl kāds? znots un tavi dēli, un tavas meitas, un kas vien tev ir pilsētā, izved <i>tos </i>no šīs vietas:"
       },
       {
         "verse": 13,
@@ -2401,7 +2401,7 @@
       {
         "verse": 15,
         "en": "15And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.",
-        "lv": "15 <p>Un, kad cēlās rīts, tad eņģeļi steidzināja Latu sacīdami, Celies, ņem savu sievu un savas divas meitas, kas ir šeit; lai tu netiec iznīdēts pilsētas nekrietnībā."
+        "lv": "15 <span class='p'></span> Un, kad cēlās rīts, tad eņģeļi steidzināja Latu sacīdami, Celies, ņem savu sievu un savas divas meitas, kas ir šeit; lai tu netiec iznīdēts pilsētas nekrietnībā."
       },
       {
         "verse": 16,
@@ -2441,7 +2441,7 @@
       {
         "verse": 23,
         "en": "23The sun was risen upon the earth when Lot entered into Zoar.",
-        "lv": "23 <p>Saule bija uzlēkusi uz zemes, kad Lats iegāja Coērā."
+        "lv": "23 <span class='p'></span> Saule bija uzlēkusi uz zemes, kad Lats iegāja Coērā."
       },
       {
         "verse": 24,
@@ -2456,12 +2456,12 @@
       {
         "verse": 26,
         "en": "26But his wife looked back from behind him, and she became a pillar of salt.",
-        "lv": "26 <p>Bet viņa sieva palūkojās atpakaļ aiz sevis, un viņa kļuva<i> </i>par sāls pīlāru."
+        "lv": "26 <span class='p'></span> Bet viņa sieva palūkojās atpakaļ aiz sevis, un viņa kļuva<i> </i>par sāls pīlāru."
       },
       {
         "verse": 27,
         "en": "27And Abraham gat up early in the morning to the place where he stood before the LORD:",
-        "lv": "27 <p>Un Ābrahāms agri no rīta aizgāja uz vietu, kur viņš stāvēja tā KUNGA priekšā:"
+        "lv": "27 <span class='p'></span> Un Ābrahāms agri no rīta aizgāja uz vietu, kur viņš stāvēja tā KUNGA priekšā:"
       },
       {
         "verse": 28,
@@ -2471,12 +2471,12 @@
       {
         "verse": 29,
         "en": "29And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.",
-        "lv": "29 <p>Un notika, kad Dievs iznīcināja līdzenuma pilsētas, ka Dievs atcerējās Ābrahāmu un izsūtīja Latu no apgāšanas vidus, kad viņš apgāza pilsētas, kurās Lats mājoja."
+        "lv": "29 <span class='p'></span> Un notika, kad Dievs iznīcināja līdzenuma pilsētas, ka Dievs atcerējās Ābrahāmu un izsūtīja Latu no apgāšanas vidus, kad viņš apgāza pilsētas, kurās Lats mājoja."
       },
       {
         "verse": 30,
         "en": "30And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.",
-        "lv": "30 <p>Un Lats izgāja no Coaras un mājoja kalnā, un viņa divas meitas kopā ar viņu; jo viņš bijās mājot Coarā: un viņš mājoja alā, viņš un viņa divas meitas."
+        "lv": "30 <span class='p'></span> Un Lats izgāja no Coaras un mājoja kalnā, un viņa divas meitas kopā ar viņu; jo viņš bijās mājot Coarā: un viņš mājoja alā, viņš un viņa divas meitas."
       },
       {
         "verse": 31,
@@ -2511,7 +2511,7 @@
       {
         "verse": 37,
         "en": "37And the firstborn bare a son, and called his name Moab: the same <i>is </i>the father of the Moabites unto this day.",
-        "lv": "37 <p>Un pirmdzimtā dzemdēja dēlu un nosauca viņa vārdu Moābs: tas pats <i>ir </i>moābiešu tēvs līdz šai dienai."
+        "lv": "37 <span class='p'></span> Un pirmdzimtā dzemdēja dēlu un nosauca viņa vārdu Moābs: tas pats <i>ir </i>moābiešu tēvs līdz šai dienai."
       },
       {
         "verse": 38,
@@ -2528,12 +2528,12 @@
       {
         "verse": 2,
         "en": "2And Abraham said of Sarah his wife, She <i>is </i>my sister: and Abimelech king of Gerar sent, and took Sarah.",
-        "lv": "2 <p>Un Ābrahāms sacīja par Sāru, savu sievu, Viņa <i>ir </i>mana māsa: un Gerāras ķēniņš Abimelehs sūtīja un ņēma Sāru."
+        "lv": "2 <span class='p'></span> Un Ābrahāms sacīja par Sāru, savu sievu, Viņa <i>ir </i>mana māsa: un Gerāras ķēniņš Abimelehs sūtīja un ņēma Sāru."
       },
       {
         "verse": 3,
         "en": "3But God came to Abimelech in a dream by night, and said to him, Behold, thou<i> art but</i> a dead man, for the woman which thou hast taken; for she <i>is </i>a man's wife.",
-        "lv": "3 <p>Bet Dievs nāca naktī pie Abimeleha sapnī un tam sacīja, Lūk, tu <i>esi </i>mirušais sievietes dēļ, ko tu esi ņēmis; jo viņa <i>ir </i>vīrieša sieva."
+        "lv": "3 <span class='p'></span> Bet Dievs nāca naktī pie Abimeleha sapnī un tam sacīja, Lūk, tu <i>esi </i>mirušais sievietes dēļ, ko tu esi ņēmis; jo viņa <i>ir </i>vīrieša sieva."
       },
       {
         "verse": 4,
@@ -2588,7 +2588,7 @@
       {
         "verse": 14,
         "en": "14And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave <i>them </i>unto Abraham, and restored him Sarah his wife.",
-        "lv": "14 <p>Un Abimelehs ņēma avis un vēršus, un kalpus, un kalpones un deva <i>tos </i>Ābrahāmam, un atjaunoja viņam Sāru, viņa sievu."
+        "lv": "14 <span class='p'></span> Un Abimelehs ņēma avis un vēršus, un kalpus, un kalpones un deva <i>tos </i>Ābrahāmam, un atjaunoja viņam Sāru, viņa sievu."
       },
       {
         "verse": 15,
@@ -2603,7 +2603,7 @@
       {
         "verse": 17,
         "en": "17So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare <i>children</i>.",
-        "lv": "17 <p>Tā Ābrahāms lūdza Dievu: un Dievs dziedināja Abimelehu un viņa sievu, un viņa kalpones; un tās dzemdēja <i>bērnus</i>."
+        "lv": "17 <span class='p'></span> Tā Ābrahāms lūdza Dievu: un Dievs dziedināja Abimelehu un viņa sievu, un viņa kalpones; un tās dzemdēja <i>bērnus</i>."
       },
       {
         "verse": 18,
@@ -2630,7 +2630,7 @@
       {
         "verse": 4,
         "en": "4And Abraham circumcised his son Isaac being eight days old, as God had commanded him.",
-        "lv": "4 <p>Un Ābrahāms apgraizīja savu dēlu Īzaku astoņas dienas vecu, kā Dievs viņam bija pavēlējis."
+        "lv": "4 <span class='p'></span> Un Ābrahāms apgraizīja savu dēlu Īzaku astoņas dienas vecu, kā Dievs viņam bija pavēlējis."
       },
       {
         "verse": 5,
@@ -2640,12 +2640,12 @@
       {
         "verse": 6,
         "en": "6And Sarah said, God hath made me to laugh,<i> so that</i> all that hear will laugh with me.",
-        "lv": "6 <p>Un Sāra sacīja, Dievs man ir licis smieties, <i>tā ka</i> visi, kas dzirdēs, smiesies kopā ar mani."
+        "lv": "6 <span class='p'></span> Un Sāra sacīja, Dievs man ir licis smieties, <i>tā ka</i> visi, kas dzirdēs, smiesies kopā ar mani."
       },
       {
         "verse": 7,
         "en": "7And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born <i>him </i>a son in his old age.",
-        "lv": "7 Un viņa sacīja, Kurš būtu Ābrahāmam sacījis, ka Sāra zīdītu bērnus? jo es <i>viņam </i>esmu<i> </i>dzemdējusi dēlu viņa lielā vecumā. "
+        "lv": "7 Un viņa sacīja, Kurš būtu Ābrahāmam sacījis, ka Sāra zīdītu bērnus? jo es <i>viņam </i>esmu<i> </i>dzemdējusi dēlu viņa lielā vecumā."
       },
       {
         "verse": 8,
@@ -2655,7 +2655,7 @@
       {
         "verse": 9,
         "en": "9And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.",
-        "lv": "9 <p>Un Sāra redzēja ēģiptietes Hagares dēlu, ko viņa bija dzemdējusi Ābrahāmam, izsmejam."
+        "lv": "9 <span class='p'></span> Un Sāra redzēja ēģiptietes Hagares dēlu, ko viņa bija dzemdējusi Ābrahāmam, izsmejam."
       },
       {
         "verse": 10,
@@ -2670,7 +2670,7 @@
       {
         "verse": 12,
         "en": "12And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.",
-        "lv": "12 <p>Un Dievs Ābrahāmam sacīja, Lai tas nav grūti tavā skatienā zēna dēļ un tavas kalpones dēļ; visā, ko Sāra tev ir sacījusi, uzklausi viņas balsi; jo Īzakā tava sēkla tiks nosaukta."
+        "lv": "12 <span class='p'></span> Un Dievs Ābrahāmam sacīja, Lai tas nav grūti tavā skatienā zēna dēļ un tavas kalpones dēļ; visā, ko Sāra tev ir sacījusi, uzklausi viņas balsi; jo Īzakā tava sēkla tiks nosaukta."
       },
       {
         "verse": 13,
@@ -2695,7 +2695,7 @@
       {
         "verse": 17,
         "en": "17And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he <i>is</i>.",
-        "lv": "17 <p>Un Dievs dzirdēja zēna balsi; un Dieva eņģelis sauca uz Hagari no debess un viņai sacīja, Kas tev kaiš, Hagare? nebīsties; jo Dievs ir dzirdējis zēna balsi, kur viņš <i>ir</i>."
+        "lv": "17 <span class='p'></span> Un Dievs dzirdēja zēna balsi; un Dieva eņģelis sauca uz Hagari no debess un viņai sacīja, Kas tev kaiš, Hagare? nebīsties; jo Dievs ir dzirdējis zēna balsi, kur viņš <i>ir</i>."
       },
       {
         "verse": 18,
@@ -2720,7 +2720,7 @@
       {
         "verse": 22,
         "en": "22And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God <i>is </i>with thee in all that thou doest:",
-        "lv": "22 <p>Un notika tajā laikā, ka Abimelehs un Pihols, viņa karapulka galvenais kapteinis, runāja uz Ābrahāmu sacīdams, Dievs <i>ir </i>ar tevi visā, ko tu dari:"
+        "lv": "22 <span class='p'></span> Un notika tajā laikā, ka Abimelehs un Pihols, viņa karapulka galvenais kapteinis, runāja uz Ābrahāmu sacīdams, Dievs <i>ir </i>ar tevi visā, ko tu dari:"
       },
       {
         "verse": 23,
@@ -2775,7 +2775,7 @@
       {
         "verse": 33,
         "en": "33And <i>Abraham </i>planted a grove in Beersheba, and called there on the name of the LORD, the everlasting God.",
-        "lv": "33 <p>Un <i>Ābrahāms </i>stādīja birzi Bēr-šebā un tur sauca uz tā KUNGA, mūžīgā Dieva, vārdu."
+        "lv": "33 <span class='p'></span> Un <i>Ābrahāms </i>stādīja birzi Bēr-šebā un tur sauca uz tā KUNGA, mūžīgā Dieva, vārdu."
       },
       {
         "verse": 34,
@@ -2797,7 +2797,7 @@
       {
         "verse": 3,
         "en": "3And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.",
-        "lv": "3 <p>Un Ābrahāms cēlās agri no rīta un apsegloja savu ēzeli, un ņēma divus no saviem jaunekļiem sev līdzi, un Īzaku, savu dēlu, un sašķēla malku dedzināmajam ziedojumam, un cēlās, un gāja uz vietu, par ko Dievs viņam bija stāstījis."
+        "lv": "3 <span class='p'></span> Un Ābrahāms cēlās agri no rīta un apsegloja savu ēzeli, un ņēma divus no saviem jaunekļiem sev līdzi, un Īzaku, savu dēlu, un sašķēla malku dedzināmajam ziedojumam, un cēlās, un gāja uz vietu, par ko Dievs viņam bija stāstījis."
       },
       {
         "verse": 4,
@@ -2857,7 +2857,7 @@
       {
         "verse": 15,
         "en": "15And the angel of the LORD called unto Abraham out of heaven the second time,",
-        "lv": "15 <p>Un tā KUNGA eņģelis sauca uz Ābrahāmu no debess otro reizi,"
+        "lv": "15 <span class='p'></span> Un tā KUNGA eņģelis sauca uz Ābrahāmu no debess otro reizi,"
       },
       {
         "verse": 16,
@@ -2882,7 +2882,7 @@
       {
         "verse": 20,
         "en": "20And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;",
-        "lv": "20 <p>Un pēc šī notika, ka Ābrahāmam tika stāstīts sakot, Lūk, Milka, viņa arī ir dzemdējusi bērnus tavam brālim Nāhoram;"
+        "lv": "20 <span class='p'></span> Un pēc šī notika, ka Ābrahāmam tika stāstīts sakot, Lūk, Milka, viņa arī ir dzemdējusi bērnus tavam brālim Nāhoram;"
       },
       {
         "verse": 21,
@@ -2919,7 +2919,7 @@
       {
         "verse": 3,
         "en": "3And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,",
-        "lv": "3 <p>Un Ābrahāms nostājās no sava mirušā priekšas un runāja uz Hēta dēliem sacīdams,"
+        "lv": "3 <span class='p'></span> Un Ābrahāms nostājās no sava mirušā priekšas un runāja uz Hēta dēliem sacīdams,"
       },
       {
         "verse": 4,
@@ -2989,7 +2989,7 @@
       {
         "verse": 17,
         "en": "17And the field of Ephron, which was in Machpelah, which <i>was </i>before Mamre, the field, and the cave which <i>was </i>therein, and all the trees that <i>were </i>in the field, that <i>were </i>in all the borders round about, were made sure",
-        "lv": "17 <p>Un Efrona lauks, kas bija Mahpēlā, kas <i>bija </i>Mamres priekšā, lauks un ala, kas bija tajā, un visi koki, kas <i>bija</i> laukā, kas <i>bija </i>robežās visapkārt, tika apstiprināti"
+        "lv": "17 <span class='p'></span> Un Efrona lauks, kas bija Mahpēlā, kas <i>bija </i>Mamres priekšā, lauks un ala, kas bija tajā, un visi koki, kas <i>bija</i> laukā, kas <i>bija </i>robežās visapkārt, tika apstiprināti"
       },
       {
         "verse": 18,
@@ -3041,7 +3041,7 @@
       {
         "verse": 7,
         "en": "7The LORD God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
-        "lv": "7 <p>Tas KUNGS, debess Dievs, kurš mani ņēma no mana tēva nama un no manu radu zemes un kas runāja uz mani, un kas man zvērēja sacīdams, Tavai sēklai es došu šo zemi; viņš sūtīs savu eņģeli tavā priekšā, un tev būs ņemt sievu manam dēlam no turienes."
+        "lv": "7 <span class='p'></span> Tas KUNGS, debess Dievs, kurš mani ņēma no mana tēva nama un no manu radu zemes un kas runāja uz mani, un kas man zvērēja sacīdams, Tavai sēklai es došu šo zemi; viņš sūtīs savu eņģeli tavā priekšā, un tev būs ņemt sievu manam dēlam no turienes."
       },
       {
         "verse": 8,
@@ -3056,7 +3056,7 @@
       {
         "verse": 10,
         "en": "10And the servant took ten camels of the camels of his master, and departed; for all the goods of his master <i>were </i>in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.",
-        "lv": "10 <p>Un kalps ņēma desmit kamieļus no sava saimnieka kamieļiem un aizgāja; jo visas viņa saimnieka mantas <i>bija </i>viņa rokā: un viņš cēlās un gāja uz Mezopotāmiju, uz Nāhora pilsētu."
+        "lv": "10 <span class='p'></span> Un kalps ņēma desmit kamieļus no sava saimnieka kamieļiem un aizgāja; jo visas viņa saimnieka mantas <i>bija </i>viņa rokā: un viņš cēlās un gāja uz Mezopotāmiju, uz Nāhora pilsētu."
       },
       {
         "verse": 11,
@@ -3081,7 +3081,7 @@
       {
         "verse": 15,
         "en": "15And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.",
-        "lv": "15 <p>Un notika, pirms viņš bija beidzis runāšanu, ka, lūk, Rebeka iznāca, kas bija dzimusi Betuēlam, Milkas, Ābrahāma brāļa, Nāhora sievas, dēlam, ar savu krūku uz sava pleca."
+        "lv": "15 <span class='p'></span> Un notika, pirms viņš bija beidzis runāšanu, ka, lūk, Rebeka iznāca, kas bija dzimusi Betuēlam, Milkas, Ābrahāma brāļa, Nāhora sievas, dēlam, ar savu krūku uz sava pleca."
       },
       {
         "verse": 16,
@@ -3151,7 +3151,7 @@
       {
         "verse": 29,
         "en": "29And Rebekah had a brother, and his name <i>was </i>Laban: and Laban ran out unto the man, unto the well.",
-        "lv": "29 <p>Un Rebekai bija brālis, un viņa vārds <i>bija </i>Lābans: un Lābans skrēja ārā pie vīrieša, pie akas."
+        "lv": "29 <span class='p'></span> Un Rebekai bija brālis, un viņa vārds <i>bija </i>Lābans: un Lābans skrēja ārā pie vīrieša, pie akas."
       },
       {
         "verse": 30,
@@ -3166,7 +3166,7 @@
       {
         "verse": 32,
         "en": "32And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men's feet that <i>were </i>with him.",
-        "lv": "32 <p>Un vīrietis nāca namā: un viņš atjoza savus kamieļus un deva salmus un lopbarību kamieļiem, un ūdeni mazgāt viņa kājas, un vīriešu kājas, kas <i>bija </i>kopā<i> </i>ar viņu."
+        "lv": "32 <span class='p'></span> Un vīrietis nāca namā: un viņš atjoza savus kamieļus un deva salmus un lopbarību kamieļiem, un ūdeni mazgāt viņa kājas, un vīriešu kājas, kas <i>bija </i>kopā<i> </i>ar viņu."
       },
       {
         "verse": 33,
@@ -3256,7 +3256,7 @@
       {
         "verse": 50,
         "en": "50Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speak unto thee bad or good.",
-        "lv": "50 <p>Tad Lābans un Betuēls atbildēja un sacīja, Tā lieta iznāk no tā KUNGA: mēs neveram tev runāt sliktu vai labu."
+        "lv": "50 <span class='p'></span> Tad Lābans un Betuēls atbildēja un sacīja, Tā lieta iznāk no tā KUNGA: mēs neveram tev runāt sliktu vai labu."
       },
       {
         "verse": 51,
@@ -3311,7 +3311,7 @@
       {
         "verse": 61,
         "en": "61And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way.",
-        "lv": "61 <p>Un Rebeka cēlās, un viņas meitenes, un tās jāja uz kamieļiem un sekoja tam vīrietim: un kalps ņēma Rebeku un aizgāja."
+        "lv": "61 <span class='p'></span> Un Rebeka cēlās, un viņas meitenes, un tās jāja uz kamieļiem un sekoja tam vīrietim: un kalps ņēma Rebeku un aizgāja."
       },
       {
         "verse": 62,
@@ -3368,7 +3368,7 @@
       {
         "verse": 5,
         "en": "5And Abraham gave all that he had unto Isaac.",
-        "lv": "5 <p>Un Ābrahāms visu, kas viņam bija, deva Īzakam."
+        "lv": "5 <span class='p'></span> Un Ābrahāms visu, kas viņam bija, deva Īzakam."
       },
       {
         "verse": 6,
@@ -3398,12 +3398,12 @@
       {
         "verse": 11,
         "en": "11And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi.",
-        "lv": "11 <p>Un pēc Ābrahāma nāves notika, ka Dievs svētīja viņa dēlu Īzaku; un Īzaks mājoja pie Lahoj-roi akas."
+        "lv": "11 <span class='p'></span> Un pēc Ābrahāma nāves notika, ka Dievs svētīja viņa dēlu Īzaku; un Īzaks mājoja pie Lahoj-roi akas."
       },
       {
         "verse": 12,
         "en": "12Now these <i>are </i>the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:",
-        "lv": "12 <p>Tad nu šīs <i>ir Is</i>maēla, Ābrahāma dēla, paaudzes, ko ēģiptiete Hagare, Sāras kalpone, dzemdēja Ābrahāmam:"
+        "lv": "12 <span class='p'></span> Tad nu šīs <i>ir Is</i>maēla, Ābrahāma dēla, paaudzes, ko ēģiptiete Hagare, Sāras kalpone, dzemdēja Ābrahāmam:"
       },
       {
         "verse": 13,
@@ -3438,7 +3438,7 @@
       {
         "verse": 19,
         "en": "19And these <i>are </i>the generations of Isaac, Abraham's son: Abraham begat Isaac:",
-        "lv": "19 <p>Un šīs <i>ir </i>Īzaka, Ābrahāma dēla, paaudzes: Ābrahāms dzemdināja Īzaku:"
+        "lv": "19 <span class='p'></span> Un šīs <i>ir </i>Īzaka, Ābrahāma dēla, paaudzes: Ābrahāms dzemdināja Īzaku:"
       },
       {
         "verse": 20,
@@ -3463,7 +3463,7 @@
       {
         "verse": 24,
         "en": "24And when her days to be delivered were fulfilled, behold,<i> there were</i> twins in her womb.",
-        "lv": "24 <p>Un, kad viņas dienas dzemdēt bija piepildītas, lūk, viņas klēpī <i>bija </i>dvīņi."
+        "lv": "24 <span class='p'></span> Un, kad viņas dienas dzemdēt bija piepildītas, lūk, viņas klēpī <i>bija </i>dvīņi."
       },
       {
         "verse": 25,
@@ -3488,7 +3488,7 @@
       {
         "verse": 29,
         "en": "29And Jacob sod pottage: and Esau came from the field, and he <i>was </i>faint:",
-        "lv": "29 <p>Un Jēkabs vārīja viru: un Ēsavs nāca no lauka, un viņš <i>bija </i>noguris:"
+        "lv": "29 <span class='p'></span> Un Jēkabs vārīja viru: un Ēsavs nāca no lauka, un viņš <i>bija </i>noguris:"
       },
       {
         "verse": 30,
@@ -3545,7 +3545,7 @@
       {
         "verse": 6,
         "en": "6And Isaac dwelt in Gerar:",
-        "lv": "6 <p>Un Īzaks mājoja Gerārā:"
+        "lv": "6 <span class='p'></span> Un Īzaks mājoja Gerārā:"
       },
       {
         "verse": 7,
@@ -3580,7 +3580,7 @@
       {
         "verse": 13,
         "en": "13And the man waxed great, and went forward, and grew until he became very great:",
-        "lv": "13 Un tas vīrietis kļuva liels un devās uz priekšu, un auga līdz viņš kļuva ļoti liels:"
+        "lv": "13 Un tas vīrs kļuva liels un sekmējās, un pieauga līdz viņš kļuva ļoti liels:"
       },
       {
         "verse": 14,
@@ -3600,7 +3600,7 @@
       {
         "verse": 17,
         "en": "17And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.",
-        "lv": "17 <p>Un Īzaks aizgāja no turienes un uzslēja savu telti Gerāra ielejā, un mājoja tur."
+        "lv": "17 <span class='p'></span> Un Īzaks aizgāja no turienes un uzslēja savu telti Gerāra ielejā, un mājoja tur."
       },
       {
         "verse": 18,
@@ -3630,7 +3630,7 @@
       {
         "verse": 23,
         "en": "23And he went up from thence to Beersheba.",
-        "lv": "23 <p>Un viņš devās no turienes uz Bēr-šebu."
+        "lv": "23 <span class='p'></span> Un viņš devās no turienes uz Bēr-šebu."
       },
       {
         "verse": 24,
@@ -3645,7 +3645,7 @@
       {
         "verse": 26,
         "en": "26Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.",
-        "lv": "26 <p>Tad Abimelehs nāca pie viņa no Gerarās, un Ahuzats, viens no viņa draugiem, un Pihols, viņa armijas galvenais kapteinis."
+        "lv": "26 <span class='p'></span> Tad Abimelehs nāca pie viņa no Gerarās, un Ahuzats, viens no viņa draugiem, un Pihols, viņa armijas galvenais kapteinis."
       },
       {
         "verse": 27,
@@ -3685,7 +3685,7 @@
       {
         "verse": 34,
         "en": "34And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:",
-        "lv": "34 <p>Un Ēsavs bija četrdesmit gadu vecs, kad viņš ņēma par sievu Judīti, hetieša Beērija, meitu, un Bāsmati, hetieša Ēlona, meitu:"
+        "lv": "34 <span class='p'></span> Un Ēsavs bija četrdesmit gadu vecs, kad viņš ņēma par sievu Judīti, hetieša Beērija, meitu, un Bāsmati, hetieša Ēlona, meitu:"
       },
       {
         "verse": 35,
@@ -3722,7 +3722,7 @@
       {
         "verse": 6,
         "en": "6And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,",
-        "lv": "6 <p>Un Rebeka runāja uz savu dēlu Jēkabu sacīdama, Lūk, es dzirdēju tavu tēvu runājam uz tavu brāli Ēsavu sakām,"
+        "lv": "6 <span class='p'></span> Un Rebeka runāja uz savu dēlu Jēkabu sacīdama, Lūk, es dzirdēju tavu tēvu runājam uz tavu brāli Ēsavu sakām,"
       },
       {
         "verse": 7,
@@ -3782,7 +3782,7 @@
       {
         "verse": 18,
         "en": "18And he came unto his father, and said, My father: and he said, Here <i>am </i>I; who <i>art </i>thou, my son?",
-        "lv": "18 <p>Un viņš nāca pie sava tēva un sacīja, Mans tēvs: un viņš sacīja, Šeit es <i>esmu</i>; kas tu <i>esi</i>, mans dēls?"
+        "lv": "18 <span class='p'></span> Un viņš nāca pie sava tēva un sacīja, Mans tēvs: un viņš sacīja, Šeit es <i>esmu</i>; kas tu <i>esi</i>, mans dēls?"
       },
       {
         "verse": 19,
@@ -3842,7 +3842,7 @@
       {
         "verse": 30,
         "en": "30 And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.",
-        "lv": "30 <p>Un notika, tiklīdz Īzaks bija beidzis svētīt Jēkabu, un Jēkabs bija tikko izgājis no Īzaka, sava tēva, klātbūtnes, ka Ēsavs, viņa brālis, ienāca no savām medībām."
+        "lv": "30 <span class='p'></span> Un notika, tiklīdz Īzaks bija beidzis svētīt Jēkabu, un Jēkabs bija tikko izgājis no Īzaka, sava tēva, klātbūtnes, ka Ēsavs, viņa brālis, ienāca no savām medībām."
       },
       {
         "verse": 31,
@@ -3862,7 +3862,7 @@
       {
         "verse": 34,
         "en": "34 And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, <i>even </i>me also, O my father.",
-        "lv": "34 <p>Un, kad Ēsavs dzirdēja sava tēva vārdus, viņš sauca ar lielu un ārkārtīgi rūgtu saucienu, un sacīja savam tēvam, Svētī mani, arī mani, ak, mans tēvs."
+        "lv": "34 <span class='p'></span> Un, kad Ēsavs dzirdēja sava tēva vārdus, viņš sauca ar lielu un ārkārtīgi rūgtu saucienu, un sacīja savam tēvam, Svētī mani, arī mani, ak, mans tēvs."
       },
       {
         "verse": 35,
@@ -3897,12 +3897,12 @@
       {
         "verse": 41,
         "en": "41And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.",
-        "lv": "41 <p>Un Ēsavs ienīda Jēkabu svētības dēļ, ar ko viņa tēvs viņu svētīja: un Ēsavs sacīja savā sirdī, Sēru dienas manam tēvam ir tuvu klāt; tad es nokaušu savu brāli Jēkabu."
+        "lv": "41 <span class='p'></span> Un Ēsavs ienīda Jēkabu svētības dēļ, ar ko viņa tēvs viņu svētīja: un Ēsavs sacīja savā sirdī, Sēru dienas manam tēvam ir tuvu klāt; tad es nokaušu savu brāli Jēkabu."
       },
       {
         "verse": 42,
         "en": "42And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, <i>purposing </i>to kill thee.",
-        "lv": "42 <p>Un šie Ēsava, viņas vecākā dēla, vārdi tika stāstīti Rebekai: un viņa sūtīja un aicināja Jēkabu, savu jaunāko dēlu, un viņam sacīja, Lūk, tavs brālis Ēsavs, kas attiecas uz tevi, mierina sevi, <i>nodomādams </i>tevi nogalināt."
+        "lv": "42 <span class='p'></span> Un šie Ēsava, viņas vecākā dēla, vārdi tika stāstīti Rebekai: un viņa sūtīja un aicināja Jēkabu, savu jaunāko dēlu, un viņam sacīja, Lūk, tavs brālis Ēsavs, kas attiecas uz tevi, mierina sevi, <i>nodomādams </i>tevi nogalināt."
       },
       {
         "verse": 43,
@@ -3954,7 +3954,7 @@
       {
         "verse": 6,
         "en": "6When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;",
-        "lv": "6 <p>Kad Ēsavs redzēja, ka Īzaks bija svētījis Jēkabu un sūtījis viņu prom uz Padān-aramu ņemt sev sievu no turienes; un ka, viņam to svētījot, viņš tam piekodināja sacīdams, Tev nebūs ņemt sievu no Kanaāna meitām;"
+        "lv": "6 <span class='p'></span> Kad Ēsavs redzēja, ka Īzaks bija svētījis Jēkabu un sūtījis viņu prom uz Padān-aramu ņemt sev sievu no turienes; un ka, viņam to svētījot, viņš tam piekodināja sacīdams, Tev nebūs ņemt sievu no Kanaāna meitām;"
       },
       {
         "verse": 7,
@@ -3974,7 +3974,7 @@
       {
         "verse": 10,
         "en": "10 And Jacob went out from Beersheba, and went toward Haran.",
-        "lv": "10 <p>Un Jēkabs izgāja no Bēr-šebas un gāja uz Hārānu."
+        "lv": "10 <span class='p'></span> Un Jēkabs izgāja no Bēr-šebas un gāja uz Hārānu."
       },
       {
         "verse": 11,
@@ -4004,7 +4004,7 @@
       {
         "verse": 16,
         "en": "16 And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew <i>it </i>not.",
-        "lv": "16 <p>Un Jēkabs pamodās no sava miega, un viņš sacīja, Bez šaubām, tas KUNGS ir šajā vietā; un es <i>to </i>nezināju."
+        "lv": "16 <span class='p'></span> Un Jēkabs pamodās no sava miega, un viņš sacīja, Bez šaubām, tas KUNGS ir šajā vietā; un es <i>to </i>nezināju."
       },
       {
         "verse": 17,
@@ -4024,7 +4024,7 @@
       {
         "verse": 20,
         "en": "20And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,",
-        "lv": "20 <p>Un Jēkabs solīja solījumu sacīdams, Ja Dievs būs ar mani un mani sargās šajā ceļā, ko es eju, un dos man maizi ēst un tērpu apvilkt,"
+        "lv": "20 <span class='p'></span> Un Jēkabs solīja solījumu sacīdams, Ja Dievs būs ar mani un mani sargās šajā ceļā, ko es eju, un dos man maizi ēst un tērpu apvilkt,"
       },
       {
         "verse": 21,
@@ -4081,7 +4081,7 @@
       {
         "verse": 9,
         "en": "9And while he yet spake with them, Rachel came with her father's sheep: for she kept them.",
-        "lv": "9 <p>Un, kamēr viņš vēl ar tiem runāja, Rāhēle nāca ar sava tēva avīm: jo viņa tās sargāja."
+        "lv": "9 <span class='p'></span> Un, kamēr viņš vēl ar tiem runāja, Rāhēle nāca ar sava tēva avīm: jo viņa tās sargāja."
       },
       {
         "verse": 10,
@@ -4101,7 +4101,7 @@
       {
         "verse": 13,
         "en": "13And it came to pass, when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things.",
-        "lv": "13 <p>Un notika, kad Lābans dzirdēja vēstis par Jēkabu, viņa māsas dēlu, ka viņš skrēja viņu satikt un apskāva viņu, un skūpstīja viņu, un veda viņu savā namā. Un viņš Lābanam visu šo stāstīja."
+        "lv": "13 <span class='p'></span> Un notika, kad Lābans dzirdēja vēstis par Jēkabu, viņa māsas dēlu, ka viņš skrēja viņu satikt un apskāva viņu, un skūpstīja viņu, un veda viņu savā namā. Un viņš Lābanam visu šo stāstīja."
       },
       {
         "verse": 14,
@@ -4111,7 +4111,7 @@
       {
         "verse": 15,
         "en": "15And Laban said unto Jacob, Because thou <i>art </i>my brother, shouldest thou therefore serve me for nought? tell me, what <i>shall </i>thy wages <i>be</i>?",
-        "lv": "15 <p>Un Lābans Jēkabam sacīja, Tāpēc ka tu <i>esi </i>mans brālis, vai tāpēc tev kalpot man par neko? stāsti man, kāda <i>būs </i>tava alga?"
+        "lv": "15 <span class='p'></span> Un Lābans Jēkabam sacīja, Tāpēc ka tu <i>esi </i>mans brālis, vai tāpēc tev kalpot man par neko? stāsti man, kāda <i>būs </i>tava alga?"
       },
       {
         "verse": 16,
@@ -4126,7 +4126,7 @@
       {
         "verse": 18,
         "en": "18And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.",
-        "lv": "18 <p>Un Jēkabs mīlēja Rāhēli; un sacīja, Es tev kalpošu septiņus gadus par Rāhēli, jaunāko meitu."
+        "lv": "18 <span class='p'></span> Un Jēkabs mīlēja Rāhēli; un sacīja, Es tev kalpošu septiņus gadus par Rāhēli, jaunāko meitu."
       },
       {
         "verse": 19,
@@ -4141,7 +4141,7 @@
       {
         "verse": 21,
         "en": "21And Jacob said unto Laban, Give <i>me </i>my wife, for my days are fulfilled, that I may go in unto her.",
-        "lv": "21 <p>Un Jēkabs Lābanam sacīja, Dod <i>man </i>manu sievu, jo manas dienas ir piepildītas, lai es varu ieiet pie viņas."
+        "lv": "21 <span class='p'></span> Un Jēkabs Lābanam sacīja, Dod <i>man </i>manu sievu, jo manas dienas ir piepildītas, lai es varu ieiet pie viņas."
       },
       {
         "verse": 22,
@@ -4176,7 +4176,7 @@
       {
         "verse": 28,
         "en": "28And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.",
-        "lv": "28 <p>Un Jēkabs tā darīja un piepildīja viņas nedēļu: un viņš deva viņam arī Rāhēli, savu meitu, par sievu."
+        "lv": "28 <span class='p'></span> Un Jēkabs tā darīja un piepildīja viņas nedēļu: un viņš deva viņam arī Rāhēli, savu meitu, par sievu."
       },
       {
         "verse": 29,
@@ -4191,7 +4191,7 @@
       {
         "verse": 31,
         "en": "31And when the LORD saw that Leah <i>was </i>hated, he opened her womb: but Rachel <i>was </i>barren.",
-        "lv": "31 <p>Un, kad tas KUNGS redzēja, ka Lea <i>bija</i> ienīsta, viņš atvēra viņas klēpi: bet Rāhēle <i>bija </i>neauglīga."
+        "lv": "31 <span class='p'></span> Un, kad tas KUNGS redzēja, ka Lea <i>bija</i> ienīsta, viņš atvēra viņas klēpi: bet Rāhēle <i>bija </i>neauglīga."
       },
       {
         "verse": 32,
@@ -4238,7 +4238,7 @@
       {
         "verse": 5,
         "en": "5And Bilhah conceived, and bare Jacob a son.",
-        "lv": "5 <p>Un Bilha kļuva grūta un dzemdēja Jēkabam dēlu."
+        "lv": "5 <span class='p'></span> Un Bilha kļuva grūta un dzemdēja Jēkabam dēlu."
       },
       {
         "verse": 6,
@@ -4258,7 +4258,7 @@
       {
         "verse": 9,
         "en": "9When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife.",
-        "lv": "9 <p>Kad Lea redzēja, ka viņa bija mitējusies dzemdēt, viņa ņēma Zilpu, savu meiteni, un deva viņu Jēkabam par sievu."
+        "lv": "9 <span class='p'></span> Kad Lea redzēja, ka viņa bija mitējusies dzemdēt, viņa ņēma Zilpu, savu meiteni, un deva viņu Jēkabam par sievu."
       },
       {
         "verse": 10,
@@ -4283,7 +4283,7 @@
       {
         "verse": 14,
         "en": "14And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son's mandrakes.",
-        "lv": "14 <p>Un Rūbens gāja kviešu pļaujas dienās un atrada mandragoras laukā, un nesa tās savai mātei Leai. Tad Rāhēle sacīja Leai, Dod man, es tevi lūdzu, no sava dēla mandragorām."
+        "lv": "14 <span class='p'></span> Un Rūbens gāja kviešu pļaujas dienās un atrada mandragoras laukā, un nesa tās savai mātei Leai. Tad Rāhēle sacīja Leai, Dod man, es tevi lūdzu, no sava dēla mandragorām."
       },
       {
         "verse": 15,
@@ -4298,7 +4298,7 @@
       {
         "verse": 17,
         "en": "17And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son.",
-        "lv": "17 <p>Un Dievs uzklausīja Leu, un viņa kļuva grūta un dzemdēja Jēkabam piekto dēlu."
+        "lv": "17 <span class='p'></span> Un Dievs uzklausīja Leu, un viņa kļuva grūta un dzemdēja Jēkabam piekto dēlu."
       },
       {
         "verse": 18,
@@ -4323,7 +4323,7 @@
       {
         "verse": 22,
         "en": "22And God remembered Rachel, and God hearkened to her, and opened her womb.",
-        "lv": "22 <p>Un Dievs atcerējās Rāhēli, un Dievs viņu uzklausīja un atvēra viņas klēpi."
+        "lv": "22 <span class='p'></span> Un Dievs atcerējās Rāhēli, un Dievs viņu uzklausīja un atvēra viņas klēpi."
       },
       {
         "verse": 23,
@@ -4338,7 +4338,7 @@
       {
         "verse": 25,
         "en": "25And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country.",
-        "lv": "25 <p>Un notika, kad Rahēle bija dzemdējusi Jāzepu, ka Jēkabs Lābanam sacīja, Sūti mani prom, lai es varu iet uz savu paša vietu un uz savu zemi."
+        "lv": "25 <span class='p'></span> Un notika, kad Rahēle bija dzemdējusi Jāzepu, ka Jēkabs Lābanam sacīja, Sūti mani prom, lai es varu iet uz savu paša vietu un uz savu zemi."
       },
       {
         "verse": 26,
@@ -4398,7 +4398,7 @@
       {
         "verse": 37,
         "en": "37And Jacob took him rods of green poplar, and of the hazel and chestnut tree; and pilled white strakes in them, and made the white appear which <i>was </i>in the rods.",
-        "lv": "37 <p>Un Jēkabs ņēma sev zaļas papeles un lazdas, un kastaņu rīkstes; un mizoja tajās baltas svītras, un lika baltumam parādīties, kas <i>bija </i>rīkstēs."
+        "lv": "37 <span class='p'></span> Un Jēkabs ņēma sev zaļas papeles un lazdas, un kastaņu rīkstes; un mizoja tajās baltas svītras, un lika baltumam parādīties, kas <i>bija </i>rīkstēs."
       },
       {
         "verse": 38,
@@ -4515,7 +4515,7 @@
       {
         "verse": 17,
         "en": "17Then Jacob rose up, and set his sons and his wives upon camels;",
-        "lv": "17 <p>Tad Jēkabs cēlās un nostādīja savus dēlus un savas sievas uz kamieļiem;"
+        "lv": "17 <span class='p'></span> Tad Jēkabs cēlās un nostādīja savus dēlus un savas sievas uz kamieļiem;"
       },
       {
         "verse": 18,
@@ -4525,7 +4525,7 @@
       {
         "verse": 19,
         "en": "19And Laban went to shear his sheep: and Rachel had stolen the images that <i>were </i>her father's.",
-        "lv": "19 <p>Un Lābans gāja cirpt savas avis: un Rāhēle bija nozagusi tēlus, kas <i>bija </i>viņas tēva."
+        "lv": "19 <span class='p'></span> Un Lābans gāja cirpt savas avis: un Rāhēle bija nozagusi tēlus, kas <i>bija </i>viņas tēva."
       },
       {
         "verse": 20,
@@ -4540,7 +4540,7 @@
       {
         "verse": 22,
         "en": "22And it was told Laban on the third day that Jacob was fled.",
-        "lv": "22 <p>Un Lābanam tika stāstīts trešajā dienā, ka Jēkabs bija aizbēdzis."
+        "lv": "22 <span class='p'></span> Un Lābanam tika stāstīts trešajā dienā, ka Jēkabs bija aizbēdzis."
       },
       {
         "verse": 23,
@@ -4555,7 +4555,7 @@
       {
         "verse": 25,
         "en": "25Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.",
-        "lv": "25 <p>Tad Labāns panāca Jēkabu. Tad nu Jēkabs bija uzslējis savu telti kalnā: un Lābans ar saviem brāļiem apmetās Gileāda kalnā."
+        "lv": "25 <span class='p'></span> Tad Labāns panāca Jēkabu. Tad nu Jēkabs bija uzslējis savu telti kalnā: un Lābans ar saviem brāļiem apmetās Gileāda kalnā."
       },
       {
         "verse": 26,
@@ -4610,7 +4610,7 @@
       {
         "verse": 36,
         "en": "36And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What <i>is </i>my trespass? what <i>is </i>my sin, that thou hast so hotly pursued after me?",
-        "lv": "36 <p>Un Jēkabs apskaitās un rājās ar Lābanu: un Jēkabs atbildēja un Lābanam sacīja, Kas <i>ir </i>mans noziegums? kas <i>ir </i>mans grēks, ka tu tik karsti mani esi vajājis?"
+        "lv": "36 <span class='p'></span> Un Jēkabs apskaitās un rājās ar Lābanu: un Jēkabs atbildēja un Lābanam sacīja, Kas <i>ir </i>mans noziegums? kas <i>ir </i>mans grēks, ka tu tik karsti mani esi vajājis?"
       },
       {
         "verse": 37,
@@ -4650,7 +4650,7 @@
       {
         "verse": 44,
         "en": "44Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.",
-        "lv": "44 <p>Tāpēc nāc nu, slēgsim derību, es un tu; un lai tā ir par liecību starp mani un tevi."
+        "lv": "44 <span class='p'></span> Tāpēc nāc nu, slēgsim derību, es un tu; un lai tā ir par liecību starp mani un tevi."
       },
       {
         "verse": 45,
@@ -4722,7 +4722,7 @@
       {
         "verse": 3,
         "en": "3And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom.",
-        "lv": "3 <p>Un Jēkabs sūtīja vēstnešus savā priekšā pie sava brāļa Ēsava uz Seīra zemi, Edoma zemi."
+        "lv": "3 <span class='p'></span> Un Jēkabs sūtīja vēstnešus savā priekšā pie sava brāļa Ēsava uz Seīra zemi, Edoma zemi."
       },
       {
         "verse": 4,
@@ -4737,7 +4737,7 @@
       {
         "verse": 6,
         "en": "6And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.",
-        "lv": "6 <p>Un vēstneši atgriezās pie Jēkaba sacīdami, Mēs nācām pie tava brāļa Ēsava, un viņš arī nāk tevi satikt, un četrsimt vīrieši kopā ar viņu."
+        "lv": "6 <span class='p'></span> Un vēstneši atgriezās pie Jēkaba sacīdami, Mēs nācām pie tava brāļa Ēsava, un viņš arī nāk tevi satikt, un četrsimt vīrieši kopā ar viņu."
       },
       {
         "verse": 7,
@@ -4752,7 +4752,7 @@
       {
         "verse": 9,
         "en": "9And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:",
-        "lv": "9 <p>Un Jēkabs sacīja, Ak, mana tēva Ābrahāma Dievs un mana tēva Īzaka Dievs, tas KUNGS, kas man sacīja, Atgriezies uz savu zemi un pie saviem radiem, un es izturēšos pret tevi labi:"
+        "lv": "9 <span class='p'></span> Un Jēkabs sacīja, Ak, mana tēva Ābrahāma Dievs un mana tēva Īzaka Dievs, tas KUNGS, kas man sacīja, Atgriezies uz savu zemi un pie saviem radiem, un es izturēšos pret tevi labi:"
       },
       {
         "verse": 10,
@@ -4772,7 +4772,7 @@
       {
         "verse": 13,
         "en": "13And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;",
-        "lv": "13 <p>Un viņš piemājoja tur tajā pašā naktī; un ņēma no tā, kas nāca viņa rokā, dāvanu savam brālim Ēsavam;"
+        "lv": "13 <span class='p'></span> Un viņš piemājoja tur tajā pašā naktī; un ņēma no tā, kas nāca viņa rokā, dāvanu savam brālim Ēsavam;"
       },
       {
         "verse": 14,
@@ -4827,7 +4827,7 @@
       {
         "verse": 24,
         "en": "24And Jacob was left alone; and there wrestled a man with him until the breaking of the day.",
-        "lv": "24 <p>Un Jēkabs bija palicis viens; tur ar viņu līdz rītausmai cīkstējās vīrietis."
+        "lv": "24 <span class='p'></span> Un Jēkabs bija palicis viens; tur ar viņu līdz rītausmai cīkstējās vīrietis."
       },
       {
         "verse": 25,
@@ -4862,7 +4862,7 @@
       {
         "verse": 31,
         "en": "31And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.",
-        "lv": "31 <p>Un viņam ejot pār Penuēlu, saule uzlēca pār viņu, un viņš kliboja uz sava augšstilba."
+        "lv": "31 <span class='p'></span> Un viņam ejot pār Penuēlu, saule uzlēca pār viņu, un viņš kliboja uz sava augšstilba."
       },
       {
         "verse": 32,
@@ -4949,7 +4949,7 @@
       {
         "verse": 16,
         "en": "16So Esau returned that day on his way unto Seir.",
-        "lv": "16 <p>Tā Ēsavs tajā dienā atgriezās savā ceļā uz Seīru."
+        "lv": "16 <span class='p'></span> Tā Ēsavs tajā dienā atgriezās savā ceļā uz Seīru."
       },
       {
         "verse": 17,
@@ -4959,7 +4959,7 @@
       {
         "verse": 18,
         "en": "18And Jacob came to Shalem, a city of Shechem, which <i>is </i>in the land of Canaan, when he came from Padanaram; and pitched his tent before the city.",
-        "lv": "18 <p>Un Jēkabs nāca uz Šalēmu, Šehemas pilsētu, kas <i>ir </i>Kanaāna zemē, kad viņš nāca no Padān-aramas; un uzslēja savu telti pilsētas priekšā."
+        "lv": "18 <span class='p'></span> Un Jēkabs nāca uz Šalēmu, Šehemas pilsētu, kas <i>ir </i>Kanaāna zemē, kad viņš nāca no Padān-aramas; un uzslēja savu telti pilsētas priekšā."
       },
       {
         "verse": 19,
@@ -5001,7 +5001,7 @@
       {
         "verse": 6,
         "en": "6And Hamor the father of Shechem went out unto Jacob to commune with him.",
-        "lv": "6 <p>Un Hamors, Šehema tēvs, izgāja pie Jēkaba sarunāties ar viņu."
+        "lv": "6 <span class='p'></span> Un Hamors, Šehema tēvs, izgāja pie Jēkaba sarunāties ar viņu."
       },
       {
         "verse": 7,
@@ -5071,7 +5071,7 @@
       {
         "verse": 20,
         "en": "20And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying,",
-        "lv": "20 <p>Un Hamors un viņa dēls Šehems nāca pie savas pilsētas vārtiem, un tie sarunājās ar savas pilsētas vīriešiem sacīdami,"
+        "lv": "20 <span class='p'></span> Un Hamors un viņa dēls Šehems nāca pie savas pilsētas vārtiem, un tie sarunājās ar savas pilsētas vīriešiem sacīdami,"
       },
       {
         "verse": 21,
@@ -5096,7 +5096,7 @@
       {
         "verse": 25,
         "en": "25And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each man his sword, and came upon the city boldly, and slew all the males.",
-        "lv": "25 <p>Un notika trešajā dienā, kad tie bija sāpēs, ka divi no Jēkaba dēliem, Simeons un Levijs, Dīnas brāļi, ņēma katrs savu zobenu un nāca uz pilsētu drošsirdīgi un nokāva visus vīriešus."
+        "lv": "25 <span class='p'></span> Un notika trešajā dienā, kad tie bija sāpēs, ka divi no Jēkaba dēliem, Simeons un Levijs, Dīnas brāļi, ņēma katrs savu zobenu un nāca uz pilsētu drošsirdīgi un nokāva visus vīriešus."
       },
       {
         "verse": 26,
@@ -5121,7 +5121,7 @@
       {
         "verse": 30,
         "en": "30And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I <i>being </i>few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.",
-        "lv": "30 <p>Un Jēkabs Simeonam un Levijam sacīja, Jūs mani esat iztrūcinājuši, likt man smirdēt starp zemes iedzīvotājiem, starp kanaāniešiem un periziešiem: un mani nedaudzu skaitā, tie sapulcēsies kopā pret mani un mani nokaus; un es tikšu iznīcināts, es un mans nams."
+        "lv": "30 <span class='p'></span> Un Jēkabs Simeonam un Levijam sacīja, Jūs mani esat iztrūcinājuši, likt man smirdēt starp zemes iedzīvotājiem, starp kanaāniešiem un periziešiem: un mani nedaudzu skaitā, tie sapulcēsies kopā pret mani un mani nokaus; un es tikšu iznīcināts, es un mans nams."
       },
       {
         "verse": 31,
@@ -5138,7 +5138,7 @@
       {
         "verse": 2,
         "en": "2 Then Jacob said unto his household, and to all that <i>were </i>with him, Put away the strange gods that <i>are </i>among you, and be clean, and change your garments:",
-        "lv": "2 <p>Tad Jēkabs sacīja savai saimei un visiem, kas <i>bija </i>ar viņu, Atmetiet svešos dievus, kas <i>ir </i>starp jums, un esiet tīri un pārmainiet savus apģērbus:"
+        "lv": "2 <span class='p'></span> Tad Jēkabs sacīja savai saimei un visiem, kas <i>bija </i>ar viņu, Atmetiet svešos dievus, kas <i>ir </i>starp jums, un esiet tīri un pārmainiet savus apģērbus:"
       },
       {
         "verse": 3,
@@ -5158,7 +5158,7 @@
       {
         "verse": 6,
         "en": "6So Jacob came to Luz, which <i>is </i>in the land of Canaan, that <i>is</i>, Bethel, he and all the people that <i>were </i>with him.",
-        "lv": "6 <p>Tā Jēkabs nāca uz Lūzu, kas <i>ir </i>Kanaāna zemē, kas <i>ir </i>Bēt-ele, viņš un visi ļaudis, kas <i>bija </i>ar viņu."
+        "lv": "6 <span class='p'></span> Tā Jēkabs nāca uz Lūzu, kas <i>ir </i>Kanaāna zemē, kas <i>ir </i>Bēt-ele, viņš un visi ļaudis, kas <i>bija </i>ar viņu."
       },
       {
         "verse": 7,
@@ -5173,7 +5173,7 @@
       {
         "verse": 9,
         "en": "9And God appeared unto Jacob again, when he came out of Padanaram, and blessed him.",
-        "lv": "9 <p>Un Dievs atkal parādījās Jēkabam, kad viņš iznāca no Padan-aramas un viņu svētīja."
+        "lv": "9 <span class='p'></span> Un Dievs atkal parādījās Jēkabam, kad viņš iznāca no Padan-aramas un viņu svētīja."
       },
       {
         "verse": 10,
@@ -5208,7 +5208,7 @@
       {
         "verse": 16,
         "en": "16And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.",
-        "lv": "16 <p>Un tie devās ceļā no Bēt-eles; un bija tikai neliels ceļš nākt uz Efrātu: un Rāhēle dzemdēja, un viņai bija smagas dzemdības."
+        "lv": "16 <span class='p'></span> Un tie devās ceļā no Bēt-eles; un bija tikai neliels ceļš nākt uz Efrātu: un Rāhēle dzemdēja, un viņai bija smagas dzemdības."
       },
       {
         "verse": 17,
@@ -5233,7 +5233,7 @@
       {
         "verse": 21,
         "en": "21And Israel journeyed, and spread his tent beyond the tower of Edar.",
-        "lv": "21 <p>Un Israēls devās ceļā un izpleta savu telti aiz Ēdēra torņa."
+        "lv": "21 <span class='p'></span> Un Israēls devās ceļā un izpleta savu telti aiz Ēdēra torņa."
       },
       {
         "verse": 22,
@@ -5263,7 +5263,7 @@
       {
         "verse": 27,
         "en": "27And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which <i>is </i>Hebron, where Abraham and Isaac sojourned.",
-        "lv": "27 <p>Un Jēkabs nāca pie sava tēva Īzaka uz Mamri, uz Arbas pilsētu, kas ir Hebrona, kur Ābrahāms un Īzaks piemājoja."
+        "lv": "27 <span class='p'></span> Un Jēkabs nāca pie sava tēva Īzaka uz Mamri, uz Arbas pilsētu, kas ir Hebrona, kur Ābrahāms un Īzaks piemājoja."
       },
       {
         "verse": 28,
@@ -5285,7 +5285,7 @@
       {
         "verse": 2,
         "en": "2Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;",
-        "lv": "2 Ēsavs ņēma savas sievas no Kanaāna meitām; Adu, hētieša Ēlona meitu un Oholibāmu, hivieša Cibona meitu, Anas meitu; "
+        "lv": "2 Ēsavs ņēma savas sievas no Kanaāna meitām; Adu, hētieša Ēlona meitu un Oholibāmu, hivieša Cibona meitu, Anas meitu;"
       },
       {
         "verse": 3,
@@ -5305,7 +5305,7 @@
       {
         "verse": 6,
         "en": "6And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.",
-        "lv": "6 <p>Un Ēsavs ņēma savas sievas un savus dēlus, un savas meitas, un visus sava nama cilvēkus, un savus lopus, un visus savus zvērus, un visu savu mantu, ko viņš bija ieguvis Kanaāna zemē; un gāja uz zemi no sava brāļa Jēkaba sejas."
+        "lv": "6 <span class='p'></span> Un Ēsavs ņēma savas sievas un savus dēlus, un savas meitas, un visus sava nama cilvēkus, un savus lopus, un visus savus zvērus, un visu savu mantu, ko viņš bija ieguvis Kanaāna zemē; un gāja uz zemi no sava brāļa Jēkaba sejas."
       },
       {
         "verse": 7,
@@ -5320,7 +5320,7 @@
       {
         "verse": 9,
         "en": "9And these <i>are </i>the generations of Esau the father of the Edomites in mount Seir:",
-        "lv": "9 <p>Un šīs <i>ir Ē</i>sava, edomiešu tēva, paaudzes Seīra kalnā:"
+        "lv": "9 <span class='p'></span> Un šīs <i>ir Ē</i>sava, edomiešu tēva, paaudzes Seīra kalnā:"
       },
       {
         "verse": 10,
@@ -5345,12 +5345,12 @@
       {
         "verse": 14,
         "en": "14And these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau's wife: and she bare to Esau Jeush, and Jaalam, and Korah.",
-        "lv": "14 <p>Un šie ir Ēsava sievas Oholibāmas, Cibona meitas, Anas meitas, dēli: un viņa dzemdēja Ēsavam Jeūšu un Jaalāmu, un Korahu."
+        "lv": "14 <span class='p'></span> Un šie ir Ēsava sievas Oholibāmas, Cibona meitas, Anas meitas, dēli: un viņa dzemdēja Ēsavam Jeūšu un Jaalāmu, un Korahu."
       },
       {
         "verse": 15,
         "en": "15These <i>were </i>dukes of the sons of Esau: the sons of Eliphaz the firstborn <i>son </i>of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,",
-        "lv": "15 <p>Šie <i>bija </i>Ēsava dēlu hercogi: Ēsava pirmdzimtā <i>dēla </i>Ēlifasa dēli; hercogs Tēmāns, hercogs Omārs, hercogs Cefo, hercogs Kenazs,"
+        "lv": "15 <span class='p'></span> Šie <i>bija </i>Ēsava dēlu hercogi: Ēsava pirmdzimtā <i>dēla </i>Ēlifasa dēli; hercogs Tēmāns, hercogs Omārs, hercogs Cefo, hercogs Kenazs,"
       },
       {
         "verse": 16,
@@ -5360,12 +5360,12 @@
       {
         "verse": 17,
         "en": "17And these <i>are </i>the sons of Reuel Esau's son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these <i>are</i> the dukes <i>that came</i> of Reuel in the land of Edom; these <i>are </i>the sons of Bashemath Esau's wife.",
-        "lv": "17 <p>Un šie <i>ir </i>Ēsava dēla Reuēla dēli; hercogs Nahats, hercogs Zerahs, hercogs Šamma, hercogs Miza: šie <i>ir </i>hercogi,<i> kas nāca</i> no Reuēla Edoma zemē; šie <i>ir Ē</i>sava sievas Basmates dēli."
+        "lv": "17 <span class='p'></span> Un šie <i>ir </i>Ēsava dēla Reuēla dēli; hercogs Nahats, hercogs Zerahs, hercogs Šamma, hercogs Miza: šie <i>ir </i>hercogi,<i> kas nāca</i> no Reuēla Edoma zemē; šie <i>ir Ē</i>sava sievas Basmates dēli."
       },
       {
         "verse": 18,
         "en": "18And these <i>are </i>the sons of Aholibamah Esau's wife; duke Jeush, duke Jaalam, duke Korah: these <i>were</i> the dukes <i>that came</i> of Aholibamah the daughter of Anah, Esau's wife.",
-        "lv": "18 <p>Un šie <i>ir </i>Ēsava sievas Oholibāmas dēli; hercogs Jeūšs, hercogs Jaalāms, hercogs Korahs: šie <i>bija </i>hercogi, <i>kas nāca</i> no Ēsava sievas Oholibāmas, Anas meitas."
+        "lv": "18 <span class='p'></span> Un šie <i>ir </i>Ēsava sievas Oholibāmas dēli; hercogs Jeūšs, hercogs Jaalāms, hercogs Korahs: šie <i>bija </i>hercogi, <i>kas nāca</i> no Ēsava sievas Oholibāmas, Anas meitas."
       },
       {
         "verse": 19,
@@ -5375,7 +5375,7 @@
       {
         "verse": 20,
         "en": "20These <i>are </i>the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,",
-        "lv": "20 <p>Šie <i>ir </i>horieša Seīra dēli, kas apdzīvoja zemi; Lotāns un Šobāls, un Cibons, un Ana,"
+        "lv": "20 <span class='p'></span> Šie <i>ir </i>horieša Seīra dēli, kas apdzīvoja zemi; Lotāns un Šobāls, un Cibons, un Ana,"
       },
       {
         "verse": 21,
@@ -5430,7 +5430,7 @@
       {
         "verse": 31,
         "en": "31And these <i>are </i>the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.",
-        "lv": "31 <p>Un šie <i>ir </i>ķēniņi, kas valdīja Edoma zemē, pirms kāds ķēniņš valdīja pār Israēla bērniem."
+        "lv": "31 <span class='p'></span> Un šie <i>ir </i>ķēniņi, kas valdīja Edoma zemē, pirms kāds ķēniņš valdīja pār Israēla bērniem."
       },
       {
         "verse": 32,
@@ -5517,7 +5517,7 @@
       {
         "verse": 5,
         "en": "5And Joseph dreamed a dream, and he told <i>it </i>his brethren: and they hated him yet the more.",
-        "lv": "5 <p>Un Jāzeps sapņoja sapni, un viņš <i>to</i> stāstīja saviem brāļiem: un tie viņu ienīda vēl vairāk."
+        "lv": "5 <span class='p'></span> Un Jāzeps sapņoja sapni, un viņš <i>to</i> stāstīja saviem brāļiem: un tie viņu ienīda vēl vairāk."
       },
       {
         "verse": 6,
@@ -5537,7 +5537,7 @@
       {
         "verse": 9,
         "en": "9And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.",
-        "lv": "9 <p>Un viņš sapņoja vēl citu sapni un to stāstīja saviem brāļiem, un sacīja, Lūk, es vēl esmu sapņojis sapni; un, lūk, saule un mēness, un vienpadsmit zvaigznes man paklanījās."
+        "lv": "9 <span class='p'></span> Un viņš sapņoja vēl citu sapni un to stāstīja saviem brāļiem, un sacīja, Lūk, es vēl esmu sapņojis sapni; un, lūk, saule un mēness, un vienpadsmit zvaigznes man paklanījās."
       },
       {
         "verse": 10,
@@ -5552,7 +5552,7 @@
       {
         "verse": 12,
         "en": "12And his brethren went to feed their father's flock in Shechem.",
-        "lv": "12 <p>Un viņa brāļi gāja ganīt sava tēva ganāmpulku Šehemā."
+        "lv": "12 <span class='p'></span> Un viņa brāļi gāja ganīt sava tēva ganāmpulku Šehemā."
       },
       {
         "verse": 13,
@@ -5567,7 +5567,7 @@
       {
         "verse": 15,
         "en": "15And a certain man found him, and, behold, <i>he was</i> wandering in the field: and the man asked him, saying, What seekest thou?",
-        "lv": "15 <p>Un kāds vīrietis viņu atrada, un, lūk, <i>viņš </i>klejoja laukā: un vīrietis viņam prasīja sacīdams, Ko tu meklē?"
+        "lv": "15 <span class='p'></span> Un kāds vīrietis viņu atrada, un, lūk, <i>viņš </i>klejoja laukā: un vīrietis viņam prasīja sacīdams, Ko tu meklē?"
       },
       {
         "verse": 16,
@@ -5607,7 +5607,7 @@
       {
         "verse": 23,
         "en": "23And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, <i>his </i>coat of <i>many </i>colours that <i>was </i>on him;",
-        "lv": "23 <p>Un notika, kad Jāzeps bija nācis pie saviem brāļiem, ka tie noģērba Jāzepam <i>viņa </i>svārkus, viņa<i> daudz</i>krāsainos svārkus, kas viņam <i>bija</i> virsū;"
+        "lv": "23 <span class='p'></span> Un notika, kad Jāzeps bija nācis pie saviem brāļiem, ka tie noģērba Jāzepam <i>viņa </i>svārkus, viņa<i> daudz</i>krāsainos svārkus, kas viņam <i>bija</i> virsū;"
       },
       {
         "verse": 24,
@@ -5632,12 +5632,12 @@
       {
         "verse": 28,
         "en": "28Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty <i>pieces </i>of silver: and they brought Joseph into Egypt.",
-        "lv": "28 <p>Tad tur gāja garām midiāniešu tirgotāji; un tie izvilka un izcēla Jāzepu no bedres un pārdeva Jāzepu ismaēliešiem par divdesmit sudraba <i>gabaliem</i>: un tie aizveda Jāzepu uz Ēģipti."
+        "lv": "28 <span class='p'></span> Tad tur gāja garām midiāniešu tirgotāji; un tie izvilka un izcēla Jāzepu no bedres un pārdeva Jāzepu ismaēliešiem par divdesmit sudraba <i>gabaliem</i>: un tie aizveda Jāzepu uz Ēģipti."
       },
       {
         "verse": 29,
         "en": "29And Reuben returned unto the pit; and, behold, Joseph <i>was </i>not in the pit; and he rent his clothes.",
-        "lv": "29 <p>Un Rūbens atgriezās pie bedres; un, lūk, Jāzeps nebija bedrē; un viņš saplēsa savas drēbes."
+        "lv": "29 <span class='p'></span> Un Rūbens atgriezās pie bedres; un, lūk, Jāzeps nebija bedrē; un viņš saplēsa savas drēbes."
       },
       {
         "verse": 30,
@@ -5647,7 +5647,7 @@
       {
         "verse": 31,
         "en": "31And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;",
-        "lv": "31 Un tie ņēma Jāzepa svārkus un nogalināja kazlēnu no kazām, un iemērca svārkus asinīs; "
+        "lv": "31 Un tie ņēma Jāzepa svārkus un nogalināja kazlēnu no kazām, un iemērca svārkus asinīs;"
       },
       {
         "verse": 32,
@@ -5672,7 +5672,7 @@
       {
         "verse": 36,
         "en": "36And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, <i>and </i>captain of the guard.",
-        "lv": "36 <p>Un midiānieši viņu pārdeva Ēģiptē Potifaram, faraona virsniekam <i>un </i>gvardes kapteinim."
+        "lv": "36 <span class='p'></span> Un midiānieši viņu pārdeva Ēģiptē Potifaram, faraona virsniekam <i>un </i>gvardes kapteinim."
       }
     ],
     "38": [
@@ -5704,17 +5704,17 @@
       {
         "verse": 6,
         "en": "6And Judah took a wife for Er his firstborn, whose name <i>was </i>Tamar.",
-        "lv": "6 <p>Un Jūda ņēma sievu savam pirmdzimtajam Gēram, kuras vārds <i>bija </i>Tamāra."
+        "lv": "6 <span class='p'></span> Un Jūda ņēma sievu savam pirmdzimtajam Gēram, kuras vārds <i>bija </i>Tamāra."
       },
       {
         "verse": 7,
         "en": "7And Er, Judah's firstborn, was wicked in the sight of the LORD; and the LORD slew him.",
-        "lv": "7 <p>Un Jūdas pirmdzimtais Gērs bija nelietīgs tā KUNGA skatienā; un tas KUNGS viņu nokāva."
+        "lv": "7 <span class='p'></span> Un Jūdas pirmdzimtais Gērs bija nelietīgs tā KUNGA skatienā; un tas KUNGS viņu nokāva."
       },
       {
         "verse": 8,
         "en": "8And Judah said unto Onan, Go in unto thy brother's wife, and marry her, and raise up seed to thy brother.",
-        "lv": "8 <p>Un Jūda Onānam sacīja, Ieej pie sava brāļa sievas un preci viņu, un uzcel sēklu savam brālim."
+        "lv": "8 <span class='p'></span> Un Jūda Onānam sacīja, Ieej pie sava brāļa sievas un preci viņu, un uzcel sēklu savam brālim."
       },
       {
         "verse": 9,
@@ -5734,12 +5734,12 @@
       {
         "verse": 12,
         "en": "12And in process of time the daughter of Shuah Judah's wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.",
-        "lv": "12 <p>Un laika gaitā Šuas meita, Jūdas sieva, nomira; un Jūda tika mierināts un devās pie saviem avju cirpējiem uz Timnu, viņš un viņa draugs adullamietis Hirā."
+        "lv": "12 <span class='p'></span> Un laika gaitā Šuas meita, Jūdas sieva, nomira; un Jūda tika mierināts un devās pie saviem avju cirpējiem uz Timnu, viņš un viņa draugs adullamietis Hirā."
       },
       {
         "verse": 13,
         "en": "13And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.",
-        "lv": "13 <p>Un tas tika stāstīts Tamārai sakot, Lūk, tavs vīratēvs dodas uz Timnu cirpt savas avis."
+        "lv": "13 <span class='p'></span> Un tas tika stāstīts Tamārai sakot, Lūk, tavs vīratēvs dodas uz Timnu cirpt savas avis."
       },
       {
         "verse": 14,
@@ -5774,7 +5774,7 @@
       {
         "verse": 20,
         "en": "20And Judah sent the kid by the hand of his friend the Adullamite, to receive <i>his </i>pledge from the woman's hand: but he found her not.",
-        "lv": "20 <p>Un Jūda sūtīja kazlēnu caur sava drauga adullāmieša roku saņemt <i>savu </i>ķīlu no sievietes rokas: bet viņš to neatrada."
+        "lv": "20 <span class='p'></span> Un Jūda sūtīja kazlēnu caur sava drauga adullāmieša roku saņemt <i>savu </i>ķīlu no sievietes rokas: bet viņš to neatrada."
       },
       {
         "verse": 21,
@@ -5784,7 +5784,7 @@
       {
         "verse": 22,
         "en": "22And he returned to Judah, and said, I cannot find her; and also the men of the place said, <i>that</i> there was no harlot in this <i>place</i>.",
-        "lv": "22 <p>Un viņš atgriezās pie Jūdas un sacīja, Es nevaru viņu atrast; un arī tās vietas vīrieši sacīja, <i>ka </i>šajā <i>vietā </i>nebija ielasmeitas."
+        "lv": "22 <span class='p'></span> Un viņš atgriezās pie Jūdas un sacīja, Es nevaru viņu atrast; un arī tās vietas vīrieši sacīja, <i>ka </i>šajā <i>vietā </i>nebija ielasmeitas."
       },
       {
         "verse": 23,
@@ -5794,7 +5794,7 @@
       {
         "verse": 24,
         "en": "24And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she <i>is </i>with child by whoredom. And Judah said, Bring her forth, and let her be burnt.",
-        "lv": "24 <p>Un notika apmēram pēc trīs mēnešiem, ka Jūdam tika stāstīts sakot, Tava vedekla Tamāra ir dzinusi maucību; un arī, lūk, viņa <i>ir </i>grūta no maucības. Un Jūda sacīja, Izvediet viņu un lai viņa tiek sadedzināta."
+        "lv": "24 <span class='p'></span> Un notika apmēram pēc trīs mēnešiem, ka Jūdam tika stāstīts sakot, Tava vedekla Tamāra ir dzinusi maucību; un arī, lūk, viņa <i>ir </i>grūta no maucības. Un Jūda sacīja, Izvediet viņu un lai viņa tiek sadedzināta."
       },
       {
         "verse": 25,
@@ -5809,7 +5809,7 @@
       {
         "verse": 27,
         "en": "27And it came to pass in the time of her travail, that, behold, twins <i>were </i>in her womb.",
-        "lv": "27 <p>Un notika viņas dzemdību laikā, ka, lūk, dvīņi <i>bija </i>viņas klēpī."
+        "lv": "27 <span class='p'></span> Un notika viņas dzemdību laikā, ka, lūk, dvīņi <i>bija </i>viņas klēpī."
       },
       {
         "verse": 28,
@@ -5861,7 +5861,7 @@
       {
         "verse": 7,
         "en": "7And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me.",
-        "lv": "7 <p>Un pēc šī notika, ka viņa saimnieka sieva meta savas acis uz Jāzepu; un viņa sacīja, Guli ar mani."
+        "lv": "7 <span class='p'></span> Un pēc šī notika, ka viņa saimnieka sieva meta savas acis uz Jāzepu; un viņa sacīja, Guli ar mani."
       },
       {
         "verse": 8,
@@ -5891,7 +5891,7 @@
       {
         "verse": 13,
         "en": "13And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,",
-        "lv": "13 <p>Un notika, kad viņa redzēja, ka viņš bija atstājis savu apģērbu viņas rokā un bija izbēdzis,"
+        "lv": "13 <span class='p'></span> Un notika, kad viņa redzēja, ka viņš bija atstājis savu apģērbu viņas rokā un bija izbēdzis,"
       },
       {
         "verse": 14,
@@ -5926,12 +5926,12 @@
       {
         "verse": 20,
         "en": "20And Joseph's master took him, and put him into the prison, a place where the king's prisoners <i>were </i>bound: and he was there in the prison.",
-        "lv": "20 <p>Un Jāzepa saimnieks viņu ņēma un lika viņu cietumā, vietā, kur <i>bija </i>saistīti ķēniņa cietumnieki: un viņš tur bija cietumā."
+        "lv": "20 <span class='p'></span> Un Jāzepa saimnieks viņu ņēma un lika viņu cietumā, vietā, kur <i>bija </i>saistīti ķēniņa cietumnieki: un viņš tur bija cietumā."
       },
       {
         "verse": 21,
         "en": "21But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.",
-        "lv": "21 <p>Bet tas KUNGS bija ar Jāzepu un viņam rādīja žēlsirdību, un viņam deva labvēlību cietuma sarga skatienā."
+        "lv": "21 <span class='p'></span> Bet tas KUNGS bija ar Jāzepu un viņam rādīja žēlsirdību, un viņam deva labvēlību cietuma sarga skatienā."
       },
       {
         "verse": 22,
@@ -5968,7 +5968,7 @@
       {
         "verse": 5,
         "en": "5And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which <i>were </i>bound in the prison.",
-        "lv": "5 <p>Un tie sapņoja sapni, tie abi, katrs savu sapni vienā naktī, katrs atbilstoši sava sapņa tulkojumam, Ēģiptes ķēniņa dzērienu devējs un maiznieks, kas <i>bija </i>saistīti cietumā."
+        "lv": "5 <span class='p'></span> Un tie sapņoja sapni, tie abi, katrs savu sapni vienā naktī, katrs atbilstoši sava sapņa tulkojumam, Ēģiptes ķēniņa dzērienu devējs un maiznieks, kas <i>bija </i>saistīti cietumā."
       },
       {
         "verse": 6,
@@ -6043,7 +6043,7 @@
       {
         "verse": 20,
         "en": "20And it came to pass the third day,<i> which was</i> Pharaoh's birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.",
-        "lv": "20 <p>Un notika trešajā dienā, <i>kas bija </i>faraona dzimšanas diena, ka viņš taisīja dzīres visiem saviem kalpiem: un viņš pacēla galvenā dzērienu devēja un galvenā maiznieka galvu starp saviem kalpiem."
+        "lv": "20 <span class='p'></span> Un notika trešajā dienā, <i>kas bija </i>faraona dzimšanas diena, ka viņš taisīja dzīres visiem saviem kalpiem: un viņš pacēla galvenā dzērienu devēja un galvenā maiznieka galvu starp saviem kalpiem."
       },
       {
         "verse": 21,
@@ -6105,7 +6105,7 @@
       {
         "verse": 9,
         "en": "9Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:",
-        "lv": "9 <p>Tad galvenais dzērienu devējs runāja uz faraonu sacīdams, Es šajā dienā atceros savas vainas:"
+        "lv": "9 <span class='p'></span> Tad galvenais dzērienu devējs runāja uz faraonu sacīdams, Es šajā dienā atceros savas vainas:"
       },
       {
         "verse": 10,
@@ -6130,7 +6130,7 @@
       {
         "verse": 14,
         "en": "14Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved <i>himself</i>, and changed his raiment, and came in unto Pharaoh.",
-        "lv": "14 <p>Tad faraons sūtīja un aicināja Jāzepu, un tie viņu izveda steidzīgi no kazemāta: un viņš noskuvās un pārmainīja savu tērpu, un ienāca pie faraona."
+        "lv": "14 <span class='p'></span> Tad faraons sūtīja un aicināja Jāzepu, un tie viņu izveda steidzīgi no kazemāta: un viņš noskuvās un pārmainīja savu tērpu, un ienāca pie faraona."
       },
       {
         "verse": 15,
@@ -6185,7 +6185,7 @@
       {
         "verse": 25,
         "en": "25And Joseph said unto Pharaoh, The dream of Pharaoh <i>is </i>one: God hath shewed Pharaoh what he <i>is </i>about to do.",
-        "lv": "25 <p>Un Jāzeps faraonam sacīja, Faraona sapnis <i>ir </i>viens: Dievs ir faraonam rādījis, ko viņš grasās darīt."
+        "lv": "25 <span class='p'></span> Un Jāzeps faraonam sacīja, Faraona sapnis <i>ir </i>viens: Dievs ir faraonam rādījis, ko viņš grasās darīt."
       },
       {
         "verse": 26,
@@ -6225,7 +6225,7 @@
       {
         "verse": 33,
         "en": "33Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.",
-        "lv": "33 <p>Tāpēc nu, lai faraons izmeklē apdomīgu un gudru vīrieti un viņu liek pār Ēģiptes zemi."
+        "lv": "33 <span class='p'></span> Tāpēc nu, lai faraons izmeklē apdomīgu un gudru vīrieti un viņu liek pār Ēģiptes zemi."
       },
       {
         "verse": 34,
@@ -6245,7 +6245,7 @@
       {
         "verse": 37,
         "en": "37And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.",
-        "lv": "37 <p>Un tā lieta bija laba faraona acīs un visu viņa kalpu acīs."
+        "lv": "37 <span class='p'></span> Un tā lieta bija laba faraona acīs un visu viņa kalpu acīs."
       },
       {
         "verse": 38,
@@ -6290,7 +6290,7 @@
       {
         "verse": 46,
         "en": "46And Joseph <i>was </i>thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.",
-        "lv": "46 <p>Un Jāzeps <i>bija </i>trīsdesmit gadu vecs, kad viņš stāvēja Ēģiptes ķēniņa faraona priekšā. Un Jāzeps izgāja no faraona klātbūtnes un gāja pa visu Ēģiptes zemi."
+        "lv": "46 <span class='p'></span> Un Jāzeps <i>bija </i>trīsdesmit gadu vecs, kad viņš stāvēja Ēģiptes ķēniņa faraona priekšā. Un Jāzeps izgāja no faraona klātbūtnes un gāja pa visu Ēģiptes zemi."
       },
       {
         "verse": 47,
@@ -6325,7 +6325,7 @@
       {
         "verse": 53,
         "en": "53And the seven years of plenteousness, that was in the land of Egypt, were ended.",
-        "lv": "53 <p>Un septiņi pārticības gadi, kas bija Ēģiptes zemē, bija beigušies."
+        "lv": "53 <span class='p'></span> Un septiņi pārticības gadi, kas bija Ēģiptes zemē, bija beigušies."
       },
       {
         "verse": 54,
@@ -6362,7 +6362,7 @@
       {
         "verse": 3,
         "en": "3And Joseph's ten brethren went down to buy corn in Egypt.",
-        "lv": "3 <p>Un Jāzepa desmit brāļi nogāja uz Ēģipti pirkt labību."
+        "lv": "3 <span class='p'></span> Un Jāzepa desmit brāļi nogāja uz Ēģipti pirkt labību."
       },
       {
         "verse": 4,
@@ -6452,7 +6452,7 @@
       {
         "verse": 21,
         "en": "21And they said one to another, We <i>are </i>verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.",
-        "lv": "21 <p>Un tie cits citam sacīja, Mēs patiesi <i>esam </i>vainīgi par mūsu brāli, ka mēs redzējām viņa dvēseles mokas, kad viņš mūs lūdzās, un mēs negribējām klausīties; tāpēc šie spaidi ir nākuši uz mums."
+        "lv": "21 <span class='p'></span> Un tie cits citam sacīja, Mēs patiesi <i>esam </i>vainīgi par mūsu brāli, ka mēs redzējām viņa dvēseles mokas, kad viņš mūs lūdzās, un mēs negribējām klausīties; tāpēc šie spaidi ir nākuši uz mums."
       },
       {
         "verse": 22,
@@ -6472,7 +6472,7 @@
       {
         "verse": 25,
         "en": "25Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.",
-        "lv": "25 <p>Tad Jāzeps pavēlēja pildīt viņu maisus ar labību un atjaunot ikviena vīrieša naudu viņa maisā, un tiem dot iztiku ceļam: un tā viņš tiem darīja."
+        "lv": "25 <span class='p'></span> Tad Jāzeps pavēlēja pildīt viņu maisus ar labību un atjaunot ikviena vīrieša naudu viņa maisā, un tiem dot iztiku ceļam: un tā viņš tiem darīja."
       },
       {
         "verse": 26,
@@ -6492,7 +6492,7 @@
       {
         "verse": 29,
         "en": "29And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,",
-        "lv": "29 <p>Un tie nāca pie sava tēva Jēkaba uz Kanaāna zemi, un tam stāstīja visu, kas tiem atgadījās; sacīdami,"
+        "lv": "29 <span class='p'></span> Un tie nāca pie sava tēva Jēkaba uz Kanaāna zemi, un tam stāstīja visu, kas tiem atgadījās; sacīdami,"
       },
       {
         "verse": 30,
@@ -6522,7 +6522,7 @@
       {
         "verse": 35,
         "en": "35And it came to pass as they emptied their sacks, that, behold, every man's bundle of money <i>was </i>in his sack: and when <i>both </i>they and their father saw the bundles of money, they were afraid.",
-        "lv": "35 <p>Un notika, tiem iztukšojot savus maisus, ka, lūk, ikviena vīrieša naudas saišķis <i>bija </i>viņa maisā: un, kad tie un viņu tēvs redzēja naudas saišķus, tie baidījās."
+        "lv": "35 <span class='p'></span> Un notika, tiem iztukšojot savus maisus, ka, lūk, ikviena vīrieša naudas saišķis <i>bija </i>viņa maisā: un, kad tie un viņu tēvs redzēja naudas saišķus, tie baidījās."
       },
       {
         "verse": 36,
@@ -6614,7 +6614,7 @@
       {
         "verse": 15,
         "en": "15And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
-        "lv": "15 <p>Un vīrieši ņēma to dāvanu un ņēma divkāršu naudu savā rokā, un Benjamīnu; un cēlās, un devās uz Ēģipti, un nostājās Jāzepa priekšā."
+        "lv": "15 <span class='p'></span> Un vīrieši ņēma to dāvanu un ņēma divkāršu naudu savā rokā, un Benjamīnu; un cēlās, un devās uz Ēģipti, un nostājās Jāzepa priekšā."
       },
       {
         "verse": 16,
@@ -6669,7 +6669,7 @@
       {
         "verse": 26,
         "en": "26And when Joseph came home, they brought him the present which <i>was</i> in their hand into the house, and bowed themselves to him to the earth.",
-        "lv": "26 <p>Un, kad Jāzeps nāca mājās, tie nesa namā viņam dāvanu, kas <i>bija </i>viņu rokā, un klanījās viņa priekšā līdz zemei."
+        "lv": "26 <span class='p'></span> Un, kad Jāzeps nāca mājās, tie nesa namā viņam dāvanu, kas <i>bija </i>viņu rokā, un klanījās viņa priekšā līdz zemei."
       },
       {
         "verse": 27,
@@ -6694,7 +6694,7 @@
       {
         "verse": 31,
         "en": "31And he washed his face, and went out, and refrained himself, and said, Set on bread.",
-        "lv": "31 <p>Un viņš mazgāja savu seju un izgāja ārā, un apvaldījās, un sacīja, Uzlieciet maizi."
+        "lv": "31 <span class='p'></span> Un viņš mazgāja savu seju un izgāja ārā, un apvaldījās, un sacīja, Uzlieciet maizi."
       },
       {
         "verse": 32,
@@ -6741,7 +6741,7 @@
       {
         "verse": 6,
         "en": "6And he overtook them, and he spake unto them these same words.",
-        "lv": "6 <p>Un viņš tos panāca, un viņš runāja uz tiem tos pašus vārdus."
+        "lv": "6 <span class='p'></span> Un viņš tos panāca, un viņš runāja uz tiem tos pašus vārdus."
       },
       {
         "verse": 7,
@@ -6781,7 +6781,7 @@
       {
         "verse": 14,
         "en": "14And Judah and his brethren came to Joseph's house; for he was yet there: and they fell before him on the ground.",
-        "lv": "14 <p>Un Jūda un viņa brāļi nāca uz Jāzepa namu; jo viņš vēl bija tur: un tie krita viņa priekšā uz zemes."
+        "lv": "14 <span class='p'></span> Un Jūda un viņa brāļi nāca uz Jāzepa namu; jo viņš vēl bija tur: un tie krita viņa priekšā uz zemes."
       },
       {
         "verse": 15,
@@ -6801,7 +6801,7 @@
       {
         "verse": 18,
         "en": "18Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord's ears, and let not thine anger burn against thy servant: for thou <i>art </i>even as Pharaoh.",
-        "lv": "18 <p>Tad Jūda nāca viņam tuvu un sacīja, Ak, mans kungs, lai tavs kalps, es tevi lūdzu, runā vārdu mana kunga ausīs, un lai tavas dusmas nedeg pret tavu kalpu: jo tu <i>esi </i>pat kā faraons."
+        "lv": "18 <span class='p'></span> Tad Jūda nāca viņam tuvu un sacīja, Ak, mans kungs, lai tavs kalps, es tevi lūdzu, runā vārdu mana kunga ausīs, un lai tavas dusmas nedeg pret tavu kalpu: jo tu <i>esi </i>pat kā faraons."
       },
       {
         "verse": 19,
@@ -6908,7 +6908,7 @@
       {
         "verse": 5,
         "en": "5Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.",
-        "lv": "5 <p>Tāpēc neesiet noskumuši, ne dusmīgi par sevi, ka jūs mani pārdevāt šurp: jo Dievs mani sūtīja jūsu priekšā pasaudzēt dzīvību."
+        "lv": "5 <span class='p'></span> Tāpēc neesiet noskumuši, ne dusmīgi par sevi, ka jūs mani pārdevāt šurp: jo Dievs mani sūtīja jūsu priekšā pasaudzēt dzīvību."
       },
       {
         "verse": 6,
@@ -6928,7 +6928,7 @@
       {
         "verse": 9,
         "en": "9Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:",
-        "lv": "9 <p>Steidzieties un dodieties pie mana tēva, un sakiet viņam, Tā saka tavs dēls Jāzeps, Dievs mani iecēla par visas Ēģiptes kungu: nonāc pie manis, nekavējies:"
+        "lv": "9 <span class='p'></span> Steidzieties un dodieties pie mana tēva, un sakiet viņam, Tā saka tavs dēls Jāzeps, Dievs mani iecēla par visas Ēģiptes kungu: nonāc pie manis, nekavējies:"
       },
       {
         "verse": 10,
@@ -6963,7 +6963,7 @@
       {
         "verse": 16,
         "en": "16And the fame thereof was heard in Pharaoh's house, saying, Joseph's brethren are come: and it pleased Pharaoh well, and his servants.",
-        "lv": "16 <p>Un slava par to tika dzirdēta faraona namā sakot, Jāzepa brāļi ir nākuši: un tas ļoti patika faraonam un viņa kalpiem."
+        "lv": "16 <span class='p'></span> Un slava par to tika dzirdēta faraona namā sakot, Jāzepa brāļi ir nākuši: un tas ļoti patika faraonam un viņa kalpiem."
       },
       {
         "verse": 17,
@@ -7008,7 +7008,7 @@
       {
         "verse": 25,
         "en": "25And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,",
-        "lv": "25 <p>Un tie devās no Ēģiptes un nāca Kanaāna zemē pie Jēkaba, sava tēva,"
+        "lv": "25 <span class='p'></span> Un tie devās no Ēģiptes un nāca Kanaāna zemē pie Jēkaba, sava tēva,"
       },
       {
         "verse": 26,
@@ -7050,7 +7050,7 @@
       {
         "verse": 5,
         "en": "5And Jacob rose up from Beersheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.",
-        "lv": "5 <p>Un Jēkabs cēlās no Bēr-šebas: un Israēla dēli veda Jēkabu, savu tēvu, un savus mazos, un savas sievas, kravas ratos, ko faraons bija sūtījis viņu atvest."
+        "lv": "5 <span class='p'></span> Un Jēkabs cēlās no Bēr-šebas: un Israēla dēli veda Jēkabu, savu tēvu, un savus mazos, un savas sievas, kravas ratos, ko faraons bija sūtījis viņu atvest."
       },
       {
         "verse": 6,
@@ -7065,7 +7065,7 @@
       {
         "verse": 8,
         "en": "8And these <i>are </i>the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob's firstborn.",
-        "lv": "8 <p>Un šie <i>ir </i>Israēla bērnu vārdi, kas nāca Ēģiptē, Jēkabs un viņa dēli: Rūbens, Jēkaba pirmdzimtais."
+        "lv": "8 <span class='p'></span> Un šie <i>ir </i>Israēla bērnu vārdi, kas nāca Ēģiptē, Jēkabs un viņa dēli: Rūbens, Jēkaba pirmdzimtais."
       },
       {
         "verse": 9,
@@ -7075,27 +7075,27 @@
       {
         "verse": 10,
         "en": "10And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.",
-        "lv": "10 <p>Un Simeona dēli; Jemuēls un Jamīns, un Ohads, un Jāhīns, un Cohars, un Sauls, kanaāniešu sievietes dēls."
+        "lv": "10 <span class='p'></span> Un Simeona dēli; Jemuēls un Jamīns, un Ohads, un Jāhīns, un Cohars, un Sauls, kanaāniešu sievietes dēls."
       },
       {
         "verse": 11,
         "en": "11And the sons of Levi; Gershon, Kohath, and Merari.",
-        "lv": "11 <p>Un Levija dēli; Gēršons, Kehāts un Merārijs."
+        "lv": "11 <span class='p'></span> Un Levija dēli; Gēršons, Kehāts un Merārijs."
       },
       {
         "verse": 12,
         "en": "12And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.",
-        "lv": "12 <p>Un Jūdas dēli; Gērs un Onāns, un Šēla, un Perecs, un Zerahs: bet Gērs un Onāns nomira Kanaāna zemē. Un Pereca dēli bija Hecrons un Hāmūls."
+        "lv": "12 <span class='p'></span> Un Jūdas dēli; Gērs un Onāns, un Šēla, un Perecs, un Zerahs: bet Gērs un Onāns nomira Kanaāna zemē. Un Pereca dēli bija Hecrons un Hāmūls."
       },
       {
         "verse": 13,
         "en": "13And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.",
-        "lv": "13 <p>Un Isašara dēli; Tola un Puva, un Jobs, un Šimrons."
+        "lv": "13 <span class='p'></span> Un Isašara dēli; Tola un Puva, un Jobs, un Šimrons."
       },
       {
         "verse": 14,
         "en": "14And the sons of Zebulun; Sered, and Elon, and Jahleel.",
-        "lv": "14 <p>Un Zebulona dēli; Sereds un Ēlons, un Jahleēls."
+        "lv": "14 <span class='p'></span> Un Zebulona dēli; Sereds un Ēlons, un Jahleēls."
       },
       {
         "verse": 15,
@@ -7105,12 +7105,12 @@
       {
         "verse": 16,
         "en": "16And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.",
-        "lv": "16 <p>Un Gada dēli; Cipjons un Hagijs, Šūnijs, un Ecbons, Ērijs, un Arodijs, un Arēlijs."
+        "lv": "16 <span class='p'></span> Un Gada dēli; Cipjons un Hagijs, Šūnijs, un Ecbons, Ērijs, un Arodijs, un Arēlijs."
       },
       {
         "verse": 17,
         "en": "17And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.",
-        "lv": "17 <p>Un Ašera dēli; Jimna un Jišva, un Jišvijs, un Berija, un Seraha, viņu māsa: un Berijas dēli; Hebers un Malkiēls."
+        "lv": "17 <span class='p'></span> Un Ašera dēli; Jimna un Jišva, un Jišvijs, un Berija, un Seraha, viņu māsa: un Berijas dēli; Hebers un Malkiēls."
       },
       {
         "verse": 18,
@@ -7125,7 +7125,7 @@
       {
         "verse": 20,
         "en": "20And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.",
-        "lv": "20 <p>Un Jāzepam Ēģiptes zemē bija dzimuši Manase un Efraims, ko Asnāte, Onas priestera Potī-feras meita, viņam dzemdēja."
+        "lv": "20 <span class='p'></span> Un Jāzepam Ēģiptes zemē bija dzimuši Manase un Efraims, ko Asnāte, Onas priestera Potī-feras meita, viņam dzemdēja."
       },
       {
         "verse": 21,
@@ -7140,12 +7140,12 @@
       {
         "verse": 23,
         "en": "23And the sons of Dan; Hushim.",
-        "lv": "23 <p>Un Dana dēli; Hušīms."
+        "lv": "23 <span class='p'></span> Un Dana dēli; Hušīms."
       },
       {
         "verse": 24,
         "en": "24And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.",
-        "lv": "24 <p>Un Naftaļa dēli; Jahceēls un Gūnijs, un Jēcers, un Šillēms."
+        "lv": "24 <span class='p'></span> Un Naftaļa dēli; Jahceēls un Gūnijs, un Jēcers, un Šillēms."
       },
       {
         "verse": 25,
@@ -7165,7 +7165,7 @@
       {
         "verse": 28,
         "en": "28And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.",
-        "lv": "28 <p>Un viņš sūtīja Jūdu savā priekšā pie Jāzepa, virzīt viņa seju uz Gošeni; un tie nāca Gošenes zemē."
+        "lv": "28 <span class='p'></span> Un viņš sūtīja Jūdu savā priekšā pie Jāzepa, virzīt viņa seju uz Gošeni; un tie nāca Gošenes zemē."
       },
       {
         "verse": 29,
@@ -7222,7 +7222,7 @@
       {
         "verse": 5,
         "en": "5And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:",
-        "lv": "5 <p>Un faraons runāja uz Jāzepu sacīdams, Tavs tēvs un tavi brāļi ir nākuši pie tevis:"
+        "lv": "5 <span class='p'></span> Un faraons runāja uz Jāzepu sacīdams, Tavs tēvs un tavi brāļi ir nākuši pie tevis:"
       },
       {
         "verse": 6,
@@ -7232,7 +7232,7 @@
       {
         "verse": 7,
         "en": "7And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.",
-        "lv": "7 <p>Un Jāzeps ieveda savu tēvu Jēkabu un viņu stādīja faraona priekšā: un Jēkabs svētīja faraonu."
+        "lv": "7 <span class='p'></span> Un Jāzeps ieveda savu tēvu Jēkabu un viņu stādīja faraona priekšā: un Jēkabs svētīja faraonu."
       },
       {
         "verse": 8,
@@ -7252,7 +7252,7 @@
       {
         "verse": 11,
         "en": "11And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.",
-        "lv": "11 <p>Un Jāzeps novietoja savu tēvu un savus brāļus, un tiem deva īpašumu Ēģiptes zemē, labākajā zemē, Ramzesas zemē, kā faraons bija pavēlējis."
+        "lv": "11 <span class='p'></span> Un Jāzeps novietoja savu tēvu un savus brāļus, un tiem deva īpašumu Ēģiptes zemē, labākajā zemē, Ramzesas zemē, kā faraons bija pavēlējis."
       },
       {
         "verse": 12,
@@ -7262,7 +7262,7 @@
       {
         "verse": 13,
         "en": "13And <i>there was</i> no bread in all the land; for the famine <i>was </i>very sore, so that the land of Egypt and <i>all </i>the land of Canaan fainted by reason of the famine.",
-        "lv": "13 <p>Un visā zemē nebija maizes; jo bads <i>bija </i>ļoti gaužs, tā ka Ēģiptes zeme un <i>visa </i>Kanaāna zeme pagura bada dēļ."
+        "lv": "13 <span class='p'></span> Un visā zemē nebija maizes; jo bads <i>bija </i>ļoti gaužs, tā ka Ēģiptes zeme un <i>visa </i>Kanaāna zeme pagura bada dēļ."
       },
       {
         "verse": 14,
@@ -7307,7 +7307,7 @@
       {
         "verse": 22,
         "en": "22Only the land of the priests bought he not; for the priests had a portion <i>assigned them</i> of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.",
-        "lv": "22 <p>Tikai priesteru zemi viņš nepirka; jo priesteriem bija tiesa, tiem <i>piešķirta </i>no faraona, un<i> [tie]</i> ēda savu tiesu, ko faraons tiem deva: tādēļ tie nepārdeva savas zemes."
+        "lv": "22 <span class='p'></span> Tikai priesteru zemi viņš nepirka; jo priesteriem bija tiesa, tiem <i>piešķirta </i>no faraona, un<i> [tie]</i> ēda savu tiesu, ko faraons tiem deva: tādēļ tie nepārdeva savas zemes."
       },
       {
         "verse": 23,
@@ -7332,7 +7332,7 @@
       {
         "verse": 27,
         "en": "27And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.",
-        "lv": "27 <p>Un Israēls mājoja Ēģiptes zemē, Gošenes zemē; un tiem tur bija īpašumi, un <i>[tie] </i>auga un ārkārtīgi vairojās."
+        "lv": "27 <span class='p'></span> Un Israēls mājoja Ēģiptes zemē, Gošenes zemē; un tiem tur bija īpašumi, un <i>[tie] </i>auga un ārkārtīgi vairojās."
       },
       {
         "verse": 28,
@@ -7369,7 +7369,7 @@
       {
         "verse": 3,
         "en": "3And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,",
-        "lv": "3 <p>Un Jēkabs Jāzepam sacīja, Visvarenais Dievs man parādījās pie Lūzas Kanaāna zemē un mani svētīja,"
+        "lv": "3 <span class='p'></span> Un Jēkabs Jāzepam sacīja, Visvarenais Dievs man parādījās pie Lūzas Kanaāna zemē un mani svētīja,"
       },
       {
         "verse": 4,
@@ -7379,7 +7379,7 @@
       {
         "verse": 5,
         "en": "5And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, <i>are </i>mine; as Reuben and Simeon, they shall be mine.",
-        "lv": "5 <p>Un nu tavi divi dēli, Efraims un Manase, kas tev bija dzimuši Ēģiptes zemē pirms es nācu pie tevis uz Ēģipti, <i>ir </i>mani; kā Rūbens un Simeons, tie būs mani."
+        "lv": "5 <span class='p'></span> Un nu tavi divi dēli, Efraims un Manase, kas tev bija dzimuši Ēģiptes zemē pirms es nācu pie tevis uz Ēģipti, <i>ir </i>mani; kā Rūbens un Simeons, tie būs mani."
       },
       {
         "verse": 6,
@@ -7429,7 +7429,7 @@
       {
         "verse": 15,
         "en": "15And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,",
-        "lv": "15 <p>Un viņš svētīja Jāzepu un sacīja, Dievs, kura priekšā mani tēvi Ābrahāms un Īzaks staigāja, Dievs, kas mani ganīja visu manu garo dzīvi līdz šai dienai,"
+        "lv": "15 <span class='p'></span> Un viņš svētīja Jāzepu un sacīja, Dievs, kura priekšā mani tēvi Ābrahāms un Īzaks staigāja, Dievs, kas mani ganīja visu manu garo dzīvi līdz šai dienai,"
       },
       {
         "verse": 16,
@@ -7481,7 +7481,7 @@
       {
         "verse": 3,
         "en": "3Reuben, thou <i>art </i>my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
-        "lv": "3 <p>Rūben, tu <i>esi </i>mans pirmdzimtais, mana varenība un mana stipruma iesākums, goda pārākums un spēka pārākums:"
+        "lv": "3 <span class='p'></span> Rūben, tu <i>esi </i>mans pirmdzimtais, mana varenība un mana stipruma iesākums, goda pārākums un spēka pārākums:"
       },
       {
         "verse": 4,
@@ -7491,7 +7491,7 @@
       {
         "verse": 5,
         "en": "5Simeon and Levi <i>are </i>brethren; instruments of cruelty <i>are in</i> their habitations.",
-        "lv": "5 <p>Simeons un Levijs <i>ir </i>brāļi; cietsirdības instrumenti <i>ir </i>viņu mitekļos."
+        "lv": "5 <span class='p'></span> Simeons un Levijs <i>ir </i>brāļi; cietsirdības instrumenti <i>ir </i>viņu mitekļos."
       },
       {
         "verse": 6,
@@ -7506,7 +7506,7 @@
       {
         "verse": 8,
         "en": "8Judah, thou <i>art he </i>whom thy brethren shall praise: thy hand <i>shall be </i>in the neck of thine enemies; thy father's children shall bow down before thee.",
-        "lv": "8 <p>Jūda, tu <i>esi tas</i>, kuru tavi brāļi slavēs: tava roka <i>būs </i>uz tavu ienaidnieku kakla; tava tēva bērni klanīsies tavā priekšā."
+        "lv": "8 <span class='p'></span> Jūda, tu <i>esi tas</i>, kuru tavi brāļi slavēs: tava roka <i>būs </i>uz tavu ienaidnieku kakla; tava tēva bērni klanīsies tavā priekšā."
       },
       {
         "verse": 9,
@@ -7531,12 +7531,12 @@
       {
         "verse": 13,
         "en": "13Zebulun shall dwell at the haven of the sea; and he <i>shall be</i> for an haven of ships; and his border<i> shall be </i>unto Zidon.",
-        "lv": "13 <p>Zebulons mājos jūras patvērumā; un viņš <i>būs </i>par kuģu patvērumu; un viņa robeža <i>būs</i> līdz Cidonai."
+        "lv": "13 <span class='p'></span> Zebulons mājos jūras patvērumā; un viņš <i>būs </i>par kuģu patvērumu; un viņa robeža <i>būs</i> līdz Cidonai."
       },
       {
         "verse": 14,
         "en": "14Issachar <i>is </i>a strong ass couching down between two burdens:",
-        "lv": "14 <p>Isašars <i>ir </i>stiprs ēzelis, atguldamies starp divām nastām:"
+        "lv": "14 <span class='p'></span> Isašars <i>ir </i>stiprs ēzelis, atguldamies starp divām nastām:"
       },
       {
         "verse": 15,
@@ -7546,7 +7546,7 @@
       {
         "verse": 16,
         "en": "16Dan shall judge his people, as one of the tribes of Israel.",
-        "lv": "16 <p>Dans tiesās savus ļaudis kā viena no Israēla ciltīm."
+        "lv": "16 <span class='p'></span> Dans tiesās savus ļaudis kā viena no Israēla ciltīm."
       },
       {
         "verse": 17,
@@ -7561,22 +7561,22 @@
       {
         "verse": 19,
         "en": "19Gad, a troop shall overcome him: but he shall overcome at the last.",
-        "lv": "19 <p>Gads — karaspēks to uzvarēs: bet beigās viņš uzvarēs."
+        "lv": "19 <span class='p'></span> Gads — karaspēks to uzvarēs: bet beigās viņš uzvarēs."
       },
       {
         "verse": 20,
         "en": "20Out of Asher his bread <i>shall be</i> fat, and he shall yield royal dainties.",
-        "lv": "20 <p>No Ašera viņa maize <i>būs </i>trekna, un viņš nesīs karaliskus gardumus."
+        "lv": "20 <span class='p'></span> No Ašera viņa maize <i>būs </i>trekna, un viņš nesīs karaliskus gardumus."
       },
       {
         "verse": 21,
         "en": "21Naphtali <i>is </i>a hind let loose: he giveth goodly words.",
-        "lv": "21 <p>Naftalis <i>ir </i>atraisīta briežu māte: viņš dod glītus vārdus."
+        "lv": "21 <span class='p'></span> Naftalis <i>ir </i>atraisīta briežu māte: viņš dod glītus vārdus."
       },
       {
         "verse": 22,
         "en": "22Joseph <i>is </i>a fruitful bough, <i>even </i>a fruitful bough by a well; <i>whose </i>branches run over the wall:",
-        "lv": "22 <p>Jāzeps <i>ir </i>auglīgs lielzars, <i>proti, </i>auglīgs lielzars pie akas; <i>kura </i>zari virzās pāri akai:"
+        "lv": "22 <span class='p'></span> Jāzeps <i>ir </i>auglīgs lielzars, <i>proti, </i>auglīgs lielzars pie akas; <i>kura </i>zari virzās pāri akai:"
       },
       {
         "verse": 23,
@@ -7601,12 +7601,12 @@
       {
         "verse": 27,
         "en": "27Benjamin shall ravin <i>as </i>a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.",
-        "lv": "27 <p>Benjamīns plēsīs <i>kā </i>vilks: no rīta viņš aprīs medījumu, un naktī viņš dalīs laupījumu."
+        "lv": "27 <span class='p'></span> Benjamīns plēsīs <i>kā </i>vilks: no rīta viņš aprīs medījumu, un naktī viņš dalīs laupījumu."
       },
       {
         "verse": 28,
         "en": "28All these <i>are </i>the twelve tribes of Israel: and this <i>is it</i> that their father spake unto them, and blessed them; every one according to his blessing he blessed them.",
-        "lv": "28 <p>Visas šīs <i>ir </i>divpadsmit Israēla ciltis: un šis<i> ir tas</i>, ko viņu tēvs uz tiem runāja un tos svētīja; viņš tos svētīja ikvienu atbilstoši viņa svētībām."
+        "lv": "28 <span class='p'></span> Visas šīs <i>ir </i>divpadsmit Israēla ciltis: un šis<i> ir tas</i>, ko viņu tēvs uz tiem runāja un tos svētīja; viņš tos svētīja ikvienu atbilstoši viņa svētībām."
       },
       {
         "verse": 29,
@@ -7631,7 +7631,7 @@
       {
         "verse": 33,
         "en": "33And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
-        "lv": "33 <p>Un, kad Jēkabs bija beidzis pavēlēt saviem dēliem, viņš savāca savas kājas gultā un izlaida garu, un tika piepulcināts saviem ļaudīm."
+        "lv": "33 <span class='p'></span> Un, kad Jēkabs bija beidzis pavēlēt saviem dēliem, viņš savāca savas kājas gultā un izlaida garu, un tika piepulcināts saviem ļaudīm."
       }
     ],
     "50": [
@@ -7668,7 +7668,7 @@
       {
         "verse": 7,
         "en": "7And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,",
-        "lv": "7 <p>Un Jāzeps devās apbedīt savu tēvu: un ar viņu devās visi faraona kalpi, viņa nama vecaji un visi Ēģiptes zemes vecaji,"
+        "lv": "7 <span class='p'></span> Un Jāzeps devās apbedīt savu tēvu: un ar viņu devās visi faraona kalpi, viņa nama vecaji un visi Ēģiptes zemes vecaji,"
       },
       {
         "verse": 8,
@@ -7703,12 +7703,12 @@
       {
         "verse": 14,
         "en": "14And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.",
-        "lv": "14 <p>Un Jāzeps atgriezās Ēģiptē, viņš un viņa brāļi, un visi, kas ar viņu devās apbedīt viņa tēvu, pēc tam, kad viņš bija apbedījis savu tēvu."
+        "lv": "14 <span class='p'></span> Un Jāzeps atgriezās Ēģiptē, viņš un viņa brāļi, un visi, kas ar viņu devās apbedīt viņa tēvu, pēc tam, kad viņš bija apbedījis savu tēvu."
       },
       {
         "verse": 15,
         "en": "15And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.",
-        "lv": "15 <p>Un, kad Jāzepa brāļi redzēja, ka viņu tēvs bija miris, tie sacīja, Ja nu gadījumā Jāzeps mūs ienīdīs un noteikti mums atmaksās visu ļauno, ko mēs viņam darījām."
+        "lv": "15 <span class='p'></span> Un, kad Jāzepa brāļi redzēja, ka viņu tēvs bija miris, tie sacīja, Ja nu gadījumā Jāzeps mūs ienīdīs un noteikti mums atmaksās visu ļauno, ko mēs viņam darījām."
       },
       {
         "verse": 16,
@@ -7743,7 +7743,7 @@
       {
         "verse": 22,
         "en": "22And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.",
-        "lv": "22 <p>Un Jāzeps mājoja Ēģiptē, viņš un viņa tēva nams: un Jāzeps dzīvoja simts desmit gadu."
+        "lv": "22 <span class='p'></span> Un Jāzeps mājoja Ēģiptē, viņš un viņa tēva nams: un Jāzeps dzīvoja simts desmit gadu."
       },
       {
         "verse": 23,
@@ -7763,7 +7763,7 @@
       {
         "verse": 26,
         "en": "26So Joseph died, <i>being </i>an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.",
-        "lv": "26 <p>Tā Jāzeps nomira, <i>būdams </i>simts desmit gadu vecs: un tie viņu iebalzamēja, un viņš tika likts zārkā Ēģiptē."
+        "lv": "26 <span class='p'></span> Tā Jāzeps nomira, <i>būdams </i>simts desmit gadu vecs: un tie viņu iebalzamēja, un viņš tika likts zārkā Ēģiptē."
       }
     ]
   }

@@ -20,7 +20,7 @@
       {
         "verse": 4,
         "en": "4I thank my God, making mention of thee always in my prayers,",
-        "lv": "4 <p>Es pateicos savam Dievam, tevi vienmēr pieminēdams savās lūgšanās,"
+        "lv": "4 <span class='p'></span> Es pateicos savam Dievam, tevi vienmēr pieminēdams savās lūgšanās,"
       },
       {
         "verse": 5,
@@ -50,7 +50,7 @@
       {
         "verse": 10,
         "en": "10I beseech thee for my son Onesimus, whom I have begotten in my bonds:",
-        "lv": "10 <p>Es tevi lūdzos par savu dēlu Onesimu, kuru es esmu dzemdinājis savās saitēs:"
+        "lv": "10 <span class='p'></span> Es tevi lūdzos par savu dēlu Onesimu, kuru es esmu dzemdinājis savās saitēs:"
       },
       {
         "verse": 11,
@@ -110,7 +110,7 @@
       {
         "verse": 22,
         "en": "22But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.",
-        "lv": "22 <p>Bet bez tam, sagatavo man arī mītni: jo es paļaujos, ka caur jūsu lūgšanām es jums tikšu dots."
+        "lv": "22 <span class='p'></span> Bet bez tam, sagatavo man arī mītni: jo es paļaujos, ka caur jūsu lūgšanām es jums tikšu dots."
       },
       {
         "verse": 23,

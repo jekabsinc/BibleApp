@@ -30,7 +30,7 @@
       {
         "verse": 6,
         "en": "6The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:",
-        "lv": "6 <p>Tas KUNGS, mūsu Dievs runāja uz mums Horebā sacīdams, Jūs šajā kalnā esat mājojuši pietiekoši ilgi:"
+        "lv": "6 <span class='p'></span> Tas KUNGS, mūsu Dievs runāja uz mums Horebā sacīdams, Jūs šajā kalnā esat mājojuši pietiekoši ilgi:"
       },
       {
         "verse": 7,
@@ -45,7 +45,7 @@
       {
         "verse": 9,
         "en": "9And I spake unto you at that time, saying, I am not able to bear you myself alone:",
-        "lv": "9 <p>Un es runāju uz jums tajā laikā sacīdams, Es nespēju panest jūs viens pats:"
+        "lv": "9 <span class='p'></span> Un es runāju uz jums tajā laikā sacīdams, Es nespēju panest jūs viens pats:"
       },
       {
         "verse": 10,
@@ -95,7 +95,7 @@
       {
         "verse": 19,
         "en": "19And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.",
-        "lv": "19 <p>Un kad mēs aizgājām no Horeba, mēs gājām caur visu to lielo un briesmīgo tuksnesi, ko jūs redzējāt pie amoriešu kalna ceļa, kā tas KUNGS, mūsu Dievs mums pavēlēja; un mēs nācām uz Kasešbarneu."
+        "lv": "19 <span class='p'></span> Un kad mēs aizgājām no Horeba, mēs gājām caur visu to lielo un briesmīgo tuksnesi, ko jūs redzējāt pie amoriešu kalna ceļa, kā tas KUNGS, mūsu Dievs mums pavēlēja; un mēs nācām uz Kasešbarneu."
       },
       {
         "verse": 20,
@@ -110,7 +110,7 @@
       {
         "verse": 22,
         "en": "22And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.",
-        "lv": "22 <p>Un jūs man nācāt tuvu ikviens no jums un sacījāt, Mēs sūtīsim vīriešus savā priekšā, un tie pārmeklēs mums zemi, un atstāstīs pa kādu ceļu mums jādodas un kādās pilsētās mēs nāksim."
+        "lv": "22 <span class='p'></span> Un jūs man nācāt tuvu ikviens no jums un sacījāt, Mēs sūtīsim vīriešus savā priekšā, un tie pārmeklēs mums zemi, un atstāstīs pa kādu ceļu mums jādodas un kādās pilsētās mēs nāksim."
       },
       {
         "verse": 23,
@@ -170,7 +170,7 @@
       {
         "verse": 34,
         "en": "34And the LORD heard the voice of your words, and was wroth, and sware, saying,",
-        "lv": "34 <p>Un tas KUNGS dzirdēja jūsu vārdu balsi un apskaitās, un zvērēja sacīdams,"
+        "lv": "34 <span class='p'></span> Un tas KUNGS dzirdēja jūsu vārdu balsi un apskaitās, un zvērēja sacīdams,"
       },
       {
         "verse": 35,
@@ -312,7 +312,7 @@
       {
         "verse": 16,
         "en": "16So it came to pass, when all the men of war were consumed and dead from among the people,",
-        "lv": "16 <p>Tā notika, kad visi karavīri tika iznīdēti un miruši no ļaužu vidus,"
+        "lv": "16 <span class='p'></span> Tā notika, kad visi karavīri tika iznīdēti un miruši no ļaužu vidus,"
       },
       {
         "verse": 17,
@@ -352,7 +352,7 @@
       {
         "verse": 24,
         "en": "24Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess <i>it</i>, and contend with him in battle.",
-        "lv": "24 <p>Celieties, dodieties savā ceļā un ejiet pāri Arnona upei: lūk, es esmu devis tavā rokā amorieti Sihonu, Hešbonas ķēniņu, un viņa zemi: iesāciet <i>to </i>iemantot un cīkstieties ar viņu kaujā."
+        "lv": "24 <span class='p'></span> Celieties, dodieties savā ceļā un ejiet pāri Arnona upei: lūk, es esmu devis tavā rokā amorieti Sihonu, Hešbonas ķēniņu, un viņa zemi: iesāciet <i>to </i>iemantot un cīkstieties ar viņu kaujā."
       },
       {
         "verse": 25,
@@ -362,7 +362,7 @@
       {
         "verse": 26,
         "en": "26And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,",
-        "lv": "26 <p>Un es sūtīju vēstnešus no Kedemota tuksneša pie Hešbonas ķēniņa Sihona ar miera vārdiem sacīdams,"
+        "lv": "26 <span class='p'></span> Un es sūtīju vēstnešus no Kedemota tuksneša pie Hešbonas ķēniņa Sihona ar miera vārdiem sacīdams,"
       },
       {
         "verse": 27,
@@ -474,7 +474,7 @@
       {
         "verse": 11,
         "en": "11For only Og king of Bashan remained of the remnant of giants; behold, his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man.",
-        "lv": "11 <p>Jo tikai Ogs, Bašanas ķēniņš palika no milžu atlikušajiem; lūk, viņa gultas rāmis bija dzelzs gultas rāmis; vai tas nav ammona bērnu Rābā? deviņas olektis bija tā garums, un četras olektis tā platums, pēc cilvēka olekts."
+        "lv": "11 <span class='p'></span> Jo tikai Ogs, Bašanas ķēniņš palika no milžu atlikušajiem; lūk, viņa gultas rāmis bija dzelzs gultas rāmis; vai tas nav ammona bērnu Rābā? deviņas olektis bija tā garums, un četras olektis tā platums, pēc cilvēka olekts."
       },
       {
         "verse": 12,
@@ -509,7 +509,7 @@
       {
         "verse": 18,
         "en": "18And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all <i>that are</i> meet for the war.",
-        "lv": "18 <p>Un es jums pavēlēju tajā laikā sacīdams, Tas KUNGS, jūsu Dievs jums ir devis šo zemi, to iegūt īpašumā: jums būs pāriet pāri apbruņotiem savu brāļu, Israēla bērnu priekšā, visiem, <i>kas </i>atbilst karam."
+        "lv": "18 <span class='p'></span> Un es jums pavēlēju tajā laikā sacīdams, Tas KUNGS, jūsu Dievs jums ir devis šo zemi, to iegūt īpašumā: jums būs pāriet pāri apbruņotiem savu brāļu, Israēla bērnu priekšā, visiem, <i>kas </i>atbilst karam."
       },
       {
         "verse": 19,
@@ -524,7 +524,7 @@
       {
         "verse": 21,
         "en": "21And I commanded Joshua at that time, saying, Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest.",
-        "lv": "21 <p>Un es pavēlēju Jozua tajā laikā sacīdams, Tavas acis ir redzējušas visu, ko tas KUNGS, jūsu Dievs, ir darījis šiem diviem ķēniņiem: tā tas KUNGS darīs visām valstībām, kurp tu ej."
+        "lv": "21 <span class='p'></span> Un es pavēlēju Jozua tajā laikā sacīdams, Tavas acis ir redzējušas visu, ko tas KUNGS, jūsu Dievs, ir darījis šiem diviem ķēniņiem: tā tas KUNGS darīs visām valstībām, kurp tu ej."
       },
       {
         "verse": 22,
@@ -636,7 +636,7 @@
       {
         "verse": 14,
         "en": "14And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.",
-        "lv": "14 <p>Un tas KUNGS man pavēlēja tajā laikā jums mācīt statūtus un tiesas, lai jūs tās varētu darīt zemē, kurp jūs ejat pāri, to iegūt īpašumā."
+        "lv": "14 <span class='p'></span> Un tas KUNGS man pavēlēja tajā laikā jums mācīt statūtus un tiesas, lai jūs tās varētu darīt zemē, kurp jūs ejat pāri, to iegūt īpašumā."
       },
       {
         "verse": 15,
@@ -691,7 +691,7 @@
       {
         "verse": 25,
         "en": "25When thou shalt beget children, and children's children, and ye shall have remained long in the land, and shall corrupt <i>yourselves</i>, and make a graven image, or the likeness of any <i>thing</i>, and shall do evil in the sight of the LORD thy God, to provoke him to anger:",
-        "lv": "25 <p>Kad tu dzemdināsi bērnus un bērnu bērnus, un jūs būsiet palikuši ilgi zemē un samaitāsieties, un taisīsiet grieztu tēlu vai kādas <i>lietas </i>līdzību, un darīsiet ļaunu tā KUNGA, sava Dieva, skatienā, provocēt viņu uz dusmām:"
+        "lv": "25 <span class='p'></span> Kad tu dzemdināsi bērnus un bērnu bērnus, un jūs būsiet palikuši ilgi zemē un samaitāsieties, un taisīsiet grieztu tēlu vai kādas <i>lietas </i>līdzību, un darīsiet ļaunu tā KUNGA, sava Dieva, skatienā, provocēt viņu uz dusmām:"
       },
       {
         "verse": 26,
@@ -771,7 +771,7 @@
       {
         "verse": 41,
         "en": "41Then Moses severed three cities on this side Jordan toward the sunrising;",
-        "lv": "41 <p>Tad Mozus atšķīra trīs pilsētas šajā Jordānas pusē pret saules lēkšanu;"
+        "lv": "41 <span class='p'></span> Tad Mozus atšķīra trīs pilsētas šajā Jordānas pusē pret saules lēkšanu;"
       },
       {
         "verse": 42,
@@ -786,7 +786,7 @@
       {
         "verse": 44,
         "en": "44And this <i>is </i>the law which Moses set before the children of Israel:",
-        "lv": "44 <p>Un šis <i>ir </i>likums, ko Mozus lika Izraēla bērnu priekšā:"
+        "lv": "44 <span class='p'></span> Un šis <i>ir </i>likums, ko Mozus lika Izraēla bērnu priekšā:"
       },
       {
         "verse": 45,
@@ -843,7 +843,7 @@
       {
         "verse": 6,
         "en": "6I <i>am </i>the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.",
-        "lv": "6 <p>Es <i>esmu </i>tas KUNGS, tavs Dievs, kas tevi izveda no Ēģiptes zemes, no kalpības nama."
+        "lv": "6 <span class='p'></span> Es <i>esmu </i>tas KUNGS, tavs Dievs, kas tevi izveda no Ēģiptes zemes, no kalpības nama."
       },
       {
         "verse": 7,
@@ -852,7 +852,7 @@
       },
       {
         "verse": 8,
-        "en": "8Thou shalt not make thee <i>any </i>graven image, <i>or </i>any likeness <i>of any thing</i> that <i>is </i>in heaven above, or that <i>is </i>in the earth beneath, or that <i>is </i>in the waters beneath ",
+        "en": "8Thou shalt not make thee <i>any </i>graven image, <i>or </i>any likeness <i>of any thing</i> that <i>is </i>in heaven above, or that <i>is </i>in the earth beneath, or that <i>is </i>in the waters beneath",
         "lv": "8 Tev nebūs taisīt sev <i>nekādu </i>grieztu tēlu <i>vai </i>nekādu līdzību jebkam, kas <i>ir</i> debesī augšā vai tam, kas <i>ir </i>zemē apakšā, vai tam, kas <i>ir </i>ūdenī zem zemes:"
       },
       {
@@ -893,7 +893,7 @@
       {
         "verse": 16,
         "en": "16Honour thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.",
-        "lv": "16 <p>Godā savu tēvu un savu māti, kā tas KUNGA, tavs Dievs, tev ir pavēlējis; lai tavas dienas var tikt paildzinātas un lai tev var labi klāties zemē, ko tas KUNGS, tavs Dievs tev dod."
+        "lv": "16 <span class='p'></span> Godā savu tēvu un savu māti, kā tas KUNGA, tavs Dievs, tev ir pavēlējis; lai tavas dienas var tikt paildzinātas un lai tev var labi klāties zemē, ko tas KUNGS, tavs Dievs tev dod."
       },
       {
         "verse": 17,
@@ -923,7 +923,7 @@
       {
         "verse": 22,
         "en": "22These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.",
-        "lv": "22 <p>Šos vārdus tas KUNGS runāja uz visu jūsu sapulci kalnā no uguns vidus, no mākoņa un no biezas tumsas, ar lielu balsi: un viņš nepielika vairāk. Un viņš tos rakstīja divās akmens plāksnēs un tās nodeva man."
+        "lv": "22 <span class='p'></span> Šos vārdus tas KUNGS runāja uz visu jūsu sapulci kalnā no uguns vidus, no mākoņa un no biezas tumsas, ar lielu balsi: un viņš nepielika vairāk. Un viņš tos rakstīja divās akmens plāksnēs un tās nodeva man."
       },
       {
         "verse": 23,
@@ -995,7 +995,7 @@
       {
         "verse": 3,
         "en": "3Hear therefore, O Israel, and observe to do <i>it</i>; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey.",
-        "lv": "3 <p>Tāpēc klausies, ak, Izraēl, un ievēro <i>to</i> darīt; lai tev var labi klāties, un lai tu vari vareni pieaugt, kā tas KUNGS, tavu tēvu Dievs tev ir apsolījis, zemē, kas plūst ar pienu un medu."
+        "lv": "3 <span class='p'></span> Tāpēc klausies, ak, Izraēl, un ievēro <i>to</i> darīt; lai tev var labi klāties, un lai tu vari vareni pieaugt, kā tas KUNGS, tavu tēvu Dievs tev ir apsolījis, zemē, kas plūst ar pienu un medu."
       },
       {
         "verse": 4,
@@ -1060,7 +1060,7 @@
       {
         "verse": 16,
         "en": "16Ye shall not tempt the LORD your God, as ye tempted <i>him </i>in Massah.",
-        "lv": "16 <p>Jums nebūs kārdināt to KUNGU, savu Dievu, kā jūs <i>viņu </i>kārdinājāt Masā."
+        "lv": "16 <span class='p'></span> Jums nebūs kārdināt to KUNGU, savu Dievu, kā jūs <i>viņu </i>kārdinājāt Masā."
       },
       {
         "verse": 17,
@@ -1167,7 +1167,7 @@
       {
         "verse": 12,
         "en": "12Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:",
-        "lv": "12 <p>Tādēļ notiks, ja jūs uzklausīsit šīs tiesas un tās turēsit, ka tas KUNGS, tavs Dievs, tev turēs derību un žēlsirdību, ko viņš zvērēja taviem tēviem:"
+        "lv": "12 <span class='p'></span> Tādēļ notiks, ja jūs uzklausīsit šīs tiesas un tās turēsit, ka tas KUNGS, tavs Dievs, tev turēs derību un žēlsirdību, ko viņš zvērēja taviem tēviem:"
       },
       {
         "verse": 13,
@@ -1376,7 +1376,7 @@
       {
         "verse": 7,
         "en": "7Remember, <i>and </i>forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD.",
-        "lv": "7 <p>Atceries <i>un </i>neaizmirsti, kā tu provocēji to KUNGU, savu Dievu uz bardzību tuksnesī: no dienas, kad tu aizgāji no Ēģiptes zemes, līdz jūs nācāt uz šo vietu, jūs esat bijuši dumpīgi pret to KUNGU."
+        "lv": "7 <span class='p'></span> Atceries <i>un </i>neaizmirsti, kā tu provocēji to KUNGU, savu Dievu uz bardzību tuksnesī: no dienas, kad tu aizgāji no Ēģiptes zemes, līdz jūs nācāt uz šo vietu, jūs esat bijuši dumpīgi pret to KUNGU."
       },
       {
         "verse": 8,
@@ -1482,11 +1482,6 @@
         "verse": 28,
         "en": "28Lest the land whence thou broughtest us out say, Because the LORD was not able to bring them into the land which he promised them, and because he hated them, he hath brought them out to slay them in the wilderness.",
         "lv": "28 Lai zeme, no kurienes tu mūs izvedi, nesaka, Tāpēc ka tas KUNGS nespēja tos ievest zemē, ko viņš tiem apsolīja, un tāpēc ka viņš tos ienīda, viņš tos ir izvedis, tos nokaut tuksnesī."
-      },
-      {
-        "verse": 29,
-        "en": "29Yet they <i>are</i> thy people and thine inheritance, which thou broughtest out by thy mighty power and by thy stretched out arm.",
-        "lv": "29 Tomēr tie <i>ir </i>tavi ļaudis un tavs mantojums, ko tu izvedi caur savu vareno spēku un caur savu izstiepto elkoni."
       }
     ],
     "10": [
@@ -1518,7 +1513,7 @@
       {
         "verse": 6,
         "en": "6And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.",
-        "lv": "6 <p>Un Izraēla bērni devās savā ceļā no Jākana bērnu Bērotas uz Moseru: tur Ārons nomira un tur viņš tika apbedīts; un Eleazars, viņa dēls kalpoja priestera amatā viņa vietā."
+        "lv": "6 <span class='p'></span> Un Izraēla bērni devās savā ceļā no Jākana bērnu Bērotas uz Moseru: tur Ārons nomira un tur viņš tika apbedīts; un Eleazars, viņa dēls kalpoja priestera amatā viņa vietā."
       },
       {
         "verse": 7,
@@ -1528,7 +1523,7 @@
       {
         "verse": 8,
         "en": "8At that time the LORD separated the tribe of Levi, to bear the ark of the covenant of the LORD, to stand before the LORD to minister unto him, and to bless in his name, unto this day.",
-        "lv": "8 <p>Tajā laikā tas KUNGS atšķīra Levja cilti, nest tā KUNGA derības šķirstu, stāvēt tā KUNGA priekšā, kalpot viņam, un svētīt viņa vārdā, līdz šai dienai."
+        "lv": "8 <span class='p'></span> Tajā laikā tas KUNGS atšķīra Levja cilti, nest tā KUNGA derības šķirstu, stāvēt tā KUNGA priekšā, kalpot viņam, un svētīt viņa vārdā, līdz šai dienai."
       },
       {
         "verse": 9,
@@ -1548,7 +1543,7 @@
       {
         "verse": 12,
         "en": "12And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,",
-        "lv": "12 <p>Un nu, Israēl, ko tas KUNGS, tavs Dievs, no tevis pieprasa, kā tikai bīties to KUNGU, savu Dievu, staigāt visos viņa ceļos un viņu mīlēt, un kalpot tam KUNGAM, savam Dievam, no visas savas sirds un no visas savas dvēseles,"
+        "lv": "12 <span class='p'></span> Un nu, Israēl, ko tas KUNGS, tavs Dievs, no tevis pieprasa, kā tikai bīties to KUNGU, savu Dievu, staigāt visos viņa ceļos un viņu mīlēt, un kalpot tam KUNGAM, savam Dievam, no visas savas sirds un no visas savas dvēseles,"
       },
       {
         "verse": 13,
@@ -1650,7 +1645,7 @@
       {
         "verse": 10,
         "en": "10For the land, whither thou goest in to possess it, <i>is </i>not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst <i>it </i>with thy foot, as a garden of herbs:",
-        "lv": "10 <p>Jo zeme, kurp tu ej, to iegūt īpašumā, nav kā Ēģiptes zeme, no kurienes jūs iznācāt, kur tu sēji savu sēklu un <i>to </i>slacināji ar savu kāju, kā augu dārzu:"
+        "lv": "10 <span class='p'></span> Jo zeme, kurp tu ej, to iegūt īpašumā, nav kā Ēģiptes zeme, no kurienes jūs iznācāt, kur tu sēji savu sēklu un <i>to </i>slacināji ar savu kāju, kā augu dārzu:"
       },
       {
         "verse": 11,
@@ -1665,7 +1660,7 @@
       {
         "verse": 13,
         "en": "13And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,",
-        "lv": "13 <p>Un notiks, ja jūs rūpīgi uzklausīsiet manas pavēles, ko es jums šajā dienā pavēlu, mīlēt to KUNGU, savu Dievu un kalpot viņam ar visu savu sirdi un ar visu savu dvēseli,"
+        "lv": "13 <span class='p'></span> Un notiks, ja jūs rūpīgi uzklausīsiet manas pavēles, ko es jums šajā dienā pavēlu, mīlēt to KUNGU, savu Dievu un kalpot viņam ar visu savu sirdi un ar visu savu dvēseli,"
       },
       {
         "verse": 14,
@@ -1690,7 +1685,7 @@
       {
         "verse": 18,
         "en": "18Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.",
-        "lv": "18 <p>Tāpēc jums būs likt šos manus vārdus savā sirdī un savā dvēselē, un tos siet par zīmi uz savas rokas, lai tie var būt kā pieres rotas starp jūsu acīm."
+        "lv": "18 <span class='p'></span> Tāpēc jums būs likt šos manus vārdus savā sirdī un savā dvēselē, un tos siet par zīmi uz savas rokas, lai tie var būt kā pieres rotas starp jūsu acīm."
       },
       {
         "verse": 19,
@@ -1710,7 +1705,7 @@
       {
         "verse": 22,
         "en": "22For if ye shall diligently keep all these commandments which I command you, to do them, to love the LORD your God, to walk in all his ways, and to cleave unto him;",
-        "lv": "22 <p>Jo ja jūs rūpīgi turēsiet visas šīs pavēles, ko es jums pavēlu, tos darīt, mīlēt to KUNGU, savu Dievu, staigāt visos viņa ceļos un pieķerties viņam;"
+        "lv": "22 <span class='p'></span> Jo ja jūs rūpīgi turēsiet visas šīs pavēles, ko es jums pavēlu, tos darīt, mīlēt to KUNGU, savu Dievu, staigāt visos viņa ceļos un pieķerties viņam;"
       },
       {
         "verse": 23,
@@ -1730,7 +1725,7 @@
       {
         "verse": 26,
         "en": "26Behold, I set before you this day a blessing and a curse;",
-        "lv": "26 <p>Lūk, es lieku jūsu priekšā šajā dienā svētību un lāstu;"
+        "lv": "26 <span class='p'></span> Lūk, es lieku jūsu priekšā šajā dienā svētību un lāstu;"
       },
       {
         "verse": 27,
@@ -1787,7 +1782,7 @@
       {
         "verse": 5,
         "en": "5But unto the place which the LORD your God shall choose out of all your tribes to put his name there, <i>even </i>unto his habitation shall ye seek, and thither thou shalt come:",
-        "lv": "5 <p>Bet uz vietu, ko tas KUNGS, jūsu Dievs, izraudzīsies no visām jūsu ciltīm, tur likt savu vārdu, līdz <i>pat </i>viņa miteklim jums būs meklēt, un turp tev būs nākt:"
+        "lv": "5 <span class='p'></span> Bet uz vietu, ko tas KUNGS, jūsu Dievs, izraudzīsies no visām jūsu ciltīm, tur likt savu vārdu, līdz <i>pat </i>viņa miteklim jums būs meklēt, un turp tev būs nākt:"
       },
       {
         "verse": 6,
@@ -1837,7 +1832,7 @@
       {
         "verse": 15,
         "en": "15Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of the LORD thy God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart.",
-        "lv": "15 <p>Neskatoties uz to, tu vari nokaut un ēst gaļu visos savos vārtos, pēc kā vien tava dvēsele iekāro, atbilstoši tā KUNGA, tava Dieva svētībi, ko viņš tev ir devis: nešķīsts un šķīsts var no tā ēst, kā no stirnu buka un kā no brieža."
+        "lv": "15 <span class='p'></span> Neskatoties uz to, tu vari nokaut un ēst gaļu visos savos vārtos, pēc kā vien tava dvēsele iekāro, atbilstoši tā KUNGA, tava Dieva svētībi, ko viņš tev ir devis: nešķīsts un šķīsts var no tā ēst, kā no stirnu buka un kā no brieža."
       },
       {
         "verse": 16,
@@ -1847,7 +1842,7 @@
       {
         "verse": 17,
         "en": "17Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:",
-        "lv": "17 <p>Tu nevari ēst savos vārtos desmito tiesu no savas labības vai no sava vīna, vai no savas eļļas, vai no savu liellopu vai savu ganāmpulku pirmdzimušajiem, ne kādu no taviem solījumiem, ko tu soli, ne tavus brīvas gribas ziedojumus vai cilājamo ziedojumu no savas rokas:"
+        "lv": "17 <span class='p'></span> Tu nevari ēst savos vārtos desmito tiesu no savas labības vai no sava vīna, vai no savas eļļas, vai no savu liellopu vai savu ganāmpulku pirmdzimušajiem, ne kādu no taviem solījumiem, ko tu soli, ne tavus brīvas gribas ziedojumus vai cilājamo ziedojumu no savas rokas:"
       },
       {
         "verse": 18,
@@ -1857,12 +1852,12 @@
       {
         "verse": 19,
         "en": "19Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.",
-        "lv": "19 <p>Pielūko par sevi, ka tu nepamet levītu, kamēr tu dzīvo uz zemes."
+        "lv": "19 <span class='p'></span> Pielūko par sevi, ka tu nepamet levītu, kamēr tu dzīvo uz zemes."
       },
       {
         "verse": 20,
         "en": "20When the LORD thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; thou mayest eat flesh, whatsoever thy soul lusteth after.",
-        "lv": "20 <p>Kad tas KUNGS, tavs Dievs palielinās tavu robežu, kā viņš ir tev apsolījis, un tu sacīsi, Es ēdīšu gaļu, tāpēc ka tava dvēsele ilgojas ēst gaļu; tu vari ēst gaļu, pēc kā vien tava dvēsele iekāro."
+        "lv": "20 <span class='p'></span> Kad tas KUNGS, tavs Dievs palielinās tavu robežu, kā viņš ir tev apsolījis, un tu sacīsi, Es ēdīšu gaļu, tāpēc ka tava dvēsele ilgojas ēst gaļu; tu vari ēst gaļu, pēc kā vien tava dvēsele iekāro."
       },
       {
         "verse": 21,
@@ -1907,7 +1902,7 @@
       {
         "verse": 29,
         "en": "29When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;",
-        "lv": "29 <p>Kad tas KUNGS, tavs Dievs, nogriezīs tautas no tavas priekšas, kurp tu ej, tos iegūt īpašumā, un tu tās nomaini, un mājo viņu zemē;"
+        "lv": "29 <span class='p'></span> Kad tas KUNGS, tavs Dievs, nogriezīs tautas no tavas priekšas, kurp tu ej, tos iegūt īpašumā, un tu tās nomaini, un mājo viņu zemē;"
       },
       {
         "verse": 30,
@@ -1954,7 +1949,7 @@
       {
         "verse": 6,
         "en": "6If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which <i>is </i>as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;",
-        "lv": "6 <p>Ja tavs brālis, tavas mātes dēls, vai tavs dēls, vai tava meita, vai tava klēpja sieva, vai tavs draugs, kas <i>ir </i>kā tava paša dvēsele, vilina tevi slepeni sacīdami, Iesim un kalposim citiem dieviem, ko tu neesi pazinis, tu, ne tavi tēvi;"
+        "lv": "6 <span class='p'></span> Ja tavs brālis, tavas mātes dēls, vai tavs dēls, vai tava meita, vai tava klēpja sieva, vai tavs draugs, kas <i>ir </i>kā tava paša dvēsele, vilina tevi slepeni sacīdami, Iesim un kalposim citiem dieviem, ko tu neesi pazinis, tu, ne tavi tēvi;"
       },
       {
         "verse": 7,
@@ -1984,7 +1979,7 @@
       {
         "verse": 12,
         "en": "12If thou shalt hear <i>say </i>in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,",
-        "lv": "12 <p>Ja tu dzirdēsi <i>sakām </i>vienā no savām pilsētām, ko tas KUNGS, tavs Dievs tev ir devis, tur mājot sacīdams,"
+        "lv": "12 <span class='p'></span> Ja tu dzirdēsi <i>sakām </i>vienā no savām pilsētām, ko tas KUNGS, tavs Dievs tev ir devis, tur mājot sacīdams,"
       },
       {
         "verse": 13,
@@ -2031,7 +2026,7 @@
       {
         "verse": 3,
         "en": "3Thou shalt not eat any abominable thing.",
-        "lv": "3 <p>Tev nebūs ēst kādu negantu lietu."
+        "lv": "3 <span class='p'></span> Tev nebūs ēst kādu negantu lietu."
       },
       {
         "verse": 4,
@@ -2061,7 +2056,7 @@
       {
         "verse": 9,
         "en": "9These ye shall eat of all that <i>are </i>in the waters: all that have fins and scales shall ye eat:",
-        "lv": "9 <p>Šos jums būs ēst no visiem, kas <i>ir </i>ūdeņos: visus, kam ir spuras un zvīņas ūdeņos jums būs ēst:"
+        "lv": "9 <span class='p'></span> Šos jums būs ēst no visiem, kas <i>ir </i>ūdeņos: visus, kam ir spuras un zvīņas ūdeņos jums būs ēst:"
       },
       {
         "verse": 10,
@@ -2071,7 +2066,7 @@
       {
         "verse": 11,
         "en": "11<i>Of</i> all clean birds ye shall eat.",
-        "lv": "11 <p><i>No</i> visiem šķīstajiem putniem jums būs ēst."
+        "lv": "11 <span class='p'></span> <i>No</i> visiem šķīstajiem putniem jums būs ēst."
       },
       {
         "verse": 12,
@@ -2121,12 +2116,12 @@
       {
         "verse": 21,
         "en": "21Ye shall not eat <i>of </i>any thing that dieth of itself: thou shalt give it unto the stranger that <i>is </i>in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou <i>art </i>an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother's milk.",
-        "lv": "21 <p>Jums nebūs ēst <i>no </i>kādas lietas, kas nomirst pati: tev to būs dot svešiniekam, kas <i>ir </i>tavos vārtos, lai viņš to var ēst; vai tu to vari pārdot svešajam: jo tu <i>esi </i>svēti ļaudis tam KUNGAM, tavam Dievam. Tev nebūs vārīt kazlēnu viņa mātes pienā."
+        "lv": "21 <span class='p'></span> Jums nebūs ēst <i>no </i>kādas lietas, kas nomirst pati: tev to būs dot svešiniekam, kas <i>ir </i>tavos vārtos, lai viņš to var ēst; vai tu to vari pārdot svešajam: jo tu <i>esi </i>svēti ļaudis tam KUNGAM, tavam Dievam. Tev nebūs vārīt kazlēnu viņa mātes pienā."
       },
       {
         "verse": 22,
         "en": "22Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.",
-        "lv": "22 <p>Tev būs tik tiešām dot desmito tiesu no visa tavas sēklas pieauguma, ko lauks izdot gadu no gada."
+        "lv": "22 <span class='p'></span> Tev būs tik tiešām dot desmito tiesu no visa tavas sēklas pieauguma, ko lauks izdot gadu no gada."
       },
       {
         "verse": 23,
@@ -2156,7 +2151,7 @@
       {
         "verse": 28,
         "en": "28At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay <i>it </i>up within thy gates:",
-        "lv": "28 <p>Trīs gadu beigās tev būs izvest visa sava pieauguma desmito tiesu tajā pašā gadā, un <i>to </i>būs likt savos vārtos:"
+        "lv": "28 <span class='p'></span> Trīs gadu beigās tev būs izvest visa sava pieauguma desmito tiesu tajā pašā gadā, un <i>to </i>būs likt savos vārtos:"
       },
       {
         "verse": 29,
@@ -2198,7 +2193,7 @@
       {
         "verse": 7,
         "en": "7If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:",
-        "lv": "7 <p>Ja starp jums ir nabags no viena no taviem brāļiem kādos no taviem vārtiem tavā zemē, ko tas KUNGS, tavs Dievs tev dod, tev nebūs apcietināt savu sirdi, ne aizslēgt savu roku no sava nabagā brāļa:"
+        "lv": "7 <span class='p'></span> Ja starp jums ir nabags no viena no taviem brāļiem kādos no taviem vārtiem tavā zemē, ko tas KUNGS, tavs Dievs tev dod, tev nebūs apcietināt savu sirdi, ne aizslēgt savu roku no sava nabagā brāļa:"
       },
       {
         "verse": 8,
@@ -2223,7 +2218,7 @@
       {
         "verse": 12,
         "en": "12<i>And</i> if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.",
-        "lv": "12 <p><i>Un </i>ja tavs brālis, ebreju vīrietis vai ebreju sieviete, tiek tev pārdots un tev kalpo sešus gadus; tad septītajā gadā tev būs viņu palaist brīvu no sevis."
+        "lv": "12 <span class='p'></span> <i>Un </i>ja tavs brālis, ebreju vīrietis vai ebreju sieviete, tiek tev pārdots un tev kalpo sešus gadus; tad septītajā gadā tev būs viņu palaist brīvu no sevis."
       },
       {
         "verse": 13,
@@ -2258,7 +2253,7 @@
       {
         "verse": 19,
         "en": "19All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.",
-        "lv": "19 <p>Visus pirmdzimušos tēviņus no taviem liellopiem un no tava ganāmpulka tev būs svētdarīt tam KUNGAM, tavam Dievam: tev nebūs darīt darbu ar tava bullēna pirmdzimušo, ne apcirpt tavas avs pirmdzimušo."
+        "lv": "19 <span class='p'></span> Visus pirmdzimušos tēviņus no taviem liellopiem un no tava ganāmpulka tev būs svētdarīt tam KUNGAM, tavam Dievam: tev nebūs darīt darbu ar tava bullēna pirmdzimušo, ne apcirpt tavas avs pirmdzimušo."
       },
       {
         "verse": 20,
@@ -2325,7 +2320,7 @@
       {
         "verse": 9,
         "en": "9Seven weeks shalt thou number unto thee: begin to number the seven weeks from<i> such time as</i> thou beginnest <i>to put</i> the sickle to the corn.",
-        "lv": "9 <p>Septiņas nedēļas tev būs sev skaitīt: iesāc skaitīt septiņas nedēļas no <i>tāda laika</i> kā tu iesāc <i>likt </i>sirpi pie labības."
+        "lv": "9 <span class='p'></span> Septiņas nedēļas tev būs sev skaitīt: iesāc skaitīt septiņas nedēļas no <i>tāda laika</i> kā tu iesāc <i>likt </i>sirpi pie labības."
       },
       {
         "verse": 10,
@@ -2345,7 +2340,7 @@
       {
         "verse": 13,
         "en": "13Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:",
-        "lv": "13 <p>Tev būs ievērot mājokļu svētkus septiņas dienas, pēc tam, kad tu esi ievācis savu labību un savu vīnu:"
+        "lv": "13 <span class='p'></span> Tev būs ievērot mājokļu svētkus septiņas dienas, pēc tam, kad tu esi ievācis savu labību un savu vīnu:"
       },
       {
         "verse": 14,
@@ -2360,7 +2355,7 @@
       {
         "verse": 16,
         "en": "16Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:",
-        "lv": "16 <p>Trīs reizes gadā visiem taviem vīrišķiem būs parādīties tā KUNGA, sava Dieva priekšā vietā, ko viņš izraudzīsies; neraudzētas maizes svētkos un nedēļu svētkos, un mājokļu svētkos: un tiem nebūs parādīties tā KUNGA priekšā tukšiem:"
+        "lv": "16 <span class='p'></span> Trīs reizes gadā visiem taviem vīrišķiem būs parādīties tā KUNGA, sava Dieva priekšā vietā, ko viņš izraudzīsies; neraudzētas maizes svētkos un nedēļu svētkos, un mājokļu svētkos: un tiem nebūs parādīties tā KUNGA priekšā tukšiem:"
       },
       {
         "verse": 17,
@@ -2370,7 +2365,7 @@
       {
         "verse": 18,
         "en": "18Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.",
-        "lv": "18 <p>Tiesnešus un virsniekus tev būs darīt visos tavos vārtos, ko tas KUNGS, tavs Dievs tev dod viscaur tavās ciltīs: un tiem būs tiesāt ļaudis ar taisnu tiesu."
+        "lv": "18 <span class='p'></span> Tiesnešus un virsniekus tev būs darīt visos tavos vārtos, ko tas KUNGS, tavs Dievs tev dod viscaur tavās ciltīs: un tiem būs tiesāt ļaudis ar taisnu tiesu."
       },
       {
         "verse": 19,
@@ -2385,7 +2380,7 @@
       {
         "verse": 21,
         "en": "21Thou shalt not plant thee a grove of any trees near unto the altar of the LORD thy God, which thou shalt make thee.",
-        "lv": "21 <p>Tev nebūs sev stādīt kādu koku birzi tuvu tā KUNGA, sava Dieva altārim, ko tu sev taisīsi."
+        "lv": "21 <span class='p'></span> Tev nebūs sev stādīt kādu koku birzi tuvu tā KUNGA, sava Dieva altārim, ko tu sev taisīsi."
       },
       {
         "verse": 22,
@@ -2402,7 +2397,7 @@
       {
         "verse": 2,
         "en": "2If there be found among you, within any of thy gates which the LORD thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the LORD thy God, in transgressing his covenant,",
-        "lv": "2 <p>Ja starp jums tiek atrasts, kādos no taviem vārtiem, ko tas KUNGS, tavs Dievs tev dod, vīrietis vai sieviete, kas ir strādājuši nelietību tā KUNGA, tava Dieva acu priekšā, pārkāpdami viņa derību,"
+        "lv": "2 <span class='p'></span> Ja starp jums tiek atrasts, kādos no taviem vārtiem, ko tas KUNGS, tavs Dievs tev dod, vīrietis vai sieviete, kas ir strādājuši nelietību tā KUNGA, tava Dieva acu priekšā, pārkāpdami viņa derību,"
       },
       {
         "verse": 3,
@@ -2432,7 +2427,7 @@
       {
         "verse": 8,
         "en": "8If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, <i>being </i>matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the LORD thy God shall choose;",
-        "lv": "8 <p>Ja tiesā ceļas lieta tev par grūtu, starp asinīm un asinīm, starp ieganstu un ieganstu, un starp sitienu un sitienu, <i>esot </i>strīda lietām tavos vārtos: tad tev būs celties un iet uz vietu, ko tas KUNGS, tavs Dievs izraudzīsies;"
+        "lv": "8 <span class='p'></span> Ja tiesā ceļas lieta tev par grūtu, starp asinīm un asinīm, starp ieganstu un ieganstu, un starp sitienu un sitienu, <i>esot </i>strīda lietām tavos vārtos: tad tev būs celties un iet uz vietu, ko tas KUNGS, tavs Dievs izraudzīsies;"
       },
       {
         "verse": 9,
@@ -2462,7 +2457,7 @@
       {
         "verse": 14,
         "en": "14When thou art come unto the land which the LORD thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that are about me;",
-        "lv": "14 <p>Kad tu esi nācis uz zemi, ko tas KUNGS, tavs Dievs tev dod, un iegūsi to īpašumā, un tur mājosi, un sacīsi, Es likšu pār sevi ķēniņu kā visām tautām, kas ir ap mani;"
+        "lv": "14 <span class='p'></span> Kad tu esi nācis uz zemi, ko tas KUNGS, tavs Dievs tev dod, un iegūsi to īpašumā, un tur mājosi, un sacīsi, Es likšu pār sevi ķēniņu kā visām tautām, kas ir ap mani;"
       },
       {
         "verse": 15,
@@ -2472,7 +2467,7 @@
       {
         "verse": 16,
         "en": "16But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the LORD hath said unto you, Ye shall henceforth return no more that way.",
-        "lv": "16 <p>Bet viņam nebūs vairot zirgus priekš sevis, ne likt ļaudīm atgriezties uz Ēģipti, lai viņš vairotu zirgus: jo tas KUNGS jums ir sacījis, Jums vairs nebūs turpmāk atgriezties pa to ceļu."
+        "lv": "16 <span class='p'></span> Bet viņam nebūs vairot zirgus priekš sevis, ne likt ļaudīm atgriezties uz Ēģipti, lai viņš vairotu zirgus: jo tas KUNGS jums ir sacījis, Jums vairs nebūs turpmāk atgriezties pa to ceļu."
       },
       {
         "verse": 17,
@@ -2509,7 +2504,7 @@
       {
         "verse": 3,
         "en": "3And this shall be the priest's due from the people, from them that offer a sacrifice, whether <i>it be </i>ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw.",
-        "lv": "3 <p>Un šī būs priesteru pienācīgā daļa no ļaudīm, no tiem, kas ziedo upuri, vai <i>tas ir </i>vērsis vai avs; un tiem būs dot priesterim plecu un divus vaigus, un glumenieku."
+        "lv": "3 <span class='p'></span> Un šī būs priesteru pienācīgā daļa no ļaudīm, no tiem, kas ziedo upuri, vai <i>tas ir </i>vērsis vai avs; un tiem būs dot priesterim plecu un divus vaigus, un glumenieku."
       },
       {
         "verse": 4,
@@ -2524,7 +2519,7 @@
       {
         "verse": 6,
         "en": "6And if a Levite come from any of thy gates out of all Israel, where he sojourned, and come with all the desire of his mind unto the place which the LORD shall choose;",
-        "lv": "6 <p>Un ja levīts nāk no kādiem no taviem vārtiem no visa Izraēla, kur viņš piedzīvoja, un nāk ar visu sava prāta vēlmi uz vietu, ko tas KUNGS izraudzīsies;"
+        "lv": "6 <span class='p'></span> Un ja levīts nāk no kādiem no taviem vārtiem no visa Izraēla, kur viņš piedzīvoja, un nāk ar visu sava prāta vēlmi uz vietu, ko tas KUNGS izraudzīsies;"
       },
       {
         "verse": 7,
@@ -2539,7 +2534,7 @@
       {
         "verse": 9,
         "en": "9When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.",
-        "lv": "9 <p>Kad tu esi nācis zemē, ko tas KUNGS, tavs Dievs tev dod, tev nebūs mācīties darīt pēc šo tautu negantībām."
+        "lv": "9 <span class='p'></span> Kad tu esi nācis zemē, ko tas KUNGS, tavs Dievs tev dod, tev nebūs mācīties darīt pēc šo tautu negantībām."
       },
       {
         "verse": 10,
@@ -2569,7 +2564,7 @@
       {
         "verse": 15,
         "en": "15The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;",
-        "lv": "15 <p>Tas KUNGS, tavs Dievs tev cels Pravieti no tava vidus, no taviem brāļiem, kā mani: viņu jums būs uzklausīt;"
+        "lv": "15 <span class='p'></span> Tas KUNGS, tavs Dievs tev cels Pravieti no tava vidus, no taviem brāļiem, kā mani: viņu jums būs uzklausīt;"
       },
       {
         "verse": 16,
@@ -2626,7 +2621,7 @@
       {
         "verse": 4,
         "en": "4And this <i>is </i>the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;",
-        "lv": "4 <p>Un šī <i>ir </i>kāvēja lieta, kurš turp bēgs, lai viņš var dzīvot: Kas vien nogalina savu tuvāko nezinot, kuru viņš senāk neienīda;"
+        "lv": "4 <span class='p'></span> Un šī <i>ir </i>kāvēja lieta, kurš turp bēgs, lai viņš var dzīvot: Kas vien nogalina savu tuvāko nezinot, kuru viņš senāk neienīda;"
       },
       {
         "verse": 5,
@@ -2661,7 +2656,7 @@
       {
         "verse": 11,
         "en": "11But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:",
-        "lv": "11 <p>Bet ja kāds vīrietis ienīst savu tuvāko un glūn uz viņu, un ceļas pret viņu, un sit viņu nāvējoši, ka viņš mirst, un bēg uz vienu no šīm pilsētām:"
+        "lv": "11 <span class='p'></span> Bet ja kāds vīrietis ienīst savu tuvāko un glūn uz viņu, un ceļas pret viņu, un sit viņu nāvējoši, ka viņš mirst, un bēg uz vienu no šīm pilsētām:"
       },
       {
         "verse": 12,
@@ -2676,17 +2671,17 @@
       {
         "verse": 14,
         "en": "14Thou shalt not remove thy neighbour's landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it.",
-        "lv": "14 <p>Tev nebūs noņemt tava tuvākā robežzīmi, ko tie no seniem laikiem ir likuši tavā mantojumā, ko tu mantosi zemē, ko tas KUNGS, tavs Dievs tev dot, to iegūt īpašumā."
+        "lv": "14 <span class='p'></span> Tev nebūs noņemt tava tuvākā robežzīmi, ko tie no seniem laikiem ir likuši tavā mantojumā, ko tu mantosi zemē, ko tas KUNGS, tavs Dievs tev dot, to iegūt īpašumā."
       },
       {
         "verse": 15,
         "en": "15One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.",
-        "lv": "15 <p>Vienam lieciniekam nebūs celties pret cilvēku par kādu nekrietnību vai par kādu grēku, kādā grēkā, ko viņš grēko: pie divu liecinieku mutes vai pie trīs liecinieku mutes lietu būs nostiprināt."
+        "lv": "15 <span class='p'></span> Vienam lieciniekam nebūs celties pret cilvēku par kādu nekrietnību vai par kādu grēku, kādā grēkā, ko viņš grēko: pie divu liecinieku mutes vai pie trīs liecinieku mutes lietu būs nostiprināt."
       },
       {
         "verse": 16,
         "en": "16If a false witness rise up against any man to testify against him<i> that which is </i>wrong;",
-        "lv": "16 <p>Ja nepatiess liecinieks ceļas pret kādu cilvēku apliecināt pret viņu<i> to, kas ir </i>nepareizs;"
+        "lv": "16 <span class='p'></span> Ja nepatiess liecinieks ceļas pret kādu cilvēku apliecināt pret viņu<i> to, kas ir </i>nepareizs;"
       },
       {
         "verse": 17,
@@ -2738,7 +2733,7 @@
       {
         "verse": 5,
         "en": "5And the officers shall speak unto the people, saying, What man <i>is there</i> that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.",
-        "lv": "5 <p>Un virsniekiem būs runāt uz ļaudīm sakot, Kurš vīrietis <i>ir</i>, kas ir uzbūvējis jaunu namu un to nav iesvētījis? lai viņš iet un atgriežas uz savu namu, lai viņš nemirst kaujā un cits to neiesvētī."
+        "lv": "5 <span class='p'></span> Un virsniekiem būs runāt uz ļaudīm sakot, Kurš vīrietis <i>ir</i>, kas ir uzbūvējis jaunu namu un to nav iesvētījis? lai viņš iet un atgriežas uz savu namu, lai viņš nemirst kaujā un cits to neiesvētī."
       },
       {
         "verse": 6,
@@ -2763,7 +2758,7 @@
       {
         "verse": 10,
         "en": "10When thou comest nigh unto a city to fight against it, then proclaim peace unto it.",
-        "lv": "10 <p>Kad tu nāc tuvu pilsētai cīnīties pret to, tad pasludini tai mieru."
+        "lv": "10 <span class='p'></span> Kad tu nāc tuvu pilsētai cīnīties pret to, tad pasludini tai mieru."
       },
       {
         "verse": 11,
@@ -2808,7 +2803,7 @@
       {
         "verse": 19,
         "en": "19When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field <i>is </i>man's <i>life</i>) to employ <i>them </i>in the siege:",
-        "lv": "19 <p>Kad tu būsi aplencis pilsētu ilgu laiku, karodams pret to, lai to ieņemtu, tev nebūs iznīcināt tās kokus, spiežot cirvi pret tiem: jo tu vari no tiem ēst, un tev tos nebūs nogriezt (jo lauka koks <i>ir </i>cilvēka <i>dzīvība</i>), <i>tos </i>izlietot aplenkumā:"
+        "lv": "19 <span class='p'></span> Kad tu būsi aplencis pilsētu ilgu laiku, karodams pret to, lai to ieņemtu, tev nebūs iznīcināt tās kokus, spiežot cirvi pret tiem: jo tu vari no tiem ēst, un tev tos nebūs nogriezt (jo lauka koks <i>ir </i>cilvēka <i>dzīvība</i>), <i>tos </i>izlietot aplenkumā:"
       },
       {
         "verse": 20,
@@ -2865,7 +2860,7 @@
       {
         "verse": 10,
         "en": "10When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,",
-        "lv": "10 <p>Kad tu izej karot pret saviem ienaidniekiem, un tas KUNGS, tavs Dievs ir nodevis tos tavās rokās, un tu esi saņēmis tos gūstā,"
+        "lv": "10 <span class='p'></span> Kad tu izej karot pret saviem ienaidniekiem, un tas KUNGS, tavs Dievs ir nodevis tos tavās rokās, un tu esi saņēmis tos gūstā,"
       },
       {
         "verse": 11,
@@ -2890,7 +2885,7 @@
       {
         "verse": 15,
         "en": "15If a man have two wives, one beloved, and another hated, and they have born him children, <i>both</i> the beloved and the hated; and <i>if </i>the firstborn son be hers that was hated:",
-        "lv": "15 <p>Ja vīrietim ir divas sievas, viena mīļota un otra ienīsta, un tās ir viņam dzemdējušas bērnus, gan mīļotā, <i>gan </i>ienīstā; un <i>ja </i>pirmdzimtais dēls ir tās, kas bija ienīsta:"
+        "lv": "15 <span class='p'></span> Ja vīrietim ir divas sievas, viena mīļota un otra ienīsta, un tās ir viņam dzemdējušas bērnus, gan mīļotā, <i>gan </i>ienīstā; un <i>ja </i>pirmdzimtais dēls ir tās, kas bija ienīsta:"
       },
       {
         "verse": 16,
@@ -2905,7 +2900,7 @@
       {
         "verse": 18,
         "en": "18If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and <i>that</i>, when they have chastened him, will not hearken unto them:",
-        "lv": "18 <p>Ja kādam ir stūrgalvīgs un dumpīgs dēls, kas nepaklausa sava tēva balsi vai savas mātes balsi, un kas, kad tie viņu ir pārmācījuši, tos neuzklausa:"
+        "lv": "18 <span class='p'></span> Ja kādam ir stūrgalvīgs un dumpīgs dēls, kas nepaklausa sava tēva balsi vai savas mātes balsi, un kas, kad tie viņu ir pārmācījuši, tos neuzklausa:"
       },
       {
         "verse": 19,
@@ -2925,7 +2920,7 @@
       {
         "verse": 22,
         "en": "22And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:",
-        "lv": "22 <p>Un ja kāds ir izdarījis grēku, nāves cienīgu, un viņš tiek nonāvēts, un tu pakar viņu uz koka:"
+        "lv": "22 <span class='p'></span> Un ja kāds ir izdarījis grēku, nāves cienīgu, un viņš tiek nonāvēts, un tu pakar viņu uz koka:"
       },
       {
         "verse": 23,
@@ -2952,17 +2947,17 @@
       {
         "verse": 4,
         "en": "4Thou shalt not see thy brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift <i>them </i>up again.",
-        "lv": "4 <p>Tev nebūs redzēt sava brāļa ēzeli vai viņa vērsi nokrītam pie ceļa un paslēpjamies no tiem: tev bez šaubām būs viņam palīdzēt, pacelt <i>tos </i>atpakaļ."
+        "lv": "4 <span class='p'></span> Tev nebūs redzēt sava brāļa ēzeli vai viņa vērsi nokrītam pie ceļa un paslēpjamies no tiem: tev bez šaubām būs viņam palīdzēt, pacelt <i>tos </i>atpakaļ."
       },
       {
         "verse": 5,
         "en": "5The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so <i>are </i>abomination unto the LORD thy God.",
-        "lv": "5 <p>Sievietei nebūs valkāt to, kas ir vīrieša, nedz vīrietim būs uzvilkt sievietes apģērbu: jo visi, kas tā dara, <i>ir</i> negantība tam KUNGAM, tavam Dievam."
+        "lv": "5 <span class='p'></span> Sievietei nebūs valkāt to, kas ir vīrieša, nedz vīrietim būs uzvilkt sievietes apģērbu: jo visi, kas tā dara, <i>ir</i> negantība tam KUNGAM, tavam Dievam."
       },
       {
         "verse": 6,
         "en": "6If a bird's nest chance to be before thee in the way in any tree, or on the ground, <i>whether they be</i> young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:",
-        "lv": "6 <p>Ja putna ligzda gadās būt tavā priekšā ceļā kādā kokā vai uz zemes,<i> vai tie ir</i> mazuļi, vai olas, un mātīte, sēdēdama uz mazuļiem vai uz olām, tev nebūs ņemt mātīti ar mazuļiem:"
+        "lv": "6 <span class='p'></span> Ja putna ligzda gadās būt tavā priekšā ceļā kādā kokā vai uz zemes,<i> vai tie ir</i> mazuļi, vai olas, un mātīte, sēdēdama uz mazuļiem vai uz olām, tev nebūs ņemt mātīti ar mazuļiem:"
       },
       {
         "verse": 7,
@@ -2972,32 +2967,32 @@
       {
         "verse": 8,
         "en": "8When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.",
-        "lv": "8 <p>Kad tu būvē jaunu namu, tad tev būs taisīt margas savam jumtam, lai tu neved asinis uz savu namu, ja kāds no turienes nokrīt."
+        "lv": "8 <span class='p'></span> Kad tu būvē jaunu namu, tad tev būs taisīt margas savam jumtam, lai tu neved asinis uz savu namu, ja kāds no turienes nokrīt."
       },
       {
         "verse": 9,
         "en": "9Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.",
-        "lv": "9 <p>Tev nebūs sēt savu vīna dārzu ar dažādām sēklām: lai tavas sēklas augļi, ko tu esi sējis, un tava vīna dārza augļi netiek apgānīti."
+        "lv": "9 <span class='p'></span> Tev nebūs sēt savu vīna dārzu ar dažādām sēklām: lai tavas sēklas augļi, ko tu esi sējis, un tava vīna dārza augļi netiek apgānīti."
       },
       {
         "verse": 10,
         "en": "10Thou shalt not plow with an ox and an ass together.",
-        "lv": "10 <p>Tev nebūs art ar vērsi un ēzeli kopā."
+        "lv": "10 <span class='p'></span> Tev nebūs art ar vērsi un ēzeli kopā."
       },
       {
         "verse": 11,
         "en": "11Thou shalt not wear a garment of divers sorts, as of woollen and linen together.",
-        "lv": "11 <p>Tev nebūs valkāt dažādu veidu apģērbu, kā no vilnas un lina kopā."
+        "lv": "11 <span class='p'></span> Tev nebūs valkāt dažādu veidu apģērbu, kā no vilnas un lina kopā."
       },
       {
         "verse": 12,
         "en": "12Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest <i>thyself</i>.",
-        "lv": "12 <p>Tev būs taisīt bārkstis tavu drānu četrām malām, ar ko tu <i>sevi</i> apsedz."
+        "lv": "12 <span class='p'></span> Tev būs taisīt bārkstis tavu drānu četrām malām, ar ko tu <i>sevi</i> apsedz."
       },
       {
         "verse": 13,
         "en": "13If any man take a wife, and go in unto her, and hate her,",
-        "lv": "13 <p>Ja kāds ņem sievu un ieiet pie viņas, un ienīst viņu,"
+        "lv": "13 <span class='p'></span> Ja kāds ņem sievu un ieiet pie viņas, un ienīst viņu,"
       },
       {
         "verse": 14,
@@ -3042,12 +3037,12 @@
       {
         "verse": 22,
         "en": "22If a man be found lying with a woman married to an husband, then they shall both of them die, <i>both </i>the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.",
-        "lv": "22 <p>Ja vīrietis tiek atrasts guļam ar sievieti, apprecētu vīram, tad tiem abiem būs mirt, <i>gan </i>vīrietim, kas guļ ar sievieti, gan sievietei: tā tev būs likt prom ļaunumu no Izraēla."
+        "lv": "22 <span class='p'></span> Ja vīrietis tiek atrasts guļam ar sievieti, apprecētu vīram, tad tiem abiem būs mirt, <i>gan </i>vīrietim, kas guļ ar sievieti, gan sievietei: tā tev būs likt prom ļaunumu no Izraēla."
       },
       {
         "verse": 23,
         "en": "23If a damsel <i>that is</i> a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;",
-        "lv": "23 <p>Ja meitene,<i> kas ir</i> jaunava, tiek saderināta vīram, un vīrietis viņu atrod pilsētā un guļ ar viņu;"
+        "lv": "23 <span class='p'></span> Ja meitene,<i> kas ir</i> jaunava, tiek saderināta vīram, un vīrietis viņu atrod pilsētā un guļ ar viņu;"
       },
       {
         "verse": 24,
@@ -3057,7 +3052,7 @@
       {
         "verse": 25,
         "en": "25But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:",
-        "lv": "25 <p>Bet ja vīrietis atrod saderinātu meiteni laukā, un vīrietis viņu piespiež, un guļ ar viņu: tad tikai vīrietim, kas guļa ar viņu, būs mirt:"
+        "lv": "25 <span class='p'></span> Bet ja vīrietis atrod saderinātu meiteni laukā, un vīrietis viņu piespiež, un guļ ar viņu: tad tikai vīrietim, kas guļa ar viņu, būs mirt:"
       },
       {
         "verse": 26,
@@ -3072,7 +3067,7 @@
       {
         "verse": 28,
         "en": "28If a man find a damsel <i>that is </i>a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;",
-        "lv": "28 <p>Ja vīrietis atrod meiteni,<i> kas ir</i> jaunava, kas nav saderināta, un satver viņu, un guļ ar viņu, un tie tiek atrasti;"
+        "lv": "28 <span class='p'></span> Ja vīrietis atrod meiteni,<i> kas ir</i> jaunava, kas nav saderināta, un satver viņu, un guļ ar viņu, un tie tiek atrasti;"
       },
       {
         "verse": 29,
@@ -3082,7 +3077,7 @@
       {
         "verse": 30,
         "en": "30A man shall not take his father's wife, nor discover his father's skirt.",
-        "lv": "30 <p>Vīrietim nebūs ņemt sava tēva sievu, ne atsegt sava tēva stērbeli."
+        "lv": "30 <span class='p'></span> Vīrietim nebūs ņemt sava tēva sievu, ne atsegt sava tēva stērbeli."
       }
     ],
     "23": [
@@ -3119,7 +3114,7 @@
       {
         "verse": 7,
         "en": "7Thou shalt not abhor an Edomite; for he <i>is </i>thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.",
-        "lv": "7 <p>Tev nebūs neciest edomieti; jo viņš <i>ir </i>tavs brālis: tev nebūs neciest ēģiptieti; tāpēc ka tu biji svešinieks viņa zemē."
+        "lv": "7 <span class='p'></span> Tev nebūs neciest edomieti; jo viņš <i>ir </i>tavs brālis: tev nebūs neciest ēģiptieti; tāpēc ka tu biji svešinieks viņa zemē."
       },
       {
         "verse": 8,
@@ -3129,12 +3124,12 @@
       {
         "verse": 9,
         "en": "9When the host goeth forth against thine enemies, then keep thee from every wicked thing.",
-        "lv": "9 <p>Kad karapulks iziet pret taviem ienaidniekiem, tad atturi sevi no ikvienas nelietīgas lietas."
+        "lv": "9 <span class='p'></span> Kad karapulks iziet pret taviem ienaidniekiem, tad atturi sevi no ikvienas nelietīgas lietas."
       },
       {
         "verse": 10,
         "en": "10If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:",
-        "lv": "10 <p>Ja starp jums ir kāds vīrietis, kas nav tīrs nešķīstības dēļ, kas viņam gadās naktī, tad viņam būs iziet no nometnes, viņam nebūs nākt nometnē:"
+        "lv": "10 <span class='p'></span> Ja starp jums ir kāds vīrietis, kas nav tīrs nešķīstības dēļ, kas viņam gadās naktī, tad viņam būs iziet no nometnes, viņam nebūs nākt nometnē:"
       },
       {
         "verse": 11,
@@ -3144,7 +3139,7 @@
       {
         "verse": 12,
         "en": "12Thou shalt have a place also without the camp, whither thou shalt go forth abroad:",
-        "lv": "12 <p>Tev būs būt vietai arī ārpus nometnes, kurp tu vari iziet ārā:"
+        "lv": "12 <span class='p'></span> Tev būs būt vietai arī ārpus nometnes, kurp tu vari iziet ārā:"
       },
       {
         "verse": 13,
@@ -3159,7 +3154,7 @@
       {
         "verse": 15,
         "en": "15Thou shalt not deliver unto his master the servant which is escaped from his master unto thee:",
-        "lv": "15 <p>Tev nebūs nodot viņa saimniekam kalpu, kas ir aizbēdzis no sava saimnieka pie tevis:"
+        "lv": "15 <span class='p'></span> Tev nebūs nodot viņa saimniekam kalpu, kas ir aizbēdzis no sava saimnieka pie tevis:"
       },
       {
         "verse": 16,
@@ -3169,7 +3164,7 @@
       {
         "verse": 17,
         "en": "17There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel.",
-        "lv": "17 <p>Nebūs būt maukai no Izraēla meitām, ne sodomītam no Izraēla dēliem."
+        "lv": "17 <span class='p'></span> Nebūs būt maukai no Izraēla meitām, ne sodomītam no Izraēla dēliem."
       },
       {
         "verse": 18,
@@ -3179,7 +3174,7 @@
       {
         "verse": 19,
         "en": "19Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:",
-        "lv": "19 <p>Tev nebūs aizdot uz procentiem savam brālim; naudas procentiem, pārtikas procentiem, kādas lietas procentiem, kas ir aizdota uz procentiem:"
+        "lv": "19 <span class='p'></span> Tev nebūs aizdot uz procentiem savam brālim; naudas procentiem, pārtikas procentiem, kādas lietas procentiem, kas ir aizdota uz procentiem:"
       },
       {
         "verse": 20,
@@ -3189,7 +3184,7 @@
       {
         "verse": 21,
         "en": "21When thou shalt vow a vow unto the LORD thy God, thou shalt not slack to pay it: for the LORD thy God will surely require it of thee; and it would be sin in thee.",
-        "lv": "21 <p>Kad tu solīsi solījumu tam KUNGAM, savam Dievam, tev nebūs būt laiskam to maksāt: jo tas KUNGS, tavs Dievs bez šaubām to pieprasīs no tevis; un tev tas būs grēks."
+        "lv": "21 <span class='p'></span> Kad tu solīsi solījumu tam KUNGAM, savam Dievam, tev nebūs būt laiskam to maksāt: jo tas KUNGS, tavs Dievs bez šaubām to pieprasīs no tevis; un tev tas būs grēks."
       },
       {
         "verse": 22,
@@ -3204,7 +3199,7 @@
       {
         "verse": 24,
         "en": "24When thou comest into thy neighbour's vineyard, then thou mayest eat grapes thy fill at thine own pleasure; but thou shalt not put <i>any </i>in thy vessel.",
-        "lv": "24 <p>Kad tu nāc sava tuvākā vīna dārzā, tad tu vari ēst vīnogas, līdz pilnumam pie tavas paša patikas; bet tev nebūs <i>neko </i>likt savā traukā."
+        "lv": "24 <span class='p'></span> Kad tu nāc sava tuvākā vīna dārzā, tad tu vari ēst vīnogas, līdz pilnumam pie tavas paša patikas; bet tev nebūs <i>neko </i>likt savā traukā."
       },
       {
         "verse": 25,
@@ -3236,22 +3231,22 @@
       {
         "verse": 5,
         "en": "5When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: <i>but </i>he shall be free at home one year, and shall cheer up his wife which he hath taken.",
-        "lv": "5 <p>Kad vīrietis ir ņēmis jaunu sievu, viņam nebūs iziet karot, nedz viņam tiks dota pārziņa par kādu lietu: <i>bet </i>viņam būs būt brīvam mājās vienu gadu, un iepriecināt sievu, ko viņš ir ņēmis."
+        "lv": "5 <span class='p'></span> Kad vīrietis ir ņēmis jaunu sievu, viņam nebūs iziet karot, nedz viņam tiks dota pārziņa par kādu lietu: <i>bet </i>viņam būs būt brīvam mājās vienu gadu, un iepriecināt sievu, ko viņš ir ņēmis."
       },
       {
         "verse": 6,
         "en": "6No man shall take the nether or the upper millstone to pledge: for he taketh <i>a man's</i> life to pledge.",
-        "lv": "6 <p>Nevienam nebūs ņemt apakšējo vai augšējo dzirnakmeni par ķīlu: jo viņš ņem <i>cilvēka </i>dzīvību par ķīlu."
+        "lv": "6 <span class='p'></span> Nevienam nebūs ņemt apakšējo vai augšējo dzirnakmeni par ķīlu: jo viņš ņem <i>cilvēka </i>dzīvību par ķīlu."
       },
       {
         "verse": 7,
         "en": "7If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you.",
-        "lv": "7 <p>Ja cilvēks tiek atrasts zogam kādu no Izraēla bērnu brāļiem, un taisa no viņa peļņu vai pārdod viņu; tad tam zaglim būs mirt; un tev būs likt prom ļaunumu no jūsu vidus."
+        "lv": "7 <span class='p'></span> Ja cilvēks tiek atrasts zogam kādu no Izraēla bērnu brāļiem, un taisa no viņa peļņu vai pārdod viņu; tad tam zaglim būs mirt; un tev būs likt prom ļaunumu no jūsu vidus."
       },
       {
         "verse": 8,
         "en": "8Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, <i>so </i>ye shall observe to do.",
-        "lv": "8 <p>Pielūko spitālības sērgā, lai tu rūpīgi ievēro un dari atbilstoši visam, ko priesteri — levīti jums mācīs: kā es tiem pavēlēju, tā jums būs ievērot darīt."
+        "lv": "8 <span class='p'></span> Pielūko spitālības sērgā, lai tu rūpīgi ievēro un dari atbilstoši visam, ko priesteri — levīti jums mācīs: kā es tiem pavēlēju, tā jums būs ievērot darīt."
       },
       {
         "verse": 9,
@@ -3261,7 +3256,7 @@
       {
         "verse": 10,
         "en": "10When thou dost lend thy brother any thing, thou shalt not go into his house to fetch his pledge.",
-        "lv": "10 <p>Kad tu aizdod kaut ko savam brālim, tev nebūs ieiet viņa namā ņemt viņa ķīlu."
+        "lv": "10 <span class='p'></span> Kad tu aizdod kaut ko savam brālim, tev nebūs ieiet viņa namā ņemt viņa ķīlu."
       },
       {
         "verse": 11,
@@ -3281,7 +3276,7 @@
       {
         "verse": 14,
         "en": "14Thou shalt not oppress an hired servant <i>that is</i> poor and needy, <i>whether he be </i>of thy brethren, or of thy strangers that <i>are </i>in thy land within thy gates:",
-        "lv": "14 <p>Tev nebūs apspiest algotu kalpu, <i>kas ir </i>nabags un trūcīgs,<i> vai viņš ir</i> tavs brālis vai no taviem svešiniekiem, kas <i>ir </i>tavā zemē tavos vārtos:"
+        "lv": "14 <span class='p'></span> Tev nebūs apspiest algotu kalpu, <i>kas ir </i>nabags un trūcīgs,<i> vai viņš ir</i> tavs brālis vai no taviem svešiniekiem, kas <i>ir </i>tavā zemē tavos vārtos:"
       },
       {
         "verse": 15,
@@ -3291,12 +3286,12 @@
       {
         "verse": 16,
         "en": "16The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin.",
-        "lv": "16 <p>Tēvus nebūs nonāvēt par bērniem, nedz bērnus būs nonāvēt par tēviem: ikvienu būs nonāvēt par viņa paša grēku."
+        "lv": "16 <span class='p'></span> Tēvus nebūs nonāvēt par bērniem, nedz bērnus būs nonāvēt par tēviem: ikvienu būs nonāvēt par viņa paša grēku."
       },
       {
         "verse": 17,
         "en": "17Thou shalt not pervert the judgment of the stranger, <i>nor </i>of the fatherless; nor take a widow's raiment to pledge:",
-        "lv": "17 <p>Tev nebūs samaitāt svešinieka, ne beztēva <i>[bērnu]</i> tiesu; ne ņemt atraitnes tērpu ķīlai:"
+        "lv": "17 <span class='p'></span> Tev nebūs samaitāt svešinieka, ne beztēva <i>[bērnu]</i> tiesu; ne ņemt atraitnes tērpu ķīlai:"
       },
       {
         "verse": 18,
@@ -3306,7 +3301,7 @@
       {
         "verse": 19,
         "en": "19When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands.",
-        "lv": "19 <p>Kad tu nogriez savu ražu savā laukā, un esi aizmirsis kūlīti laukā, tev nebūs atkal iet to ņemt: tas būs svešiniekam, beztēva <i>[bērnam] </i>un atraitnei: lai tas KUNGS, tavs Dievs tevi var svētīt visā tavu roku darbā."
+        "lv": "19 <span class='p'></span> Kad tu nogriez savu ražu savā laukā, un esi aizmirsis kūlīti laukā, tev nebūs atkal iet to ņemt: tas būs svešiniekam, beztēva <i>[bērnam] </i>un atraitnei: lai tas KUNGS, tavs Dievs tevi var svētīt visā tavu roku darbā."
       },
       {
         "verse": 20,
@@ -3343,12 +3338,12 @@
       {
         "verse": 4,
         "en": "4Thou shalt not muzzle the ox when he treadeth out <i>the corn</i>.",
-        "lv": "4 <p>Tev nebūs uzlikt uzpurni vērsim, kad viņš izmin <i>labību</i>."
+        "lv": "4 <span class='p'></span> Tev nebūs uzlikt uzpurni vērsim, kad viņš izmin <i>labību</i>."
       },
       {
         "verse": 5,
         "en": "5If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband's brother shall go in unto her, and take her to him to wife, and perform the duty of an husband's brother unto her.",
-        "lv": "5 <p>Ja brāļi mājo kopā, un viens no tiem mirst, un<i> [tam]</i> nav bērnu, mirušā sievai nebūs precēties ārpusē pie svešinieka: viņas vīra brālim būs ieiet pie viņas un ņemt viņu sev par sievu un izpildīt viņai vīra brāļa pienākumu."
+        "lv": "5 <span class='p'></span> Ja brāļi mājo kopā, un viens no tiem mirst, un<i> [tam]</i> nav bērnu, mirušā sievai nebūs precēties ārpusē pie svešinieka: viņas vīra brālim būs ieiet pie viņas un ņemt viņu sev par sievu un izpildīt viņai vīra brāļa pienākumu."
       },
       {
         "verse": 6,
@@ -3378,7 +3373,7 @@
       {
         "verse": 11,
         "en": "11When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:",
-        "lv": "11 <p>Kad vīrieši cīnās viens ar otru, un viena sieva tuvojas, lai izpestītu savu vīru no tā rokas, kas viņu sit, un izstiepj savu roku, un ņem viņu pie mantības:"
+        "lv": "11 <span class='p'></span> Kad vīrieši cīnās viens ar otru, un viena sieva tuvojas, lai izpestītu savu vīru no tā rokas, kas viņu sit, un izstiepj savu roku, un ņem viņu pie mantības:"
       },
       {
         "verse": 12,
@@ -3388,7 +3383,7 @@
       {
         "verse": 13,
         "en": "13Thou shalt not have in thy bag divers weights, a great and a small.",
-        "lv": "13 <p>Tev nebūs būt tavā maisā dažādiem svariem — lieliem un maziem."
+        "lv": "13 <span class='p'></span> Tev nebūs būt tavā maisā dažādiem svariem — lieliem un maziem."
       },
       {
         "verse": 14,
@@ -3408,7 +3403,7 @@
       {
         "verse": 17,
         "en": "17Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;",
-        "lv": "17 <p>Atceries, ko Amaleks tev darīja pa ceļam, kad jūs bijāt iznākuši no Ēģiptes;"
+        "lv": "17 <span class='p'></span> Atceries, ko Amaleks tev darīja pa ceļam, kad jūs bijāt iznākuši no Ēģiptes;"
       },
       {
         "verse": 18,
@@ -3480,7 +3475,7 @@
       {
         "verse": 12,
         "en": "12When thou hast made an end of tithing all the tithes of thine increase the third year, <i>which is</i> the year of tithing, and hast given <i>it </i>unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;",
-        "lv": "12 <p>Kad tu esi darījis galu visa tava pieauguma desmitās tiesas ziedošanai trešajā gadā, <i>kas ir</i> desmitās tiesas gads, un to esi devis levītam, svešiniekam, beztēva <i>[bērnam]</i> un atraitnei, lai tie var ēst tavos vārtos un tiktu pildīti;"
+        "lv": "12 <span class='p'></span> Kad tu esi darījis galu visa tava pieauguma desmitās tiesas ziedošanai trešajā gadā, <i>kas ir</i> desmitās tiesas gads, un to esi devis levītam, svešiniekam, beztēva <i>[bērnam]</i> un atraitnei, lai tie var ēst tavos vārtos un tiktu pildīti;"
       },
       {
         "verse": 13,
@@ -3500,7 +3495,7 @@
       {
         "verse": 16,
         "en": "16This day the LORD thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul.",
-        "lv": "16 <p>Šajā dienā tas KUNGS, tavs Dievs ir tev pavēlējis darīt šos statūtus un tiesas: tāpēc tev tos būs turēt un tos darīt ar visu savu sirdi, un ar visu savu dvēseli."
+        "lv": "16 <span class='p'></span> Šajā dienā tas KUNGS, tavs Dievs ir tev pavēlējis darīt šos statūtus un tiesas: tāpēc tev tos būs turēt un tos darīt ar visu savu sirdi, un ar visu savu dvēseli."
       },
       {
         "verse": 17,
@@ -3542,7 +3537,7 @@
       {
         "verse": 5,
         "en": "5And there shalt thou build an altar unto the LORD thy God, an altar of stones: thou shalt not lift up <i>any</i> iron <i>tool </i>upon them.",
-        "lv": "5 <p>Un tur tev būs uzbūvēt altāri tam KUNGAM, savam Dievam, akmeņu altāri: tev nebūs uz tiem pacelt <i>nekādu </i>dzelzs <i>rīku</i>."
+        "lv": "5 <span class='p'></span> Un tur tev būs uzbūvēt altāri tam KUNGAM, savam Dievam, akmeņu altāri: tev nebūs uz tiem pacelt <i>nekādu </i>dzelzs <i>rīku</i>."
       },
       {
         "verse": 6,
@@ -3562,7 +3557,7 @@
       {
         "verse": 9,
         "en": "9And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of the LORD thy God.",
-        "lv": "9 <p>Un Mozus un visi priesteri — levīti runāja uz visu Israēlu sacīdami, Pielūko un uzkalusi, ak, Izraēl; šajā dienā tu esi kļuvis par tā KUNGA, sava Dieva, ļaudīm."
+        "lv": "9 <span class='p'></span> Un Mozus un visi priesteri — levīti runāja uz visu Israēlu sacīdami, Pielūko un uzkalusi, ak, Izraēl; šajā dienā tu esi kļuvis par tā KUNGA, sava Dieva, ļaudīm."
       },
       {
         "verse": 10,
@@ -3587,7 +3582,7 @@
       {
         "verse": 14,
         "en": "14And the Levites shall speak, and say unto all the men of Israel with a loud voice,",
-        "lv": "14 <p>Un levītiem būs runāt un sacīt visiem Izraēla cilvēkiem ar skaļu balsi,"
+        "lv": "14 <span class='p'></span> Un levītiem būs runāt un sacīt visiem Izraēla cilvēkiem ar skaļu balsi,"
       },
       {
         "verse": 15,
@@ -3724,7 +3719,7 @@
       {
         "verse": 15,
         "en": "15But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:",
-        "lv": "15 <p>Bet notiks, ja tu neuzklausīsi tā KUNGA, sava Dieva, balsi, ievērot darīt visas viņa pavēles un viņa statūtus, ko es tev pavēlu šajā dienā; ka visi šie lāsti nāks uz tevi, un tevi apsteigs:"
+        "lv": "15 <span class='p'></span> Bet notiks, ja tu neuzklausīsi tā KUNGA, sava Dieva, balsi, ievērot darīt visas viņa pavēles un viņa statūtus, ko es tev pavēlu šajā dienā; ka visi šie lāsti nāks uz tevi, un tevi apsteigs:"
       },
       {
         "verse": 16,
@@ -3964,7 +3959,7 @@
       {
         "verse": 63,
         "en": "63And it shall come to pass, <i>that </i>as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it.",
-        "lv": "63 <p>Un notiks, <i>ka </i>kā tas KUNGS priecājās pār jums, darīt jums labu un jūs vairot; tā tas KUNGS priecāsies pār jums, jūs iznīcināt, un jūs padarīt par neko; un jūs tiksiet izrauti no zemes, kurp tu ej, to iegūt īpašumā."
+        "lv": "63 <span class='p'></span> Un notiks, <i>ka </i>kā tas KUNGS priecājās pār jums, darīt jums labu un jūs vairot; tā tas KUNGS priecāsies pār jums, jūs iznīcināt, un jūs padarīt par neko; un jūs tiksiet izrauti no zemes, kurp tu ej, to iegūt īpašumā."
       },
       {
         "verse": 64,
@@ -4006,7 +4001,7 @@
       {
         "verse": 3,
         "en": "3The great temptations which thine eyes have seen, the signs, and those great miracles:",
-        "lv": "3 <p>Lielus kārdinājumus, ko tavas acis ir redzējušas, zīmes un tos lielos brīnuma darbus:"
+        "lv": "3 <span class='p'></span> Lielus kārdinājumus, ko tavas acis ir redzējušas, zīmes un tos lielos brīnuma darbus:"
       },
       {
         "verse": 4,
@@ -4041,7 +4036,7 @@
       {
         "verse": 10,
         "en": "10Ye stand this day all of you before the LORD your God; your captains of your tribes, your elders, and your officers, <i>with </i>all the men of Israel,",
-        "lv": "10 <p>Jūs stāvat šajā dienā, visi no jums tā KUNGS, jūsu Dieva priekšā; jūsu kapteiņi no jūsu ciltīm, jūsu vecaji un jūsu oficieri <i>ar </i>visiem Izraēla vīriešiem,"
+        "lv": "10 <span class='p'></span> Jūs stāvat šajā dienā, visi no jums tā KUNGS, jūsu Dieva priekšā; jūsu kapteiņi no jūsu ciltīm, jūsu vecaji un jūsu oficieri <i>ar </i>visiem Izraēla vīriešiem,"
       },
       {
         "verse": 11,
@@ -4051,7 +4046,7 @@
       {
         "verse": 12,
         "en": "12That thou shouldest enter into covenant with the LORD thy God, and into his oath, which the LORD thy God maketh with thee this day:",
-        "lv": "12 Lai tu ieietu derībā ar to KUNGU, savu Dievu, un viņa zvērestā, ko tas KUNGS, tavs Dievs dara ar tevi šajā dienā: "
+        "lv": "12 Lai tu ieietu derībā ar to KUNGU, savu Dievu, un viņa zvērestā, ko tas KUNGS, tavs Dievs dara ar tevi šajā dienā:"
       },
       {
         "verse": 13,
@@ -4136,7 +4131,7 @@
       {
         "verse": 29,
         "en": "29 The secret <i>things </i>belong unto the LORD our God: but those<i> things which </i>are revealed <i>belong </i>unto us and to our children for ever, that <i>we </i>may do all the words of this law.",
-        "lv": "29 <p>Slepenais pieder tam KUNGAM, mūsu Dievam: bet tas, <i>kas </i>ir atklāts, mums un mūsu bērniem mūžīgi, lai <i>mēs </i>varam<i> </i>darīt visus šī likuma vārdus."
+        "lv": "29 <span class='p'></span> Slepenais pieder tam KUNGAM, mūsu Dievam: bet tas, <i>kas </i>ir atklāts, mums un mūsu bērniem mūžīgi, lai <i>mēs </i>varam<i> </i>darīt visus šī likuma vārdus."
       }
     ],
     "30": [
@@ -4193,7 +4188,7 @@
       {
         "verse": 11,
         "en": "11For this commandment which I command thee this day, it <i>is </i>not hidden from thee, neither <i>is </i>it far off.",
-        "lv": "11 <p>Jo šī pavēle, ko es tev pavēlu šajā dienā, nav paslēpta no tevis, nedz tā <i>ir </i>tālu."
+        "lv": "11 <span class='p'></span> Jo šī pavēle, ko es tev pavēlu šajā dienā, nav paslēpta no tevis, nedz tā <i>ir </i>tālu."
       },
       {
         "verse": 12,
@@ -4213,7 +4208,7 @@
       {
         "verse": 15,
         "en": "15See, I have set before thee this day life and good, and death and evil;",
-        "lv": "15 <p>Redzi, es esmu licis tavā priekšā šajā dienā dzīvību un labumu, un nāvi, un ļaunumu;"
+        "lv": "15 <span class='p'></span> Redzi, es esmu licis tavā priekšā šajā dienā dzīvību un labumu, un nāvi, un ļaunumu;"
       },
       {
         "verse": 16,
@@ -4275,7 +4270,7 @@
       {
         "verse": 7,
         "en": "7And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.",
-        "lv": "7 <p>Un Mozus aicināja Jozua un viņam sacīja visa Izraēla acu priekšā, Esi stiprs un drosmīgs: jo tev jāiet ar šiem ļaudīm uz zemi, ko tas KUNGS ir zvērējis viņu tēviem, tiem dot; un tu tiem liksi to iemantot."
+        "lv": "7 <span class='p'></span> Un Mozus aicināja Jozua un viņam sacīja visa Izraēla acu priekšā, Esi stiprs un drosmīgs: jo tev jāiet ar šiem ļaudīm uz zemi, ko tas KUNGS ir zvērējis viņu tēviem, tiem dot; un tu tiem liksi to iemantot."
       },
       {
         "verse": 8,
@@ -4285,7 +4280,7 @@
       {
         "verse": 9,
         "en": "9And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the LORD, and unto all the elders of Israel.",
-        "lv": "9 <p>Un Mozus rakstīja šo likumu un nodeva to priesteriem, Levja dēliem, kas nesa tā KUNGA derības šķirstu, un visiem Izraēla vecajiem."
+        "lv": "9 <span class='p'></span> Un Mozus rakstīja šo likumu un nodeva to priesteriem, Levja dēliem, kas nesa tā KUNGA derības šķirstu, un visiem Izraēla vecajiem."
       },
       {
         "verse": 10,
@@ -4310,7 +4305,7 @@
       {
         "verse": 14,
         "en": "14And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.",
-        "lv": "14 <p>Un tas KUNGS Mozum sacīja, Lūk, tavas dienas tuvojas, kad tev jāmirst: aicini Jozua un stādiet sevi priekšā sanāksmes mājoklī, lai es viņu varu piekodināt. Un Mozus un Jozua gāja un stādīja sevi priekšā sanāksmes mājoklī."
+        "lv": "14 <span class='p'></span> Un tas KUNGS Mozum sacīja, Lūk, tavas dienas tuvojas, kad tev jāmirst: aicini Jozua un stādiet sevi priekšā sanāksmes mājoklī, lai es viņu varu piekodināt. Un Mozus un Jozua gāja un stādīja sevi priekšā sanāksmes mājoklī."
       },
       {
         "verse": 15,
@@ -4320,7 +4315,7 @@
       {
         "verse": 16,
         "en": "16And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go<i> to be</i> among them, and will forsake me, and break my covenant which I have made with them.",
-        "lv": "16 <p>Un tas KUNGS Mozum sacīja, Lūk, tu gulēsi pie saviem tēviem; un šie ļaudis celsies un ies maukodami pēc zemes svešinieku dieviem, kurp tie iet <i>būt </i>starp tiem, un pametīs mani, un pārkāps manu derību, ko es ar tiem esmu slēdzis."
+        "lv": "16 <span class='p'></span> Un tas KUNGS Mozum sacīja, Lūk, tu gulēsi pie saviem tēviem; un šie ļaudis celsies un ies maukodami pēc zemes svešinieku dieviem, kurp tie iet <i>būt </i>starp tiem, un pametīs mani, un pārkāps manu derību, ko es ar tiem esmu slēdzis."
       },
       {
         "verse": 17,
@@ -4350,7 +4345,7 @@
       {
         "verse": 22,
         "en": "22Moses therefore wrote this song the same day, and taught it the children of Israel.",
-        "lv": "22 <p>Tāpēc Mozus rakstīja šo dziesmu tajā pašā dienā, un to mācīja Izraēla bērniem."
+        "lv": "22 <span class='p'></span> Tāpēc Mozus rakstīja šo dziesmu tajā pašā dienā, un to mācīja Izraēla bērniem."
       },
       {
         "verse": 23,
@@ -4360,7 +4355,7 @@
       {
         "verse": 24,
         "en": "24And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,",
-        "lv": "24 <p>Un notika, kad Mozus bija darījis galu šī likuma vārdu rakstīšanai grāmatā, līdz tie tika pabeigti,"
+        "lv": "24 <span class='p'></span> Un notika, kad Mozus bija darījis galu šī likuma vārdu rakstīšanai grāmatā, līdz tie tika pabeigti,"
       },
       {
         "verse": 25,
@@ -4380,7 +4375,7 @@
       {
         "verse": 28,
         "en": "28Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.",
-        "lv": "28 <p>Sapulciniet pie manis visus jūsu cilšu vecajus un jūsu oficierus, lai es varu runāt šos vārdus viņu ausīs un piesauktu debesi un zemi liecināt pret tiem."
+        "lv": "28 <span class='p'></span> Sapulciniet pie manis visus jūsu cilšu vecajus un jūsu oficierus, lai es varu runāt šos vārdus viņu ausīs un piesauktu debesi un zemi liecināt pret tiem."
       },
       {
         "verse": 29,
@@ -4427,7 +4422,7 @@
       {
         "verse": 7,
         "en": "7Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee.",
-        "lv": "7 <p>Atceries senās dienas, ņem vērā daudzu paaudžu gadus: prasi savam tēvam, un viņš tev rādīs; taviem vecajiem, un tie tev stāstīs."
+        "lv": "7 <span class='p'></span> Atceries senās dienas, ņem vērā daudzu paaudžu gadus: prasi savam tēvam, un viņš tev rādīs; taviem vecajiem, un tie tev stāstīs."
       },
       {
         "verse": 8,
@@ -4467,7 +4462,7 @@
       {
         "verse": 15,
         "en": "15But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered <i>with fatness</i>; then he forsook God <i>which </i>made him, and lightly esteemed the Rock of his salvation.",
-        "lv": "15 <p>Bet Ješuruns kļuva trekns un spārdījās: tu esi kļuvis trekns, tu esi uzaudzis biezs, tu esi apsegts <i>ar taukumu</i>; tad viņš pameta Dievu, <i>kas </i>viņu darīja, un nevērīgi uzskatīja savas glābšanas Klinti."
+        "lv": "15 <span class='p'></span> Bet Ješuruns kļuva trekns un spārdījās: tu esi kļuvis trekns, tu esi uzaudzis biezs, tu esi apsegts <i>ar taukumu</i>; tad viņš pameta Dievu, <i>kas </i>viņu darīja, un nevērīgi uzskatīja savas glābšanas Klinti."
       },
       {
         "verse": 16,
@@ -4612,7 +4607,7 @@
       {
         "verse": 44,
         "en": "44And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.",
-        "lv": "44 <p>Un Mozus nāca un runāja visus šīs dziesmas vārdus ļaužu ausīs, viņš un Hozeja, Nuna dēls."
+        "lv": "44 <span class='p'></span> Un Mozus nāca un runāja visus šīs dziesmas vārdus ļaužu ausīs, viņš un Hozeja, Nuna dēls."
       },
       {
         "verse": 45,
@@ -4632,7 +4627,7 @@
       {
         "verse": 48,
         "en": "48And the LORD spake unto Moses that selfsame day, saying,",
-        "lv": "48 <p>Un tas KUNGS runāja uz Mozu tajā pašā dienā sacīdams,"
+        "lv": "48 <span class='p'></span> Un tas KUNGS runāja uz Mozu tajā pašā dienā sacīdams,"
       },
       {
         "verse": 49,
@@ -4684,17 +4679,17 @@
       {
         "verse": 6,
         "en": "6Let Reuben live, and not die; and let <i>not </i>his men be few.",
-        "lv": "6 <p>Lai Rūbens dzīvo un nemirst; un lai viņa vīriešu <i>nav </i>maz."
+        "lv": "6 <span class='p'></span> Lai Rūbens dzīvo un nemirst; un lai viņa vīriešu <i>nav </i>maz."
       },
       {
         "verse": 7,
         "en": "7And this<i> is the blessing </i>of Judah: and he said, Hear, LORD, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help <i>to him</i> from his enemies.",
-        "lv": "7 <p>Un šī <i>ir </i>Jūda <i>svētība</i>: un viņš sacīja, Klausies, KUNGS, Jūda balsi, un ved viņu pie viņa ļaudīm: lai viņa rokas priekš viņa ir pietiekošas; un esi <i>viņam </i>palīgs no viņa ienaidniekiem."
+        "lv": "7 <span class='p'></span> Un šī <i>ir </i>Jūda <i>svētība</i>: un viņš sacīja, Klausies, KUNGS, Jūda balsi, un ved viņu pie viņa ļaudīm: lai viņa rokas priekš viņa ir pietiekošas; un esi <i>viņam </i>palīgs no viņa ienaidniekiem."
       },
       {
         "verse": 8,
         "en": "8And of Levi he said, <i>Let </i>thy Thummim and thy Urim <i>be </i>with thy holy one, whom thou didst prove at Massah, <i>and with </i>whom thou didst strive at the waters of Meribah;",
-        "lv": "8 <p>Un par Levi viņš sacīja, <i>Lai </i>tavs Tumim un tavs Urim <i>ir </i>ar tavu svēto, kuru tu pārbaudīji Masā, <i>un ar </i>kuru tu cīnījies pie Meribas ūdeņiem;"
+        "lv": "8 <span class='p'></span> Un par Levi viņš sacīja, <i>Lai </i>tavs Tumim un tavs Urim <i>ir </i>ar tavu svēto, kuru tu pārbaudīji Masā, <i>un ar </i>kuru tu cīnījies pie Meribas ūdeņiem;"
       },
       {
         "verse": 9,
@@ -4714,12 +4709,12 @@
       {
         "verse": 12,
         "en": "<i>12And </i>of Benjamin he said, The beloved of the LORD shall dwell in safety by him; <i>and the LORD </i>shall cover him all the day long, and he shall dwell between his shoulders.",
-        "lv": "12 <p><i>Un </i>par Benjaminu viņš sacīja, Tā KUNGA mīļotais mājos drošībā pie viņa; <i>un tas KUNGS </i>viņu apsegs visu cauru dienu, un viņš mājos starp viņa pleciem."
+        "lv": "12 <span class='p'></span> <i>Un </i>par Benjaminu viņš sacīja, Tā KUNGA mīļotais mājos drošībā pie viņa; <i>un tas KUNGS </i>viņu apsegs visu cauru dienu, un viņš mājos starp viņa pleciem."
       },
       {
         "verse": 13,
         "en": "13And of Joseph he said, Blessed of the LORD <i>be </i>his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,",
-        "lv": "13 <p>Un par Jāzepu viņš sacīja, Svētīta no tā KUNGA <i>ir </i>viņa zeme debesu dārgo lietu dēļ, rasas dēļ un dziļuma dēļ, kas atgūlies apakšā,"
+        "lv": "13 <span class='p'></span> Un par Jāzepu viņš sacīja, Svētīta no tā KUNGA <i>ir </i>viņa zeme debesu dārgo lietu dēļ, rasas dēļ un dziļuma dēļ, kas atgūlies apakšā,"
       },
       {
         "verse": 14,
@@ -4744,7 +4739,7 @@
       {
         "verse": 18,
         "en": "18And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents.",
-        "lv": "18 <p>Un par Zebulunu viņš sacīja, Priecājies, Zebulun savā iziešanā; un Isašar savās teltīs."
+        "lv": "18 <span class='p'></span> Un par Zebulunu viņš sacīja, Priecājies, Zebulun savā iziešanā; un Isašar savās teltīs."
       },
       {
         "verse": 19,
@@ -4754,7 +4749,7 @@
       {
         "verse": 20,
         "en": "20And of Gad he said, Blessed <i>be </i>he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.",
-        "lv": "20 <p>Un par Gadu viņš sacīja, Svētīts <i>ir </i>tas, kas palielina Gadu: viņš mājo kā lauva un saplēš elkoni ar galvas kroni."
+        "lv": "20 <span class='p'></span> Un par Gadu viņš sacīja, Svētīts <i>ir </i>tas, kas palielina Gadu: viņš mājo kā lauva un saplēš elkoni ar galvas kroni."
       },
       {
         "verse": 21,
@@ -4764,17 +4759,17 @@
       {
         "verse": 22,
         "en": "22And of Dan he said, Dan <i>is </i>a lion's whelp: he shall leap from Bashan.",
-        "lv": "22 <p>Un par Danu viņš sacīja, Dans <i>ir </i>lauvas mazulis: viņš lēks no Bašanas."
+        "lv": "22 <span class='p'></span> Un par Danu viņš sacīja, Dans <i>ir </i>lauvas mazulis: viņš lēks no Bašanas."
       },
       {
         "verse": 23,
         "en": "23And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the LORD: possess thou the west and the south.",
-        "lv": "23 <p>Un par Naftali viņš sacīja, Ak, Naftali, apmierināts ar labvēlību un pilns ar tā KUNGA svētību: iegūsti īpašumā rietumus un dienvidus."
+        "lv": "23 <span class='p'></span> Un par Naftali viņš sacīja, Ak, Naftali, apmierināts ar labvēlību un pilns ar tā KUNGA svētību: iegūsti īpašumā rietumus un dienvidus."
       },
       {
         "verse": 24,
         "en": "24And of Asher he said, <i>Let </i>Asher <i>be </i>blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.",
-        "lv": "24 <p>Un par Ašeru viņš sacīja, <i>Lai</i> Ašērs <i>tiek </i>svētīts ar bērniem; lai viņš ir pieņemams viņa brāļiem, un lai viņš mērc savu kāju eļļā."
+        "lv": "24 <span class='p'></span> Un par Ašeru viņš sacīja, <i>Lai</i> Ašērs <i>tiek </i>svētīts ar bērniem; lai viņš ir pieņemams viņa brāļiem, un lai viņš mērc savu kāju eļļā."
       },
       {
         "verse": 25,
@@ -4784,7 +4779,7 @@
       {
         "verse": 26,
         "en": "26<i>There is</i> none like unto the God of Jeshurun, <i>who </i>rideth upon the heaven in thy help, and in his excellency on the sky.",
-        "lv": "26 <p><i>Nav </i>neviena kā Ješruna Dievs, <i>kurš </i>brauc uz debess tavā palīdzībā, un savā debesjuma pārākumā."
+        "lv": "26 <span class='p'></span> <i>Nav </i>neviena kā Ješruna Dievs, <i>kurš </i>brauc uz debess tavā palīdzībā, un savā debesjuma pārākumā."
       },
       {
         "verse": 27,
@@ -4826,7 +4821,7 @@
       {
         "verse": 5,
         "en": "5So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD.",
-        "lv": "5 <p>Tā Mozus, tā KUNGA kalps, nomira Moaba zemē atbilstoši tā KUNGA vārdam."
+        "lv": "5 <span class='p'></span> Tā Mozus, tā KUNGA kalps, nomira Moaba zemē atbilstoši tā KUNGA vārdam."
       },
       {
         "verse": 6,
@@ -4836,22 +4831,22 @@
       {
         "verse": 7,
         "en": "7And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.",
-        "lv": "7 <p>Un Mozus bija simts divdesmit gadu vecs, kad viņš nomira: viņa acis nebija aptumšotas, ne viņa dabīgais spēks atslābis."
+        "lv": "7 <span class='p'></span> Un Mozus bija simts divdesmit gadu vecs, kad viņš nomira: viņa acis nebija aptumšotas, ne viņa dabīgais spēks atslābis."
       },
       {
         "verse": 8,
         "en": "8And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping <i>and </i>mourning for Moses were ended.",
-        "lv": "8 <p>Un Izraēla bērni raudāja par Mozu Moaba līdzenumos trīsdesmit dienas: tā raudāšanas <i>un </i>sērošanas dienas par Mozu tika pabeigtas."
+        "lv": "8 <span class='p'></span> Un Izraēla bērni raudāja par Mozu Moaba līdzenumos trīsdesmit dienas: tā raudāšanas <i>un </i>sērošanas dienas par Mozu tika pabeigtas."
       },
       {
         "verse": 9,
         "en": "9And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.",
-        "lv": "9 <p>Un Jozua, Nūna dēls, bija pilns gudrības gara; jo Mozus bija licis uz viņu savas rokas: un Izraēla bērni uzklausīja viņu, un darīja kā tas KUNGS pavēlēja Mozum."
+        "lv": "9 <span class='p'></span> Un Jozua, Nūna dēls, bija pilns gudrības gara; jo Mozus bija licis uz viņu savas rokas: un Izraēla bērni uzklausīja viņu, un darīja kā tas KUNGS pavēlēja Mozum."
       },
       {
         "verse": 10,
         "en": "10And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,",
-        "lv": "10 <p>Un kopš tā laika Israēlā necēlās pravietis kā Mozus, kuru tas KUNGS pazina seju pret seju,"
+        "lv": "10 <span class='p'></span> Un kopš tā laika Israēlā necēlās pravietis kā Mozus, kuru tas KUNGS pazina seju pret seju,"
       },
       {
         "verse": 11,

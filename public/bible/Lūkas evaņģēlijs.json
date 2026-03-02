@@ -25,7 +25,7 @@
       {
         "verse": 5,
         "en": "5There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife <i>was </i>of the daughters of Aaron, and her name <i>was </i>Elisabeth.",
-        "lv": "5 <p>Hēroda, Jūdejas ķēniņa, dienās bija kāds priesteris, vārdā Zaharija, no Abijas kārtas: un viņa sieva <i>bija </i>no Ārona meitām, un viņas vārds <i>bija</i> Elizabete."
+        "lv": "5 <span class='p'></span> Hēroda, Jūdejas ķēniņa, dienās bija kāds priesteris, vārdā Zaharija, no Abijas kārtas: un viņa sieva <i>bija </i>no Ārona meitām, un viņas vārds <i>bija</i> Elizabete."
       },
       {
         "verse": 6,
@@ -250,7 +250,7 @@
       {
         "verse": 50,
         "en": "50And his mercy <i>is </i>on them that fear him from generation to generation.",
-        "lv": "50 Un viņa žēlsirdība <i>ir</i> uz tiem, kas viņu bīstas, paaudžu paaudzēs. "
+        "lv": "50 Un viņa žēlsirdība <i>ir</i> uz tiem, kas viņu bīstas, paaudžu paaudzēs."
       },
       {
         "verse": 51,
@@ -305,7 +305,7 @@
       {
         "verse": 61,
         "en": "61And they said unto her, There is none of thy kindred that is called by this name.",
-        "lv": "61 Un tie viņai sacīja, Nav neviena no taviem radiem, kas tiek saukts šajā vārdā. "
+        "lv": "61 Un tie viņai sacīja, Nav neviena no taviem radiem, kas tiek saukts šajā vārdā."
       },
       {
         "verse": 62,
@@ -612,7 +612,7 @@
       {
         "verse": 42,
         "en": "42And when he was twelve years old, they went up to Jerusalem after the custom of the feast.",
-        "lv": "42 Un, kad viņš bija divpadsmit gadu vecs, tie pēc svētku paražas devās uz Jeruzālemi.\n"
+        "lv": "42 Un, kad viņš bija divpadsmit gadu vecs, tie pēc svētku paražas devās uz Jeruzālemi."
       },
       {
         "verse": 43,
@@ -719,7 +719,7 @@
       {
         "verse": 11,
         "en": "11He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.",
-        "lv": "11 Viņš atbild un tiem saka, Tam, kam ir divi svārki, lai tas dalās ar to, kam nav nevienu; un tam, kam ir barība, lai tas dara tāpat. "
+        "lv": "11 Viņš atbild un tiem saka, Tam, kam ir divi svārki, lai tas dalās ar to, kam nav nevienu; un tam, kam ir barība, lai tas dara tāpat."
       },
       {
         "verse": 12,
@@ -926,7 +926,7 @@
       {
         "verse": 14,
         "en": "14And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.",
-        "lv": "14 <p>Un Jēzus tā Gara spēkā atgriezās Galilejā: un slava par viņu izgāja caur visu apgabalu visapkārt."
+        "lv": "14 <span class='p'></span> Un Jēzus tā Gara spēkā atgriezās Galilejā: un slava par viņu izgāja caur visu apgabalu visapkārt."
       },
       {
         "verse": 15,
@@ -936,7 +936,7 @@
       {
         "verse": 16,
         "en": "16And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read.",
-        "lv": "16 <p>Un viņš nāca uz Nācareti, kur viņš bija uzaudzināts: un kā bija viņa paradums, viņš sabatā iegāja sinagogā un piecēlās, lai lasītu."
+        "lv": "16 <span class='p'></span> Un viņš nāca uz Nācareti, kur viņš bija uzaudzināts: un kā bija viņa paradums, viņš sabatā iegāja sinagogā un piecēlās, lai lasītu."
       },
       {
         "verse": 17,
@@ -1021,7 +1021,7 @@
       {
         "verse": 33,
         "en": "33And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,",
-        "lv": "33 <p>Un sinagogā bija vīrietis, kam bija nešķīsta velna gars, un <i>[tas]</i> kliedza ar skaļu balsi"
+        "lv": "33 <span class='p'></span> Un sinagogā bija vīrietis, kam bija nešķīsta velna gars, un <i>[tas]</i> kliedza ar skaļu balsi"
       },
       {
         "verse": 34,
@@ -1046,7 +1046,7 @@
       {
         "verse": 38,
         "en": "38And he arose out of the synagogue, and entered into Simon's house. And Simon's wife's mother was taken with a great fever; and they besought him for her.",
-        "lv": "38 <p>Un viņš izgāja no sinagogas un iegāja Sīmaņa namā. Un Sīmaņa sievas māte bija pārņemta ar lielu drudzi; un tie viņu lūdzās par viņu."
+        "lv": "38 <span class='p'></span> Un viņš izgāja no sinagogas un iegāja Sīmaņa namā. Un Sīmaņa sievas māte bija pārņemta ar lielu drudzi; un tie viņu lūdzās par viņu."
       },
       {
         "verse": 39,
@@ -1056,7 +1056,7 @@
       {
         "verse": 40,
         "en": "40Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them.",
-        "lv": "40 <p>Kad nu saule rietēja, visi tie, kam bija kādi neveselie ar dažādām slimībām, tos atveda pie viņa; un viņš ikvienam no tiem uzlika savas rokas un tos dziedināja."
+        "lv": "40 <span class='p'></span> Kad nu saule rietēja, visi tie, kam bija kādi neveselie ar dažādām slimībām, tos atveda pie viņa; un viņš ikvienam no tiem uzlika savas rokas un tos dziedināja."
       },
       {
         "verse": 41,
@@ -1138,7 +1138,7 @@
       {
         "verse": 12,
         "en": "12And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on <i>his</i> face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.",
-        "lv": "12 <p>Un notika, kad viņš bija kādā pilsētā, lūk, vīrietis, pilns spitālības: kurš redzēdams Jēzu, krita uz <i>savas </i>sejas un viņu lūdzās sacīdams, Kungs, ja tu gribi, tu mani vari darīt šķīstu."
+        "lv": "12 <span class='p'></span> Un notika, kad viņš bija kādā pilsētā, lūk, vīrietis, pilns spitālības: kurš redzēdams Jēzu, krita uz <i>savas </i>sejas un viņu lūdzās sacīdams, Kungs, ja tu gribi, tu mani vari darīt šķīstu."
       },
       {
         "verse": 13,
@@ -1158,7 +1158,7 @@
       {
         "verse": 16,
         "en": "16And he withdrew himself into the wilderness, and prayed.",
-        "lv": "16 <p>Un viņš atkāpās tuksnesī un lūdza."
+        "lv": "16 <span class='p'></span> Un viņš atkāpās tuksnesī un lūdza."
       },
       {
         "verse": 17,
@@ -1168,7 +1168,7 @@
       {
         "verse": 18,
         "en": "18And, behold, men brought in a bed a man which was taken with a palsy: and they sought <i>means </i>to bring him in, and to lay <i>him </i>before him.",
-        "lv": "18 <p>Un, lūk, vīri atnesa gultā cilvēku, kas bija pārņemts ar paralīzi: un tie meklēja <i>veidus </i>to ienest un <i>to </i>nolikt viņa priekšā."
+        "lv": "18 <span class='p'></span> Un, lūk, vīri atnesa gultā cilvēku, kas bija pārņemts ar paralīzi: un tie meklēja <i>veidus </i>to ienest un <i>to </i>nolikt viņa priekšā."
       },
       {
         "verse": 19,
@@ -1213,7 +1213,7 @@
       {
         "verse": 27,
         "en": "27And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.",
-        "lv": "27 <p>Un pēc šī viņš izgāja un redzēja muitnieku, vārdā Levis, sēžam muitas saņemšanas <i>[vietā]</i>: un viņš tam sacīja, Seko man."
+        "lv": "27 <span class='p'></span> Un pēc šī viņš izgāja un redzēja muitnieku, vārdā Levis, sēžam muitas saņemšanas <i>[vietā]</i>: un viņš tam sacīja, Seko man."
       },
       {
         "verse": 28,
@@ -1243,7 +1243,7 @@
       {
         "verse": 33,
         "en": "33And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise <i>the disciples </i>of the Pharisees; but thine eat and drink?",
-        "lv": "33 <p>Un tie viņam sacīja, Kāpēc Jāņa mācekļi bieži gavē un dara lūgšanas, un tāpat farizeju <i>mācekļi</i>; bet tavi ēd un dzer?"
+        "lv": "33 <span class='p'></span> Un tie viņam sacīja, Kāpēc Jāņa mācekļi bieži gavē un dara lūgšanas, un tāpat farizeju <i>mācekļi</i>; bet tavi ēd un dzer?"
       },
       {
         "verse": 34,
@@ -1258,7 +1258,7 @@
       {
         "verse": 36,
         "en": "36And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was <i>taken </i>out of the new agreeth not with the old.",
-        "lv": "36 <p>Un viņš uz tiem runāja arī līdzību; Neviens neliek jauna apģērba gabalu uz veca; citādi tad gan jaunais taisa plīsumu, gan gabals, kas tika <i>ņemts </i>no jaunā, nesaskan ar veco."
+        "lv": "36 <span class='p'></span> Un viņš uz tiem runāja arī līdzību; Neviens neliek jauna apģērba gabalu uz veca; citādi tad gan jaunais taisa plīsumu, gan gabals, kas tika <i>ņemts </i>no jaunā, nesaskan ar veco."
       },
       {
         "verse": 37,
@@ -1340,7 +1340,7 @@
       {
         "verse": 13,
         "en": "13And when it was day, he called <i>unto him</i> his disciples: and of them he chose twelve, whom also he named apostles;",
-        "lv": "13 <p>Un, kad bija diena, viņš <i>pie sevis</i> aicināja savus mācekļus: un no tiem viņš izraudzījās divpadsmit, kurus viņš arī nosauca par apustuļiem;"
+        "lv": "13 <span class='p'></span> Un, kad bija diena, viņš <i>pie sevis</i> aicināja savus mācekļus: un no tiem viņš izraudzījās divpadsmit, kurus viņš arī nosauca par apustuļiem;"
       },
       {
         "verse": 14,
@@ -1360,7 +1360,7 @@
       {
         "verse": 17,
         "en": "17And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;",
-        "lv": "17 <p>Un viņš nonāca ar viņiem, un stāvēja līdzenumā, un viņa mācekļu grupa, un liels ļaužu pūlis no visas Jūdejas un Jeruzālemes, un no Tiras un Sidonas jūras piekrastes, kas nāca viņu klausīties un tikt dziedināti no savām slimībām;"
+        "lv": "17 <span class='p'></span> Un viņš nonāca ar viņiem, un stāvēja līdzenumā, un viņa mācekļu grupa, un liels ļaužu pūlis no visas Jūdejas un Jeruzālemes, un no Tiras un Sidonas jūras piekrastes, kas nāca viņu klausīties un tikt dziedināti no savām slimībām;"
       },
       {
         "verse": 18,
@@ -1375,7 +1375,7 @@
       {
         "verse": 20,
         "en": "20And he lifted up his eyes on his disciples, and said, Blessed <i>be ye</i> poor: for yours is the kingdom of God.",
-        "lv": "20 <p>Un viņš pacēla savas acis uz saviem mācekļiem un sacīja, Svētlaimīgi <i>esat jūs</i>, nabagie: jo jūsu ir Dieva valstība."
+        "lv": "20 <span class='p'></span> Un viņš pacēla savas acis uz saviem mācekļiem un sacīja, Svētlaimīgi <i>esat jūs</i>, nabagie: jo jūsu ir Dieva valstība."
       },
       {
         "verse": 21,
@@ -1410,7 +1410,7 @@
       {
         "verse": 27,
         "en": "27But I say unto you which hear, Love your enemies, do good to them which hate you,",
-        "lv": "27 <p>Bet jums, kas dzirdat, es saku, Mīliet savus ienaidniekus, dariet labu tiem, kas jūs ienīst,"
+        "lv": "27 <span class='p'></span> Bet jums, kas dzirdat, es saku, Mīliet savus ienaidniekus, dariet labu tiem, kas jūs ienīst,"
       },
       {
         "verse": 28,
@@ -1505,7 +1505,7 @@
       {
         "verse": 46,
         "en": "46And why call ye me, Lord, Lord, and do not the things which I say?",
-        "lv": "46 <p>Un kāpēc jūs mani saucat, Kungs, Kungs, un nedarāt to, ko es saku?"
+        "lv": "46 <span class='p'></span> Un kāpēc jūs mani saucat, Kungs, Kungs, un nedarāt to, ko es saku?"
       },
       {
         "verse": 47,
@@ -1577,12 +1577,12 @@
       {
         "verse": 11,
         "en": "11And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.",
-        "lv": "11 <p>Un dienu pēc tam notika, ka viņš gāja uz pilsētu, sauktu Naine; un daudzi no viņa mācekļiem gāja ar viņu, un daudz ļaužu."
+        "lv": "11 <span class='p'></span> Un dienu pēc tam notika, ka viņš gāja uz pilsētu, sauktu Naine; un daudzi no viņa mācekļiem gāja ar viņu, un daudz ļaužu."
       },
       {
         "verse": 12,
         "en": "12Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.",
-        "lv": "12 Kad nu viņš nāca tuvu pilsētas vārtiem, lūk, tika iznests mirušais, savas mātes vienīgais dēls, un viņa bija atraitne: un ar viņu bija daudz ļaužu no pilsētas. "
+        "lv": "12 Kad nu viņš nāca tuvu pilsētas vārtiem, lūk, tika iznests mirušais, savas mātes vienīgais dēls, un viņa bija atraitne: un ar viņu bija daudz ļaužu no pilsētas."
       },
       {
         "verse": 13,
@@ -1617,7 +1617,7 @@
       {
         "verse": 19,
         "en": "19And John calling <i>unto him</i> two of his disciples sent <i>them </i>to Jesus, saying, Art thou he that should come? or look we for another?",
-        "lv": "19 <p>Un Jānis, aicinādams <i>pie sevis</i> divus no saviem mācekļiem, <i>tos</i> sūtīja<i> </i>pie Jēzus sacīdams, Vai tu esi tas, kam jānāk? vai mēs gaidām citu?"
+        "lv": "19 <span class='p'></span> Un Jānis, aicinādams <i>pie sevis</i> divus no saviem mācekļiem, <i>tos</i> sūtīja<i> </i>pie Jēzus sacīdams, Vai tu esi tas, kam jānāk? vai mēs gaidām citu?"
       },
       {
         "verse": 20,
@@ -1642,7 +1642,7 @@
       {
         "verse": 24,
         "en": "24And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?",
-        "lv": "24 <p>Un, kad Jāņa vēstneši bija aizgājuši, viņš iesāka uz ļaudīm runāt attiecībā uz Jāni, Ko jūs izgājāt tuksnesī, lai redzētu? Vēja purinātu niedri?"
+        "lv": "24 <span class='p'></span> Un, kad Jāņa vēstneši bija aizgājuši, viņš iesāka uz ļaudīm runāt attiecībā uz Jāni, Ko jūs izgājāt tuksnesī, lai redzētu? Vēja purinātu niedri?"
       },
       {
         "verse": 25,
@@ -1677,7 +1677,7 @@
       {
         "verse": 31,
         "en": "31And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?",
-        "lv": "31 <p>Un tas Kungs sacīja, Kam tad es līdzināšu šīs paaudzes cilvēkus? un kam tie ir līdzīgi?"
+        "lv": "31 <span class='p'></span> Un tas Kungs sacīja, Kam tad es līdzināšu šīs paaudzes cilvēkus? un kam tie ir līdzīgi?"
       },
       {
         "verse": 32,
@@ -1702,7 +1702,7 @@
       {
         "verse": 36,
         "en": "36And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat.",
-        "lv": "36 <p>Un kāds no farizejiem viņu lūdza, lai viņš ar to ēstu. Un viņš iegāja farizeja namā, un apsēdās pie maltītes."
+        "lv": "36 <span class='p'></span> Un kāds no farizejiem viņu lūdza, lai viņš ar to ēstu. Un viņš iegāja farizeja namā, un apsēdās pie maltītes."
       },
       {
         "verse": 37,
@@ -1794,7 +1794,7 @@
       {
         "verse": 4,
         "en": "4And when much people were gathered together, and were come to him out of every city, he spake by a parable:",
-        "lv": "4 <p>Un, kad daudz ļaužu bija sapulcējušies un bija pie viņa nākuši no ikvienas pilsētas, viņš runāja caur līdzību:"
+        "lv": "4 <span class='p'></span> Un, kad daudz ļaužu bija sapulcējušies un bija pie viņa nākuši no ikvienas pilsētas, viņš runāja caur līdzību:"
       },
       {
         "verse": 5,
@@ -1854,7 +1854,7 @@
       {
         "verse": 16,
         "en": "16No man, when he hath lighted a candle, covereth it with a vessel, or putteth <i>it </i>under a bed; but setteth <i>it </i>on a candlestick, that they which enter in may see the light.",
-        "lv": "16 <p>Neviens, kad viņš ir iededzis sveci, neapsedz to ar trauku vai neliek <i>to </i>zem gultas; bet <i>to </i>liek<i> </i>svečturī, lai tie, kas ienāk, var redzēt gaismu. "
+        "lv": "16 <span class='p'></span> Neviens, kad viņš ir iededzis sveci, neapsedz to ar trauku vai neliek <i>to </i>zem gultas; bet <i>to </i>liek<i> </i>svečturī, lai tie, kas ienāk, var redzēt gaismu."
       },
       {
         "verse": 17,
@@ -1869,7 +1869,7 @@
       {
         "verse": 19,
         "en": "19Then came to him <i>his </i>mother and his brethren, and could not come at him for the press.",
-        "lv": "19 <p>Tad pie viņa nāca <i>viņa </i>māte un viņa brāļi un nevarēja pie viņa pienākt drūzmas dēļ."
+        "lv": "19 <span class='p'></span> Tad pie viņa nāca <i>viņa </i>māte un viņa brāļi un nevarēja pie viņa pienākt drūzmas dēļ."
       },
       {
         "verse": 20,
@@ -1884,7 +1884,7 @@
       {
         "verse": 22,
         "en": "22Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.",
-        "lv": "22 <p>Tad nu kādā dienā notika, ka viņš iekāpa kuģī ar saviem mācekļiem: un viņš tiem sacīja, Pārcelsimies uz otru ezera pusi. Un tie laida pāri."
+        "lv": "22 <span class='p'></span> Tad nu kādā dienā notika, ka viņš iekāpa kuģī ar saviem mācekļiem: un viņš tiem sacīja, Pārcelsimies uz otru ezera pusi. Un tie laida pāri."
       },
       {
         "verse": 23,
@@ -1904,7 +1904,7 @@
       {
         "verse": 26,
         "en": "26And they arrived at the country of the Gadarenes, which is over against Galilee.",
-        "lv": "26 <p>Un tie ieradās gadariešu apvidū, kas ir iepretī Galilejai."
+        "lv": "26 <span class='p'></span> Un tie ieradās gadariešu apvidū, kas ir iepretī Galilejai."
       },
       {
         "verse": 27,
@@ -1959,7 +1959,7 @@
       {
         "verse": 37,
         "en": "37Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.",
-        "lv": "37 <p>Tad viss pūlis no gadariešu apkārtējā apvidus viņu lūdzās, aiziet no tiem; jo tie bija lielas bijības pārņemti: un viņš iekāpa kuģī un atgriezās atkal atpakaļ."
+        "lv": "37 <span class='p'></span> Tad viss pūlis no gadariešu apkārtējā apvidus viņu lūdzās, aiziet no tiem; jo tie bija lielas bijības pārņemti: un viņš iekāpa kuģī un atgriezās atkal atpakaļ."
       },
       {
         "verse": 38,
@@ -1969,7 +1969,7 @@
       {
         "verse": 39,
         "en": "39Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
-        "lv": "39 Atgriezies savā paša namā un pavēsti, cik lielas lietas Dievs tev ir darījis. Un tas aizgāja un pa visu pilsētu pavēstīja, cik lielas lietas Jēzus viņam bija darījis. "
+        "lv": "39 Atgriezies savā paša namā un pavēsti, cik lielas lietas Dievs tev ir darījis. Un tas aizgāja un pa visu pilsētu pavēstīja, cik lielas lietas Jēzus viņam bija darījis."
       },
       {
         "verse": 40,
@@ -1979,7 +1979,7 @@
       {
         "verse": 41,
         "en": "41And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus' feet, and besought him that he would come into his house:",
-        "lv": "41 <p>Un, lūk, nāca vīrietis, vārdā Jairus, un tas bija sinagogas valdnieks: un viņš pakrita pie Jēzus kājām, un viņu lūdzās, lai viņš nāktu tā namā:"
+        "lv": "41 <span class='p'></span> Un, lūk, nāca vīrietis, vārdā Jairus, un tas bija sinagogas valdnieks: un viņš pakrita pie Jēzus kājām, un viņu lūdzās, lai viņš nāktu tā namā:"
       },
       {
         "verse": 42,
@@ -1989,7 +1989,7 @@
       {
         "verse": 43,
         "en": "43And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,",
-        "lv": "43 <p>Un kāda sieviete, kurai divpadsmit gadus bija asiņošana, kas visu savu iztiku bija iztērējusi ārstiem, nedz varēja no kāda tikt dziedināta,"
+        "lv": "43 <span class='p'></span> Un kāda sieviete, kurai divpadsmit gadus bija asiņošana, kas visu savu iztiku bija iztērējusi ārstiem, nedz varēja no kāda tikt dziedināta,"
       },
       {
         "verse": 44,
@@ -2019,7 +2019,7 @@
       {
         "verse": 49,
         "en": "49While he yet spake, there cometh one from the ruler of the synagogue's <i>house</i>, saying to him, Thy daughter is dead; trouble not the Master.",
-        "lv": "49 <p>Kamēr viņš vēl runāja, nāk viens no sinagogas valdnieka <i>nama</i>, viņam sacīdams, Tava meita ir mirusi; neapgrūtini Mācītāju."
+        "lv": "49 <span class='p'></span> Kamēr viņš vēl runāja, nāk viens no sinagogas valdnieka <i>nama</i>, viņam sacīdams, Tava meita ir mirusi; neapgrūtini Mācītāju."
       },
       {
         "verse": 50,
@@ -2081,7 +2081,7 @@
       {
         "verse": 5,
         "en": "5And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.",
-        "lv": "5 Un kas vien jūs neuzņems, kad jūs izejat no tās pilsētas, nokratiet pat pīšļus no savām kājām par liecību pret tiem. "
+        "lv": "5 Un kas vien jūs neuzņems, kad jūs izejat no tās pilsētas, nokratiet pat pīšļus no savām kājām par liecību pret tiem."
       },
       {
         "verse": 6,
@@ -2091,7 +2091,7 @@
       {
         "verse": 7,
         "en": "7Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;",
-        "lv": "7 <p>Tad nu tetrarhs Hērods dzirdēja par visu to, ko viņš bija darījis: un viņš bija apmulsis, tāpēc ka daži sacīja, ka Jānis bija cēlies no mirušajiem;"
+        "lv": "7 <span class='p'></span> Tad nu tetrarhs Hērods dzirdēja par visu to, ko viņš bija darījis: un viņš bija apmulsis, tāpēc ka daži sacīja, ka Jānis bija cēlies no mirušajiem;"
       },
       {
         "verse": 8,
@@ -2106,7 +2106,7 @@
       {
         "verse": 10,
         "en": "10And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.",
-        "lv": "10 <p>Un apustuļi, kad tie bija atgriezušies, viņam stāstīja visu, ko tie bija darījuši. Un viņš tos ņēma un gāja sānis privāti tuksnešainā vietā, <i>[kas] </i>piederēja pilsētai, sauktai Betsaida."
+        "lv": "10 <span class='p'></span> Un apustuļi, kad tie bija atgriezušies, viņam stāstīja visu, ko tie bija darījuši. Un viņš tos ņēma un gāja sānis privāti tuksnešainā vietā, <i>[kas] </i>piederēja pilsētai, sauktai Betsaida."
       },
       {
         "verse": 11,
@@ -2141,12 +2141,12 @@
       {
         "verse": 17,
         "en": "17And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets.",
-        "lv": "17 Un tie ēda, un visi tika piepildīti: un no drumslām, kas tiem atlika, tika uzlasīti divpadsmit grozi. "
+        "lv": "17 Un tie ēda, un visi tika piepildīti: un no drumslām, kas tiem atlika, tika uzlasīti divpadsmit grozi."
       },
       {
         "verse": 18,
         "en": "18And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?",
-        "lv": "18 <p>Un notika, viņam vienam lūdzot, viņa mācekļi bija ar viņu: un viņš tiem prasīja sacīdams, Ko ļaudis saka, kas es esmu?"
+        "lv": "18 <span class='p'></span> Un notika, viņam vienam lūdzot, viņa mācekļi bija ar viņu: un viņš tiem prasīja sacīdams, Ko ļaudis saka, kas es esmu?"
       },
       {
         "verse": 19,
@@ -2166,12 +2166,12 @@
       {
         "verse": 22,
         "en": "22Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.",
-        "lv": "22 Sacīdams, Cilvēka Dēlam daudz jācieš un jātiek noraidītam no vecajiem un virspriesteriem, un rakstu mācītājiem, un jātiek nokautam, un trešajā dienā jātiek uzceltam. "
+        "lv": "22 Sacīdams, Cilvēka Dēlam daudz jācieš un jātiek noraidītam no vecajiem un virspriesteriem, un rakstu mācītājiem, un jātiek nokautam, un trešajā dienā jātiek uzceltam."
       },
       {
         "verse": 23,
         "en": "23And he said to <i>them </i>all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.",
-        "lv": "23 <p>Un viņš <i>tiem </i>visiem sacīja, Ja kāds grib nākt man pakaļ, lai viņš aizliedz sevi un paņem savu krustu ik dienas, un seko man."
+        "lv": "23 <span class='p'></span> Un viņš <i>tiem </i>visiem sacīja, Ja kāds grib nākt man pakaļ, lai viņš aizliedz sevi un paņem savu krustu ik dienas, un seko man."
       },
       {
         "verse": 24,
@@ -2196,7 +2196,7 @@
       {
         "verse": 28,
         "en": "28And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.",
-        "lv": "28 <p>Un notika kādas astoņas dienas pēc šiem vārdiem, <i>[ka]</i> viņš ņēma Pēteri un Jāni, un Jēkabu, un uzkāpa kalnā lūgt."
+        "lv": "28 <span class='p'></span> Un notika kādas astoņas dienas pēc šiem vārdiem, <i>[ka]</i> viņš ņēma Pēteri un Jāni, un Jēkabu, un uzkāpa kalnā lūgt."
       },
       {
         "verse": 29,
@@ -2216,7 +2216,7 @@
       {
         "verse": 32,
         "en": "32But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.",
-        "lv": "32 Bet Pēteris un tie, kas bija ar viņu, bija miega pilni: un, kad tie bija pamodušies, tie redzēja viņa godību un divus vīriešus, kas ar viņu stāvēja. "
+        "lv": "32 Bet Pēteris un tie, kas bija ar viņu, bija miega pilni: un, kad tie bija pamodušies, tie redzēja viņa godību un divus vīriešus, kas ar viņu stāvēja."
       },
       {
         "verse": 33,
@@ -2241,7 +2241,7 @@
       {
         "verse": 37,
         "en": "37And it came to pass, that on the next day, when they were come down from the hill, much people met him.",
-        "lv": "37 <p>Un notika, ka nākamajā dienā, kad tie bija nonākuši no pakalna, daudz ļaužu viņu satika."
+        "lv": "37 <span class='p'></span> Un notika, ka nākamajā dienā, kad tie bija nonākuši no pakalna, daudz ļaužu viņu satika."
       },
       {
         "verse": 38,
@@ -2251,7 +2251,7 @@
       {
         "verse": 39,
         "en": "39And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him.",
-        "lv": "39 Un, rau, gars viņu ņem, un viņš pēkšņi kliedz; un tas viņu plosa, ka viņš atkal puto, un viņu savainodams, tikko aiziet no viņa. "
+        "lv": "39 Un, rau, gars viņu ņem, un viņš pēkšņi kliedz; un tas viņu plosa, ka viņš atkal puto, un viņu savainodams, tikko aiziet no viņa."
       },
       {
         "verse": 40,
@@ -2271,7 +2271,7 @@
       {
         "verse": 43,
         "en": "43And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,",
-        "lv": "43 <p>Un tie visi bija pārsteigti par Dieva vareno spēku. Bet, kamēr tie ikviens izbrīnījās par visu, ko Jēzus darīja, viņš saviem mācekļiem sacīja,"
+        "lv": "43 <span class='p'></span> Un tie visi bija pārsteigti par Dieva vareno spēku. Bet, kamēr tie ikviens izbrīnījās par visu, ko Jēzus darīja, viņš saviem mācekļiem sacīja,"
       },
       {
         "verse": 44,
@@ -2286,7 +2286,7 @@
       {
         "verse": 46,
         "en": "46Then there arose a reasoning among them, which of them should be greatest.",
-        "lv": "46 <p>Tad viņu starpā izcēlās spriešana, kuram no viņiem jābūt lielākajam."
+        "lv": "46 <span class='p'></span> Tad viņu starpā izcēlās spriešana, kuram no viņiem jābūt lielākajam."
       },
       {
         "verse": 47,
@@ -2296,12 +2296,12 @@
       {
         "verse": 48,
         "en": "48And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.",
-        "lv": "48 Un tiem sacīja, Kurš vien šo bērnu uzņems manā vārdā, uzņem mani: un kurš vien uzņems mani, uzņem to, kas mani sūtīja: jo tas, kas jūsu visu starpā ir mazākais, tas pats būs liels. "
+        "lv": "48 Un tiem sacīja, Kurš vien šo bērnu uzņems manā vārdā, uzņem mani: un kurš vien uzņems mani, uzņem to, kas mani sūtīja: jo tas, kas jūsu visu starpā ir mazākais, tas pats būs liels."
       },
       {
         "verse": 49,
         "en": "49And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.",
-        "lv": "49 <p>Un Jānis atbildēja un sacīja, Mācītāj, mēs redzējām vienu, izdzenam velnus tavā vārdā; un mēs viņam aizliedzām, jo viņš neseko ar mums."
+        "lv": "49 <span class='p'></span> Un Jānis atbildēja un sacīja, Mācītāj, mēs redzējām vienu, izdzenam velnus tavā vārdā; un mēs viņam aizliedzām, jo viņš neseko ar mums."
       },
       {
         "verse": 50,
@@ -2311,7 +2311,7 @@
       {
         "verse": 51,
         "en": "51And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,",
-        "lv": "51 <p>Un notika, kad pienāca laiks, ka viņam vajadzētu tikt uzņemtam augšā, viņš nelokāmi pavērsa savu seju iet uz Jeruzālemi,"
+        "lv": "51 <span class='p'></span> Un notika, kad pienāca laiks, ka viņam vajadzētu tikt uzņemtam augšā, viņš nelokāmi pavērsa savu seju iet uz Jeruzālemi,"
       },
       {
         "verse": 52,
@@ -2341,7 +2341,7 @@
       {
         "verse": 57,
         "en": "57And it came to pass, that, as they went in the way, a certain <i>man </i>said unto him, Lord, I will follow thee whithersoever thou goest.",
-        "lv": "57 <p>Un notika, ka, viņiem ejot pa ceļu, kāds <i>cilvēks </i>viņam sacīja, Kungs, es tev sekošu, lai kurp tu ietu."
+        "lv": "57 <span class='p'></span> Un notika, ka, viņiem ejot pa ceļu, kāds <i>cilvēks </i>viņam sacīja, Kungs, es tev sekošu, lai kurp tu ietu."
       },
       {
         "verse": 58,
@@ -2453,7 +2453,7 @@
       {
         "verse": 17,
         "en": "17And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.",
-        "lv": "17 <p>Un tie septiņdesmit atgriezās atpakaļ ar prieku sacīdami, Kungs, pat velni mums ir pakļauti caur tavu vārdu."
+        "lv": "17 <span class='p'></span> Un tie septiņdesmit atgriezās atpakaļ ar prieku sacīdami, Kungs, pat velni mums ir pakļauti caur tavu vārdu."
       },
       {
         "verse": 18,
@@ -2473,7 +2473,7 @@
       {
         "verse": 21,
         "en": "21In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.",
-        "lv": "21 <p>Tajā stundā Jēzus priecājās garā un sacīja, Es pasakos tev, ak, Tēvs, debess un zemes Kungs, ka tu šo esi paslēpis no gudrajiem un prātīgajiem, un to esi atklājis mazuļiem: tiešām, Tēvs, jo tā tas šķita labi tavā skatienā."
+        "lv": "21 <span class='p'></span> Tajā stundā Jēzus priecājās garā un sacīja, Es pasakos tev, ak, Tēvs, debess un zemes Kungs, ka tu šo esi paslēpis no gudrajiem un prātīgajiem, un to esi atklājis mazuļiem: tiešām, Tēvs, jo tā tas šķita labi tavā skatienā."
       },
       {
         "verse": 22,
@@ -2483,7 +2483,7 @@
       {
         "verse": 23,
         "en": "23And he turned him unto <i>his </i>disciples, and said privately, Blessed <i>are </i>the eyes which see the things that ye see:",
-        "lv": "23 <p>Un viņš pagriezās pie <i>saviem</i> mācekļiem un privāti sacīja, Svētlaimīgas <i>ir</i> acis, kas redz to, ko jūs redzat:"
+        "lv": "23 <span class='p'></span> Un viņš pagriezās pie <i>saviem</i> mācekļiem un privāti sacīja, Svētlaimīgas <i>ir</i> acis, kas redz to, ko jūs redzat:"
       },
       {
         "verse": 24,
@@ -2493,7 +2493,7 @@
       {
         "verse": 25,
         "en": "25And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?",
-        "lv": "25 <p>Un, lūk, kāds likuma mācītājs piecēlās un viņu kārdināja sacīdams, Mācītāj, ko man būs darīt, lai es iemantotu mūžīgu dzīvību?"
+        "lv": "25 <span class='p'></span> Un, lūk, kāds likuma mācītājs piecēlās un viņu kārdināja sacīdams, Mācītāj, ko man būs darīt, lai es iemantotu mūžīgu dzīvību?"
       },
       {
         "verse": 26,
@@ -2558,7 +2558,7 @@
       {
         "verse": 38,
         "en": "38Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.",
-        "lv": "38 <p>Tad nu notika, viņiem ejot, ka viņš iegāja kādā ciematā: un kāda sieviete, vārdā Marta, viņu uzņēma savā namā."
+        "lv": "38 <span class='p'></span> Tad nu notika, viņiem ejot, ka viņš iegāja kādā ciematā: un kāda sieviete, vārdā Marta, viņu uzņēma savā namā."
       },
       {
         "verse": 39,
@@ -2650,7 +2650,7 @@
       {
         "verse": 14,
         "en": "14And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered.",
-        "lv": "14 <p>Un viņš izdzina velnu, un tas bija mēms. Un notika, kad velns bija izgājis, mēmais runāja; un ļaudis izbrīnījās."
+        "lv": "14 <span class='p'></span> Un viņš izdzina velnu, un tas bija mēms. Un notika, kad velns bija izgājis, mēmais runāja; un ļaudis izbrīnījās."
       },
       {
         "verse": 15,
@@ -2715,7 +2715,7 @@
       {
         "verse": 27,
         "en": "27And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed <i>is </i>the womb that bare thee, and the paps which thou hast sucked.",
-        "lv": "27 <p>Un notika, viņam to runājot, kāda sieviete no grupas pacēla savu balsi un viņam sacīja, Svētlaimīgs ir k<i>lēp</i>is, kas tevi nēsāja un krūtis, ko tu esi zīdis."
+        "lv": "27 <span class='p'></span> Un notika, viņam to runājot, kāda sieviete no grupas pacēla savu balsi un viņam sacīja, Svētlaimīgs ir k<i>lēp</i>is, kas tevi nēsāja un krūtis, ko tu esi zīdis."
       },
       {
         "verse": 28,
@@ -2725,7 +2725,7 @@
       {
         "verse": 29,
         "en": "29And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet.",
-        "lv": "29 <p>Un, kad ļaudis bija sapulcējušies cieši kopā, viņš iesāka sacīt, Šī ir ļauna paaudze: tie meklē zīmi; un tai netiks dota zīme kā tikai pravieša Jonas zīme."
+        "lv": "29 <span class='p'></span> Un, kad ļaudis bija sapulcējušies cieši kopā, viņš iesāka sacīt, Šī ir ļauna paaudze: tie meklē zīmi; un tai netiks dota zīme kā tikai pravieša Jonas zīme."
       },
       {
         "verse": 30,
@@ -2765,7 +2765,7 @@
       {
         "verse": 37,
         "en": "37And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.",
-        "lv": "37 <p>Un viņam runājot, kāds farizejs lūdzās viņu pusdienot ar viņu: un viņš iegāja un apsēdās pie maltītes."
+        "lv": "37 <span class='p'></span> Un viņam runājot, kāds farizejs lūdzās viņu pusdienot ar viņu: un viņš iegāja un apsēdās pie maltītes."
       },
       {
         "verse": 38,
@@ -2805,7 +2805,7 @@
       {
         "verse": 45,
         "en": "45Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.",
-        "lv": "45 <p>Tad viens no likumu mācītājiem atbildēja un viņam sacīja, Mācītāj, tā runādams, tu zākā arī mūs."
+        "lv": "45 <span class='p'></span> Tad viens no likumu mācītājiem atbildēja un viņam sacīja, Mācītāj, tā runādams, tu zākā arī mūs."
       },
       {
         "verse": 46,
@@ -2917,7 +2917,7 @@
       {
         "verse": 13,
         "en": "13And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.",
-        "lv": "13 <p>Un viens no grupas viņam sacīja, Mācītāj, runā uz manu brāli, lai viņš dala mantojumu ar mani."
+        "lv": "13 <span class='p'></span> Un viens no grupas viņam sacīja, Mācītāj, runā uz manu brāli, lai viņš dala mantojumu ar mani."
       },
       {
         "verse": 14,
@@ -2962,7 +2962,7 @@
       {
         "verse": 22,
         "en": "22And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.",
-        "lv": "22 <p>Un viņš saviem mācekļiem sacīja, Tāpēc es jums saku, Neraizējieties par savu dzīvību, ko jūs ēdīsiet; nedz par ķermeni, ko jūs vilksiet."
+        "lv": "22 <span class='p'></span> Un viņš saviem mācekļiem sacīja, Tāpēc es jums saku, Neraizējieties par savu dzīvību, ko jūs ēdīsiet; nedz par ķermeni, ko jūs vilksiet."
       },
       {
         "verse": 23,
@@ -3007,7 +3007,7 @@
       {
         "verse": 31,
         "en": "31But rather seek ye the kingdom of God; and all these things shall be added unto you.",
-        "lv": "31 <p>Bet drīzāk meklējiet Dieva valstību; un viss šis jums tiks pielikts."
+        "lv": "31 <span class='p'></span> Bet drīzāk meklējiet Dieva valstību; un viss šis jums tiks pielikts."
       },
       {
         "verse": 32,
@@ -3057,7 +3057,7 @@
       {
         "verse": 41,
         "en": "41Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?",
-        "lv": "41 <p>Tad Pēteris viņam sacīja, Kungs, tu šo līdzību runā uz mums vai pat uz visiem?"
+        "lv": "41 <span class='p'></span> Tad Pēteris viņam sacīja, Kungs, tu šo līdzību runā uz mums vai pat uz visiem?"
       },
       {
         "verse": 42,
@@ -3092,12 +3092,12 @@
       {
         "verse": 48,
         "en": "48But he that knew not, and did commit things worthy of stripes, shall be beaten with few <i>stripes</i>. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
-        "lv": "48 Bet tas, kas nezināja un darīja to, kas cienīgs cirtienu, tiks sists ar dažiem <i>cirtieniem</i>. Jo kuram vien ir dots daudz, no tā daudz tiks pieprasīts: un kuram ir uzticēts daudz, no tā prasīs vairāk. "
+        "lv": "48 Bet tas, kas nezināja un darīja to, kas cienīgs cirtienu, tiks sists ar dažiem <i>cirtieniem</i>. Jo kuram vien ir dots daudz, no tā daudz tiks pieprasīts: un kuram ir uzticēts daudz, no tā prasīs vairāk."
       },
       {
         "verse": 49,
         "en": "49I am come to send fire on the earth; and what will I, if it be already kindled?",
-        "lv": "49 <p>Es esmu nācis uguni sūtīt uz zemes; un ko es gribētu, ja tā jau būtu aizdedzināta?"
+        "lv": "49 <span class='p'></span> Es esmu nācis uguni sūtīt uz zemes; un ko es gribētu, ja tā jau būtu aizdedzināta?"
       },
       {
         "verse": 50,
@@ -3122,7 +3122,7 @@
       {
         "verse": 54,
         "en": "54And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.",
-        "lv": "54 <p>Un viņš arī ļaudīm sacīja, Kad jūs redzat mākoni ceļamies no rietumiem, jūs nekavējoties sakāt, Nāk lietusgāze; un tā tas ir."
+        "lv": "54 <span class='p'></span> Un viņš arī ļaudīm sacīja, Kad jūs redzat mākoni ceļamies no rietumiem, jūs nekavējoties sakāt, Nāk lietusgāze; un tā tas ir."
       },
       {
         "verse": 55,
@@ -3142,7 +3142,7 @@
       {
         "verse": 58,
         "en": "58When thou goest with thine adversary to the magistrate, <i>as thou art</i> in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.",
-        "lv": "58 <p>Kad tu ej ar savu pretinieku pie maģistrāta, <i>tev</i> <i>esot</i> ceļā, centies, lai tu no viņa vari tikt izpestīts; lai viņš tevi nevelk pie tiesneša, un tiesnesis tevi nenodod virsniekam, un virsnieks tevi neiemet cietumā."
+        "lv": "58 <span class='p'></span> Kad tu ej ar savu pretinieku pie maģistrāta, <i>tev</i> <i>esot</i> ceļā, centies, lai tu no viņa vari tikt izpestīts; lai viņš tevi nevelk pie tiesneša, un tiesnesis tevi nenodod virsniekam, un virsnieks tevi neiemet cietumā."
       },
       {
         "verse": 59,
@@ -3179,7 +3179,7 @@
       {
         "verse": 6,
         "en": "6He spake also this parable; A certain <i>man </i>had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none.",
-        "lv": "6 <p>Viņš runāja arī šo līdzību; Kādam <i>cilvēkam</i> bija vīģes koks, stādīts viņa vīna dārzā; un viņš nāca un meklēja uz tā augli, un nevienu neatrada."
+        "lv": "6 <span class='p'></span> Viņš runāja arī šo līdzību; Kādam <i>cilvēkam</i> bija vīģes koks, stādīts viņa vīna dārzā; un viņš nāca un meklēja uz tā augli, un nevienu neatrada."
       },
       {
         "verse": 7,
@@ -3204,7 +3204,7 @@
       {
         "verse": 11,
         "en": "11And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up <i>herself</i>.",
-        "lv": "11 <p>Un, lūk, tur bija sieviete, kurai astoņpadsmit gadus bija vājuma gars, un bija salīkusi, un nekādi nevarēja iztaisnoties."
+        "lv": "11 <span class='p'></span> Un, lūk, tur bija sieviete, kurai astoņpadsmit gadus bija vājuma gars, un bija salīkusi, un nekādi nevarēja iztaisnoties."
       },
       {
         "verse": 12,
@@ -3239,7 +3239,7 @@
       {
         "verse": 18,
         "en": "18Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?",
-        "lv": "18 <p>Tad viņš sacīja, Kam Dieva valstība ir līdzīga? un kam es to pielīdzināšu?"
+        "lv": "18 <span class='p'></span> Tad viņš sacīja, Kam Dieva valstība ir līdzīga? un kam es to pielīdzināšu?"
       },
       {
         "verse": 19,
@@ -3269,7 +3269,7 @@
       {
         "verse": 24,
         "en": "24Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.",
-        "lv": "24 <p>Cīnieties ieiet pa šaurajiem vārtiem: jo daudzi, es jums saku, meklēs ieiet un nespēs."
+        "lv": "24 <span class='p'></span> Cīnieties ieiet pa šaurajiem vārtiem: jo daudzi, es jums saku, meklēs ieiet un nespēs."
       },
       {
         "verse": 25,
@@ -3304,7 +3304,7 @@
       {
         "verse": 31,
         "en": "31The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.",
-        "lv": "31 <p>Tajā pašā dienā nāca kādi no farizejiem, viņam sacīdami, Izej un aizej no šejienes: jo Hērods tevi grib nogalināt."
+        "lv": "31 <span class='p'></span> Tajā pašā dienā nāca kādi no farizejiem, viņam sacīdami, Izej un aizej no šejienes: jo Hērods tevi grib nogalināt."
       },
       {
         "verse": 32,
@@ -3361,7 +3361,7 @@
       {
         "verse": 7,
         "en": "7And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,",
-        "lv": "7 <p>Un viņš stāstīja līdzību tiem, kas bija ielūgti, kad viņš atzīmēja, kā tie izraugās galvenās vietas; tiem sacīdams, "
+        "lv": "7 <span class='p'></span> Un viņš stāstīja līdzību tiem, kas bija ielūgti, kad viņš atzīmēja, kā tie izraugās galvenās vietas; tiem sacīdams,"
       },
       {
         "verse": 8,
@@ -3386,7 +3386,7 @@
       {
         "verse": 12,
         "en": "12Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor <i>thy </i>rich neighbours; lest they also bid thee again, and a recompence be made thee.",
-        "lv": "12 <p>Tad viņš sacīja arī tam, kas viņu ielūdza, Kad tu taisi pusdienas vai vakariņas, neaicini savus draugus, ne savus brāļus, nedz savus radiniekus, ne bagātos kaimiņus; lai tie arī neielūdz tevi, un tev netiek atmaksāts."
+        "lv": "12 <span class='p'></span> Tad viņš sacīja arī tam, kas viņu ielūdza, Kad tu taisi pusdienas vai vakariņas, neaicini savus draugus, ne savus brāļus, nedz savus radiniekus, ne bagātos kaimiņus; lai tie arī neielūdz tevi, un tev netiek atmaksāts."
       },
       {
         "verse": 13,
@@ -3401,7 +3401,7 @@
       {
         "verse": 15,
         "en": "15And when one of them that sat at meat with him heard these things, he said unto him, Blessed <i>is </i>he that shall eat bread in the kingdom of God.",
-        "lv": "15 <p>Un, kad viens no tiem, kas ar viņu sēdēja pie maltītes, to dzirdēja, tas viņam sacīja, Svētlaimīgs <i>ir</i> tas, kas ēdīs maizi Dieva valstībā."
+        "lv": "15 <span class='p'></span> Un, kad viens no tiem, kas ar viņu sēdēja pie maltītes, to dzirdēja, tas viņam sacīja, Svētlaimīgs <i>ir</i> tas, kas ēdīs maizi Dieva valstībā."
       },
       {
         "verse": 16,
@@ -3451,7 +3451,7 @@
       {
         "verse": 25,
         "en": "25And there went great multitudes with him: and he turned, and said unto them,",
-        "lv": "25 <p>Un ar viņu gāja lieli pūļi: un viņš pagriezās un tiem sacīja,"
+        "lv": "25 <span class='p'></span> Un ar viņu gāja lieli pūļi: un viņš pagriezās un tiem sacīja,"
       },
       {
         "verse": 26,
@@ -3496,7 +3496,7 @@
       {
         "verse": 34,
         "en": "34Salt <i>is </i>good: but if the salt have lost his savour, wherewith shall it be seasoned?",
-        "lv": "34 <p>Sāls <i>ir</i> labs: bet, ja sāls ir zaudējis savu garšu, ar ko tad to sālīs?"
+        "lv": "34 <span class='p'></span> Sāls <i>ir</i> labs: bet, ja sāls ir zaudējis savu garšu, ar ko tad to sālīs?"
       },
       {
         "verse": 35,
@@ -3518,7 +3518,7 @@
       {
         "verse": 3,
         "en": "3And he spake this parable unto them, saying,",
-        "lv": "3 <p>Un viņš uz tiem runāja šo līdzību sacīdams,"
+        "lv": "3 <span class='p'></span> Un viņš uz tiem runāja šo līdzību sacīdams,"
       },
       {
         "verse": 4,
@@ -3543,7 +3543,7 @@
       {
         "verse": 8,
         "en": "8Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find <i>it</i>?",
-        "lv": "8 <p>Vai arī kāda sieviete ar desmit sudraba gabaliem, ja viņa pazaudē vienu gabalu, neaizdedzina sveci un neizslauka namu, un centīgi nemeklē, iekams viņa <i>to </i>atrod?"
+        "lv": "8 <span class='p'></span> Vai arī kāda sieviete ar desmit sudraba gabaliem, ja viņa pazaudē vienu gabalu, neaizdedzina sveci un neizslauka namu, un centīgi nemeklē, iekams viņa <i>to </i>atrod?"
       },
       {
         "verse": 9,
@@ -3558,7 +3558,7 @@
       {
         "verse": 11,
         "en": "11And he said, A certain man had two sons:",
-        "lv": "11 <p>Un viņš sacīja, Kādam vīrietim bija divi dēli:"
+        "lv": "11 <span class='p'></span> Un viņš sacīja, Kādam vīrietim bija divi dēli:"
       },
       {
         "verse": 12,
@@ -3608,7 +3608,7 @@
       {
         "verse": 21,
         "en": "21And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.",
-        "lv": "21 Un dēls viņam sacīja, Tēvs, es esmu grēkojis pret debesi un tavā skatienā un neesmu vairs cienīgs saukties par tavu dēlu.\n"
+        "lv": "21 Un dēls viņam sacīja, Tēvs, es esmu grēkojis pret debesi un tavā skatienā un neesmu vairs cienīgs saukties par tavu dēlu."
       },
       {
         "verse": 22,
@@ -3730,7 +3730,7 @@
       {
         "verse": 13,
         "en": "13No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
-        "lv": "13 <p>Neviens kalps nevar kalpot diviem saimniekiem: jo vai nu viņš ienīdīs vienu un mīlēs otru; vai arī viņš turēsies pie viena un nicinās otru. Jūs nevarat kalpot Dievam un mamonam."
+        "lv": "13 <span class='p'></span> Neviens kalps nevar kalpot diviem saimniekiem: jo vai nu viņš ienīdīs vienu un mīlēs otru; vai arī viņš turēsies pie viena un nicinās otru. Jūs nevarat kalpot Dievam un mamonam."
       },
       {
         "verse": 14,
@@ -3760,7 +3760,7 @@
       {
         "verse": 19,
         "en": "19There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:",
-        "lv": "19 <p>Bija kāds bagāts cilvēks, kas bija apģērbts purpurā un smalkā linā, un ik dienas grezni dzīvoja:"
+        "lv": "19 <span class='p'></span> Bija kāds bagāts cilvēks, kas bija apģērbts purpurā un smalkā linā, un ik dienas grezni dzīvoja:"
       },
       {
         "verse": 20,
@@ -3837,7 +3837,7 @@
       {
         "verse": 3,
         "en": "3Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.",
-        "lv": "3 <p>Pielūkojiet par sevi: Ja tavs brālis pret tevi grēko, norāj to; un, ja viņš nožēlo, piedod viņam."
+        "lv": "3 <span class='p'></span> Pielūkojiet par sevi: Ja tavs brālis pret tevi grēko, norāj to; un, ja viņš nožēlo, piedod viņam."
       },
       {
         "verse": 4,
@@ -3877,7 +3877,7 @@
       {
         "verse": 11,
         "en": "11And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.",
-        "lv": "11 <p>Un notika, viņam ejot uz Jeruzālemi, ka viņš gāja caur Samarijas un Galilejas vidu."
+        "lv": "11 <span class='p'></span> Un notika, viņam ejot uz Jeruzālemi, ka viņš gāja caur Samarijas un Galilejas vidu."
       },
       {
         "verse": 12,
@@ -3922,12 +3922,12 @@
       {
         "verse": 20,
         "en": "20And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:",
-        "lv": "20 <p>Un, kad farizeji viņam pieprasīja, kad Dieva valstībai jānāk, viņš tiem atbildēja un sacīja, Dieva valstība nenāk ar novērošanu:"
+        "lv": "20 <span class='p'></span> Un, kad farizeji viņam pieprasīja, kad Dieva valstībai jānāk, viņš tiem atbildēja un sacīja, Dieva valstība nenāk ar novērošanu:"
       },
       {
         "verse": 21,
         "en": "21Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.",
-        "lv": "21 Nedz sacīs, Rau, šeit! vai, rau tur! jo, lūk, Dieva valstība ir iekš jums. "
+        "lv": "21 Nedz sacīs, Rau, šeit! vai, rau tur! jo, lūk, Dieva valstība ir iekš jums."
       },
       {
         "verse": 22,
@@ -4074,7 +4074,7 @@
       {
         "verse": 13,
         "en": "13And the publican, standing afar off, would not lift up so much as <i>his </i>eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.",
-        "lv": "13 Un muitnieks, stāvēdams no tālienes, negribēja pat tik daudz, kā<i> </i>acis pacelt uz debesi, bet sita pa savām krūtīm sacīdams, Dievs, esi man grēciniekam žēlsirdīgs. "
+        "lv": "13 Un muitnieks, stāvēdams no tālienes, negribēja pat tik daudz, kā<i> </i>acis pacelt uz debesi, bet sita pa savām krūtīm sacīdams, Dievs, esi man grēciniekam žēlsirdīgs."
       },
       {
         "verse": 14,
@@ -4164,7 +4164,7 @@
       {
         "verse": 31,
         "en": "31Then he took <i>unto him</i> the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.",
-        "lv": "31 <p>Tad viņš ņēma <i>pie sevis</i> tos divpadsmit un tiem sacīja, Lūk, mēs dodamies uz Jeruzālemi, un viss, ko pravieši rakstījuši attiecībā uz Cilvēka Dēlu, tiks piepildīts."
+        "lv": "31 <span class='p'></span> Tad viņš ņēma <i>pie sevis</i> tos divpadsmit un tiem sacīja, Lūk, mēs dodamies uz Jeruzālemi, un viss, ko pravieši rakstījuši attiecībā uz Cilvēka Dēlu, tiks piepildīts."
       },
       {
         "verse": 32,
@@ -4184,7 +4184,7 @@
       {
         "verse": 35,
         "en": "35And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:",
-        "lv": "35 <p>Un notika, ka viņam nākot tuvu Jērikai, kāds aklais sēdēja ceļmalā ubagodams:"
+        "lv": "35 <span class='p'></span> Un notika, ka viņam nākot tuvu Jērikai, kāds aklais sēdēja ceļmalā ubagodams:"
       },
       {
         "verse": 36,
@@ -4366,7 +4366,7 @@
       {
         "verse": 28,
         "en": "28And when he had thus spoken, he went before, ascending up to Jerusalem.",
-        "lv": "28 <p>Un, kad viņš tā bija runājis, viņš gāja pa priekšu, dodamies uz Jeruzālemi."
+        "lv": "28 <span class='p'></span> Un, kad viņš tā bija runājis, viņš gāja pa priekšu, dodamies uz Jeruzālemi."
       },
       {
         "verse": 29,
@@ -4431,7 +4431,7 @@
       {
         "verse": 41,
         "en": "41And when he was come near, he beheld the city, and wept over it,",
-        "lv": "41 <p>Un, kad viņš bija nācis tuvu, viņš uzlūkoja pilsētu un raudāja pār to"
+        "lv": "41 <span class='p'></span> Un, kad viņš bija nācis tuvu, viņš uzlūkoja pilsētu un raudāja pār to"
       },
       {
         "verse": 42,
@@ -4563,7 +4563,7 @@
       {
         "verse": 19,
         "en": "19And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.",
-        "lv": "19 <p>Un virspriesteri un rakstu mācītāji tajā pašā stundā meklēja viņam pielikt rokas; un viņi bijās ļaudis: jo tie nomanīja, ka viņš šo līdzību bija runājis pret viņiem."
+        "lv": "19 <span class='p'></span> Un virspriesteri un rakstu mācītāji tajā pašā stundā meklēja viņam pielikt rokas; un viņi bijās ļaudis: jo tie nomanīja, ka viņš šo līdzību bija runājis pret viņiem."
       },
       {
         "verse": 20,
@@ -4603,7 +4603,7 @@
       {
         "verse": 27,
         "en": "27Then came to <i>him </i>certain of the Sadducees, which deny that there is any resurrection; and they asked him,",
-        "lv": "27 <p>Tad pie <i>viņa</i> nāca kādi no saduķejiem, kas noliedz, ka ir kāda augšāmcelšanās; un tie viņam prasīja"
+        "lv": "27 <span class='p'></span> Tad pie <i>viņa</i> nāca kādi no saduķejiem, kas noliedz, ka ir kāda augšāmcelšanās; un tie viņam prasīja"
       },
       {
         "verse": 28,
@@ -4663,7 +4663,7 @@
       {
         "verse": 39,
         "en": "39Then certain of the scribes answering said, Master, thou hast well said.",
-        "lv": "39 <p>Tad kādi no rakstu mācītājiem atbildēdami sacīja, Mācītāj, tu esi labi sacījis."
+        "lv": "39 <span class='p'></span> Tad kādi no rakstu mācītājiem atbildēdami sacīja, Mācītāj, tu esi labi sacījis."
       },
       {
         "verse": 40,
@@ -4693,7 +4693,7 @@
       {
         "verse": 45,
         "en": "45Then in the audience of all the people he said unto his disciples,",
-        "lv": "45 <p>Tad visiem ļaudīm dzirdot viņš saviem mācekļiem sacīja,"
+        "lv": "45 <span class='p'></span> Tad visiem ļaudīm dzirdot viņš saviem mācekļiem sacīja,"
       },
       {
         "verse": 46,
@@ -4730,7 +4730,7 @@
       {
         "verse": 5,
         "en": "5And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,",
-        "lv": "5 <p>Un dažiem runājot par templi, kā tas bija izrotāts ar glītiem akmeņiem un dāvanām, viņš sacīja,"
+        "lv": "5 <span class='p'></span> Un dažiem runājot par templi, kā tas bija izrotāts ar glītiem akmeņiem un dāvanām, viņš sacīja,"
       },
       {
         "verse": 6,
@@ -4830,7 +4830,7 @@
       {
         "verse": 25,
         "en": "25And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;",
-        "lv": "25 <p>Un būs zīmes saulē un mēnesī, un zvaigznēs; un uz zemes tautu spaidi ar apmulsumu; jūras un viļņu rēkšana;"
+        "lv": "25 <span class='p'></span> Un būs zīmes saulē un mēnesī, un zvaigznēs; un uz zemes tautu spaidi ar apmulsumu; jūras un viļņu rēkšana;"
       },
       {
         "verse": 26,
@@ -4875,7 +4875,7 @@
       {
         "verse": 34,
         "en": "34And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.",
-        "lv": "34 <p>Un pielūkojiet par sevi, lai nevienā brīdī jūsu sirdis netiktu apgrūtinātas ar pārēšanos un piedzeršanos, un rūpēm par šo dzīvi, un tā, lai šī diena uz jums nenāk neapzinoties."
+        "lv": "34 <span class='p'></span> Un pielūkojiet par sevi, lai nevienā brīdī jūsu sirdis netiktu apgrūtinātas ar pārēšanos un piedzeršanos, un rūpēm par šo dzīvi, un tā, lai šī diena uz jums nenāk neapzinoties."
       },
       {
         "verse": 35,
@@ -4912,7 +4912,7 @@
       {
         "verse": 3,
         "en": "3Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.",
-        "lv": "3 <p>Tad Sātans iegāja Jūdā, ar pavārdu Iskariots, kurš bija viens no tiem divpadsmit."
+        "lv": "3 <span class='p'></span> Tad Sātans iegāja Jūdā, ar pavārdu Iskariots, kurš bija viens no tiem divpadsmit."
       },
       {
         "verse": 4,
@@ -4932,7 +4932,7 @@
       {
         "verse": 7,
         "en": "7Then came the day of unleavened bread, when the passover must be killed.",
-        "lv": "7 <p>Tad nāca neraudzētās maizes diena, kad jānokauj pashā."
+        "lv": "7 <span class='p'></span> Tad nāca neraudzētās maizes diena, kad jānokauj pashā."
       },
       {
         "verse": 8,
@@ -4992,7 +4992,7 @@
       {
         "verse": 19,
         "en": "19And he took bread, and gave thanks, and brake <i>it</i>, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.",
-        "lv": "19 <p>Un viņš ņēma maizi un pateicās, un pārlauza, un deva tiem sacīdams, Šis ir mans ķermenis, kas ir dots par jums: šo dariet manis piemiņā."
+        "lv": "19 <span class='p'></span> Un viņš ņēma maizi un pateicās, un pārlauza, un deva tiem sacīdams, Šis ir mans ķermenis, kas ir dots par jums: šo dariet manis piemiņā."
       },
       {
         "verse": 20,
@@ -5002,7 +5002,7 @@
       {
         "verse": 21,
         "en": "21But, behold, the hand of him that betrayeth me <i>is </i>with me on the table.",
-        "lv": "21 <p>Bet, lūk, tā roka, kas mani nodod, <i>ir </i>ar mani uz galda."
+        "lv": "21 <span class='p'></span> Bet, lūk, tā roka, kas mani nodod, <i>ir </i>ar mani uz galda."
       },
       {
         "verse": 22,
@@ -5017,7 +5017,7 @@
       {
         "verse": 24,
         "en": "24And there was also a strife among them, which of them should be accounted the greatest.",
-        "lv": "24 <p>Un starp tiem arī bija strīds, kurš no tiem būtu jāskaita par lielāko."
+        "lv": "24 <span class='p'></span> Un starp tiem arī bija strīds, kurš no tiem būtu jāskaita par lielāko."
       },
       {
         "verse": 25,
@@ -5052,7 +5052,7 @@
       {
         "verse": 31,
         "en": "31And the Lord said, Simon, Simon, behold, Satan hath desired<i> to have </i>you, that he may sift <i>you </i>as wheat:",
-        "lv": "31 <p>Un tas Kungs sacīja, Sīmani, Sīmani, lūk, Sātans ir jūs vēlējies <i>iegūt</i>, lai viņš var <i>jūs </i>sijāt kā kviešus:"
+        "lv": "31 <span class='p'></span> Un tas Kungs sacīja, Sīmani, Sīmani, lūk, Sātans ir jūs vēlējies <i>iegūt</i>, lai viņš var <i>jūs </i>sijāt kā kviešus:"
       },
       {
         "verse": 32,
@@ -5082,7 +5082,7 @@
       {
         "verse": 37,
         "en": "37For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.",
-        "lv": "37 Jo es jums saku, ka šim, kas ir rakstīts, vēl jātiek manī piepildītam, Un viņš tika skaitīts starp pārkāpējiem: jo tam, kas attiecas uz mani, ir gals. "
+        "lv": "37 Jo es jums saku, ka šim, kas ir rakstīts, vēl jātiek manī piepildītam, Un viņš tika skaitīts starp pārkāpējiem: jo tam, kas attiecas uz mani, ir gals."
       },
       {
         "verse": 38,
@@ -5092,7 +5092,7 @@
       {
         "verse": 39,
         "en": "39And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
-        "lv": "39 <p>Un viņš iznāca un gāja, kā viņš bija paradis, uz Olīvu kalnu; un arī viņa mācekļi viņam sekoja."
+        "lv": "39 <span class='p'></span> Un viņš iznāca un gāja, kā viņš bija paradis, uz Olīvu kalnu; un arī viņa mācekļi viņam sekoja."
       },
       {
         "verse": 40,
@@ -5132,7 +5132,7 @@
       {
         "verse": 47,
         "en": "47And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.",
-        "lv": "47 <p>Un kamēr viņš vēl runāja, lūk pūlis un tas, kas tika saukts Jūdas, viens no tiem divpadsmit, gāja tiem priekšā un tuvojās Jēzum, lai viņu noskūpstītu."
+        "lv": "47 <span class='p'></span> Un kamēr viņš vēl runāja, lūk pūlis un tas, kas tika saukts Jūdas, viens no tiem divpadsmit, gāja tiem priekšā un tuvojās Jēzum, lai viņu noskūpstītu."
       },
       {
         "verse": 48,
@@ -5147,7 +5147,7 @@
       {
         "verse": 50,
         "en": "50And one of them smote the servant of the high priest, and cut off his right ear.",
-        "lv": "50 <p>Un viens no tiem sita augstā priestera kalpam un nogrieza tā labo ausi."
+        "lv": "50 <span class='p'></span> Un viens no tiem sita augstā priestera kalpam un nogrieza tā labo ausi."
       },
       {
         "verse": 51,
@@ -5167,7 +5167,7 @@
       {
         "verse": 54,
         "en": "54Then took they him, and led <i>him</i>, and brought him into the high priest's house. And Peter followed afar off.",
-        "lv": "54 <p>Tad tie viņu ņēma un veda, un viņu ieveda augstā priestera namā. Un Pēteris sekoja no tālienes."
+        "lv": "54 <span class='p'></span> Tad tie viņu ņēma un veda, un viņu ieveda augstā priestera namā. Un Pēteris sekoja no tālienes."
       },
       {
         "verse": 55,
@@ -5212,7 +5212,7 @@
       {
         "verse": 63,
         "en": "63And the men that held Jesus mocked him, and smote <i>him</i>.",
-        "lv": "63 <p>Un vīrieši, kas turēja Jēzu, viņu izsmēja un <i>viņu</i> sita."
+        "lv": "63 <span class='p'></span> Un vīrieši, kas turēja Jēzu, viņu izsmēja un <i>viņu</i> sita."
       },
       {
         "verse": 64,
@@ -5227,7 +5227,7 @@
       {
         "verse": 66,
         "en": "66And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
-        "lv": "66 <p>Un tiklīdz bija diena, ļaužu vecaji un virspriesteri, un rakstu mācītāji nāca kopā un veda viņu savā padomē sacīdami,"
+        "lv": "66 <span class='p'></span> Un tiklīdz bija diena, ļaužu vecaji un virspriesteri, un rakstu mācītāji nāca kopā un veda viņu savā padomē sacīdami,"
       },
       {
         "verse": 67,
@@ -5294,7 +5294,7 @@
       {
         "verse": 8,
         "en": "8And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long <i>season</i>, because he had heard many things of him; and he hoped to have seen some miracle done by him.",
-        "lv": "8 <p>Un, kad Hērods ieraudzīja Jēzu, tas kļuva ārkārtīgi līksms: jo tas ilgu <i>laiku</i> viņu alka redzēt, tāpēc ka tas par viņu bija daudz ko dzirdējis; un cerēja ieraudzīt kādu viņa darītu brīnuma darbu."
+        "lv": "8 <span class='p'></span> Un, kad Hērods ieraudzīja Jēzu, tas kļuva ārkārtīgi līksms: jo tas ilgu <i>laiku</i> viņu alka redzēt, tāpēc ka tas par viņu bija daudz ko dzirdējis; un cerēja ieraudzīt kādu viņa darītu brīnuma darbu."
       },
       {
         "verse": 9,
@@ -5314,17 +5314,17 @@
       {
         "verse": 12,
         "en": "12And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.",
-        "lv": "12 <p>Un tajā dienā Pilāts un Hērods kļuva viens otram par draugiem: jo pirms tam tie savā starpā bija ienaidā."
+        "lv": "12 <span class='p'></span> Un tajā dienā Pilāts un Hērods kļuva viens otram par draugiem: jo pirms tam tie savā starpā bija ienaidā."
       },
       {
         "verse": 13,
         "en": "13And Pilate, when he had called together the chief priests and the rulers and the people,",
-        "lv": "13 <p>Un Pilāts, kad viņš bija aicinājis kopā virspriesterus un valdniekus, un ļaudis,"
+        "lv": "13 <span class='p'></span> Un Pilāts, kad viņš bija aicinājis kopā virspriesterus un valdniekus, un ļaudis,"
       },
       {
         "verse": 14,
         "en": "14Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined <i>him </i>before you, have found no fault in this man touching those things whereof ye accuse him:",
-        "lv": "14 Tiem sacīja, Jūs pie manis esat atveduši šo cilvēku, kā kādu, kas samaitā ļaudis: un, lūk, es, <i>viņu</i> jūsu priekšā izpratinājis, neesmu atradis vainu šajā cilvēkā par to, par ko jūs viņu apsūdzat: "
+        "lv": "14 Tiem sacīja, Jūs pie manis esat atveduši šo cilvēku, kā kādu, kas samaitā ļaudis: un, lūk, es, <i>viņu</i> jūsu priekšā izpratinājis, neesmu atradis vainu šajā cilvēkā par to, par ko jūs viņu apsūdzat:"
       },
       {
         "verse": 15,
@@ -5389,7 +5389,7 @@
       {
         "verse": 27,
         "en": "27And there followed him a great company of people, and of women, which also bewailed and lamented him.",
-        "lv": "27 <p>Un viņam sekoja liela ļaužu grupa, un no sievietēm, kas arī apraudāja un vaimanāja par viņu."
+        "lv": "27 <span class='p'></span> Un viņam sekoja liela ļaužu grupa, un no sievietēm, kas arī apraudāja un vaimanāja par viņu."
       },
       {
         "verse": 28,
@@ -5424,7 +5424,7 @@
       {
         "verse": 34,
         "en": "34Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.",
-        "lv": "34 <p>Tad Jēzus sacīja, Tēvs, piedod tiem; jo tie nezina, ko tie dara. Un tie sadalīja viņa tērpu, un meta meslus."
+        "lv": "34 <span class='p'></span> Tad Jēzus sacīja, Tēvs, piedod tiem; jo tie nezina, ko tie dara. Un tie sadalīja viņa tērpu, un meta meslus."
       },
       {
         "verse": 35,
@@ -5449,7 +5449,7 @@
       {
         "verse": 39,
         "en": "39And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.",
-        "lv": "39 <p>Un viens no ļaundariem, kas bija pakārts, viņu zākāja sacīdams, Ja tu esi Kristus, glāb sevi un mūs."
+        "lv": "39 <span class='p'></span> Un viens no ļaundariem, kas bija pakārts, viņu zākāja sacīdams, Ja tu esi Kristus, glāb sevi un mūs."
       },
       {
         "verse": 40,
@@ -5484,7 +5484,7 @@
       {
         "verse": 46,
         "en": "46And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.",
-        "lv": "46 <p>Un, kad Jēzus bija saucis ar skaļu balsi, viņš sacīja, Tēvs, tavās rokās es uzticu savu garu: un to teicis, viņš atdeva garu."
+        "lv": "46 <span class='p'></span> Un, kad Jēzus bija saucis ar skaļu balsi, viņš sacīja, Tēvs, tavās rokās es uzticu savu garu: un to teicis, viņš atdeva garu."
       },
       {
         "verse": 47,
@@ -5504,7 +5504,7 @@
       {
         "verse": 50,
         "en": "50And, behold, <i>there was</i> a man named Joseph, a counsellor; <i>and he was</i> a good man, and a just:",
-        "lv": "50 <p>Un, lūk, <i>bija </i>vīrs vārdā Jāzeps, padomnieks; labs cilvēks, un taisns:"
+        "lv": "50 <span class='p'></span> Un, lūk, <i>bija </i>vīrs vārdā Jāzeps, padomnieks; labs cilvēks, un taisns:"
       },
       {
         "verse": 51,
@@ -5601,7 +5601,7 @@
       {
         "verse": 13,
         "en": "13And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem <i>about </i>threescore furlongs.",
-        "lv": "13 <p>Un, lūk, divi no tiem tajā pašā dienā gāja uz ciematu, sauktu Emmausu, kas no Jeruzālemes bija <i>apmēram </i>sešdesmit stadijus."
+        "lv": "13 <span class='p'></span> Un, lūk, divi no tiem tajā pašā dienā gāja uz ciematu, sauktu Emmausu, kas no Jeruzālemes bija <i>apmēram </i>sešdesmit stadijus."
       },
       {
         "verse": 14,
@@ -5716,7 +5716,7 @@
       {
         "verse": 36,
         "en": "36And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace <i>be </i>unto you.",
-        "lv": "36 <p>Un tiem tā runājot, Jēzus pats nostājās to vidū un tiem saka, Miers jums."
+        "lv": "36 <span class='p'></span> Un tiem tā runājot, Jēzus pats nostājās to vidū un tiem saka, Miers jums."
       },
       {
         "verse": 37,
@@ -5741,7 +5741,7 @@
       {
         "verse": 41,
         "en": "41And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?",
-        "lv": "41 Un, kamēr tie vēl neticēja no prieka un izbrīnījās, viņš tiem sacīja, Vai jums šeit ir kāds ēdiens? "
+        "lv": "41 Un, kamēr tie vēl neticēja no prieka un izbrīnījās, viņš tiem sacīja, Vai jums šeit ir kāds ēdiens?"
       },
       {
         "verse": 42,
@@ -5781,12 +5781,12 @@
       {
         "verse": 49,
         "en": "49And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.",
-        "lv": "49 <p>Un, lūk, es uz jums sūtu sava Tēva apsolījumu: bet uzkavējieties Jeruzālemes pilsētā, līdz jūs tiksiet apveltīti ar spēku no augšienes."
+        "lv": "49 <span class='p'></span> Un, lūk, es uz jums sūtu sava Tēva apsolījumu: bet uzkavējieties Jeruzālemes pilsētā, līdz jūs tiksiet apveltīti ar spēku no augšienes."
       },
       {
         "verse": 50,
         "en": "50And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.",
-        "lv": "50 <p>Un viņš tos izveda līdz pat Betānijai, un viņš pacēla savas rokas un tos svētīja."
+        "lv": "50 <span class='p'></span> Un viņš tos izveda līdz pat Betānijai, un viņš pacēla savas rokas un tos svētīja."
       },
       {
         "verse": 51,

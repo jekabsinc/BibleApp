@@ -25,7 +25,7 @@
       {
         "verse": 5,
         "en": "5The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
-        "lv": "5 <p>Jafeta dēli; Gomers, un Magogs, un Madajs, un Javans, un Tubals, un Mešehs, un Tiras."
+        "lv": "5 <span class='p'></span> Jafeta dēli; Gomers, un Magogs, un Madajs, un Javans, un Tubals, un Mešehs, un Tiras."
       },
       {
         "verse": 6,
@@ -40,7 +40,7 @@
       {
         "verse": 8,
         "en": "8The sons of Ham; Cush, and Mizraim, Put, and Canaan.",
-        "lv": "8 <p>Hama dēli; Kušs, un Micraims, Puts un Kanaāns."
+        "lv": "8 <span class='p'></span> Hama dēli; Kušs, un Micraims, Puts un Kanaāns."
       },
       {
         "verse": 9,
@@ -85,7 +85,7 @@
       {
         "verse": 17,
         "en": "17The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.",
-        "lv": "17 <p>Šema dēli; Elams, Ašurs, Arfaksads, un Luds, un Arams, un Ucs, un Huls, un Geters, un Mešehs."
+        "lv": "17 <span class='p'></span> Šema dēli; Elams, Ašurs, Arfaksads, un Luds, un Arams, un Ucs, un Huls, un Geters, un Mešehs."
       },
       {
         "verse": 18,
@@ -120,7 +120,7 @@
       {
         "verse": 24,
         "en": "24Shem, Arphaxad, Shelah,",
-        "lv": "24 <p>Šems, Arfaksads, Šela,"
+        "lv": "24 <span class='p'></span> Šems, Arfaksads, Šela,"
       },
       {
         "verse": 25,
@@ -145,7 +145,7 @@
       {
         "verse": 29,
         "en": "29These <i>are </i>their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,",
-        "lv": "29 <p>Šīs <i>ir </i>viņu paaudzes: Išmaēla pirmdzimtais, Nebajots; tad Kedars un Adbeēls, un Mibsams,"
+        "lv": "29 <span class='p'></span> Šīs <i>ir </i>viņu paaudzes: Išmaēla pirmdzimtais, Nebajots; tad Kedars un Adbeēls, un Mibsams,"
       },
       {
         "verse": 30,
@@ -160,7 +160,7 @@
       {
         "verse": 32,
         "en": "32Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.",
-        "lv": "32 <p>Tad nu Keturas, Ābrahāma konkubīnes, dēli: viņa dzemdēja Zimranu un Jokšanu, un Medanu, un Midiānu, un Išbaku, un Šuahu. Un Jokšana dēli; Šeba un Dedans."
+        "lv": "32 <span class='p'></span> Tad nu Keturas, Ābrahāma konkubīnes, dēli: viņa dzemdēja Zimranu un Jokšanu, un Medanu, un Midiānu, un Išbaku, un Šuahu. Un Jokšana dēli; Šeba un Dedans."
       },
       {
         "verse": 33,
@@ -175,7 +175,7 @@
       {
         "verse": 35,
         "en": "35The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.",
-        "lv": "35 <p>Ēsava dēli; Elifacs, Reuēls un Jeušs, un Jaālams, un Korahs."
+        "lv": "35 <span class='p'></span> Ēsava dēli; Elifacs, Reuēls un Jeušs, un Jaālams, un Korahs."
       },
       {
         "verse": 36,
@@ -215,7 +215,7 @@
       {
         "verse": 43,
         "en": "43Now these <i>are </i>the kings that reigned in the land of Edom before <i>any </i>king reigned over the children of Israel; Bela the son of Beor: and the name of his city <i>was </i>Dinhabah.",
-        "lv": "43 <p>Tad nu šie <i>ir </i>ķēniņi, kas valdīja Edoma zemē, pirms <i>kāds</i> ķēniņš valdīja pār Israēla bērniem; Bela, Beora dēls: un viņa pilsētas vārds <i>bija </i>Dinhaba."
+        "lv": "43 <span class='p'></span> Tad nu šie <i>ir </i>ķēniņi, kas valdīja Edoma zemē, pirms <i>kāds</i> ķēniņš valdīja pār Israēla bērniem; Bela, Beora dēls: un viņa pilsētas vārds <i>bija </i>Dinhaba."
       },
       {
         "verse": 44,
@@ -255,7 +255,7 @@
       {
         "verse": 51,
         "en": "51Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,",
-        "lv": "51 <p>Arī Hadads nomira. Un Edoma hercogi bija; hercogs Timna, hercogs Alja, hercogs Jetets,"
+        "lv": "51 <span class='p'></span> Arī Hadads nomira. Un Edoma hercogi bija; hercogs Timna, hercogs Alja, hercogs Jetets,"
       },
       {
         "verse": 52,
@@ -287,7 +287,7 @@
       {
         "verse": 3,
         "en": "3The sons of Judah; Er, and Onan, and Shelah: <i>which </i>three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.",
-        "lv": "3 <p>Jūdas dēli; Ers, un Onans un Šela: <i>kuri </i>trīs viņam piedzima no Šuas meitas, kānaānietes. Un Ers, Jūdas pirmdzimtais, bija ļauns tā KUNGA skatienā; un viņš to nokāva."
+        "lv": "3 <span class='p'></span> Jūdas dēli; Ers, un Onans un Šela: <i>kuri </i>trīs viņam piedzima no Šuas meitas, kānaānietes. Un Ers, Jūdas pirmdzimtais, bija ļauns tā KUNGA skatienā; un viņš to nokāva."
       },
       {
         "verse": 4,
@@ -337,7 +337,7 @@
       {
         "verse": 13,
         "en": "13And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,",
-        "lv": "13 <p>Un Jesija dzemdināja savu pirmdzimto Eliābu, otro Abinadabu un trešo Šimmu,"
+        "lv": "13 <span class='p'></span> Un Jesija dzemdināja savu pirmdzimto Eliābu, otro Abinadabu un trešo Šimmu,"
       },
       {
         "verse": 14,
@@ -362,7 +362,7 @@
       {
         "verse": 18,
         "en": "18And Caleb the son of Hezron begat <i>children</i> of Azubah <i>his </i>wife, and of Jerioth: her sons <i>are </i>these; Jesher, and Shobab, and Ardon.",
-        "lv": "18 <p>Un Kalebs, Hecrona dēls, dzemdināja <i>bērnus </i>no <i>savas </i>sievas Azubas un no Jeriotas<i>:</i> viņas dēli <i>ir </i>šie; Ješers un Šobabs, un Ardons."
+        "lv": "18 <span class='p'></span> Un Kalebs, Hecrona dēls, dzemdināja <i>bērnus </i>no <i>savas </i>sievas Azubas un no Jeriotas<i>:</i> viņas dēli <i>ir </i>šie; Ješers un Šobabs, un Ardons."
       },
       {
         "verse": 19,
@@ -377,7 +377,7 @@
       {
         "verse": 21,
         "en": "21And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he <i>was</i> threescore years old; and she bare him Segub.",
-        "lv": "21 <p>Un pēcāk Hecrons iegāja pie Mačira, Gileāda tēva, meitas, kuru viņš apprecēja, kad viņam <i>bija </i>sešdesmit gadi; un viņa tam dzemdēja Segubu."
+        "lv": "21 <span class='p'></span> Un pēcāk Hecrons iegāja pie Mačira, Gileāda tēva, meitas, kuru viņš apprecēja, kad viņam <i>bija </i>sešdesmit gadi; un viņa tam dzemdēja Segubu."
       },
       {
         "verse": 22,
@@ -397,7 +397,7 @@
       {
         "verse": 25,
         "en": "25And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, <i>and </i>Ahijah.",
-        "lv": "25 <p>Un Jerahmeēla, Hecrona pirmdzimtā, dēli bija, pirmdzimtais Rams un Buna, un Orens, Ocems, <i>un</i> Ahija."
+        "lv": "25 <span class='p'></span> Un Jerahmeēla, Hecrona pirmdzimtā, dēli bija, pirmdzimtais Rams un Buna, un Orens, Ocems, <i>un</i> Ahija."
       },
       {
         "verse": 26,
@@ -442,7 +442,7 @@
       {
         "verse": 34,
         "en": "34Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name <i>was</i> Jarha.",
-        "lv": "34 <p>Tad nu Sešanam nebija dēlu, bet tikai meitas. Un Šešānam bija kalps, ēģiptietis, kura vārds <i>bija</i> Jarha."
+        "lv": "34 <span class='p'></span> Tad nu Sešanam nebija dēlu, bet tikai meitas. Un Šešānam bija kalps, ēģiptietis, kura vārds <i>bija</i> Jarha."
       },
       {
         "verse": 35,
@@ -482,7 +482,7 @@
       {
         "verse": 42,
         "en": "42Now the sons of Caleb the brother of Jerahmeel <i>were</i>, Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron.",
-        "lv": "42 <p>Tad nu Jerahmeēla brāļa Kaleba dēli <i>bija</i> viņa pirmdzimtais Meša, kas bija Zifa tēvs; un Marešas, Hebrona tēva, dēli."
+        "lv": "42 <span class='p'></span> Tad nu Jerahmeēla brāļa Kaleba dēli <i>bija</i> viņa pirmdzimtais Meša, kas bija Zifa tēvs; un Marešas, Hebrona tēva, dēli."
       },
       {
         "verse": 43,
@@ -522,7 +522,7 @@
       {
         "verse": 50,
         "en": "50These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjathjearim,",
-        "lv": "50 <p>Šie bija Kaleba, Efratas pirmdzimtā Hura dēla, dēli; Šobals, Kirjatjearimas tēvs,"
+        "lv": "50 <span class='p'></span> Šie bija Kaleba, Efratas pirmdzimtā Hura dēla, dēli; Šobals, Kirjatjearimas tēvs,"
       },
       {
         "verse": 51,
@@ -599,7 +599,7 @@
       {
         "verse": 10,
         "en": "10And Solomon's son <i>was </i>Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,",
-        "lv": "10 <p>Un Salamana dēls <i>bija </i>Rehoboams, viņa dēls Abija, viņa dēls Asa, viņa dēls Jehošafats,"
+        "lv": "10 <span class='p'></span> Un Salamana dēls <i>bija </i>Rehoboams, viņa dēls Abija, viņa dēls Asa, viņa dēls Jehošafats,"
       },
       {
         "verse": 11,
@@ -634,7 +634,7 @@
       {
         "verse": 17,
         "en": "17And the sons of Jeconiah; Assir, Salathiel his son,",
-        "lv": "17 <p>Un Jekonijas dēli; Assirs, viņa dēls Salatiels,"
+        "lv": "17 <span class='p'></span> Un Jekonijas dēli; Assirs, viņa dēls Salatiels,"
       },
       {
         "verse": 18,
@@ -696,7 +696,7 @@
       {
         "verse": 5,
         "en": "5And Ashur the father of Tekoa had two wives, Helah and Naarah.",
-        "lv": "5 <p>Un Tekoas tēvam Ašuram bija divas sievas, Hela un Naāra."
+        "lv": "5 <span class='p'></span> Un Tekoas tēvam Ašuram bija divas sievas, Hela un Naāra."
       },
       {
         "verse": 6,
@@ -716,7 +716,7 @@
       {
         "verse": 9,
         "en": "9And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.",
-        "lv": "9 <p>Un Jabecs bija godājamāks par saviem brāļiem: un viņa māte viņu nosauca vārdā Jabecs sacīdama, Tāpēc ka es viņu dzemdēju ar skumjām."
+        "lv": "9 <span class='p'></span> Un Jabecs bija godājamāks par saviem brāļiem: un viņa māte viņu nosauca vārdā Jabecs sacīdama, Tāpēc ka es viņu dzemdēju ar skumjām."
       },
       {
         "verse": 10,
@@ -726,7 +726,7 @@
       {
         "verse": 11,
         "en": "11And Chelub the brother of Shuah begat Mehir, which <i>was</i> the father of Eshton.",
-        "lv": "11 <p>Un Čelubams, Šuas brālis, dzemdināja Mehiru, kas <i>bija </i>Eštona tēvs."
+        "lv": "11 <span class='p'></span> Un Čelubams, Šuas brālis, dzemdināja Mehiru, kas <i>bija </i>Eštona tēvs."
       },
       {
         "verse": 12,
@@ -776,7 +776,7 @@
       {
         "verse": 21,
         "en": "21The sons of Shelah the son of Judah <i>were</i>, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,",
-        "lv": "21 <p>Šelas, Jūdas dēla, dēli <i>bija </i>Ers, Lekas tēvs, un Laāda, Mareša tēvs, un to namu ģimenes, kas strādāja smalko linu, no Ašbejas nama,"
+        "lv": "21 <span class='p'></span> Šelas, Jūdas dēla, dēli <i>bija </i>Ers, Lekas tēvs, un Laāda, Mareša tēvs, un to namu ģimenes, kas strādāja smalko linu, no Ašbejas nama,"
       },
       {
         "verse": 22,
@@ -791,7 +791,7 @@
       {
         "verse": 24,
         "en": "24The sons of Simeon <i>were</i>, Nemuel, and Jamin, Jarib, Zerah, <i>and </i>Shaul:",
-        "lv": "24 <p>Simeona dēli <i>bija </i>Nemuēls un Jamins, Jaribs, Zerahs, <i>un </i>Sauls."
+        "lv": "24 <span class='p'></span> Simeona dēli <i>bija </i>Nemuēls un Jamins, Jaribs, Zerahs, <i>un </i>Sauls."
       },
       {
         "verse": 25,
@@ -811,7 +811,7 @@
       {
         "verse": 28,
         "en": "28And they dwelt at Beersheba, and Moladah, and Hazarshual,",
-        "lv": "28 <p>Un viņi mājoja Bēršebā un Molādā, un Hacaršualā,"
+        "lv": "28 <span class='p'></span> Un viņi mājoja Bēršebā un Molādā, un Hacaršualā,"
       },
       {
         "verse": 29,
@@ -866,7 +866,7 @@
       {
         "verse": 39,
         "en": "39And they went to the entrance of Gedor, <i>even </i>unto the east side of the valley, to seek pasture for their flocks.",
-        "lv": "39 <p>Un viņi gāja uz Gedoras ieeju, līdz <i>pat </i>ielejas austrumu pusei meklēt ganības priekš saviem ganāmpulkiem."
+        "lv": "39 <span class='p'></span> Un viņi gāja uz Gedoras ieeju, līdz <i>pat </i>ielejas austrumu pusei meklēt ganības priekš saviem ganāmpulkiem."
       },
       {
         "verse": 40,
@@ -943,7 +943,7 @@
       {
         "verse": 11,
         "en": "11And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:",
-        "lv": "11 <p>Un Gada bērni mājoja viņiem iepretī Bašanas zemē līdz Salhai:"
+        "lv": "11 <span class='p'></span> Un Gada bērni mājoja viņiem iepretī Bašanas zemē līdz Salhai:"
       },
       {
         "verse": 12,
@@ -978,7 +978,7 @@
       {
         "verse": 18,
         "en": "18The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, <i>were</i> four and forty thousand seven hundred and threescore, that went out to the war.",
-        "lv": "18 <p>Rūbena dēli un gadieši, un Manases puscilts, drošsirdīgi vīrieši, cilvēki spējīgi nest bruņogu un zobenu un šaut ar loku, un prasmīgi karā, <i>bija </i>četrdesmit tūkstoši septiņi simti sešdesmit, kas izgāja karā."
+        "lv": "18 <span class='p'></span> Rūbena dēli un gadieši, un Manases puscilts, drošsirdīgi vīrieši, cilvēki spējīgi nest bruņogu un zobenu un šaut ar loku, un prasmīgi karā, <i>bija </i>četrdesmit tūkstoši septiņi simti sešdesmit, kas izgāja karā."
       },
       {
         "verse": 19,
@@ -1003,7 +1003,7 @@
       {
         "verse": 23,
         "en": "23And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon.",
-        "lv": "23 <p>Un Manases puscilts bērni mājoja zemē: tie pieauga no Bašanas līdz Baalhermonam un Seniram, un līdz Hermona kalnam."
+        "lv": "23 <span class='p'></span> Un Manases puscilts bērni mājoja zemē: tie pieauga no Bašanas līdz Baalhermonam un Seniram, un līdz Hermona kalnam."
       },
       {
         "verse": 24,
@@ -1013,7 +1013,7 @@
       {
         "verse": 25,
         "en": "25And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.",
-        "lv": "25 <p>Un viņi pārkāpa pret savu tēvu Dievu un gāja maukodami pēc tās zemes ļaužu dieviem, kurus Dievs iznīcināja viņu priekšā."
+        "lv": "25 <span class='p'></span> Un viņi pārkāpa pret savu tēvu Dievu un gāja maukodami pēc tās zemes ļaužu dieviem, kurus Dievs iznīcināja viņu priekšā."
       },
       {
         "verse": 26,
@@ -1040,7 +1040,7 @@
       {
         "verse": 4,
         "en": "4Eleazar begat Phinehas, Phinehas begat Abishua,",
-        "lv": "4 <p>Eleazars dzemdināja Pinehsu, Pinehass dzemdināja Abišuju,"
+        "lv": "4 <span class='p'></span> Eleazars dzemdināja Pinehsu, Pinehass dzemdināja Abišuju,"
       },
       {
         "verse": 5,
@@ -1100,7 +1100,7 @@
       {
         "verse": 16,
         "en": "16The sons of Levi; Gershom, Kohath, and Merari.",
-        "lv": "16 <p>Levija dēli; Geršoms, Kohāts un Merari."
+        "lv": "16 <span class='p'></span> Levija dēli; Geršoms, Kohāts un Merari."
       },
       {
         "verse": 17,
@@ -1265,7 +1265,7 @@
       {
         "verse": 49,
         "en": "49But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, <i>and were appointed</i> for all the work of the <i>place </i>most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
-        "lv": "49 <p>Bet Ārons un viņa dēli ziedoja uz dedzināmā ziedojuma altāra un uz kvēpināmo altāra, <i>un tika iecelti </i>visam vissvētākās <i>vietas</i> darbam un darīt izlīgumu Israēlam atbilstoši visam, ko Mozus, Dieva kalps, bija pavēlējis."
+        "lv": "49 <span class='p'></span> Bet Ārons un viņa dēli ziedoja uz dedzināmā ziedojuma altāra un uz kvēpināmo altāra, <i>un tika iecelti </i>visam vissvētākās <i>vietas</i> darbam un darīt izlīgumu Israēlam atbilstoši visam, ko Mozus, Dieva kalps, bija pavēlējis."
       },
       {
         "verse": 50,
@@ -1290,7 +1290,7 @@
       {
         "verse": 54,
         "en": "54Now these <i>are</i> their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.",
-        "lv": "54 <p>Tad nu šīs <i>ir </i>viņu mājvietas visās viņu pilīs viņu apkārtnēs, no Ārona dēliem, no Kohātiešu ģimenēm: jo viņu bija mesli."
+        "lv": "54 <span class='p'></span> Tad nu šīs <i>ir </i>viņu mājvietas visās viņu pilīs viņu apkārtnēs, no Ārona dēliem, no Kohātiešu ģimenēm: jo viņu bija mesli."
       },
       {
         "verse": 55,
@@ -1355,7 +1355,7 @@
       {
         "verse": 67,
         "en": "67And they gave unto them, <i>of </i>the cities of refuge, Shechem in mount Ephraim with her suburbs;<i> they gave</i> also Gezer with her suburbs,",
-        "lv": "67 Un viņi tiem deva  <i>no </i>patvēruma pilsētām Sihemu Efraima kalnā ar tās priekšpilsētām; <i>viņi </i>arī <i>deva</i> Gezeru ar tās priekšpilsētām,"
+        "lv": "67 Un viņi tiem deva <i>no </i>patvēruma pilsētām Sihemu Efraima kalnā ar tās priekšpilsētām; <i>viņi </i>arī <i>deva</i> Gezeru ar tās priekšpilsētām,"
       },
       {
         "verse": 68,
@@ -1457,7 +1457,7 @@
       {
         "verse": 6,
         "en": "6<i>The sons</i> of Benjamin; Bela, and Becher, and Jediael, three.",
-        "lv": "6 <p>Benjamīna <i>dēli</i>; Bela un Behers, un Jediaels, trīs."
+        "lv": "6 <span class='p'></span> Benjamīna <i>dēli</i>; Bela un Behers, un Jediaels, trīs."
       },
       {
         "verse": 7,
@@ -1492,12 +1492,12 @@
       {
         "verse": 13,
         "en": "13The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.",
-        "lv": "13 <p>Naftaļa dēli; Jahziels un Guni, un Jezers, un Šallums, Bilhas dēli."
+        "lv": "13 <span class='p'></span> Naftaļa dēli; Jahziels un Guni, un Jezers, un Šallums, Bilhas dēli."
       },
       {
         "verse": 14,
         "en": "14The sons of Manasseh; Ashriel, whom she bare: (<i>but </i>his concubine the Aramitess bare Machir the father of Gilead:",
-        "lv": "14 <p>Manases dēli; Ašriēls, kuru viņa dzemdēja: (<i>bet</i> viņa konkubīne aramiete dzemdēja Mahiru, Gileāda tēvu:"
+        "lv": "14 <span class='p'></span> Manases dēli; Ašriēls, kuru viņa dzemdēja: (<i>bet</i> viņa konkubīne aramiete dzemdēja Mahiru, Gileāda tēvu:"
       },
       {
         "verse": 15,
@@ -1527,12 +1527,12 @@
       {
         "verse": 20,
         "en": "20And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,",
-        "lv": "20 <p>Un Efraima dēli; Šutela un viņa dēls Bereds, un viņa dēls Tahats, un viņa dēls Elads, un viņa dēls Tahats,"
+        "lv": "20 <span class='p'></span> Un Efraima dēli; Šutela un viņa dēls Bereds, un viņa dēls Tahats, un viņa dēls Elads, un viņa dēls Tahats,"
       },
       {
         "verse": 21,
         "en": "21And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath <i>that </i>were born in <i>that </i>land slew, because they came down to take away their cattle.",
-        "lv": "21 <p>Un viņa dēls Zabads, un viņa dēls Šutela, un Ezers, un Eleāda, kurus Gātas vīrieši, <i>kas </i>bija dzimuši <i>tajā</i> zemē, nokāva, tāpēc ka viņi nonāca vest prom viņu lopus."
+        "lv": "21 <span class='p'></span> Un viņa dēls Zabads, un viņa dēls Šutela, un Ezers, un Eleāda, kurus Gātas vīrieši, <i>kas </i>bija dzimuši <i>tajā</i> zemē, nokāva, tāpēc ka viņi nonāca vest prom viņu lopus."
       },
       {
         "verse": 22,
@@ -1542,7 +1542,7 @@
       {
         "verse": 23,
         "en": "23And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house.",
-        "lv": "23 <p>Un, kad viņš iegāja pie savas sievas, viņa kļuva grūta un dzemdēja dēlu, un viņš nosauca viņa vārdu Berija, tāpēc ka viņa namam gāja ļauni."
+        "lv": "23 <span class='p'></span> Un, kad viņš iegāja pie savas sievas, viņa kļuva grūta un dzemdēja dēlu, un viņš nosauca viņa vārdu Berija, tāpēc ka viņa namam gāja ļauni."
       },
       {
         "verse": 24,
@@ -1567,7 +1567,7 @@
       {
         "verse": 28,
         "en": "28And their possessions and habitations <i>were</i>, Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:",
-        "lv": "28 <p>Un viņu īpašumi un mitekļi <i>bija </i>Bētele un tās miesti, un uz austrumiem Naārana, un uz rietumiem Gezera ar tās miestiem; arī Sihema un tās miesti līdz Gazai un tās miestiem:"
+        "lv": "28 <span class='p'></span> Un viņu īpašumi un mitekļi <i>bija </i>Bētele un tās miesti, un uz austrumiem Naārana, un uz rietumiem Gezera ar tās miestiem; arī Sihema un tās miesti līdz Gazai un tās miestiem:"
       },
       {
         "verse": 29,
@@ -1577,7 +1577,7 @@
       {
         "verse": 30,
         "en": "30The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.",
-        "lv": "30 <p>Ašera dēli; Imna un Isuahs, un Isuaja, un Berija, un Sera, viņu māsa."
+        "lv": "30 <span class='p'></span> Ašera dēli; Imna un Isuahs, un Isuaja, un Berija, un Sera, viņu māsa."
       },
       {
         "verse": 31,
@@ -1769,7 +1769,7 @@
       {
         "verse": 28,
         "en": "28These <i>were </i>heads of the fathers, by their generations, chief <i>men</i>. These dwelt in Jerusalem.",
-        "lv": " 28 Šie <i>bija </i>tēvu galvas pēc savām paaudzēm, galvenie <i>vīrieši</i>. Šie mājoja Jeruzalemē."
+        "lv": "28 Šie <i>bija </i>tēvu galvas pēc savām paaudzēm, galvenie <i>vīrieši</i>. Šie mājoja Jeruzalemē."
       },
       {
         "verse": 29,
@@ -1794,7 +1794,7 @@
       {
         "verse": 33,
         "en": "33And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.",
-        "lv": "33 <p>Un Ners dzemdināja Kišu, un Kišs dzemdināja Saulu, un Sauls dzemdināja Jonatānu un Malkišuju, un Abinadabu, un Ešbaālu."
+        "lv": "33 <span class='p'></span> Un Ners dzemdināja Kišu, un Kišs dzemdināja Saulu, un Sauls dzemdināja Jonatānu un Malkišuju, un Abinadabu, un Ešbaālu."
       },
       {
         "verse": 34,
@@ -1841,7 +1841,7 @@
       {
         "verse": 2,
         "en": "2 Now the first inhabitants that <i>dwelt</i> in their possessions in their cities <i>were</i>, the Israelites, the priests, Levites, and the Nethinims.",
-        "lv": "2 <p>Tad nu pirmie iedzīvotāji, kas <i>mājoja</i> savos īpašumos savās pilsētās, <i>bija </i>israēlieši, priesteri, levīti un netinimi."
+        "lv": "2 <span class='p'></span> Tad nu pirmie iedzīvotāji, kas <i>mājoja</i> savos īpašumos savās pilsētās, <i>bija </i>israēlieši, priesteri, levīti un netinimi."
       },
       {
         "verse": 3,
@@ -1881,7 +1881,7 @@
       {
         "verse": 10,
         "en": "10And of the priests; Jedaiah, and Jehoiarib, and Jachin,",
-        "lv": "10 <p>Un no priesteriem; Jedaja un Jojaribs, un Jahins,"
+        "lv": "10 <span class='p'></span> Un no priesteriem; Jedaja un Jojaribs, un Jahins,"
       },
       {
         "verse": 11,
@@ -1966,7 +1966,7 @@
       {
         "verse": 27,
         "en": "27And they lodged round about the house of God, because the charge <i>was </i>upon them, and the opening thereof every morning <i>pertained </i>to them.",
-        "lv": "27 <p>Un viņi apmetās visapkārt Dieva namam, tāpēc ka uz viņiem <i>bija</i> pienākums, un tā atvēršana ik rītu <i>piederēja</i> viņiem."
+        "lv": "27 <span class='p'></span> Un viņi apmetās visapkārt Dieva namam, tāpēc ka uz viņiem <i>bija</i> pienākums, un tā atvēršana ik rītu <i>piederēja</i> viņiem."
       },
       {
         "verse": 28,
@@ -2006,7 +2006,7 @@
       {
         "verse": 35,
         "en": "35And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name <i>was </i>Maachah:",
-        "lv": "35 <p>Un Gibeonā mājoja Gibeona tēvs Jehiels, kura sievas vārds <i>bija</i> Maāha:"
+        "lv": "35 <span class='p'></span> Un Gibeonā mājoja Gibeona tēvs Jehiels, kura sievas vārds <i>bija</i> Maāha:"
       },
       {
         "verse": 36,
@@ -2093,7 +2093,7 @@
       {
         "verse": 8,
         "en": "8And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his sons fallen in mount Gilboa.",
-        "lv": "8 <p>Un notika nākamajā dienā, kad filistieši nāca izģērbt nokautos, ka viņi atrada Saulu un viņa trīs dēlus kritušus Gilboas kalnā."
+        "lv": "8 <span class='p'></span> Un notika nākamajā dienā, kad filistieši nāca izģērbt nokautos, ka viņi atrada Saulu un viņa trīs dēlus kritušus Gilboas kalnā."
       },
       {
         "verse": 9,
@@ -2108,7 +2108,7 @@
       {
         "verse": 11,
         "en": "11And when all Jabeshgilead heard all that the Philistines had done to Saul,",
-        "lv": "11 <p>Un, kad visa Jabešgileāda dzirdēja visu, ko filistieši bija darījuši Saulam,"
+        "lv": "11 <span class='p'></span> Un, kad visa Jabešgileāda dzirdēja visu, ko filistieši bija darījuši Saulam,"
       },
       {
         "verse": 12,
@@ -2118,7 +2118,7 @@
       {
         "verse": 13,
         "en": "13So Saul died for his transgression which he committed against the LORD, <i>even </i>against the word of the LORD, which he kept not, and also for asking <i>counsel </i>of <i>one that had</i> a familiar spirit, to enquire <i>of it</i>;",
-        "lv": "13 <p>Tā Sauls nomira par savu pārkāpumu, ko viņš izdarīja pret to KUNGU, <i>proti,</i> pret tā KUNGA vārdu, ko viņš neturēja, un arī par <i>padoma </i>prasīšanu no <i>kāda, kas ir </i>garu izsaucējs, jautāt <i>no tā</i>;"
+        "lv": "13 <span class='p'></span> Tā Sauls nomira par savu pārkāpumu, ko viņš izdarīja pret to KUNGU, <i>proti,</i> pret tā KUNGA vārdu, ko viņš neturēja, un arī par <i>padoma </i>prasīšanu no <i>kāda, kas ir </i>garu izsaucējs, jautāt <i>no tā</i>;"
       },
       {
         "verse": 14,
@@ -2145,7 +2145,7 @@
       {
         "verse": 4,
         "en": "4And David and all Israel went to Jerusalem, which <i>is </i>Jebus; where the Jebusites <i>were</i>, the inhabitants of the land.",
-        "lv": "4 <p>Un Dāvids un viss Israēls gāja uz Jeruzālemi, kas <i>ir</i> Jebusa; kur <i>bija</i> jebusieši, zemes iedzīvotāji."
+        "lv": "4 <span class='p'></span> Un Dāvids un viss Israēls gāja uz Jeruzālemi, kas <i>ir</i> Jebusa; kur <i>bija</i> jebusieši, zemes iedzīvotāji."
       },
       {
         "verse": 5,
@@ -2175,7 +2175,7 @@
       {
         "verse": 10,
         "en": "10These also <i>are </i>the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, <i>and </i>with all Israel, to make him king, according to the word of the LORD concerning Israel.",
-        "lv": "10 <p>Šie arī <i>ir </i>galveno<i> </i>vareno vārdi, kuri bija Dāvidam, kuri stiprinājās ar viņu viņa valstībā, <i>un </i>ar visu Israēlu, iecelt viņu par ķēniņu, atbilstoši tā KUNGA vārdam attiecībā uz Israēlu."
+        "lv": "10 <span class='p'></span> Šie arī <i>ir </i>galveno<i> </i>vareno vārdi, kuri bija Dāvidam, kuri stiprinājās ar viņu viņa valstībā, <i>un </i>ar visu Israēlu, iecelt viņu par ķēniņu, atbilstoši tā KUNGA vārdam attiecībā uz Israēlu."
       },
       {
         "verse": 11,
@@ -2200,7 +2200,7 @@
       {
         "verse": 15,
         "en": "15Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.",
-        "lv": "15 <p>Tad nu trīs no trīsdesmit kapteiņiem nogāja uz Dāvida klinti, Adulamas alā; un filistiešu karapulks apmetās Refaima ielejā."
+        "lv": "15 <span class='p'></span> Tad nu trīs no trīsdesmit kapteiņiem nogāja uz Dāvida klinti, Adulamas alā; un filistiešu karapulks apmetās Refaima ielejā."
       },
       {
         "verse": 16,
@@ -2225,7 +2225,7 @@
       {
         "verse": 20,
         "en": "20And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew <i>them</i>, and had a name among the three.",
-        "lv": "20 <p>Un Abišajs, Joaba brālis, bija galvenais no trim: jo paceldams savu šķēpu pret trīs simtiem, viņš<i> tos </i>nokāva, un viņam bija vārds starp trim."
+        "lv": "20 <span class='p'></span> Un Abišajs, Joaba brālis, bija galvenais no trim: jo paceldams savu šķēpu pret trīs simtiem, viņš<i> tos </i>nokāva, un viņam bija vārds starp trim."
       },
       {
         "verse": 21,
@@ -2255,7 +2255,7 @@
       {
         "verse": 26,
         "en": "26Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,",
-        "lv": "26 <p>Arī drošsirdīgie vīrieši no armijām bija Asahels, Joaba brālis, un Elhanans, Dodo dēls, no Betlēmes,"
+        "lv": "26 <span class='p'></span> Arī drošsirdīgie vīrieši no armijām bija Asahels, Joaba brālis, un Elhanans, Dodo dēls, no Betlēmes,"
       },
       {
         "verse": 27,
@@ -2477,7 +2477,7 @@
       {
         "verse": 23,
         "en": "23And these <i>are</i> the numbers of the bands <i>that were</i> ready armed to the war, <i>and </i>came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.",
-        "lv": "23 <p>Un šie <i>ir</i> to grupu skaitļi, <i>kas bija</i> gatavi apbruņoti uz karu <i>un</i> nāca pie Dāvida uz Hebronu, griezt Saula valstību viņam, atbilstoši tā KUNGA vārdam."
+        "lv": "23 <span class='p'></span> Un šie <i>ir</i> to grupu skaitļi, <i>kas bija</i> gatavi apbruņoti uz karu <i>un</i> nāca pie Dāvida uz Hebronu, griezt Saula valstību viņam, atbilstoši tā KUNGA vārdam."
       },
       {
         "verse": 24,
@@ -2609,7 +2609,7 @@
       {
         "verse": 9,
         "en": "9And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.",
-        "lv": "9 <p>Un, kad tie nāca pie Čidonas kuļamklona, Uca izstiepa savu roku, lai turētu šķirstu; jo vērši paklupa."
+        "lv": "9 <span class='p'></span> Un, kad tie nāca pie Čidonas kuļamklona, Uca izstiepa savu roku, lai turētu šķirstu; jo vērši paklupa."
       },
       {
         "verse": 10,
@@ -2651,7 +2651,7 @@
       {
         "verse": 3,
         "en": "3And David took more wives at Jerusalem: and David begat more sons and daughters.",
-        "lv": "3 <p>Un Dāvids Jeruzālemē ņēma vēl sievas: un Dāvids dzemdināja vēl dēlus un meitas."
+        "lv": "3 <span class='p'></span> Un Dāvids Jeruzālemē ņēma vēl sievas: un Dāvids dzemdināja vēl dēlus un meitas."
       },
       {
         "verse": 4,
@@ -2676,7 +2676,7 @@
       {
         "verse": 8,
         "en": "8And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard <i>of it</i>, and went out against them.",
-        "lv": "8 <p>Un, kad filistieši dzirdēja, ka Dāvids bija svaidīts par ķēniņu pār Israēlu, visi filistieši devās meklēt Dāvidu. Un Dāvids <i>par to</i> dzirdēja un izgāja pret tiem."
+        "lv": "8 <span class='p'></span> Un, kad filistieši dzirdēja, ka Dāvids bija svaidīts par ķēniņu pār Israēlu, visi filistieši devās meklēt Dāvidu. Un Dāvids <i>par to</i> dzirdēja un izgāja pret tiem."
       },
       {
         "verse": 9,
@@ -2848,7 +2848,7 @@
       {
         "verse": 25,
         "en": "25So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy.",
-        "lv": "25 <p>Tā Dāvids un Israēla vecaji, un kapteiņi pār tūkstošiem gāja atvest tā KUNGA derības šķirstu no Obededoma nama ar prieku."
+        "lv": "25 <span class='p'></span> Tā Dāvids un Israēla vecaji, un kapteiņi pār tūkstošiem gāja atvest tā KUNGA derības šķirstu no Obededoma nama ar prieku."
       },
       {
         "verse": 26,
@@ -2868,7 +2868,7 @@
       {
         "verse": 29,
         "en": "",
-        "lv": "29 <p>"
+        "lv": "29 <span class='p'></span>"
       }
     ],
     "16": [
@@ -2890,7 +2890,7 @@
       {
         "verse": 4,
         "en": "4And he appointed <i>certain </i>of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel:",
-        "lv": "4 <p>Un viņš iecēla <i>kādus </i>no levītiem kalpot tā KUNGA šķirsta priekšā un pierakstīt, un pateikties, un slavēt to KUNGU, Israēla Dievu:"
+        "lv": "4 <span class='p'></span> Un viņš iecēla <i>kādus </i>no levītiem kalpot tā KUNGA šķirsta priekšā un pierakstīt, un pateikties, un slavēt to KUNGU, Israēla Dievu:"
       },
       {
         "verse": 5,
@@ -2905,7 +2905,7 @@
       {
         "verse": 7,
         "en": "7Then on that day David delivered first <i>this psalm</i> to thank the LORD into the hand of Asaph and his brethren.",
-        "lv": "7 <p>Tad tajā dienā Dāvids vispirms nodeva <i>šo psalmu </i>Asafa un viņa brāļu rokā, lai pateiktos tam KUNGAM."
+        "lv": "7 <span class='p'></span> Tad tajā dienā Dāvids vispirms nodeva <i>šo psalmu </i>Asafa un viņa brāļu rokā, lai pateiktos tam KUNGAM."
       },
       {
         "verse": 8,
@@ -3055,7 +3055,7 @@
       {
         "verse": 37,
         "en": "37So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day's work required:",
-        "lv": "37 <p>Tā viņš atstāja tur tā KUNGA derības šķirsta priekšā Asafu un viņa brāļus, pastāvīgi kalpot šķirsta priekšā, kā to prasīja ikdienas darbs:"
+        "lv": "37 <span class='p'></span> Tā viņš atstāja tur tā KUNGA derības šķirsta priekšā Asafu un viņa brāļus, pastāvīgi kalpot šķirsta priekšā, kā to prasīja ikdienas darbs:"
       },
       {
         "verse": 38,
@@ -3102,7 +3102,7 @@
       {
         "verse": 3,
         "en": "3And it came to pass the same night, that the word of God came to Nathan, saying,",
-        "lv": "3 <p>Un notika tajā pašā naktī, ka Dieva vārds nāca uz Nātanu sacīdams,"
+        "lv": "3 <span class='p'></span> Un notika tajā pašā naktī, ka Dieva vārds nāca uz Nātanu sacīdams,"
       },
       {
         "verse": 4,
@@ -3142,7 +3142,7 @@
       {
         "verse": 11,
         "en": "11And it shall come to pass, when thy days be expired that thou must go <i>to be</i> with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom.",
-        "lv": "11 <p>Un notiks, kad tavas dienas būs beigušās, ka tev būs jāiet pie saviem tēviem, ka es uzcelšu tavu sēklu pēc tevis, kas būs no taviem dēliem; un es nostiprināšu viņa valstību."
+        "lv": "11 <span class='p'></span> Un notiks, kad tavas dienas būs beigušās, ka tev būs jāiet pie saviem tēviem, ka es uzcelšu tavu sēklu pēc tevis, kas būs no taviem dēliem; un es nostiprināšu viņa valstību."
       },
       {
         "verse": 12,
@@ -3167,7 +3167,7 @@
       {
         "verse": 16,
         "en": "16And David the king came and sat before the LORD, and said, Who <i>am</i> I, O LORD God, and what <i>is </i>mine house, that thou hast brought me hitherto?",
-        "lv": "16 <p>Tad ķēniņš Dāvids ienāca un sēdēja tā KUNGA priekšā, un sacīja, Kas es <i>esmu</i>, ak, KUNGS Dievs? un kas <i>ir </i>mans nams, ka tu mani līdz šim esi atvedis?"
+        "lv": "16 <span class='p'></span> Tad ķēniņš Dāvids ienāca un sēdēja tā KUNGA priekšā, un sacīja, Kas es <i>esmu</i>, ak, KUNGS Dievs? un kas <i>ir </i>mans nams, ka tu mani līdz šim esi atvedis?"
       },
       {
         "verse": 17,
@@ -3239,7 +3239,7 @@
       {
         "verse": 3,
         "en": "3And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.",
-        "lv": "3 <p>Dāvids sita Hadadezeru, Cobas ķēniņu, līdz Hamatai, viņam dodoties nostiprināt savu valdījumu pie Eifratas upes."
+        "lv": "3 <span class='p'></span> Dāvids sita Hadadezeru, Cobas ķēniņu, līdz Hamatai, viņam dodoties nostiprināt savu valdījumu pie Eifratas upes."
       },
       {
         "verse": 4,
@@ -3269,7 +3269,7 @@
       {
         "verse": 9,
         "en": "9Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;",
-        "lv": "9 <p>Kad nu Hamatas ķēniņš Tou dzirdēja, kā Dāvids ir sitis visu Hadadezera, Cobas ķēniņa, karapulku;"
+        "lv": "9 <span class='p'></span> Kad nu Hamatas ķēniņš Tou dzirdēja, kā Dāvids ir sitis visu Hadadezera, Cobas ķēniņa, karapulku;"
       },
       {
         "verse": 10,
@@ -3279,7 +3279,7 @@
       {
         "verse": 11,
         "en": "11Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all <i>these </i>nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.",
-        "lv": "11 <p>Tos arī ķēniņš Dāvids veltīja tam KUNGAM ar sudrabu un zeltu, ko viņš atveda no visām <i>šīm</i> tautām: no Edoma un no Moāba, un no Ammona bērniem, un no filistiešiem, un no Amaleka."
+        "lv": "11 <span class='p'></span> Tos arī ķēniņš Dāvids veltīja tam KUNGAM ar sudrabu un zeltu, ko viņš atveda no visām <i>šīm</i> tautām: no Edoma un no Moāba, un no Ammona bērniem, un no filistiešiem, un no Amaleka."
       },
       {
         "verse": 12,
@@ -3289,12 +3289,12 @@
       {
         "verse": 13,
         "en": "13And he put garrisons in Edom; and all the Edomites became David's servants. Thus the LORD preserved David whithersoever he went.",
-        "lv": "13 <p>Un viņš lika garnizonus Edomā; un visi edomieši kļuva par Dāvida kalpiem. Tā tas KUNGS pasaudzēja Dāvidu, kurp vien viņš gāja."
+        "lv": "13 <span class='p'></span> Un viņš lika garnizonus Edomā; un visi edomieši kļuva par Dāvida kalpiem. Tā tas KUNGS pasaudzēja Dāvidu, kurp vien viņš gāja."
       },
       {
         "verse": 14,
         "en": "14So David reigned over all Israel, and executed judgment and justice among all his people.",
-        "lv": "14 <p>Un Dāvids valdīja pār visu Israēlu un Dāvids izpildīja tiesu un taisnīgumu starp visiem saviem ļaudīm."
+        "lv": "14 <span class='p'></span> Un Dāvids valdīja pār visu Israēlu un Dāvids izpildīja tiesu un taisnīgumu starp visiem saviem ļaudīm."
       },
       {
         "verse": 15,
@@ -3341,7 +3341,7 @@
       {
         "verse": 6,
         "en": "6And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syriamaachah, and out of Zobah.",
-        "lv": "6 <p>Un, kad Ammona bērni redzēja, ka viņi bija sevi darījuši nīstus Dāvidam, Hanuns un Ammona bērni sūtīja tūkstoš sudraba talentu, lai sev nolīgtu ratus un jātniekus no Mezopotāmijas un no Sīrijamakas, un no Cobas."
+        "lv": "6 <span class='p'></span> Un, kad Ammona bērni redzēja, ka viņi bija sevi darījuši nīstus Dāvidam, Hanuns un Ammona bērni sūtīja tūkstoš sudraba talentu, lai sev nolīgtu ratus un jātniekus no Mezopotāmijas un no Sīrijamakas, un no Cobas."
       },
       {
         "verse": 7,
@@ -3391,7 +3391,7 @@
       {
         "verse": 16,
         "en": "16And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that <i>were </i>beyond the river: and Shophach the captain of the host of Hadarezer <i>went </i>before them.",
-        "lv": "16 <p>Un, kad sīrieši redzēja, ka viņi ir sakauti Israēla priekšā, viņi sūtīja vēstnešus un izvilka sīriešus, kas <i>bija </i>aiz upes: un Šobahs, Hadarezera karapulka kapteinis, <i>gāja</i> viņiem priekšā."
+        "lv": "16 <span class='p'></span> Un, kad sīrieši redzēja, ka viņi ir sakauti Israēla priekšā, viņi sūtīja vēstnešus un izvilka sīriešus, kas <i>bija </i>aiz upes: un Šobahs, Hadarezera karapulka kapteinis, <i>gāja</i> viņiem priekšā."
       },
       {
         "verse": 17,
@@ -3428,7 +3428,7 @@
       {
         "verse": 4,
         "en": "4And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai,<i> that was</i> of the children of the giant: and they were subdued.",
-        "lv": "4 <p>Un notika pēc šī, ka Gezerā cēlās karš ar filistiešiem; kurā laikā hušatietis Sibehajs nokāva Sippaju, <i>kas bija </i>no milža dēliem: un tie tika pakļauti."
+        "lv": "4 <span class='p'></span> Un notika pēc šī, ka Gezerā cēlās karš ar filistiešiem; kurā laikā hušatietis Sibehajs nokāva Sippaju, <i>kas bija </i>no milža dēliem: un tie tika pakļauti."
       },
       {
         "verse": 5,
@@ -3475,7 +3475,7 @@
       {
         "verse": 5,
         "en": "5And Joab gave the sum of the number of the people unto David. And all <i>they of</i> Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah <i>was </i>four hundred threescore and ten thousand men that drew sword.",
-        "lv": "5 <p>Un Joābs Dāvidam deva ļaužu skaita summu. Un visi <i>tie no</i> Israēlā bija tūkstots tūkstoši un simts tūkstoši vīriešu, kas vilka zobenu: un Jūda <i>bija </i>četrsimt septiņdesmit tūkstoši vīriešu, kas vilka zobenu."
+        "lv": "5 <span class='p'></span> Un Joābs Dāvidam deva ļaužu skaita summu. Un visi <i>tie no</i> Israēlā bija tūkstots tūkstoši un simts tūkstoši vīriešu, kas vilka zobenu: un Jūda <i>bija </i>četrsimt septiņdesmit tūkstoši vīriešu, kas vilka zobenu."
       },
       {
         "verse": 6,
@@ -3495,7 +3495,7 @@
       {
         "verse": 9,
         "en": "9And the LORD spake unto Gad, David's seer, saying,",
-        "lv": "9 <p>Un tas KUNGS runāja uz Gadu, Dāvida gaišreģi, sacīdams,"
+        "lv": "9 <span class='p'></span> Un tas KUNGS runāja uz Gadu, Dāvida gaišreģi, sacīdams,"
       },
       {
         "verse": 10,
@@ -3520,7 +3520,7 @@
       {
         "verse": 14,
         "en": "14So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men.",
-        "lv": "14 <p>Tā tas KUNGS sūtīja sērgu uz Israēla: un no Israēla krita septiņdesmit tūkstoši vīriešu."
+        "lv": "14 <span class='p'></span> Tā tas KUNGS sūtīja sērgu uz Israēla: un no Israēla krita septiņdesmit tūkstoši vīriešu."
       },
       {
         "verse": 15,
@@ -3540,7 +3540,7 @@
       {
         "verse": 18,
         "en": "18Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite.",
-        "lv": "18 <p>Tad tā KUNGA eņģelis pavēlēja Gadam sacīt Dāvidam, lai Dāvids dotos un uztaisītu altāri tam KUNGAM jebusieša Ornana kuļamklonā."
+        "lv": "18 <span class='p'></span> Tad tā KUNGA eņģelis pavēlēja Gadam sacīt Dāvidam, lai Dāvids dotos un uztaisītu altāri tam KUNGAM jebusieša Ornana kuļamklonā."
       },
       {
         "verse": 19,
@@ -3590,7 +3590,7 @@
       {
         "verse": 28,
         "en": "28At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there.",
-        "lv": "28 <p>Tajā laikā, kad Dāvids redzēja, ka tas KUNGS viņam bija atbildējis jebusieša Ornana kuļamklonā, tad viņš tur upurēja."
+        "lv": "28 <span class='p'></span> Tajā laikā, kad Dāvids redzēja, ka tas KUNGS viņam bija atbildējis jebusieša Ornana kuļamklonā, tad viņš tur upurēja."
       },
       {
         "verse": 29,
@@ -3632,7 +3632,7 @@
       {
         "verse": 6,
         "en": "6Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel.",
-        "lv": "6 <p>Tad viņš aicināja savu dēlu Salamanu un piekodināja tam būvēt namu priekš tā KUNGA, Israēla Dieva."
+        "lv": "6 <span class='p'></span> Tad viņš aicināja savu dēlu Salamanu un piekodināja tam būvēt namu priekš tā KUNGA, Israēla Dieva."
       },
       {
         "verse": 7,
@@ -3709,7 +3709,7 @@
       {
         "verse": 2,
         "en": "2And he gathered together all the princes of Israel, with the priests and the Levites.",
-        "lv": "2 <p>Un viņš sapulcēja kopā visus Israēla prinčus ar priesteriem un levītiem."
+        "lv": "2 <span class='p'></span> Un viņš sapulcēja kopā visus Israēla prinčus ar priesteriem un levītiem."
       },
       {
         "verse": 3,
@@ -3734,7 +3734,7 @@
       {
         "verse": 7,
         "en": "7Of the Gershonites <i>were,</i> Laadan, and Shimei.",
-        "lv": "7 <p>No gersoniešiem <i>bija</i> Lādans un Šimejs."
+        "lv": "7 <span class='p'></span> No gersoniešiem <i>bija</i> Lādans un Šimejs."
       },
       {
         "verse": 8,
@@ -3759,7 +3759,7 @@
       {
         "verse": 12,
         "en": "12The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.",
-        "lv": "12 <p>Kohāta dēli; Amrams, Izārs, Hebrons un Uciels, četri."
+        "lv": "12 <span class='p'></span> Kohāta dēli; Amrams, Izārs, Hebrons un Uciels, četri."
       },
       {
         "verse": 13,
@@ -3804,7 +3804,7 @@
       {
         "verse": 21,
         "en": "21The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.",
-        "lv": "21 <p>Merari dēli; Mahli un Muši. Mahli dēli; Eleazars un Kišs."
+        "lv": "21 <span class='p'></span> Merari dēli; Mahli un Muši. Mahli dēli; Eleazars un Kišs."
       },
       {
         "verse": 22,
@@ -3819,7 +3819,7 @@
       {
         "verse": 24,
         "en": "24These <i>were </i>the sons of Levi after the house of their fathers; <i>even </i>the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward.",
-        "lv": "24 <p>Šie <i>bija</i> Levija dēli pēc savu tēvu nama; <i>proti,</i> tēvu galvenie, kā tie tika skaitīti pēc vārdu skaita pēc viņu galvām, kas darīja darbu tā KUNGA nama kalpošanai, no divdesmit gadiem un uz augšu."
+        "lv": "24 <span class='p'></span> Šie <i>bija</i> Levija dēli pēc savu tēvu nama; <i>proti,</i> tēvu galvenie, kā tie tika skaitīti pēc vārdu skaita pēc viņu galvām, kas darīja darbu tā KUNGA nama kalpošanai, no divdesmit gadiem un uz augšu."
       },
       {
         "verse": 25,
@@ -3961,7 +3961,7 @@
       {
         "verse": 20,
         "en": "20And the rest of the sons of Levi <i>were these</i>: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.",
-        "lv": "20 <p>Un pārējie no Levija dēliem <i>bija šie</i>: No Amrama dēliem; Šubaels: no Šubaela dēliem; Jehdeja."
+        "lv": "20 <span class='p'></span> Un pārējie no Levija dēliem <i>bija šie</i>: No Amrama dēliem; Šubaels: no Šubaela dēliem; Jehdeja."
       },
       {
         "verse": 21,
@@ -3996,7 +3996,7 @@
       {
         "verse": 27,
         "en": "27The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri.",
-        "lv": "27 <p>Merari dēli no Jaācijas; Beno, un Šohams, un Zakurs, un Ibri."
+        "lv": "27 <span class='p'></span> Merari dēli no Jaācijas; Beno, un Šohams, un Zakurs, un Ibri."
       },
       {
         "verse": 28,
@@ -4275,7 +4275,7 @@
       {
         "verse": 20,
         "en": "20And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the dedicated things.",
-        "lv": "20 <p>Un no levītiem Ahija bija pār Dieva nama dārgumiem un pār veltīto lietu dārgumiem."
+        "lv": "20 <span class='p'></span> Un no levītiem Ahija bija pār Dieva nama dārgumiem un pār veltīto lietu dārgumiem."
       },
       {
         "verse": 21,
@@ -4417,7 +4417,7 @@
       {
         "verse": 16,
         "en": "16Furthermore over the tribes of Israel: the ruler of the Reubenites <i>was </i>Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:",
-        "lv": "16 <p>Turklāt pār Israēla ciltīm: rūbeniešu valdnieks <i>bija</i> Eliezers, Zihri dēls: no simeoniešiem Šefatja, Maahas dēls."
+        "lv": "16 <span class='p'></span> Turklāt pār Israēla ciltīm: rūbeniešu valdnieks <i>bija</i> Eliezers, Zihri dēls: no simeoniešiem Šefatja, Maahas dēls."
       },
       {
         "verse": 17,
@@ -4462,7 +4462,7 @@
       {
         "verse": 25,
         "en": "25And over the king's treasures <i>was </i>Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, <i>was</i> Jehonathan the son of Uzziah:",
-        "lv": "25 <p>Un pār ķēniņa dārgumiem <i>bija</i> Azmavets, Adiela dēls: un pār krātuvēm laukos, pilsētās, ciematos un pilīs <i>bija</i> Jeonatans, Ucijas dēls:"
+        "lv": "25 <span class='p'></span> Un pār ķēniņa dārgumiem <i>bija</i> Azmavets, Adiela dēls: un pār krātuvēm laukos, pilsētās, ciematos un pilīs <i>bija</i> Jeonatans, Ucijas dēls:"
       },
       {
         "verse": 26,
@@ -4554,7 +4554,7 @@
       {
         "verse": 9,
         "en": "9And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.",
-        "lv": "9 <p>Un tu, mans dēls Salaman, pazīsti sava tēva Dievu un kalpo viņam ar pilnīgu sirdi un ar labprātīgu prātu: jo tas KUNGS pārmeklē visas sirdis un saprot visas domu iztēles: ja tu viņu meklē, viņš no tevis tiks atrasts; bet, ja tu viņu pamet, viņš tevi atmetīs mūžīgi."
+        "lv": "9 <span class='p'></span> Un tu, mans dēls Salaman, pazīsti sava tēva Dievu un kalpo viņam ar pilnīgu sirdi un ar labprātīgu prātu: jo tas KUNGS pārmeklē visas sirdis un saprot visas domu iztēles: ja tu viņu meklē, viņš no tevis tiks atrasts; bet, ja tu viņu pamet, viņš tevi atmetīs mūžīgi."
       },
       {
         "verse": 10,
@@ -4651,7 +4651,7 @@
       {
         "verse": 7,
         "en": "7And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron.",
-        "lv": "7 <p>Un deva Dieva nama kalpošanai no zelta piecus tūkstošus talentu un desmit tūkstošus drahmu, un no sudraba desmit tūkstošus talentu, un no misiņa astoņpadsmit tūkstošus talentu un simts tūkstošus talentu no dzelzs."
+        "lv": "7 <span class='p'></span> Un deva Dieva nama kalpošanai no zelta piecus tūkstošus talentu un desmit tūkstošus drahmu, un no sudraba desmit tūkstošus talentu, un no misiņa astoņpadsmit tūkstošus talentu un simts tūkstošus talentu no dzelzs."
       },
       {
         "verse": 8,
@@ -4671,7 +4671,7 @@
       {
         "verse": 11,
         "en": "11Thine, O LORD, <i>is </i>the greatness, and the power, and the glory, and the victory, and the majesty: for all<i> that is</i> in the heaven and in the earth<i> is thine</i>; thine <i>is </i>the kingdom, O LORD, and thou art exalted as head above all.",
-        "lv": "11 Tavs, ak KUNGS, <i>ir</i> diženums un spēks, un godība, un uzvara, un majestātiskums; jo viss, <i>kas ir </i>debesī un zemē, <i>ir tavs</i>; tava <i>ir</i> valstība, ak KUNGS, un tu esi paaugstināts kā galva pāri visam."
+        "lv": "11 Tavs, ak, KUNGS, <i>ir</i> diženums un spēks, un godība, un uzvara, un majestātiskums; jo viss, <i>kas ir </i>debesī un zemē, <i>ir tavs</i>; tava <i>ir</i> valstība, ak KUNGS, un tu esi paaugstināts kā galva pāri visam."
       },
       {
         "verse": 12,
@@ -4706,7 +4706,7 @@
       {
         "verse": 18,
         "en": "18O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:",
-        "lv": "18 Ak KUNGS, Ābrahāma, Īzāka un Israēla, mūsu tēvu, Dievs, turi šo mūžīgi savu ļaužu sirds domu iztēlē un sagatavo viņu sirdis sev:"
+        "lv": "18 Ak, KUNGS, Ābrahāma, Īzāka un Israēla, mūsu tēvu, Dievs, turi šo mūžīgi savu ļaužu sirds domu iztēlē un sagatavo viņu sirdis sev:"
       },
       {
         "verse": 19,
@@ -4716,7 +4716,7 @@
       {
         "verse": 20,
         "en": "20And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king.",
-        "lv": "20 <p>Un Dāvids visai sanāksmei sacīja, Tad nu svētījiet to KUNGU, savu Dievu. Un visa sanāksme svētīja to KUNGU, savu tēvu Dievu, un nolieca savas galvas, un godināja to KUNGU un ķēniņu."
+        "lv": "20 <span class='p'></span> Un Dāvids visai sanāksmei sacīja, Tad nu svētījiet to KUNGU, savu Dievu. Un visa sanāksme svētīja to KUNGU, savu tēvu Dievu, un nolieca savas galvas, un godināja to KUNGU un ķēniņu."
       },
       {
         "verse": 21,
@@ -4746,7 +4746,7 @@
       {
         "verse": 26,
         "en": "26Thus David the son of Jesse reigned over all Israel.",
-        "lv": "26 <p>Tā Dāvids, Jessija dēls, valdīja pār visu Israēlu."
+        "lv": "26 <span class='p'></span> Tā Dāvids, Jessija dēls, valdīja pār visu Israēlu."
       },
       {
         "verse": 27,

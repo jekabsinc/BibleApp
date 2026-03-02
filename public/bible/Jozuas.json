@@ -50,7 +50,7 @@
       {
         "verse": 10,
         "en": "10Then Joshua commanded the officers of the people, saying,",
-        "lv": "10 <p>Tad Jozua pavēlēja ļaužu virsniekiem sacīdams,"
+        "lv": "10 <span class='p'></span> Tad Jozua pavēlēja ļaužu virsniekiem sacīdams,"
       },
       {
         "verse": 11,
@@ -60,7 +60,7 @@
       {
         "verse": 12,
         "en": "12And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,",
-        "lv": "12 <p>Un uz rūbeniešiem, gadiešiem un Manases puscilti Jozua runāja sacīdams,"
+        "lv": "12 <span class='p'></span> Un uz rūbeniešiem, gadiešiem un Manases puscilti Jozua runāja sacīdams,"
       },
       {
         "verse": 13,
@@ -80,7 +80,7 @@
       {
         "verse": 16,
         "en": "16And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.",
-        "lv": "16 <p>Un tie atbildēja Jozuam sacīdami, Visu, ko tu mums pavēli, mēs darīsim, un kurp vien tu mūs sūti, mēs iesim."
+        "lv": "16 <span class='p'></span> Un tie atbildēja Jozuam sacīdami, Visu, ko tu mums pavēli, mēs darīsim, un kurp vien tu mūs sūti, mēs iesim."
       },
       {
         "verse": 17,
@@ -132,7 +132,7 @@
       {
         "verse": 8,
         "en": "8And before they were laid down, she came up unto them upon the roof;",
-        "lv": "8 <p>Un, pirms viņi bija apgūlušies, viņa uzkāpa pie tiem uz jumta;"
+        "lv": "8 <span class='p'></span> Un, pirms viņi bija apgūlušies, viņa uzkāpa pie tiem uz jumta;"
       },
       {
         "verse": 9,
@@ -207,7 +207,7 @@
       {
         "verse": 23,
         "en": "23So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all <i>things </i>that befell them:",
-        "lv": "23 <p>Tā abi vīrieši atgriezās un nokāpa no kalna, un pārgāja pāri, un nāca pie Jozuas, Nūna dēla, un stāstīja viņam visu, kas viņiem atgadījās:"
+        "lv": "23 <span class='p'></span> Tā abi vīrieši atgriezās un nokāpa no kalna, un pārgāja pāri, un nāca pie Jozuas, Nūna dēla, un stāstīja viņam visu, kas viņiem atgadījās:"
       },
       {
         "verse": 24,
@@ -249,7 +249,7 @@
       {
         "verse": 7,
         "en": "7And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, <i>so</i> I will be with thee.",
-        "lv": "7 <p>Un tas KUNGS sacīja uz Jozuu, Šajā dienā es iesākšu tevi paaugstināt visa Israēla skatienā, lai viņi var zināt, ka kā es biju ar Mozu, <i>tā </i>es būšu ar tevi."
+        "lv": "7 <span class='p'></span> Un tas KUNGS sacīja uz Jozuu, Šajā dienā es iesākšu tevi paaugstināt visa Israēla skatienā, lai viņi var zināt, ka kā es biju ar Mozu, <i>tā </i>es būšu ar tevi."
       },
       {
         "verse": 8,
@@ -259,7 +259,7 @@
       {
         "verse": 9,
         "en": "9And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God.",
-        "lv": "9 <p>Un Jozua Israēla bērniem sacīja, Nāciet šurp un klausieties tā KUNGA, jūsu Dieva, vārdus."
+        "lv": "9 <span class='p'></span> Un Jozua Israēla bērniem sacīja, Nāciet šurp un klausieties tā KUNGA, jūsu Dieva, vārdus."
       },
       {
         "verse": 10,
@@ -284,7 +284,7 @@
       {
         "verse": 14,
         "en": "14And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;",
-        "lv": "14 <p>Un notika, kad ļaudis nocēlās no savām teltīm, pāriet pāri Jordānai, un priesteriem nesot derības šķirstu ļaužu priekšā;"
+        "lv": "14 <span class='p'></span> Un notika, kad ļaudis nocēlās no savām teltīm, pāriet pāri Jordānai, un priesteriem nesot derības šķirstu ļaužu priekšā;"
       },
       {
         "verse": 15,
@@ -346,7 +346,7 @@
       {
         "verse": 9,
         "en": "9And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.",
-        "lv": "9 <p>Un Jozua uzstādīja divpadsmit akmeņus Jordānas vidū, vietā, kur stāvēja to priesteru kājas, kas nesa derības šķirstu: un tie ir tur līdz šai dienai."
+        "lv": "9 <span class='p'></span> Un Jozua uzstādīja divpadsmit akmeņus Jordānas vidū, vietā, kur stāvēja to priesteru kājas, kas nesa derības šķirstu: un tie ir tur līdz šai dienai."
       },
       {
         "verse": 10,
@@ -371,7 +371,7 @@
       {
         "verse": 14,
         "en": "14On that day the LORD magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.",
-        "lv": "14 <p>Tajā dienā tas KUNGS paaugstināja Jozuu visa Israēla skatienā; un viņi to bijās, kā tie bijās Mozu, visas viņa dzīves dienas."
+        "lv": "14 <span class='p'></span> Tajā dienā tas KUNGS paaugstināja Jozuu visa Israēla skatienā; un viņi to bijās, kā tie bijās Mozu, visas viņa dzīves dienas."
       },
       {
         "verse": 15,
@@ -433,7 +433,7 @@
       {
         "verse": 2,
         "en": "2At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.",
-        "lv": "2 <p>Tajā laikā tas KUNGS Jozuam sacīja, Taisi sev asus nažus un apgraizi atkal Israēla bērnus."
+        "lv": "2 <span class='p'></span> Tajā laikā tas KUNGS Jozuam sacīja, Taisi sev asus nažus un apgraizi atkal Israēla bērnus."
       },
       {
         "verse": 3,
@@ -473,7 +473,7 @@
       {
         "verse": 10,
         "en": "10And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho.",
-        "lv": "10 <p>Un Israēla bērni apmetās Gilgalā un svinēja pashā mēneša četrpadsmitajā dienā vakarā Jērikas līdzenumā."
+        "lv": "10 <span class='p'></span> Un Israēla bērni apmetās Gilgalā un svinēja pashā mēneša četrpadsmitajā dienā vakarā Jērikas līdzenumā."
       },
       {
         "verse": 11,
@@ -483,12 +483,12 @@
       {
         "verse": 12,
         "en": "12And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.",
-        "lv": "12 <p>Un manna beidzās nākamajā dienā pēc tam, kad viņi bija ēduši tās zemes veco labību; nedz Israēla bērniem vairs bija mannas; bet viņi tajā gadā ēda no Kanaānas zemes augļiem."
+        "lv": "12 <span class='p'></span> Un manna beidzās nākamajā dienā pēc tam, kad viņi bija ēduši tās zemes veco labību; nedz Israēla bērniem vairs bija mannas; bet viņi tajā gadā ēda no Kanaānas zemes augļiem."
       },
       {
         "verse": 13,
         "en": "13And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, <i>Art </i>thou for us, or for our adversaries?",
-        "lv": "13 <p>Un notika, kad Jozua bija pie Jērikas, ka viņš pacēla savas acis un lūkojās, un, lūk, viņam iepretī stāvēja vīrietis ar savu zobenu izvilktu savā rokā: un Jozua gāja pie viņa un viņam sacīja, <i>Vai </i>tu <i>esi </i>par mums vai par mūsu pretiniekiem?"
+        "lv": "13 <span class='p'></span> Un notika, kad Jozua bija pie Jērikas, ka viņš pacēla savas acis un lūkojās, un, lūk, viņam iepretī stāvēja vīrietis ar savu zobenu izvilktu savā rokā: un Jozua gāja pie viņa un viņam sacīja, <i>Vai </i>tu <i>esi </i>par mums vai par mūsu pretiniekiem?"
       },
       {
         "verse": 14,
@@ -510,7 +510,7 @@
       {
         "verse": 2,
         "en": "2And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, <i>and </i>the mighty men of valour.",
-        "lv": "2 <p>Un tas Kungs Jozuam sacīja, Redzi, es tavā rokā esmu devis Jēriku un tās ķēniņu, <i>un </i>drošsirdīgos<i> </i>varoņus."
+        "lv": "2 <span class='p'></span> Un tas Kungs Jozuam sacīja, Redzi, es tavā rokā esmu devis Jēriku un tās ķēniņu, <i>un </i>drošsirdīgos<i> </i>varoņus."
       },
       {
         "verse": 3,
@@ -530,7 +530,7 @@
       {
         "verse": 6,
         "en": "6And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams' horns before the ark of the LORD.",
-        "lv": "6 <p>Un Jozua, Nūna dēls, aicināja priesterus un tiem sacīja, Paņemiet derības šķirstu un lai septiņi priesteri nes septiņas aunu ragu taures tā KUNGA šķirsta priekšā."
+        "lv": "6 <span class='p'></span> Un Jozua, Nūna dēls, aicināja priesterus un tiem sacīja, Paņemiet derības šķirstu un lai septiņi priesteri nes septiņas aunu ragu taures tā KUNGA šķirsta priekšā."
       },
       {
         "verse": 7,
@@ -540,12 +540,12 @@
       {
         "verse": 8,
         "en": "8And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams' horns passed on before the LORD, and blew with the trumpets: and the ark of the covenant of the LORD followed them.",
-        "lv": "8 <p>Un notika, kad Jozua bija runājis uz ļaudīm, ka septiņi priesteri, nesdami septiņas aunu ragu taures, pārgāja tā KUNGA priekšā un pūta ar taurēm, un tā KUNGA derības šķirsts viņiem sekoja."
+        "lv": "8 <span class='p'></span> Un notika, kad Jozua bija runājis uz ļaudīm, ka septiņi priesteri, nesdami septiņas aunu ragu taures, pārgāja tā KUNGA priekšā un pūta ar taurēm, un tā KUNGA derības šķirsts viņiem sekoja."
       },
       {
         "verse": 9,
         "en": "9And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, <i>the priests</i> going on, and blowing with the trumpets.",
-        "lv": "9 <p>Un bruņotie vīrieši gāja pa priekšu priesteriem, kas pūta ar taurēm, un pakaļgals nāca pēc šķirsta, <i>priesteriem </i>ejot un pūšot ar taurēm."
+        "lv": "9 <span class='p'></span> Un bruņotie vīrieši gāja pa priekšu priesteriem, kas pūta ar taurēm, un pakaļgals nāca pēc šķirsta, <i>priesteriem </i>ejot un pūšot ar taurēm."
       },
       {
         "verse": 10,
@@ -560,7 +560,7 @@
       {
         "verse": 12,
         "en": "12And Joshua rose early in the morning, and the priests took up the ark of the LORD.",
-        "lv": "12 <p>Un Jozua cēlās agri no rīta, un priesteri paņēma tā KUNGA šķirstu."
+        "lv": "12 <span class='p'></span> Un Jozua cēlās agri no rīta, un priesteri paņēma tā KUNGA šķirstu."
       },
       {
         "verse": 13,
@@ -585,7 +585,7 @@
       {
         "verse": 17,
         "en": "17And the city shall be accursed, <i>even</i> it, and all that <i>are </i>therein, to the LORD: only Rahab the harlot shall live, she and all that <i>are </i>with her in the house, because she hid the messengers that we sent.",
-        "lv": "17 <p>Un pilsēta būs nolādēta, <i>proti,</i> tā un viss, kas <i>ir</i> tajā, tam KUNGAM: tikai ielasmeita Rahaba paliks dzīva, viņa un visi, kas <i>ir </i>ar viņu namā, tāpēc ka viņa paslēpa vēstnešus, ko mēs sūtījām."
+        "lv": "17 <span class='p'></span> Un pilsēta būs nolādēta, <i>proti,</i> tā un viss, kas <i>ir</i> tajā, tam KUNGAM: tikai ielasmeita Rahaba paliks dzīva, viņa un visi, kas <i>ir </i>ar viņu namā, tāpēc ka viņa paslēpa vēstnešus, ko mēs sūtījām."
       },
       {
         "verse": 18,
@@ -610,7 +610,7 @@
       {
         "verse": 22,
         "en": "22But Joshua had said unto the two men that had spied out the country, Go into the harlot's house, and bring out thence the woman, and all that she hath, as ye sware unto her.",
-        "lv": "22 <p>Bet Jozua abiem vīriešiem, kas bija izspiegojuši zemi, bija sacījis, Ejiet ielasmeitas namā un izvediet no turienes sievieti un visu, kas viņai ir, kā jūs tai zvērējāt."
+        "lv": "22 <span class='p'></span> Bet Jozua abiem vīriešiem, kas bija izspiegojuši zemi, bija sacījis, Ejiet ielasmeitas namā un izvediet no turienes sievieti un visu, kas viņai ir, kā jūs tai zvērējāt."
       },
       {
         "verse": 23,
@@ -630,7 +630,7 @@
       {
         "verse": 26,
         "en": "26And Joshua adjured <i>them </i>at that time, saying, Cursed <i>be </i>the man before the LORD, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest <i>son </i>shall he set up the gates of it.",
-        "lv": "26 <p>Un Jozua <i>tos </i>zvērināja tajā laikā sacīdams, Nolādēts <i>lai ir</i> vīrietis tā KUNGA priekšā, kas ceļas un uzbūvē šo pilsētu Jēriku: viņš tās pamatus liks savā pirmdzimtajā, un savā jaunākajā <i>dēlā</i> viņš uzstādīs tās vārtus."
+        "lv": "26 <span class='p'></span> Un Jozua <i>tos </i>zvērināja tajā laikā sacīdams, Nolādēts <i>lai ir</i> vīrietis tā KUNGA priekšā, kas ceļas un uzbūvē šo pilsētu Jēriku: viņš tās pamatus liks savā pirmdzimtajā, un savā jaunākajā <i>dēlā</i> viņš uzstādīs tās vārtus."
       },
       {
         "verse": 27,
@@ -667,7 +667,7 @@
       {
         "verse": 6,
         "en": "6And Joshua rent his clothes, and fell to the earth upon his face before the ark of the LORD until the eventide, he and the elders of Israel, and put dust upon their heads.",
-        "lv": "6 <p>Un Jozua saplēsa savas drēbes un krita pie zemes uz savas sejas tā KUNGA šķirsta priekšā līdz pievakarei, viņš un Israēla vecaji, un lika pīšļus uz savām galvām."
+        "lv": "6 <span class='p'></span> Un Jozua saplēsa savas drēbes un krita pie zemes uz savas sejas tā KUNGA šķirsta priekšā līdz pievakarei, viņš un Israēla vecaji, un lika pīšļus uz savām galvām."
       },
       {
         "verse": 7,
@@ -687,7 +687,7 @@
       {
         "verse": 10,
         "en": "10And the LORD said unto Joshua, Get thee up; wherefore liest thou thus upon thy face?",
-        "lv": "10 <p>Un tas KUNGS Jozuam sacīja, Celies augšā; kādēļ tu tā guli uz savas sejas?"
+        "lv": "10 <span class='p'></span> Un tas KUNGS Jozuam sacīja, Celies augšā; kādēļ tu tā guli uz savas sejas?"
       },
       {
         "verse": 11,
@@ -717,7 +717,7 @@
       {
         "verse": 16,
         "en": "16So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:",
-        "lv": "16 <p>Un Jozua cēlās agri no rīta un veda Israēlu pa viņu ciltīm; un Jūdas cilts tika ņemta:"
+        "lv": "16 <span class='p'></span> Un Jozua cēlās agri no rīta un veda Israēlu pa viņu ciltīm; un Jūdas cilts tika ņemta:"
       },
       {
         "verse": 17,
@@ -747,7 +747,7 @@
       {
         "verse": 22,
         "en": "22So Joshua sent messengers, and they ran unto the tent; and, behold, <i>it </i>was hid in his tent, and the silver under it.",
-        "lv": "22 <p>Tā Jozua sūtīja vēstnešus, un tie skrēja uz telti; un, lūk, <i>tas</i> bija paslēpts viņa teltī un sudrabs zem tā."
+        "lv": "22 <span class='p'></span> Tā Jozua sūtīja vēstnešus, un tie skrēja uz telti; un, lūk, <i>tas</i> bija paslēpts viņa teltī un sudrabs zem tā."
       },
       {
         "verse": 23,
@@ -784,7 +784,7 @@
       {
         "verse": 3,
         "en": "3So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night.",
-        "lv": "3 <p>Tā Jozua cēlās un visi kara ļaudis, doties pret Aju: un Jozua izraudzījās trīsdesmit tūkstošus varonīgu vīriešu un naktī tos sūtīja prom."
+        "lv": "3 <span class='p'></span> Tā Jozua cēlās un visi kara ļaudis, doties pret Aju: un Jozua izraudzījās trīsdesmit tūkstošus varonīgu vīriešu un naktī tos sūtīja prom."
       },
       {
         "verse": 4,
@@ -814,7 +814,7 @@
       {
         "verse": 9,
         "en": "9Joshua therefore sent them forth: and they went to lie in ambush, and abode between Bethel and Ai, on the west side of Ai: but Joshua lodged that night among the people.",
-        "lv": "9 <p>Tad Jozua tos izsūtīja: un viņi devās glūnēt slēpnī un palika starp Bēteli un Aju, Ajas rietumu pusē: bet Jozua tajā naktī apmetās starp ļaudīm."
+        "lv": "9 <span class='p'></span> Tad Jozua tos izsūtīja: un viņi devās glūnēt slēpnī un palika starp Bēteli un Aju, Ajas rietumu pusē: bet Jozua tajā naktī apmetās starp ļaudīm."
       },
       {
         "verse": 10,
@@ -839,7 +839,7 @@
       {
         "verse": 14,
         "en": "14And it came to pass, when the king of Ai saw <i>it</i>, that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that <i>there were</i> liers in ambush against him behind the city.",
-        "lv": "14 <p>Un notika, kad Ajas ķēniņš <i>to </i>redzēja, ka viņi steidzās un cēlās agri, un pilsētas vīrieši izgāja pret Israēlu uz kauju, viņš un visi viņa ļaudis noteiktā laikā līdzenuma priekšā; bet viņš nezināja, ka aiz pilsētas pret viņu slēpnī <i>bija</i> glūnētāji."
+        "lv": "14 <span class='p'></span> Un notika, kad Ajas ķēniņš <i>to </i>redzēja, ka viņi steidzās un cēlās agri, un pilsētas vīrieši izgāja pret Israēlu uz kauju, viņš un visi viņa ļaudis noteiktā laikā līdzenuma priekšā; bet viņš nezināja, ka aiz pilsētas pret viņu slēpnī <i>bija</i> glūnētāji."
       },
       {
         "verse": 15,
@@ -914,12 +914,12 @@
       {
         "verse": 29,
         "en": "29And the king of Ai he hanged on a tree until eventide: and as soon as the sun was down, Joshua commanded that they should take his carcase down from the tree, and cast it at the entering of the gate of the city, and raise thereon a great heap of stones, <i>that remaineth </i>unto this day.",
-        "lv": "29 <p>Un Ajas ķēniņu viņš pakāra kokā līdz pievakarei: un, tiklīdz saule bija norietējusi, Jozua pavēlēja, lai tie noņemtu viņa līķi no koka un to mestu pie pilsētas vārtu ieiešanas un uz tā uzceltu lielu akmeņu kaudzi, <i>kas paliek</i> līdz šai dienai."
+        "lv": "29 <span class='p'></span> Un Ajas ķēniņu viņš pakāra kokā līdz pievakarei: un, tiklīdz saule bija norietējusi, Jozua pavēlēja, lai tie noņemtu viņa līķi no koka un to mestu pie pilsētas vārtu ieiešanas un uz tā uzceltu lielu akmeņu kaudzi, <i>kas paliek</i> līdz šai dienai."
       },
       {
         "verse": 30,
         "en": "30Then Joshua built an altar unto the LORD God of Israel in mount Ebal,",
-        "lv": "30 <p>Tad Jozua uzcēla altāri tam KUNGAM, Israēla Dievam, Ēbala kalnā,"
+        "lv": "30 <span class='p'></span> Tad Jozua uzcēla altāri tam KUNGAM, Israēla Dievam, Ēbala kalnā,"
       },
       {
         "verse": 31,
@@ -929,12 +929,12 @@
       {
         "verse": 32,
         "en": "32And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel.",
-        "lv": "32 <p>Un viņš tur uzrakstīja uz akmeņiem Mozus likuma kopiju, ko viņš rakstīja Israēla bērnu klātbūtnē."
+        "lv": "32 <span class='p'></span> Un viņš tur uzrakstīja uz akmeņiem Mozus likuma kopiju, ko viņš rakstīja Israēla bērnu klātbūtnē."
       },
       {
         "verse": 33,
         "en": "33And all Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of the LORD, as well the stranger, as he that was born among them; half of them over against mount Gerizim, and half of them over against mount Ebal; as Moses the servant of the LORD had commanded before, that they should bless the people of Israel.",
-        "lv": "33 <p>Un viss Israēls un viņu vecaji, un virsnieki, un viņu tiesneši stāvēja šķirsta šajā pusē un tajā pusē levītu priesteru priekšā, kas nesa tā KUNGA derības šķirstu, kā arī svešinieki, kā tas, kas bija dzimis starp tiem; puse no tiem iepretī Gerizima kalnam un puse iepretī Ēbala kalnam; kā Mozus, tā KUNGA kalps, iepriekš bija pavēlējis, lai tie svētītu Israēla ļaudis."
+        "lv": "33 <span class='p'></span> Un viss Israēls un viņu vecaji, un virsnieki, un viņu tiesneši stāvēja šķirsta šajā pusē un tajā pusē levītu priesteru priekšā, kas nesa tā KUNGA derības šķirstu, kā arī svešinieki, kā tas, kas bija dzimis starp tiem; puse no tiem iepretī Gerizima kalnam un puse iepretī Ēbala kalnam; kā Mozus, tā KUNGA kalps, iepriekš bija pavēlējis, lai tie svētītu Israēla ļaudis."
       },
       {
         "verse": 34,
@@ -961,7 +961,7 @@
       {
         "verse": 3,
         "en": "3And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,",
-        "lv": "3 <p>Un kad Gibeonas iedzīvotāji dzirdēja, ko Jozua bija darījis Jērikai un Ajai,"
+        "lv": "3 <span class='p'></span> Un kad Gibeonas iedzīvotāji dzirdēja, ko Jozua bija darījis Jērikai un Ajai,"
       },
       {
         "verse": 4,
@@ -1026,7 +1026,7 @@
       {
         "verse": 16,
         "en": "16And it came to pass at the end of three days after they had made a league with them, that they heard that they <i>were </i>their neighbours, and <i>that </i>they dwelt among them.",
-        "lv": "16 <p>Un notika trīs dienu beigās pēc tam, kad viņi bija slēguši ar viņiem savienību, ka viņi dzirdēja, ka viņi <i>bija</i> viņu kaimiņi un <i>ka </i>viņi mājoja starp tiem."
+        "lv": "16 <span class='p'></span> Un notika trīs dienu beigās pēc tam, kad viņi bija slēguši ar viņiem savienību, ka viņi dzirdēja, ka viņi <i>bija</i> viņu kaimiņi un <i>ka </i>viņi mājoja starp tiem."
       },
       {
         "verse": 17,
@@ -1056,7 +1056,7 @@
       {
         "verse": 22,
         "en": "22And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We <i>are </i>very far from you; when ye dwell among us?",
-        "lv": "22 <p>Un Jozua aicināja pēc tiem un runāja uz tiem sacīdami, Kādēļ jūs mūs pievīlāt sacīdams, Mēs <i>esam </i>ļoti tālu no jums; kad jūs mājojat starp mums?"
+        "lv": "22 <span class='p'></span> Un Jozua aicināja pēc tiem un runāja uz tiem sacīdami, Kādēļ jūs mūs pievīlāt sacīdams, Mēs <i>esam </i>ļoti tālu no jums; kad jūs mājojat starp mums?"
       },
       {
         "verse": 23,
@@ -1113,7 +1113,7 @@
       {
         "verse": 6,
         "en": "6And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us.",
-        "lv": "6 <p>Un Gibeonas vīrieši sūtīja pie Jozuas uz nometni uz Gilgalu sacīdami, Neatslābini savu roku no saviem kalpiem; nāc žigli pie mums un glāb mūs, un palīdzi mums: jo visi amoriešu ķēniņi, kas mājo kalnos, ir sapulcējušies kopā pret mums."
+        "lv": "6 <span class='p'></span> Un Gibeonas vīrieši sūtīja pie Jozuas uz nometni uz Gilgalu sacīdami, Neatslābini savu roku no saviem kalpiem; nāc žigli pie mums un glāb mūs, un palīdzi mums: jo visi amoriešu ķēniņi, kas mājo kalnos, ir sapulcējušies kopā pret mums."
       },
       {
         "verse": 7,
@@ -1123,7 +1123,7 @@
       {
         "verse": 8,
         "en": "8And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.",
-        "lv": "8 <p>Un tas KUNGS Jozuam sacīja, Nebīsties tos: jo ​es tos esmu nodevis tavā rokā; neviens no tiem nepastāvēs tavā priekšā."
+        "lv": "8 <span class='p'></span> Un tas KUNGS Jozuam sacīja, Nebīsties tos: jo ​es tos esmu nodevis tavā rokā; neviens no tiem nepastāvēs tavā priekšā."
       },
       {
         "verse": 9,
@@ -1143,7 +1143,7 @@
       {
         "verse": 12,
         "en": "12Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.",
-        "lv": "12 <p>Tad Jozua runāja uz to KUNGU dienā, kad tas KUNGS amoriešus nodeva Israēla bērnu priekšā, un viņš sacīja Israēla skatienā, Saule, stāvi pār Gibeonu; un tu, Mēness, Ajalonas ielejā."
+        "lv": "12 <span class='p'></span> Tad Jozua runāja uz to KUNGU dienā, kad tas KUNGS amoriešus nodeva Israēla bērnu priekšā, un viņš sacīja Israēla skatienā, Saule, stāvi pār Gibeonu; un tu, Mēness, Ajalonas ielejā."
       },
       {
         "verse": 13,
@@ -1158,7 +1158,7 @@
       {
         "verse": 15,
         "en": "15And Joshua returned, and all Israel with him, unto the camp to Gilgal.",
-        "lv": "15 <p>Un Jozua un viss Israēls ar viņu atgriezās uz nometni uz Gilgalu."
+        "lv": "15 <span class='p'></span> Un Jozua un viss Israēls ar viņu atgriezās uz nometni uz Gilgalu."
       },
       {
         "verse": 16,
@@ -1223,7 +1223,7 @@
       {
         "verse": 28,
         "en": "28And that day Joshua took Makkedah, and smote it with the edge of the sword, and the king thereof he utterly destroyed, them, and all the souls that <i>were </i>therein; he let none remain: and he did to the king of Makkedah as he did unto the king of Jericho.",
-        "lv": "28 <p>Un tajā dienā Jozua ieņēma Makkedu un to sita ar zobena asmeni un tās ķēniņu, viņš pavisam iznīcināja viņus un visas dvēseles, kas tajā <i>bija</i>; viņš neļāva nevienam palikt: un viņš darīja Makedas ķēniņam kā viņš darīja Jērikas ķēniņam."
+        "lv": "28 <span class='p'></span> Un tajā dienā Jozua ieņēma Makkedu un to sita ar zobena asmeni un tās ķēniņu, viņš pavisam iznīcināja viņus un visas dvēseles, kas tajā <i>bija</i>; viņš neļāva nevienam palikt: un viņš darīja Makedas ķēniņam kā viņš darīja Jērikas ķēniņam."
       },
       {
         "verse": 29,
@@ -1238,7 +1238,7 @@
       {
         "verse": 31,
         "en": "31And Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it:",
-        "lv": "31 <p>Un Jozua un viss Israēls ar viņu gāja no Libnas uz Lahišu, un apmetās pret to un cīnījās pret to:"
+        "lv": "31 <span class='p'></span> Un Jozua un viss Israēls ar viņu gāja no Libnas uz Lahišu, un apmetās pret to un cīnījās pret to:"
       },
       {
         "verse": 32,
@@ -1248,12 +1248,12 @@
       {
         "verse": 33,
         "en": "33Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining.",
-        "lv": "33 <p>Tad Gezera ķēniņš Horams uznāca palīdzēt Lahišai; un Jozua sita viņu un viņa ļaudis, līdz viņš nebija atstājis viņam nevienu paliekošu."
+        "lv": "33 <span class='p'></span> Tad Gezera ķēniņš Horams uznāca palīdzēt Lahišai; un Jozua sita viņu un viņa ļaudis, līdz viņš nebija atstājis viņam nevienu paliekošu."
       },
       {
         "verse": 34,
         "en": "34And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:",
-        "lv": "34 <p>Un no Lahišas Jozua gāja uz Eglonu un viss Israēls ar viņu; un viņi apmetās pret to un cīnījās pret to:"
+        "lv": "34 <span class='p'></span> Un no Lahišas Jozua gāja uz Eglonu un viss Israēls ar viņu; un viņi apmetās pret to un cīnījās pret to:"
       },
       {
         "verse": 35,
@@ -1273,7 +1273,7 @@
       {
         "verse": 38,
         "en": "38And Joshua returned, and all Israel with him, to Debir; and fought against it:",
-        "lv": "38 <p>Un Jozua un viss Israēls ar viņu atgriezās Debirā; un cīnījās pret to:"
+        "lv": "38 <span class='p'></span> Un Jozua un viss Israēls ar viņu atgriezās Debirā; un cīnījās pret to:"
       },
       {
         "verse": 39,
@@ -1283,7 +1283,7 @@
       {
         "verse": 40,
         "en": "40So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded.",
-        "lv": "40 <p>Tā Jozua sita visu pakalnu un dienvidu, un ieleju, un avotu zemi, un visus viņu ķēniņus: viņš neatstāja nevienu paliekošu, bet pavisam iznīcināja visus, kas elpoja, kā tas KUNGS, Israēla Dievs, pavēlēja."
+        "lv": "40 <span class='p'></span> Tā Jozua sita visu pakalnu un dienvidu, un ieleju, un avotu zemi, un visus viņu ķēniņus: viņš neatstāja nevienu paliekošu, bet pavisam iznīcināja visus, kas elpoja, kā tas KUNGS, Israēla Dievs, pavēlēja."
       },
       {
         "verse": 41,
@@ -1330,7 +1330,7 @@
       {
         "verse": 6,
         "en": "6And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.",
-        "lv": "6 <p>Un tas KUNGS Jozuam sacīja, Nebaidies viņu dēļ: jo ​​rīt ap šo laiku es viņus nodošu visus nokautus Israēla priekšā: tev būs sakropļot viņu zirgus un viņu ratus sadedzināt ar uguni."
+        "lv": "6 <span class='p'></span> Un tas KUNGS Jozuam sacīja, Nebaidies viņu dēļ: jo ​​rīt ap šo laiku es viņus nodošu visus nokautus Israēla priekšā: tev būs sakropļot viņu zirgus un viņu ratus sadedzināt ar uguni."
       },
       {
         "verse": 7,
@@ -1350,7 +1350,7 @@
       {
         "verse": 10,
         "en": "10And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.",
-        "lv": "10 <p>Un Jozua tajā laikā griezās atpakaļ un ieņēma Hacoru un sita tās ķēniņu ar zobenu: jo Hacora pirms tam bija visu šo valstību galva."
+        "lv": "10 <span class='p'></span> Un Jozua tajā laikā griezās atpakaļ un ieņēma Hacoru un sita tās ķēniņu ar zobenu: jo Hacora pirms tam bija visu šo valstību galva."
       },
       {
         "verse": 11,
@@ -1375,7 +1375,7 @@
       {
         "verse": 15,
         "en": "15As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses.",
-        "lv": "15 <p>Kā tas KUNGS pavēlēja savam kalpam Mozum, tā Mozus pavēlēja Jozuam, un tā Jozua darīja; viņš neko neatstāja neizdarītu no visa, ko tas KUNGS bija pavēlējis Mozum."
+        "lv": "15 <span class='p'></span> Kā tas KUNGS pavēlēja savam kalpam Mozum, tā Mozus pavēlēja Jozuam, un tā Jozua darīja; viņš neko neatstāja neizdarītu no visa, ko tas KUNGS bija pavēlējis Mozum."
       },
       {
         "verse": 16,
@@ -1405,7 +1405,7 @@
       {
         "verse": 21,
         "en": "21And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.",
-        "lv": "21 <p>Un tajā laikā nāca Jozua un nogrieza anakiešus no kalniem, no Hebronas, no Debiras, no Anaba un no visiem Jūdas kalniem un no visiem Israēla kalniem: Jozua tos pavisam iznīcināja kopā ar viņu pilsētām."
+        "lv": "21 <span class='p'></span> Un tajā laikā nāca Jozua un nogrieza anakiešus no kalniem, no Hebronas, no Debiras, no Anaba un no visiem Jūdas kalniem un no visiem Israēla kalniem: Jozua tos pavisam iznīcināja kopā ar viņu pilsētām."
       },
       {
         "verse": 22,
@@ -1427,7 +1427,7 @@
       {
         "verse": 2,
         "en": "2Sihon king of the Amorites, who dwelt in Heshbon, <i>and </i>ruled from Aroer, which <i>is</i> upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, <i>which is </i>the border of the children of Ammon;",
-        "lv": "2 <p>Amoriešu ķēniņu Sihonu, kas dzīvoja Hešbonā <i>un </i>valdīja no Aroera, kas <i>ir</i> Arnonas upes krastā, un no upes vidus, un no Gileādas puses līdz pat Jabokas upei, <i>kas ir </i>Amona bērnu robeža;"
+        "lv": "2 <span class='p'></span> Amoriešu ķēniņu Sihonu, kas dzīvoja Hešbonā <i>un </i>valdīja no Aroera, kas <i>ir</i> Arnonas upes krastā, un no upes vidus, un no Gileādas puses līdz pat Jabokas upei, <i>kas ir </i>Amona bērnu robeža;"
       },
       {
         "verse": 3,
@@ -1437,7 +1437,7 @@
       {
         "verse": 4,
         "en": "4And the coast of Og king of Bashan, <i>which was</i> of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,",
-        "lv": "4 <p>Un Bašanas ķēniņa Oga apkārtni, <i>kas bija</i> no milžu atlikuma, kas dzīvoja Aštarotā un Edrejā, robežu,"
+        "lv": "4 <span class='p'></span> Un Bašanas ķēniņa Oga apkārtni, <i>kas bija</i> no milžu atlikuma, kas dzīvoja Aštarotā un Edrejā, robežu,"
       },
       {
         "verse": 5,
@@ -1452,7 +1452,7 @@
       {
         "verse": 7,
         "en": "7And these <i>are</i> the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel <i>for </i>a possession according to their divisions;",
-        "lv": "7 <p>Un šie <i>ir</i> tās zemes ķēniņi, ko Jozua un Israēla bērni sita šaipus Jordānai rietumos, no Baalgadas Lebanona ielejā līdz Halaka kalnam, kas iet uz Seiru; ko Jozua deva Israēla ciltīm <i>par </i>īpašumu pēc viņu dalījumiem;"
+        "lv": "7 <span class='p'></span> Un šie <i>ir</i> tās zemes ķēniņi, ko Jozua un Israēla bērni sita šaipus Jordānai rietumos, no Baalgadas Lebanona ielejā līdz Halaka kalnam, kas iet uz Seiru; ko Jozua deva Israēla ciltīm <i>par </i>īpašumu pēc viņu dalījumiem;"
       },
       {
         "verse": 8,
@@ -1574,7 +1574,7 @@
       {
         "verse": 7,
         "en": "7Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,",
-        "lv": "7 <p>Tāpēc nu, sadali šo zemi par mantojumu deviņām ciltīm un Manases pusciltij,"
+        "lv": "7 <span class='p'></span> Tāpēc nu, sadali šo zemi par mantojumu deviņām ciltīm un Manases pusciltij,"
       },
       {
         "verse": 8,
@@ -1609,7 +1609,7 @@
       {
         "verse": 14,
         "en": "14Only unto the tribe of Levi he gave none inheritance; the sacrifices of the LORD God of Israel made by fire <i>are </i>their inheritance, as he said unto them.",
-        "lv": "14 <p>Tikai Levija ciltij viņš nedeva mantojumu; tā KUNGA, Israēla Dieva, uguns taisīti upuri <i>ir </i>viņu mantojums, kā viņš tiem sacīja."
+        "lv": "14 <span class='p'></span> Tikai Levija ciltij viņš nedeva mantojumu; tā KUNGA, Israēla Dieva, uguns taisīti upuri <i>ir </i>viņu mantojums, kā viņš tiem sacīja."
       },
       {
         "verse": 15,
@@ -1649,17 +1649,17 @@
       {
         "verse": 22,
         "en": "22Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.",
-        "lv": "22 <p>Arī Balāmu, Beora dēlu, pareģotāju, Israēla bērni nokāva ar zobenu starp tiem, kurus viņi nokāva."
+        "lv": "22 <span class='p'></span> Arī Balāmu, Beora dēlu, pareģotāju, Israēla bērni nokāva ar zobenu starp tiem, kurus viņi nokāva."
       },
       {
         "verse": 23,
         "en": "23And the border of the children of Reuben was Jordan, and the border <i>thereof</i>. This <i>was </i>the inheritance of the children of Reuben after their families, the cities and the villages thereof.",
-        "lv": "23 <p>Un Rūbena bērnu robeža bija Jordāna un <i>tās</i> robeža. Šis <i>bija</i> Rūbena bērnu mantojums atbilstoši viņu ģimenēm, tā pilsētas un ciemati."
+        "lv": "23 <span class='p'></span> Un Rūbena bērnu robeža bija Jordāna un <i>tās</i> robeža. Šis <i>bija</i> Rūbena bērnu mantojums atbilstoši viņu ģimenēm, tā pilsētas un ciemati."
       },
       {
         "verse": 24,
         "en": "24And Moses gave <i>inheritance</i> unto the tribe of Gad, <i>even </i>unto the children of Gad according to their families.",
-        "lv": "24 <p>Un Mozus deva <i>mantojumu</i> Gada ciltij, <i>proti,</i> Gada bērniem atbilstoši viņu ģimenēm."
+        "lv": "24 <span class='p'></span> Un Mozus deva <i>mantojumu</i> Gada ciltij, <i>proti,</i> Gada bērniem atbilstoši viņu ģimenēm."
       },
       {
         "verse": 25,
@@ -1684,7 +1684,7 @@
       {
         "verse": 29,
         "en": "29And Moses gave <i>inheritance </i>unto the half tribe of Manasseh: and <i>this </i>was <i>the possession</i> of the half tribe of the children of Manasseh by their families.",
-        "lv": "29 <p>Un Mozus deva <i>mantojumu </i>Manases pusciltij: un <i>šis</i> bija Manases bērnu puscilts <i>īpašums </i>pēc viņu ģimenēm."
+        "lv": "29 <span class='p'></span> Un Mozus deva <i>mantojumu </i>Manases pusciltij: un <i>šis</i> bija Manases bērnu puscilts <i>īpašums </i>pēc viņu ģimenēm."
       },
       {
         "verse": 30,
@@ -1736,7 +1736,7 @@
       {
         "verse": 6,
         "en": "6Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the LORD said unto Moses the man of God concerning me and thee in Kadeshbarnea.",
-        "lv": "6 <p>Tad Jūdas bērni nāca pie Jozuas Gilgalā: un kenezietis Kalebs, Jefuneha dēls viņam sacīja, Tu zini to, ko tas KUNGS sacīja Dieva vīrietim Mozum attiecībā uz mani un tevi Kadešbarnejā."
+        "lv": "6 <span class='p'></span> Tad Jūdas bērni nāca pie Jozuas Gilgalā: un kenezietis Kalebs, Jefuneha dēls viņam sacīja, Tu zini to, ko tas KUNGS sacīja Dieva vīrietim Mozum attiecībā uz mani un tevi Kadešbarnejā."
       },
       {
         "verse": 7,
@@ -1848,7 +1848,7 @@
       {
         "verse": 13,
         "en": "13And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, <i>even </i>the city of Arba the father of Anak, which <i>city is</i> Hebron.",
-        "lv": "13 <p>Un Kalebam, Jefuneha dēlam, viņš deva daļu starp Jūdas bērniem atbilstoši tā KUNGA pavēlei Jozua, <i>proti</i>, Arbas, Anaka tēva pilsētu, kas i<i>r H</i>ebrona."
+        "lv": "13 <span class='p'></span> Un Kalebam, Jefuneha dēlam, viņš deva daļu starp Jūdas bērniem atbilstoši tā KUNGA pavēlei Jozua, <i>proti</i>, Arbas, Anaka tēva pilsētu, kas i<i>r H</i>ebrona."
       },
       {
         "verse": 14,
@@ -1863,7 +1863,7 @@
       {
         "verse": 16,
         "en": "16And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.",
-        "lv": "16 <p>Un Kalebs sacīja, Tas, kas sit Kirjatseferu un to ņem, tam es došu savu meitu Akšu par sievu."
+        "lv": "16 <span class='p'></span> Un Kalebs sacīja, Tas, kas sit Kirjatseferu un to ņem, tam es došu savu meitu Akšu par sievu."
       },
       {
         "verse": 17,
@@ -1888,7 +1888,7 @@
       {
         "verse": 21,
         "en": "21And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,",
-        "lv": "21 <p>Un Jūdas bērnu cilts galējās pilsētas uz Edomas krastu uz dienvidiem bija Kabzeēla, un Edera un Jagura,"
+        "lv": "21 <span class='p'></span> Un Jūdas bērnu cilts galējās pilsētas uz Edomas krastu uz dienvidiem bija Kabzeēla, un Edera un Jagura,"
       },
       {
         "verse": 22,
@@ -1948,7 +1948,7 @@
       {
         "verse": 33,
         "en": "33<i>And</i> in the valley, Eshtaol, and Zoreah, and Ashnah,",
-        "lv": "33 <p><i>Un</i> ielejā Eštaols, Zorea un Ašna,"
+        "lv": "33 <span class='p'></span> <i>Un</i> ielejā Eštaols, Zorea un Ašna,"
       },
       {
         "verse": 34,
@@ -2023,7 +2023,7 @@
       {
         "verse": 48,
         "en": "48And in the mountains, Shamir, and Jattir, and Socoh,",
-        "lv": "48 <p>Un kalnos Šamira, un Jatira, un Sokoha,"
+        "lv": "48 <span class='p'></span> Un kalnos Šamira, un Jatira, un Sokoha,"
       },
       {
         "verse": 49,
@@ -2098,7 +2098,7 @@
       {
         "verse": 63,
         "en": "63As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.",
-        "lv": "63 <p>Kas attiecas uz jebusiešiem, Jeruzālemes iedzīvotājiem, Jūdas bērni tos nevarēja izdzīt: bet jebusieši mājo kopā ar Jūdas bērniem Jeruzālemē līdz šai dienai."
+        "lv": "63 <span class='p'></span> Kas attiecas uz jebusiešiem, Jeruzālemes iedzīvotājiem, Jūdas bērni tos nevarēja izdzīt: bet jebusieši mājo kopā ar Jūdas bērniem Jeruzālemē līdz šai dienai."
       }
     ],
     "16": [
@@ -2125,7 +2125,7 @@
       {
         "verse": 5,
         "en": "5And the border of the children of Ephraim according to their families was <i>thus</i>: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;",
-        "lv": "5 <p>Un Efraima bērnu robeža atbilstoši viņu ģimenēm bija š<i>āda:</i> proti, viņu mantojuma robeža austrumu pusē bija Atarotadara līdz augšējai Bethoronai;"
+        "lv": "5 <span class='p'></span> Un Efraima bērnu robeža atbilstoši viņu ģimenēm bija š<i>āda:</i> proti, viņu mantojuma robeža austrumu pusē bija Atarotadara līdz augšējai Bethoronai;"
       },
       {
         "verse": 6,
@@ -2150,7 +2150,7 @@
       {
         "verse": 10,
         "en": "10And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute.",
-        "lv": "10 <p>Un viņi neizdzina kānaāniešus, kas mājoja Gezerā: bet kānaānieši mājo starp efraimiešiem līdz šai dienai un kalpo zem nodevām."
+        "lv": "10 <span class='p'></span> Un viņi neizdzina kānaāniešus, kas mājoja Gezerā: bet kānaānieši mājo starp efraimiešiem līdz šai dienai un kalpo zem nodevām."
       }
     ],
     "17": [
@@ -2167,7 +2167,7 @@
       {
         "verse": 3,
         "en": "3But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these <i>are </i>the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
-        "lv": "3 <p>Bet Celofhadam, Hefera dēlam, Gileāda dēlam, Mahira dēlam, Manases dēlam, nebija dēlu, bet <i>[tikai]</i> meitas: un šie <i>ir </i>viņa meitu vārdi Mahla un Noa, Hogla, Milka, un Tirca."
+        "lv": "3 <span class='p'></span> Bet Celofhadam, Hefera dēlam, Gileāda dēlam, Mahira dēlam, Manases dēlam, nebija dēlu, bet <i>[tikai]</i> meitas: un šie <i>ir </i>viņa meitu vārdi Mahla un Noa, Hogla, Milka, un Tirca."
       },
       {
         "verse": 4,
@@ -2187,7 +2187,7 @@
       {
         "verse": 7,
         "en": "7And the coast of Manasseh was from Asher to Michmethah, that <i>lieth </i>before Shechem; and the border went along on the right hand unto the inhabitants of Entappuah.",
-        "lv": "7 <p>Un Manases robeža bija no Ašera līdz Mikmetai, kas <i>guļ</i> Sihemas priekšā; un robeža gāja pa labo roku līdz Entappuas iedzīvotājiem."
+        "lv": "7 <span class='p'></span> Un Manases robeža bija no Ašera līdz Mikmetai, kas <i>guļ</i> Sihemas priekšā; un robeža gāja pa labo roku līdz Entappuas iedzīvotājiem."
       },
       {
         "verse": 8,
@@ -2212,7 +2212,7 @@
       {
         "verse": 12,
         "en": "12Yet the children of Manasseh could not drive out <i>the inhabitants</i> of those cities; but the Canaanites would dwell in that land.",
-        "lv": "12 <p>Tomēr Manases bērni nevarēja izdzīt šo pilsētu <i>iedzīvotājus</i>; bet kānaānieši mājoja tajā zemē."
+        "lv": "12 <span class='p'></span> Tomēr Manases bērni nevarēja izdzīt šo pilsētu <i>iedzīvotājus</i>; bet kānaānieši mājoja tajā zemē."
       },
       {
         "verse": 13,
@@ -2222,7 +2222,7 @@
       {
         "verse": 14,
         "en": "14And the children of Joseph spake unto Joshua, saying, Why hast thou given me <i>but</i> one lot and one portion to inherit, seeing I <i>am </i>a great people, forasmuch as the LORD hath blessed me hitherto?",
-        "lv": "14 <p>Un Jāzepa bērni runāja uz Jozuu sacīdami, Kāpēc tu man esi devis <i>tikai</i> vienus meslus un vienu daļu mantot, jo es <i>esmu daudz ļaudis</i>, jo tas KUNGS mani līdz šim ir svētījis?"
+        "lv": "14 <span class='p'></span> Un Jāzepa bērni runāja uz Jozuu sacīdami, Kāpēc tu man esi devis <i>tikai</i> vienus meslus un vienu daļu mantot, jo es <i>esmu daudz ļaudis</i>, jo tas KUNGS mani līdz šim ir svētījis?"
       },
       {
         "verse": 15,
@@ -2254,7 +2254,7 @@
       {
         "verse": 2,
         "en": "2And there remained among the children of Israel seven tribes, which had not yet received their inheritance.",
-        "lv": "2 <p>Un starp Israēla bērniem palika septiņas ciltis, kas vēl nebija saņēmušas savu mantojumu."
+        "lv": "2 <span class='p'></span> Un starp Israēla bērniem palika septiņas ciltis, kas vēl nebija saņēmušas savu mantojumu."
       },
       {
         "verse": 3,
@@ -2284,7 +2284,7 @@
       {
         "verse": 8,
         "en": "8And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.",
-        "lv": "8 <p>Un vīrieši cēlās un aizgāja; un Jozua piekodināja tiem, kas gāja, aprakstīt to zemi sacīdams, Ejiet un staigājiet pa to zemi, un aprakstiet to, un nāciet atpakaļ pie manis, lai es varu šeit mest meslus tā KUNGA priekšā Šīlo."
+        "lv": "8 <span class='p'></span> Un vīrieši cēlās un aizgāja; un Jozua piekodināja tiem, kas gāja, aprakstīt to zemi sacīdams, Ejiet un staigājiet pa to zemi, un aprakstiet to, un nāciet atpakaļ pie manis, lai es varu šeit mest meslus tā KUNGA priekšā Šīlo."
       },
       {
         "verse": 9,
@@ -2294,12 +2294,12 @@
       {
         "verse": 10,
         "en": "10And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions.",
-        "lv": "10 <p>Un Jozua par viņiem meta meslus Šīlo tā KUNGA priekšā: un tur Jozua sadalīja to zemi Israēla bērniem atbilstoši viņu dalījumiem."
+        "lv": "10 <span class='p'></span> Un Jozua par viņiem meta meslus Šīlo tā KUNGA priekšā: un tur Jozua sadalīja to zemi Israēla bērniem atbilstoši viņu dalījumiem."
       },
       {
         "verse": 11,
         "en": "11And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.",
-        "lv": "11 <p>Un Benjamīna bērnu cilts mesli uznāca atbilstoši viņu ģimenēm: un viņu meslu robeža iznāca starp Jūdas bērniem un Jāzepa bērniem."
+        "lv": "11 <span class='p'></span> Un Benjamīna bērnu cilts mesli uznāca atbilstoši viņu ģimenēm: un viņu meslu robeža iznāca starp Jūdas bērniem un Jāzepa bērniem."
       },
       {
         "verse": 12,
@@ -2349,7 +2349,7 @@
       {
         "verse": 21,
         "en": "21Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Bethhoglah, and the valley of Keziz,",
-        "lv": "21 <p>Tad nu Benjamīna bērnu cilts pilsētas atbilstoši viņu dzimtām bija Jērika un Bethogla, un Kecizas ieleja,"
+        "lv": "21 <span class='p'></span> Tad nu Benjamīna bērnu cilts pilsētas atbilstoši viņu dzimtām bija Jērika un Bethogla, un Kecizas ieleja,"
       },
       {
         "verse": 22,
@@ -2436,7 +2436,7 @@
       {
         "verse": 10,
         "en": "10And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:",
-        "lv": "10 <p>Un trešie mesli uznāca Zebulona bērniem atbilstoši viņu ģimenēm: un viņu mantojuma robeža bija līdz Saridai:"
+        "lv": "10 <span class='p'></span> Un trešie mesli uznāca Zebulona bērniem atbilstoši viņu ģimenēm: un viņu mantojuma robeža bija līdz Saridai:"
       },
       {
         "verse": 11,
@@ -2471,7 +2471,7 @@
       {
         "verse": 17,
         "en": "17<i>And</i> the fourth lot came out to Issachar, for the children of Issachar according to their families.",
-        "lv": "17 <p><i>Un </i>ceturtie mesli iznāca Isašaram, Isašara bērniem atbilstoši viņu ģimenēm."
+        "lv": "17 <span class='p'></span> <i>Un </i>ceturtie mesli iznāca Isašaram, Isašara bērniem atbilstoši viņu ģimenēm."
       },
       {
         "verse": 18,
@@ -2506,7 +2506,7 @@
       {
         "verse": 24,
         "en": "24And the fifth lot came out for the tribe of the children of Asher according to their families.",
-        "lv": "24 <p>Un piektie mesli iznāca Ašera bērnu ciltij atbilstoši viņu ģimenēm."
+        "lv": "24 <span class='p'></span> Un piektie mesli iznāca Ašera bērnu ciltij atbilstoši viņu ģimenēm."
       },
       {
         "verse": 25,
@@ -2531,7 +2531,7 @@
       {
         "verse": 29,
         "en": "29And <i>then </i>the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:",
-        "lv": "29 Un <i>tad </i>robežas griežas uz Rāmu un stipro pilsētu Tiru; un robeža  griežas uz Hosu; un tās iziešanas ir pie jūras no robežas uz Ahzibu:"
+        "lv": "29 Un <i>tad </i>robežas griežas uz Rāmu un stipro pilsētu Tiru; un robeža griežas uz Hosu; un tās iziešanas ir pie jūras no robežas uz Ahzibu:"
       },
       {
         "verse": 30,
@@ -2546,7 +2546,7 @@
       {
         "verse": 32,
         "en": "32The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families.",
-        "lv": "32 <p>Sestie mesli iznāca Naftaļa bērniem, proti, Naftaļa bērniem atbilstoši viņu ģimenēm."
+        "lv": "32 <span class='p'></span> Sestie mesli iznāca Naftaļa bērniem, proti, Naftaļa bērniem atbilstoši viņu ģimenēm."
       },
       {
         "verse": 33,
@@ -2556,7 +2556,7 @@
       {
         "verse": 34,
         "en": "34And <i>then </i>the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.",
-        "lv": "34 Un <i>tad </i>robeža griežas uz rietumiem,  uz Aznottaboru un iziet no turienes uz Hukkoku, un sniedzas uz Zebulonu dienvidu pusē un sniedzas uz Ašeru rietumu pusē, un uz Jūdu pie Jordānas, uz saullēktu."
+        "lv": "34 Un <i>tad </i>robeža griežas uz rietumiem, uz Aznottaboru un iziet no turienes uz Hukkoku, un sniedzas uz Zebulonu dienvidu pusē un sniedzas uz Ašeru rietumu pusē, un uz Jūdu pie Jordānas, uz saullēktu."
       },
       {
         "verse": 35,
@@ -2586,7 +2586,7 @@
       {
         "verse": 40,
         "en": "40And the seventh lot came out for the tribe of the children of Dan according to their families.",
-        "lv": "40 <p>Un septītie mesli iznāca Dana bērnu ciltij atbilstoši viņu ģimenēm."
+        "lv": "40 <span class='p'></span> Un septītie mesli iznāca Dana bērnu ciltij atbilstoši viņu ģimenēm."
       },
       {
         "verse": 41,
@@ -2631,7 +2631,7 @@
       {
         "verse": 49,
         "en": "49When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:",
-        "lv": "49 <p>Kad viņi bija darījuši galu zemes dalīšanai mantojumam pa viņu robežām, Israēla bērni deva mantojumu Jozuam, Nūna dēlam, starp tiem:"
+        "lv": "49 <span class='p'></span> Kad viņi bija darījuši galu zemes dalīšanai mantojumam pa viņu robežām, Israēla bērni deva mantojumu Jozuam, Nūna dēlam, starp tiem:"
       },
       {
         "verse": 50,
@@ -2678,7 +2678,7 @@
       {
         "verse": 7,
         "en": "7And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which <i>is </i>Hebron, in the mountain of Judah.",
-        "lv": "7 <p>Un viņi noteica Kedešu Galilejā Naftaļa kalnā un Šehemu Efraima kalnā, un Kirjatarbu, kas <i>ir </i>Hebrona, Jūdas kalnā."
+        "lv": "7 <span class='p'></span> Un viņi noteica Kedešu Galilejā Naftaļa kalnā un Šehemu Efraima kalnā, un Kirjatarbu, kas <i>ir </i>Hebrona, Jūdas kalnā."
       },
       {
         "verse": 8,
@@ -2755,7 +2755,7 @@
       {
         "verse": 13,
         "en": "13Thus they gave to the children of Aaron the priest Hebron with her suburbs,<i> to be</i> a city of refuge for the slayer; and Libnah with her suburbs,",
-        "lv": "13 <p>Tā viņi deva priestera Ārona bērniem Hebronu ar tās priekšpilsētām par patvēruma pilsētu kāvējam; un Libnu ar tās priekšpilsētām,"
+        "lv": "13 <span class='p'></span> Tā viņi deva priestera Ārona bērniem Hebronu ar tās priekšpilsētām par patvēruma pilsētu kāvējam; un Libnu ar tās priekšpilsētām,"
       },
       {
         "verse": 14,
@@ -2790,7 +2790,7 @@
       {
         "verse": 20,
         "en": "20And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.",
-        "lv": "20 <p>Un Kohata bērnu ģimenēm, levītiem, kas palika no Kohata dēliem, proti, viņiem bija arī savu meslu pilsētas no Efraima cilts."
+        "lv": "20 <span class='p'></span> Un Kohata bērnu ģimenēm, levītiem, kas palika no Kohata dēliem, proti, viņiem bija arī savu meslu pilsētas no Efraima cilts."
       },
       {
         "verse": 21,
@@ -2825,7 +2825,7 @@
       {
         "verse": 27,
         "en": "27And unto the children of Gershon, of the families of the Levites, out of the <i>other </i>half tribe of Manasseh <i>they gave</i> Golan in Bashan with her suburbs, <i>to be </i>a city of refuge for the slayer; and Beeshterah with her suburbs; two cities.",
-        "lv": "27 <p>Un Geršona bērniem no levītu ģimenēm, no <i>otras </i>Manases puscilts, <i>viņi deva</i> Golanu Bašānā ar tās priekšpilsētām <i>par</i> patvēruma pilsētu slepkavām; un Beeshtera ar tās priekšpilsētām; divas pilsētas."
+        "lv": "27 <span class='p'></span> Un Geršona bērniem no levītu ģimenēm, no <i>otras </i>Manases puscilts, <i>viņi deva</i> Golanu Bašānā ar tās priekšpilsētām <i>par</i> patvēruma pilsētu slepkavām; un Beeshtera ar tās priekšpilsētām; divas pilsētas."
       },
       {
         "verse": 28,
@@ -2860,7 +2860,7 @@
       {
         "verse": 34,
         "en": "34And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,",
-        "lv": "34 <p>Un Merari dēlu ģimenēm, pārējiem levītiem no Zebulona cilts, Jokneāmu ar tās priekšpilsētām, un Kartu ar tās priekšpilsētām,"
+        "lv": "34 <span class='p'></span> Un Merari dēlu ģimenēm, pārējiem levītiem no Zebulona cilts, Jokneāmu ar tās priekšpilsētām, un Kartu ar tās priekšpilsētām,"
       },
       {
         "verse": 35,
@@ -2905,7 +2905,7 @@
       {
         "verse": 43,
         "en": "43And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.",
-        "lv": "43 <p>Un tas KUNGS Israēlam deva visu to zemi, ko viņš zvērēja dot viņu tēviem; un viņi to ieguva īpašumā un tajā mājoja."
+        "lv": "43 <span class='p'></span> Un tas KUNGS Israēlam deva visu to zemi, ko viņš zvērēja dot viņu tēviem; un viņi to ieguva īpašumā un tajā mājoja."
       },
       {
         "verse": 44,
@@ -2952,7 +2952,7 @@
       {
         "verse": 7,
         "en": "7Now to the <i>one </i>half of the tribe of Manasseh Moses had given <i>possession </i>in Bashan: but unto the <i>other </i>half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,",
-        "lv": "7 <p>Tad nu <i>vienai</i> Manases pusciltij Mozus bija devis <i>īpašumu </i>Bašanā, bet <i>otrai </i>tās pusei Jozua deva starp viņu brāļiem šaipus Jordānas uz rietumiem. Un, kad Jozua tos arī sūtīja uz viņu teltīm, tad viņš tos svētīja,"
+        "lv": "7 <span class='p'></span> Tad nu <i>vienai</i> Manases pusciltij Mozus bija devis <i>īpašumu </i>Bašanā, bet <i>otrai </i>tās pusei Jozua deva starp viņu brāļiem šaipus Jordānas uz rietumiem. Un, kad Jozua tos arī sūtīja uz viņu teltīm, tad viņš tos svētīja,"
       },
       {
         "verse": 8,
@@ -2962,17 +2962,17 @@
       {
         "verse": 9,
         "en": "9And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which <i>is</i> in the land of Canaan, to go unto the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the LORD by the hand of Moses.",
-        "lv": "9 <p>Un Rūbena bērni un Gada bērni, un Manases puscilts atgriezās un aizgāja no Israēla bērniem no Šīlo, kas <i>ir </i>Kanaānas zemē, doties uz Gileādas zemi, uz savu īpašuma zemi, ko viņi bija ieguvuši īpašumā, atbilstoši tā KUNGA vārdam caur Mozus roku."
+        "lv": "9 <span class='p'></span> Un Rūbena bērni un Gada bērni, un Manases puscilts atgriezās un aizgāja no Israēla bērniem no Šīlo, kas <i>ir </i>Kanaānas zemē, doties uz Gileādas zemi, uz savu īpašuma zemi, ko viņi bija ieguvuši īpašumā, atbilstoši tā KUNGA vārdam caur Mozus roku."
       },
       {
         "verse": 10,
         "en": "10And when they came unto the borders of Jordan, that <i>are </i>in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.",
-        "lv": "10 <p>Un, kad viņi nāca līdz Jordānas robežām, kas <i>ir</i> Kanaānas zemē, Rūbena bērni un Gada bērni, un Manases puscilts tur uzbūvēja altāri pie Jordānas, lielu altāri, uz ko raudzīties."
+        "lv": "10 <span class='p'></span> Un, kad viņi nāca līdz Jordānas robežām, kas <i>ir</i> Kanaānas zemē, Rūbena bērni un Gada bērni, un Manases puscilts tur uzbūvēja altāri pie Jordānas, lielu altāri, uz ko raudzīties."
       },
       {
         "verse": 11,
         "en": "11And the children of Israel heard say, Behold, the children of Reuben and the children of Gad and the half tribe of Manasseh have built an altar over against the land of Canaan, in the borders of Jordan, at the passage of the children of Israel.",
-        "lv": "11 <p>Un Israēla bērni dzirdēja sakām, Lūk, Rūbena bērni un Gada bērni, un Manases puscilts ir uzbūvējuši altāri iepretī Kānaāna zemei, Jordānas robežās, pie Israēla bērnu pārejas."
+        "lv": "11 <span class='p'></span> Un Israēla bērni dzirdēja sakām, Lūk, Rūbena bērni un Gada bērni, un Manases puscilts ir uzbūvējuši altāri iepretī Kānaāna zemei, Jordānas robežās, pie Israēla bērnu pārejas."
       },
       {
         "verse": 12,
@@ -2992,7 +2992,7 @@
       {
         "verse": 15,
         "en": "15And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spake with them, saying,",
-        "lv": "15 <p>Un viņi nāca pie Rūbena bērniem un pie Gada bērniem, un pie Manases puscilts uz Gileādas zemi un runāja ar tiem sacīdami,"
+        "lv": "15 <span class='p'></span> Un viņi nāca pie Rūbena bērniem un pie Gada bērniem, un pie Manases puscilts uz Gileādas zemi un runāja ar tiem sacīdami,"
       },
       {
         "verse": 16,
@@ -3022,7 +3022,7 @@
       {
         "verse": 21,
         "en": "21Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel,",
-        "lv": "21 <p>Tad Rūbena bērni un Gada bērni, un Manases puscilts atbildēja un Israēla tūkstošu galvām sacīja,"
+        "lv": "21 <span class='p'></span> Tad Rūbena bērni un Gada bērni, un Manases puscilts atbildēja un Israēla tūkstošu galvām sacīja,"
       },
       {
         "verse": 22,
@@ -3067,7 +3067,7 @@
       {
         "verse": 30,
         "en": "30And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which <i>were </i>with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.",
-        "lv": "30 <p>Un kad priesteris Pineass un sanāksmes prinči, un Israēla tūkstošu galvas, kas <i>bija </i>ar viņu, dzirdēja vārdus, ko runāja Rūbena bērni un Gada bērni, un Manases bērni, tas viņiem patika."
+        "lv": "30 <span class='p'></span> Un kad priesteris Pineass un sanāksmes prinči, un Israēla tūkstošu galvas, kas <i>bija </i>ar viņu, dzirdēja vārdus, ko runāja Rūbena bērni un Gada bērni, un Manases bērni, tas viņiem patika."
       },
       {
         "verse": 31,
@@ -3077,7 +3077,7 @@
       {
         "verse": 32,
         "en": "32And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them word again.",
-        "lv": "32 <p>Un Pineass, priestera Ēleāzara dēls, un prinči atgriezās no Rūbena bērniem un no Gada bērniem no Gileādas zemes uz Kanaānas zemi pie Israēla bērniem un paziņoja atkal viņiem."
+        "lv": "32 <span class='p'></span> Un Pineass, priestera Ēleāzara dēls, un prinči atgriezās no Rūbena bērniem un no Gada bērniem no Gileādas zemes uz Kanaānas zemi pie Israēla bērniem un paziņoja atkal viņiem."
       },
       {
         "verse": 33,
@@ -3181,7 +3181,7 @@
       {
         "verse": 2,
         "en": "2And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, <i>even</i> Terah, the father of Abraham, and the father of Nachor: and they served other gods.",
-        "lv": "2 <p>Un Jozua visiem ļaudīm sacīja, Tā saka tas KUNGS, Israēla Dievs, Jūsu tēvi senatnē dzīvoja plūsmu otrā pusē, <i>proti,</i> Tera, Ābrahāma tēvs un Nahora tēvs: un viņi kalpoja citiem dieviem."
+        "lv": "2 <span class='p'></span> Un Jozua visiem ļaudīm sacīja, Tā saka tas KUNGS, Israēla Dievs, Jūsu tēvi senatnē dzīvoja plūsmu otrā pusē, <i>proti,</i> Tera, Ābrahāma tēvs un Nahora tēvs: un viņi kalpoja citiem dieviem."
       },
       {
         "verse": 3,
@@ -3241,7 +3241,7 @@
       {
         "verse": 14,
         "en": "14Now therefore fear the LORD, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD.",
-        "lv": "14 <p>Tad nu tāpēc bīstieties to KUNGU, un kalpojiet viņam sirsnīgumā un patiesībā: un atmetiet dievus, kuriem jūsu tēvi kalpoja plūsmu otrā pusē un Ēģiptē; un kalpojiet tam KUNGAM."
+        "lv": "14 <span class='p'></span> Tad nu tāpēc bīstieties to KUNGU, un kalpojiet viņam sirsnīgumā un patiesībā: un atmetiet dievus, kuriem jūsu tēvi kalpoja plūsmu otrā pusē un Ēģiptē; un kalpojiet tam KUNGAM."
       },
       {
         "verse": 15,
@@ -3301,7 +3301,7 @@
       {
         "verse": 26,
         "en": "26And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that <i>was </i>by the sanctuary of the LORD.",
-        "lv": "26 <p>Un Jozua šos vārdus rakstīja Dieva likuma grāmatā un ņēma lielu akmeni un to uzlika tur augšā zem ozola, kas <i>bija</i> pie tā KUNGA svētnīcas."
+        "lv": "26 <span class='p'></span> Un Jozua šos vārdus rakstīja Dieva likuma grāmatā un ņēma lielu akmeni un to uzlika tur augšā zem ozola, kas <i>bija</i> pie tā KUNGA svētnīcas."
       },
       {
         "verse": 27,
@@ -3316,7 +3316,7 @@
       {
         "verse": 29,
         "en": "29And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, <i>being</i> an hundred and ten years old.",
-        "lv": "29 <p>Un pēc tam notika, ka Jozua, Nūna dēls, tā KUNGA kalps, nomira, <i>būdams </i>simts desmit gadus vecs."
+        "lv": "29 <span class='p'></span> Un pēc tam notika, ka Jozua, Nūna dēls, tā KUNGA kalps, nomira, <i>būdams </i>simts desmit gadus vecs."
       },
       {
         "verse": 30,
@@ -3331,7 +3331,7 @@
       {
         "verse": 32,
         "en": "32And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.",
-        "lv": "32 <p>Un Jāzepa kaulus, ko Israēla bērni izveda no Ēģiptes, viņi apbedīja Šehemē, zemes gabalā, ko Jēkabs nopirka no Hamora, Šehema tēva, dēliem par simts sudraba gabaliem: un tas kļuva par Jāzepa bērnu mantojumu."
+        "lv": "32 <span class='p'></span> Un Jāzepa kaulus, ko Israēla bērni izveda no Ēģiptes, viņi apbedīja Šehemē, zemes gabalā, ko Jēkabs nopirka no Hamora, Šehema tēva, dēliem par simts sudraba gabaliem: un tas kļuva par Jāzepa bērnu mantojumu."
       },
       {
         "verse": 33,

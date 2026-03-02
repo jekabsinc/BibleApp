@@ -25,7 +25,7 @@
       {
         "verse": 5,
         "en": "5Behold ye among the heathen, and regard, and wonder marvellously: for <i>I </i>will work a work in your days, <i>which </i>ye will not believe, though it be told you.",
-        "lv": "5 <p>Uzlūkojiet starp pagāniem un uzskatiet, un apbrīnojami brīnieties: jo es strādāšu darbu jūsu dienās, <i>kam </i>jūs neticēsiet, kaut arī tas jums tiks stāstīts."
+        "lv": "5 <span class='p'></span> Uzlūkojiet starp pagāniem un uzskatiet, un apbrīnojami brīnieties: jo es strādāšu darbu jūsu dienās, <i>kam </i>jūs neticēsiet, kaut arī tas jums tiks stāstīts."
       },
       {
         "verse": 6,
@@ -40,7 +40,7 @@
       {
         "verse": 8,
         "en": "8Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle <i>that </i>hasteth to eat.",
-        "lv": "8 Viņu zirgi arī ir ašāki par leopardiem un ir niknāki par vakara vilkiem: un viņu jātnieki izpletīsies, un viņu jātnieki nāks no tālienes; tie lidos kā ērglis, <i>kas </i>steidzas ēst. "
+        "lv": "8 Viņu zirgi arī ir ašāki par leopardiem un ir niknāki par vakara vilkiem: un viņu jātnieki izpletīsies, un viņu jātnieki nāks no tālienes; tie lidos kā ērglis, <i>kas </i>steidzas ēst."
       },
       {
         "verse": 9,
@@ -60,7 +60,7 @@
       {
         "verse": 12,
         "en": "12<i>Art</i> thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.",
-        "lv": "12 <p>Vai tu neesi no mūžības, ak, KUNGS, mans Dievs, mans Svētais? mēs nemirsim. Ak, KUNGS, tu tos esi iecēlis tiesai; un, ak, varenais Dievs, tu tos esi nostiprinājis labošanai."
+        "lv": "12 <span class='p'></span> Vai tu neesi no mūžības, ak, KUNGS, mans Dievs, mans Svētais? mēs nemirsim. Ak, KUNGS, tu tos esi iecēlis tiesai; un, ak, varenais Dievs, tu tos esi nostiprinājis labošanai."
       },
       {
         "verse": 13,
@@ -112,7 +112,7 @@
       {
         "verse": 5,
         "en": "5Yea also, because he transgresseth by wine, he <i>is </i>a proud man, neither keepeth at home, who enlargeth his desire as hell, and <i>is </i>as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:",
-        "lv": "5 <p>Jā, arī, tāpēc ka viņš pārkāpj caur vīnu, viņš <i>ir </i>lepns cilvēks, nedz tur mājā, kurš palielina savu vēlmi kā elle un <i>ir </i>kā nāve, un nevar tikt apmierināts, bet sev savāc visas tautas un sev sakrāj visus ļaudis:"
+        "lv": "5 <span class='p'></span> Jā, arī, tāpēc ka viņš pārkāpj caur vīnu, viņš <i>ir </i>lepns cilvēks, nedz tur mājā, kurš palielina savu vēlmi kā elle un <i>ir </i>kā nāve, un nevar tikt apmierināts, bet sev savāc visas tautas un sev sakrāj visus ļaudis:"
       },
       {
         "verse": 6,
@@ -132,7 +132,7 @@
       {
         "verse": 9,
         "en": "9Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!",
-        "lv": "9 <p>Vai tam, kas apsedz ļaunu mantkārību savam namam, lai viņš var likt savu ligzdu augstībā, lai viņš var tikt izpestīts no ļaunuma varas!"
+        "lv": "9 <span class='p'></span> Vai tam, kas apsedz ļaunu mantkārību savam namam, lai viņš var likt savu ligzdu augstībā, lai viņš var tikt izpestīts no ļaunuma varas!"
       },
       {
         "verse": 10,
@@ -147,7 +147,7 @@
       {
         "verse": 12,
         "en": "12Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!",
-        "lv": "12 <p>Vai tam, kas miestu uzbūvē ar asinīm un pilsētu nostiprina caur nekrietnību!"
+        "lv": "12 <span class='p'></span> Vai tam, kas miestu uzbūvē ar asinīm un pilsētu nostiprina caur nekrietnību!"
       },
       {
         "verse": 13,
@@ -162,7 +162,7 @@
       {
         "verse": 15,
         "en": "15Woe unto him that giveth his neighbour drink, that puttest thy bottle to <i>him</i>, and makest <i>him </i>drunken also, that thou mayest look on their nakedness!",
-        "lv": "15 <p>Vai tam, kas dod savam tuvākajam dzert, kas liec savu pudeli pie <i>viņa </i>un arī dari <i>viņu</i> piedzērušu, lai tu vari lūkoties uz viņu kailumu!"
+        "lv": "15 <span class='p'></span> Vai tam, kas dod savam tuvākajam dzert, kas liec savu pudeli pie <i>viņa </i>un arī dari <i>viņu</i> piedzērušu, lai tu vari lūkoties uz viņu kailumu!"
       },
       {
         "verse": 16,
@@ -177,7 +177,7 @@
       {
         "verse": 18,
         "en": "18What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?",
-        "lv": "18 <p>Kādu labumu dod griezts tēls, ka tā taisītājs to ir griezis; liets tēls un melu skolotājs, ka viņa darba taisītājs tajā paļaujas, taisīt mēmus elkus?"
+        "lv": "18 <span class='p'></span> Kādu labumu dod griezts tēls, ka tā taisītājs to ir griezis; liets tēls un melu skolotājs, ka viņa darba taisītājs tajā paļaujas, taisīt mēmus elkus?"
       },
       {
         "verse": 19,
@@ -274,7 +274,7 @@
       {
         "verse": 17,
         "en": "17Although the fig tree shall not blossom, neither <i>shall </i>fruit <i>be </i>in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and <i>there shall</i> <i>be</i> no herd in the stalls:",
-        "lv": "17 <p>Kaut arī vīģes koks neziedēs, nedz auglis <i>būs </i>vīnogulājos; olīvu pūliņš pievils un lauki nenesīs barību; sīklopi būs nogriezti no aploka, un steliņģos nebūs liellopu:"
+        "lv": "17 <span class='p'></span> Kaut arī vīģes koks neziedēs, nedz auglis <i>būs </i>vīnogulājos; olīvu pūliņš pievils un lauki nenesīs barību; sīklopi būs nogriezti no aploka, un steliņģos nebūs liellopu:"
       },
       {
         "verse": 18,

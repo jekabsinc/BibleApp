@@ -15,7 +15,7 @@
       {
         "verse": 3,
         "en": "3I thank my God upon every remembrance of you,",
-        "lv": "3 <p>Es pateicos savam Dievam ikvienā jūsu pieminēšanas reizē,"
+        "lv": "3 <span class='p'></span> Es pateicos savam Dievam ikvienā jūsu pieminēšanas reizē,"
       },
       {
         "verse": 4,
@@ -59,7 +59,7 @@
       },
       {
         "verse": 12,
-        "en": "12But I would ye should understand, brethren, that the things <i>which happened</i> unto me have fallen out rather unto the furtherance of the gospel; ",
+        "en": "12But I would ye should understand, brethren, that the things <i>which happened</i> unto me have fallen out rather unto the furtherance of the gospel;",
         "lv": "12 Bet es gribētu, lai jūs saprastu, brāļi, ka tas, <i>kas</i> man <i>notika</i>, drīzāk atgadījās evaņģēlija sekmēšanai;"
       },
       {
@@ -105,7 +105,7 @@
       {
         "verse": 21,
         "en": "21For to me to live <i>is </i>Christ, and to die <i>is </i>gain.",
-        "lv": "21 <p>Jo dzīvot man <i>ir</i> Kristus un mirt ieguvums."
+        "lv": "21 <span class='p'></span> Jo dzīvot man <i>ir</i> Kristus un mirt ieguvums."
       },
       {
         "verse": 22,
@@ -292,7 +292,7 @@
       {
         "verse": 28,
         "en": "28I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.",
-        "lv": "28 Tāpēc es viņu sūtīju ar lielāku rūpību, lai, kad jūs viņu atkal redzat, jūs varat priecāties un lai es varu būt mazāk noskumis. "
+        "lv": "28 Tāpēc es viņu sūtīju ar lielāku rūpību, lai, kad jūs viņu atkal redzat, jūs varat priecāties un lai es varu būt mazāk noskumis."
       },
       {
         "verse": 29,
@@ -339,7 +339,7 @@
       {
         "verse": 7,
         "en": "7But what things were gain to me, those I counted loss for Christ.",
-        "lv": "7 <p>Bet, kas man bija ieguvums, to es skaitīju par zaudējumu priekš Kristus."
+        "lv": "7 <span class='p'></span> Bet, kas man bija ieguvums, to es skaitīju par zaudējumu priekš Kristus."
       },
       {
         "verse": 8,
@@ -436,7 +436,7 @@
       {
         "verse": 5,
         "en": "5Let your moderation be known unto all men. The Lord <i>is </i>at hand.",
-        "lv": "5 <p>Lai jūsu mērenība ir zināma visiem. Tas Kungs <i>ir </i>tuvu klāt."
+        "lv": "5 <span class='p'></span> Lai jūsu mērenība ir zināma visiem. Tas Kungs <i>ir </i>tuvu klāt."
       },
       {
         "verse": 6,
@@ -451,7 +451,7 @@
       {
         "verse": 8,
         "en": "8Finally, brethren, whatsoever things are true, whatsoever things <i>are </i>honest, whatsoever things <i>are </i>just, whatsoever things <i>are </i>pure, whatsoever things <i>are </i>lovely, whatsoever things <i>are </i>of good report; if<i> there</i> be any virtue, and <i>if there </i>be any praise, think on these things.",
-        "lv": "8 <p>Visbeidzot, brāļi, kas vien ir patiess, kas vien <i>ir</i> godīgs, kas vien <i>ir</i> taisnīgs, kas vien <i>ir</i> šķīsts, kas vien <i>ir</i> piemīlīgs, kam vien <i>ir</i> laba liecība; ja <i>ir</i> kāds tikums un <i>ja</i> <i>ir</i> kāda slava, par to domājiet."
+        "lv": "8 <span class='p'></span> Visbeidzot, brāļi, kas vien ir patiess, kas vien <i>ir</i> godīgs, kas vien <i>ir</i> taisnīgs, kas vien <i>ir</i> šķīsts, kas vien <i>ir</i> piemīlīgs, kam vien <i>ir</i> laba liecība; ja <i>ir</i> kāds tikums un <i>ja</i> <i>ir</i> kāda slava, par to domājiet."
       },
       {
         "verse": 9,
@@ -461,7 +461,7 @@
       {
         "verse": 10,
         "en": "10But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.",
-        "lv": "10 <p>Bet es priecājos tai Kungā ļoti, ka nu beidzot jūsu rūpes par mani ir atkal uzplaukušas; iekš kā jūs arī bijāt gādīgi, bet jums trūka iespējas."
+        "lv": "10 <span class='p'></span> Bet es priecājos tai Kungā ļoti, ka nu beidzot jūsu rūpes par mani ir atkal uzplaukušas; iekš kā jūs arī bijāt gādīgi, bet jums trūka iespējas."
       },
       {
         "verse": 11,

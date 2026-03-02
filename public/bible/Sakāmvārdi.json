@@ -35,7 +35,7 @@
       {
         "verse": 7,
         "en": "7The fear of the LORD is the beginning of knowledge: <i>but </i>fools despise wisdom and instruction.",
-        "lv": "7 <p>Tā KUNGA bijāšana ir atzīšanas iesākums: <i>bet </i>muļķi nicina gudrību un pamācību."
+        "lv": "7 <span class='p'></span> Tā KUNGA bijāšana ir atzīšanas iesākums: <i>bet </i>muļķi nicina gudrību un pamācību."
       },
       {
         "verse": 8,
@@ -50,7 +50,7 @@
       {
         "verse": 10,
         "en": "10My son, if sinners entice thee, consent thou not.",
-        "lv": "10 <p>Mans dēls, ja grēcinieki tevi vilina, nepiekrīti."
+        "lv": "10 <span class='p'></span> Mans dēls, ja grēcinieki tevi vilina, nepiekrīti."
       },
       {
         "verse": 11,
@@ -100,7 +100,7 @@
       {
         "verse": 20,
         "en": "20Wisdom crieth without; she uttereth her voice in the streets:",
-        "lv": "20 <p>Gudrība sauc ārpusē; tā izteic savu balsi ielās:"
+        "lv": "20 <span class='p'></span> Gudrība sauc ārpusē; tā izteic savu balsi ielās:"
       },
       {
         "verse": 21,
@@ -120,7 +120,7 @@
       {
         "verse": 24,
         "en": "24Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
-        "lv": "24 <p>Tāpēc ka es aicināju, un jūs noraidījāt; es izstiepu savu roku, un neviens neuzskatīja;"
+        "lv": "24 <span class='p'></span> Tāpēc ka es aicināju, un jūs noraidījāt; es izstiepu savu roku, un neviens neuzskatīja;"
       },
       {
         "verse": 25,
@@ -165,7 +165,7 @@
       {
         "verse": 33,
         "en": "33But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
-        "lv": "33 <p>Bet, kas vien mani uzklausa, mājos droši un būs klusībā no bijāšanas no ļauna."
+        "lv": "33 <span class='p'></span> Bet, kas vien mani uzklausa, mājos droši un būs klusībā no bijāšanas no ļauna."
       }
     ],
     "2": [
@@ -217,7 +217,7 @@
       {
         "verse": 10,
         "en": "10When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;",
-        "lv": "10 <p>Kad gudrība ieiet tavā sirdī, un atzīšana ir patīkama tavai dvēselei;"
+        "lv": "10 <span class='p'></span> Kad gudrība ieiet tavā sirdī, un atzīšana ir patīkama tavai dvēselei;"
       },
       {
         "verse": 11,
@@ -304,7 +304,7 @@
       {
         "verse": 5,
         "en": "5Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
-        "lv": "5 <p>Paļaujies uz to KUNGU no visas savas sirds; un neslienies uz savu paša saprašanu."
+        "lv": "5 <span class='p'></span> Paļaujies uz to KUNGU no visas savas sirds; un neslienies uz savu paša saprašanu."
       },
       {
         "verse": 6,
@@ -314,7 +314,7 @@
       {
         "verse": 7,
         "en": "7Be not wise in thine own eyes: fear the LORD, and depart from evil.",
-        "lv": "7 <p>Neesi gudrs savās paša acīs: bīsties to KUNGU un aizej no ļauna."
+        "lv": "7 <span class='p'></span> Neesi gudrs savās paša acīs: bīsties to KUNGU un aizej no ļauna."
       },
       {
         "verse": 8,
@@ -334,7 +334,7 @@
       {
         "verse": 11,
         "en": "11My son, despise not the chastening of the LORD; neither be weary of his correction:",
-        "lv": "11 <p>Mans dēls, nenicini tā KUNGA pārmācību; nedz piekūsti no viņa labošanas:"
+        "lv": "11 <span class='p'></span> Mans dēls, nenicini tā KUNGA pārmācību; nedz piekūsti no viņa labošanas:"
       },
       {
         "verse": 12,
@@ -344,7 +344,7 @@
       {
         "verse": 13,
         "en": "13Happy <i>is </i>the man <i>that </i>findeth wisdom, and the man <i>that </i>getteth understanding.",
-        "lv": "13 <p>Laimīgs <i>ir </i>cilvēks, <i>kas </i>atrod gudrību, un cilvēks, <i>kas </i>iegūst saprašanu."
+        "lv": "13 <span class='p'></span> Laimīgs <i>ir </i>cilvēks, <i>kas </i>atrod gudrību, un cilvēks, <i>kas </i>iegūst saprašanu."
       },
       {
         "verse": 14,
@@ -384,7 +384,7 @@
       {
         "verse": 21,
         "en": "21My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
-        "lv": "21 <p>Mans dēls, lai tās neaiziet no tavām acīm: sargā veselīgu gudrību un apdomību:"
+        "lv": "21 <span class='p'></span> Mans dēls, lai tās neaiziet no tavām acīm: sargā veselīgu gudrību un apdomību:"
       },
       {
         "verse": 22,
@@ -414,7 +414,7 @@
       {
         "verse": 27,
         "en": "27Withhold not good from them to whom it is due, when it is in the power of thine hand to do <i>it</i>.",
-        "lv": "27 <p>Neatturi labu no tiem, kuriem tas pienākas, kad tas ir tavas rokas varā <i>to </i>darīt."
+        "lv": "27 <span class='p'></span> Neatturi labu no tiem, kuriem tas pienākas, kad tas ir tavas rokas varā <i>to </i>darīt."
       },
       {
         "verse": 28,
@@ -429,22 +429,22 @@
       {
         "verse": 30,
         "en": "30Strive not with a man without cause, if he have done thee no harm.",
-        "lv": "30 <p>Nestrīdies ar cilvēku bez iemesla, ja viņš tev nav darījis kaitējumu."
+        "lv": "30 <span class='p'></span> Nestrīdies ar cilvēku bez iemesla, ja viņš tev nav darījis kaitējumu."
       },
       {
         "verse": 31,
         "en": "31Envy thou not the oppressor, and choose none of his ways.",
-        "lv": "31 <p>Neskaud apspiedēju un neizraugies nevienu no viņa ceļiem."
+        "lv": "31 <span class='p'></span> Neskaud apspiedēju un neizraugies nevienu no viņa ceļiem."
       },
       {
         "verse": 32,
         "en": "32For the froward <i>is </i>abomination to the LORD: but his secret <i>is </i>with the righteous.",
-        "lv": "32 <p>Jo patgalvīgais <i>ir </i>negantība tam KUNGAM: bet viņa noslēpums <i>ir </i>pie taisnā."
+        "lv": "32 <span class='p'></span> Jo patgalvīgais <i>ir </i>negantība tam KUNGAM: bet viņa noslēpums <i>ir </i>pie taisnā."
       },
       {
         "verse": 33,
         "en": "33The curse of the LORD <i>is </i>in the house of the wicked: but he blesseth the habitation of the just.",
-        "lv": "33 <p>Tā KUNGA lāsts <i>ir </i>nelietīgā namā: bet viņš svētī taisnā mitekli."
+        "lv": "33 <span class='p'></span> Tā KUNGA lāsts <i>ir </i>nelietīgā namā: bet viņš svētī taisnā mitekli."
       },
       {
         "verse": 34,
@@ -481,7 +481,7 @@
       {
         "verse": 5,
         "en": "5Get wisdom, get understanding: forget <i>it </i>not; neither decline from the words of my mouth.",
-        "lv": "5 <p>Iegūsti gudrību, iegūsti saprašanu: neaizmirsti <i>to</i>; nedz novirzies no manas mutes vārdiem."
+        "lv": "5 <span class='p'></span> Iegūsti gudrību, iegūsti saprašanu: neaizmirsti <i>to</i>; nedz novirzies no manas mutes vārdiem."
       },
       {
         "verse": 6,
@@ -506,7 +506,7 @@
       {
         "verse": 10,
         "en": "10Hear, O my son, and receive my sayings; and the years of thy life shall be many.",
-        "lv": "10 Klausies, ak, mans dēls, un pieņem manus vārdus; un tavas dzīves gadu būs daudz. "
+        "lv": "10 Klausies, ak, mans dēls, un pieņem manus vārdus; un tavas dzīves gadu būs daudz."
       },
       {
         "verse": 11,
@@ -526,7 +526,7 @@
       {
         "verse": 14,
         "en": "14Enter not into the path of the wicked, and go not in the way of evil <i>men</i>.",
-        "lv": "14 <p>Neieej nelietīgo tekā un neej ļauno<i> </i>ceļā."
+        "lv": "14 <span class='p'></span> Neieej nelietīgo tekā un neej ļauno<i> </i>ceļā."
       },
       {
         "verse": 15,
@@ -556,12 +556,12 @@
       {
         "verse": 20,
         "en": "20My son, attend to my words; incline thine ear unto my sayings.",
-        "lv": "20 <p>Mans dēls, pievērs uzmanību maniem vārdiem; ieklausies manus vārdus."
+        "lv": "20 <span class='p'></span> Mans dēls, pievērs uzmanību maniem vārdiem; ieklausies manus vārdus."
       },
       {
         "verse": 21,
         "en": "21Let them not depart from thine eyes; keep them in the midst of thine heart.",
-        "lv": "21 Lai tie neaiziet no tavām acīm; turi tos savas sirds vidū. "
+        "lv": "21 Lai tie neaiziet no tavām acīm; turi tos savas sirds vidū."
       },
       {
         "verse": 22,
@@ -571,7 +571,7 @@
       {
         "verse": 23,
         "en": "23Keep thy heart with all diligence; for out of it <i>are </i>the issues of life.",
-        "lv": "23 <p>Sargā savu sirdi ar visu rūpību; jo no tās <i>ir </i>dzīvības iztekas."
+        "lv": "23 <span class='p'></span> Sargā savu sirdi ar visu rūpību; jo no tās <i>ir </i>dzīvības iztekas."
       },
       {
         "verse": 24,
@@ -608,7 +608,7 @@
       {
         "verse": 3,
         "en": "3For the lips of a strange woman drop <i>as </i>an honeycomb, and her mouth <i>is </i>smoother than oil:",
-        "lv": "3 <p>Jo svešas sievietes lūpas pil <i>kā </i>medus kāre, un viņas mute <i>ir </i>gludāka par eļļu:"
+        "lv": "3 <span class='p'></span> Jo svešas sievietes lūpas pil <i>kā </i>medus kāre, un viņas mute <i>ir </i>gludāka par eļļu:"
       },
       {
         "verse": 4,
@@ -668,7 +668,7 @@
       {
         "verse": 15,
         "en": "15Drink waters out of thine own cistern, and running waters out of thine own well.",
-        "lv": "15 <p>Dzer ūdeņus no savas paša tvertnes, un tekošus ūdeņus no savas paša akas."
+        "lv": "15 <span class='p'></span> Dzer ūdeņus no savas paša tvertnes, un tekošus ūdeņus no savas paša akas."
       },
       {
         "verse": 16,
@@ -703,7 +703,7 @@
       {
         "verse": 22,
         "en": "22His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.",
-        "lv": "22 <p>Viņa paša nekrietnības paņems nelietīgo pašu, un viņš tiks turēts ar savu grēku auklām."
+        "lv": "22 <span class='p'></span> Viņa paša nekrietnības paņems nelietīgo pašu, un viņš tiks turēts ar savu grēku auklām."
       },
       {
         "verse": 23,
@@ -740,7 +740,7 @@
       {
         "verse": 6,
         "en": "6Go to the ant, thou sluggard; consider her ways, and be wise:",
-        "lv": "6 <p>Ej pie skudras tu, slaist; ņem vērā viņas ceļus un esi gudrs:"
+        "lv": "6 <span class='p'></span> Ej pie skudras tu, slaist; ņem vērā viņas ceļus un esi gudrs:"
       },
       {
         "verse": 7,
@@ -770,7 +770,7 @@
       {
         "verse": 12,
         "en": "14Frowardness <i>is </i>in his heart, he deviseth mischief continually; he soweth discord.",
-        "lv": "12 <p>Nepiedienīgs cilvēks, nelietīgs cilvēks staigā ar patgalvīgu muti."
+        "lv": "12 <span class='p'></span> Nepiedienīgs cilvēks, nelietīgs cilvēks staigā ar patgalvīgu muti."
       },
       {
         "verse": 13,
@@ -790,7 +790,7 @@
       {
         "verse": 16,
         "en": "16These six <i>things </i>doth the LORD hate: yea, seven are an abomination unto him:",
-        "lv": "16 <p>Šīs sešas <i>lietas </i>tas KUNGS ienīst, jā, septiņas viņam ir negantība."
+        "lv": "16 <span class='p'></span> Šīs sešas <i>lietas </i>tas KUNGS ienīst, jā, septiņas viņam ir negantība."
       },
       {
         "verse": 17,
@@ -835,7 +835,7 @@
       {
         "verse": 25,
         "en": "25Lust not after her beauty in thine heart; neither let her take thee with her eyelids.",
-        "lv": "25 <p>Neiekāro pēc viņas skaistuma savā sirdī; nedz ļauj tai tevi paņemt ar saviem acu plakstiem."
+        "lv": "25 <span class='p'></span> Neiekāro pēc viņas skaistuma savā sirdī; nedz ļauj tai tevi paņemt ar saviem acu plakstiem."
       },
       {
         "verse": 26,
@@ -917,7 +917,7 @@
       {
         "verse": 6,
         "en": "6For at the window of my house I looked through my casement,",
-        "lv": "6 <p>Jo pa sava nama logu es lūkojos caur savu vērtni."
+        "lv": "6 <span class='p'></span> Jo pa sava nama logu es lūkojos caur savu vērtni."
       },
       {
         "verse": 7,
@@ -1002,12 +1002,12 @@
       {
         "verse": 23,
         "en": "23Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it <i>is </i>for his life.",
-        "lv": "23 Iekams šautra triecas caur viņa aknām; kā putns steidzas uz slazdu un nezina, ka tas <i>ir </i>priekš<i> </i>viņa dzīvības. "
+        "lv": "23 Iekams šautra triecas caur viņa aknām; kā putns steidzas uz slazdu un nezina, ka tas <i>ir </i>priekš<i> </i>viņa dzīvības."
       },
       {
         "verse": 24,
         "en": "24Hearken unto me now therefore, O ye children, and attend to the words of my mouth.",
-        "lv": "24 <p>Tāpēc nu, uzklausiet mani, ak, bērni, un pievērsiet uzmanību manas mutes vārdiem."
+        "lv": "24 <span class='p'></span> Tāpēc nu, uzklausiet mani, ak, bērni, un pievērsiet uzmanību manas mutes vārdiem."
       },
       {
         "verse": 25,
@@ -1054,7 +1054,7 @@
       {
         "verse": 6,
         "en": "6Hear; for I will speak of excellent things; and the opening of my lips <i>shall</i> be right things.",
-        "lv": "6 <p>Klausieties; jo es runāšu par teicamām lietām; un manu lūpu atvēršana <i>būs </i>pareizas lietas."
+        "lv": "6 <span class='p'></span> Klausieties; jo es runāšu par teicamām lietām; un manu lūpu atvēršana <i>būs </i>pareizas lietas."
       },
       {
         "verse": 7,
@@ -1074,7 +1074,7 @@
       {
         "verse": 10,
         "en": "10Receive my instruction, and not silver; and knowledge rather than choice gold.",
-        "lv": "10 <p>Pieņemiet manu pamācību un ne sudrabu; un atzīšanu labāk par izlasītu zeltu."
+        "lv": "10 <span class='p'></span> Pieņemiet manu pamācību un ne sudrabu; un atzīšanu labāk par izlasītu zeltu."
       },
       {
         "verse": 11,
@@ -1084,7 +1084,7 @@
       {
         "verse": 12,
         "en": "12I wisdom dwell with prudence, and find out knowledge of witty inventions.",
-        "lv": "12 <p>Es, gudrība, mājoju ar apdomību un izmeklēju atjautīgu izdomu atzīšanu."
+        "lv": "12 <span class='p'></span> Es, gudrība, mājoju ar apdomību un izmeklēju atjautīgu izdomu atzīšanu."
       },
       {
         "verse": 13,
@@ -1099,7 +1099,7 @@
       {
         "verse": 15,
         "en": "15By me kings reign, and princes decree justice.",
-        "lv": "15 <p>Caur mani ķēniņi valda un prinči nolemj taisnīgumu."
+        "lv": "15 <span class='p'></span> Caur mani ķēniņi valda un prinči nolemj taisnīgumu."
       },
       {
         "verse": 16,
@@ -1114,7 +1114,7 @@
       {
         "verse": 18,
         "en": "18Riches and honour <i>are </i>with me; <i>yea</i>, durable riches and righteousness.",
-        "lv": "18 <p>Bagātība un gods <i>ir </i>ar mani; <i>jā</i>, ilgstoša bagātība un taisnība."
+        "lv": "18 <span class='p'></span> Bagātība un gods <i>ir </i>ar mani; <i>jā</i>, ilgstoša bagātība un taisnība."
       },
       {
         "verse": 19,
@@ -1134,7 +1134,7 @@
       {
         "verse": 22,
         "en": "22The LORD possessed me in the beginning of his way, before his works of old.",
-        "lv": "22 <p>Tam KUNGAM es piederēju no viņa ceļa iesākuma, pirms viņa senajiem darbiem."
+        "lv": "22 <span class='p'></span> Tam KUNGAM es piederēju no viņa ceļa iesākuma, pirms viņa senajiem darbiem."
       },
       {
         "verse": 23,
@@ -1271,7 +1271,7 @@
       {
         "verse": 13,
         "en": "13A foolish woman <i>is </i>clamorous: <i>she is</i> simple, and knoweth nothing.",
-        "lv": "13 <p>Muļķīga sieviete <i>ir</i> trokšņaina: <i>viņa ir</i> vientiesīga un neko nezina."
+        "lv": "13 <span class='p'></span> Muļķīga sieviete <i>ir</i> trokšņaina: <i>viņa ir</i> vientiesīga un neko nezina."
       },
       {
         "verse": 14,
@@ -1308,7 +1308,7 @@
       {
         "verse": 2,
         "en": "2Treasures of wickedness profit nothing: but righteousness delivereth from death.",
-        "lv": "2 <p>Nelietības dārgumi nedod labumu: bet taisnība izpestī no nāves."
+        "lv": "2 <span class='p'></span> Nelietības dārgumi nedod labumu: bet taisnība izpestī no nāves."
       },
       {
         "verse": 3,
@@ -1318,7 +1318,7 @@
       {
         "verse": 4,
         "en": "4He becometh poor that dealeth <i>with </i>a slack hand: but the hand of the diligent maketh rich.",
-        "lv": "4 <p>Tas kļūst nabags, kas rīkojas <i>ar </i>slinku roku: bet centīgā roka dara bagātu."
+        "lv": "4 <span class='p'></span> Tas kļūst nabags, kas rīkojas <i>ar </i>slinku roku: bet centīgā roka dara bagātu."
       },
       {
         "verse": 5,
@@ -1328,7 +1328,7 @@
       {
         "verse": 6,
         "en": "6Blessings <i>are </i>upon the head of the just: but violence covereth the mouth of the wicked.",
-        "lv": "6 <p>Svētības <i>ir</i> uz taisnā galvas: bet vardarbība apsedz nelietīgā muti."
+        "lv": "6 <span class='p'></span> Svētības <i>ir</i> uz taisnā galvas: bet vardarbība apsedz nelietīgā muti."
       },
       {
         "verse": 7,
@@ -1338,12 +1338,12 @@
       {
         "verse": 8,
         "en": "8The wise in heart will receive commandments: but a prating fool shall fall.",
-        "lv": "8 <p>Sirdī gudrais pieņems pavēles: bet tarkšķošs muļķis kritīs."
+        "lv": "8 <span class='p'></span> Sirdī gudrais pieņems pavēles: bet tarkšķošs muļķis kritīs."
       },
       {
         "verse": 9,
         "en": "9He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
-        "lv": "9 <p>Tas, kas staigā taisnīgi, staigā droši: bet tas, kas samaitā savus ceļus, būs zināms."
+        "lv": "9 <span class='p'></span> Tas, kas staigā taisnīgi, staigā droši: bet tas, kas samaitā savus ceļus, būs zināms."
       },
       {
         "verse": 10,
@@ -1353,17 +1353,17 @@
       {
         "verse": 11,
         "en": "11The mouth of a righteous <i>man is </i>a well of life: but violence covereth the mouth of the wicked.",
-        "lv": "11 <p>Taisnā mute <i>ir </i>dzīvības aka: bet vardarbība apsedz nelietīgā muti."
+        "lv": "11 <span class='p'></span> Taisnā mute <i>ir </i>dzīvības aka: bet vardarbība apsedz nelietīgā muti."
       },
       {
         "verse": 12,
         "en": "12Hatred stirreth up strifes: but love covereth all sins.",
-        "lv": "12 <p>Naids pamodina strīdus: bet mīlestība apsedz visus grēkus."
+        "lv": "12 <span class='p'></span> Naids pamodina strīdus: bet mīlestība apsedz visus grēkus."
       },
       {
         "verse": 13,
         "en": "13In the lips of him that hath understanding wisdom is found: but a rod <i>is </i>for the back of him that is void of understanding.",
-        "lv": "13 <p>Tā lūpās, kam ir saprašana, tiek atrasta gudrība: bet rīkste <i>ir </i>priekš<i> </i>tā muguras, kam trūkst saprašanas."
+        "lv": "13 <span class='p'></span> Tā lūpās, kam ir saprašana, tiek atrasta gudrība: bet rīkste <i>ir </i>priekš<i> </i>tā muguras, kam trūkst saprašanas."
       },
       {
         "verse": 14,
@@ -1373,22 +1373,22 @@
       {
         "verse": 15,
         "en": "15The rich man's wealth <i>is </i>his strong city: the destruction of the poor <i>is </i>their poverty.",
-        "lv": "15 <p>Bagātā turība <i>ir </i>viņa stiprā pilsēta: nabago iznīcība <i>ir </i>viņu nabadzība."
+        "lv": "15 <span class='p'></span> Bagātā turība <i>ir </i>viņa stiprā pilsēta: nabago iznīcība <i>ir </i>viņu nabadzība."
       },
       {
         "verse": 16,
         "en": "16The labour of the righteous <i>tendeth </i>to life: the fruit of the wicked to sin.",
-        "lv": "16 <p>Taisnā pūliņš <i>tiecas </i>uz dzīvību: nelietīgā auglis uz grēku."
+        "lv": "16 <span class='p'></span> Taisnā pūliņš <i>tiecas </i>uz dzīvību: nelietīgā auglis uz grēku."
       },
       {
         "verse": 17,
         "en": "17He <i>is in </i>the way of life that keepeth instruction: but he that refuseth reproof erreth.",
-        "lv": "17 <p>Tas, kas tur pamācību, <i>ir</i> dzīvības ceļā: bet tas, kas noraida rājienu, maldās."
+        "lv": "17 <span class='p'></span> Tas, kas tur pamācību, <i>ir</i> dzīvības ceļā: bet tas, kas noraida rājienu, maldās."
       },
       {
         "verse": 18,
         "en": "18He that hideth hatred <i>with </i>lying lips, and he that uttereth a slander, <i>is </i>a fool.",
-        "lv": "18 <p>Tas, kas paslēpj naidu <i>ar </i>melīgām lūpām, un tas, kas izteic neslavu, ir muļķis."
+        "lv": "18 <span class='p'></span> Tas, kas paslēpj naidu <i>ar </i>melīgām lūpām, un tas, kas izteic neslavu, ir muļķis."
       },
       {
         "verse": 19,
@@ -1408,17 +1408,17 @@
       {
         "verse": 22,
         "en": "22The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.",
-        "lv": "22 <p>Tā KUNGA svētība — tā dara bagātu un viņš tai nepieliek noskumšanu."
+        "lv": "22 <span class='p'></span> Tā KUNGA svētība — tā dara bagātu un viņš tai nepieliek noskumšanu."
       },
       {
         "verse": 23,
         "en": "23<i>It is</i> as sport to a fool to do mischief: but a man of understanding hath wisdom.",
-        "lv": "23 <p>Muļķim <i>ir </i>rotaļa darīt ļaunu: bet saprātīgajam ir gudrība."
+        "lv": "23 <span class='p'></span> Muļķim <i>ir </i>rotaļa darīt ļaunu: bet saprātīgajam ir gudrība."
       },
       {
         "verse": 24,
         "en": "24The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.",
-        "lv": "24 <p>Nelietīgā bailes — tās nāks uz viņu: bet taisnā vēlme tiks dāvāta."
+        "lv": "24 <span class='p'></span> Nelietīgā bailes — tās nāks uz viņu: bet taisnā vēlme tiks dāvāta."
       },
       {
         "verse": 25,
@@ -1428,22 +1428,22 @@
       {
         "verse": 26,
         "en": "26As vinegar to the teeth, and as smoke to the eyes, so <i>is </i>the sluggard to them that send him.",
-        "lv": "26 <p>Kā etiķis zobiem un kā dūmi acīm, tā <i>ir </i>slaists tiem, kas viņu sūta."
+        "lv": "26 <span class='p'></span> Kā etiķis zobiem un kā dūmi acīm, tā <i>ir </i>slaists tiem, kas viņu sūta."
       },
       {
         "verse": 27,
         "en": "27The fear of the LORD prolongeth days: but the years of the wicked shall be shortened.",
-        "lv": "27 <p>Tā KUNGA bijāšana pagarina dienas: bet nelietīgā gadi tiks saīsināti."
+        "lv": "27 <span class='p'></span> Tā KUNGA bijāšana pagarina dienas: bet nelietīgā gadi tiks saīsināti."
       },
       {
         "verse": 28,
         "en": "28The hope of the righteous <i>shall be</i> gladness: but the expectation of the wicked shall perish.",
-        "lv": "28 <p>Taisnā cerība <i>būs </i>līksmība: bet nelietīgā gaidas ies bojā."
+        "lv": "28 <span class='p'></span> Taisnā cerība <i>būs </i>līksmība: bet nelietīgā gaidas ies bojā."
       },
       {
         "verse": 29,
         "en": "29The way of the LORD <i>is </i>strength to the upright: but destruction<i> shall be</i> to the workers of iniquity.",
-        "lv": "29 <p>Tā KUNGA ceļš <i>ir </i>stiprums taisnīgajiem: bet iznīcība <i>būs </i>nekrietnības strādātājiem."
+        "lv": "29 <span class='p'></span> Tā KUNGA ceļš <i>ir </i>stiprums taisnīgajiem: bet iznīcība <i>būs </i>nekrietnības strādātājiem."
       },
       {
         "verse": 30,
@@ -1470,17 +1470,17 @@
       {
         "verse": 2,
         "en": "2When pride cometh, then cometh shame: but with the lowly <i>is </i>wisdom.",
-        "lv": "2 <p>Kad nāk lepnums, tad nāk kauns: bet pie zemajiem <i>ir </i>gudrība."
+        "lv": "2 <span class='p'></span> Kad nāk lepnums, tad nāk kauns: bet pie zemajiem <i>ir </i>gudrība."
       },
       {
         "verse": 3,
         "en": "3The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.",
-        "lv": "3 <p>Taisnīgo pilnīgums tos vadīs: bet pārkāpēju samaitātība tos iznīcinās."
+        "lv": "3 <span class='p'></span> Taisnīgo pilnīgums tos vadīs: bet pārkāpēju samaitātība tos iznīcinās."
       },
       {
         "verse": 4,
         "en": "4Riches profit not in the day of wrath: but righteousness delivereth from death.",
-        "lv": "4 <p>Bagātība nedod labumu bardzības dienā: bet taisnība izpestī no nāves."
+        "lv": "4 <span class='p'></span> Bagātība nedod labumu bardzības dienā: bet taisnība izpestī no nāves."
       },
       {
         "verse": 5,
@@ -1495,7 +1495,7 @@
       {
         "verse": 7,
         "en": "7When a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth.",
-        "lv": "7 <p>Kad nelietīgais mirst, viņa gaidas ies bojā: un netaisnā cilvēka cerība iet bojā."
+        "lv": "7 <span class='p'></span> Kad nelietīgais mirst, viņa gaidas ies bojā: un netaisnā cilvēka cerība iet bojā."
       },
       {
         "verse": 8,
@@ -1505,12 +1505,12 @@
       {
         "verse": 9,
         "en": "9An hypocrite with <i>his </i>mouth destroyeth his neighbour: but through knowledge shall the just be delivered.",
-        "lv": "9 <p>Liekulis ar <i>savu </i>muti iznīcina savu tuvāko: bet caur atzīšanu taisnais tiks izpestīts."
+        "lv": "9 <span class='p'></span> Liekulis ar <i>savu </i>muti iznīcina savu tuvāko: bet caur atzīšanu taisnais tiks izpestīts."
       },
       {
         "verse": 10,
         "en": "10When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, <i>there is</i> shouting.",
-        "lv": "10 <p>Kad taisnajiem iet labi, pilsēta priecājas: un, kad nelietīgie iet bojā, <i>ir </i>kliegšana."
+        "lv": "10 <span class='p'></span> Kad taisnajiem iet labi, pilsēta priecājas: un, kad nelietīgie iet bojā, <i>ir </i>kliegšana."
       },
       {
         "verse": 11,
@@ -1520,22 +1520,22 @@
       {
         "verse": 12,
         "en": "12He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.",
-        "lv": "12 <p>Tas, kam trūkst gudrības, nicina savu tuvāko: bet saprātīgais cieš klusu."
+        "lv": "12 <span class='p'></span> Tas, kam trūkst gudrības, nicina savu tuvāko: bet saprātīgais cieš klusu."
       },
       {
         "verse": 13,
         "en": "13A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.",
-        "lv": "13 <p>Tenkotājs atklāj noslēpumus: bet tas, kas ir ar uzticamu garu, noklusē lietu."
+        "lv": "13 <span class='p'></span> Tenkotājs atklāj noslēpumus: bet tas, kas ir ar uzticamu garu, noklusē lietu."
       },
       {
         "verse": 14,
         "en": "14Where no counsel <i>is</i>, the people fall: but in the multitude of counsellors <i>there is </i>safety.",
-        "lv": "14 <p>Kur nav padoma, ļaudis krīt: bet padomdevēju pūlī <i>ir </i>drošība."
+        "lv": "14 <span class='p'></span> Kur nav padoma, ļaudis krīt: bet padomdevēju pūlī <i>ir </i>drošība."
       },
       {
         "verse": 15,
         "en": "15He that is surety for a stranger shall smart <i>for it</i>: and he that hateth suretiship is sure.",
-        "lv": "15 <p>Tas, kas ir galvotājs priekš svešinieka, <i>par to </i>cietīs: un tas, kas ienīst galvošanu, ir drošs."
+        "lv": "15 <span class='p'></span> Tas, kas ir galvotājs priekš svešinieka, <i>par to </i>cietīs: un tas, kas ienīst galvošanu, ir drošs."
       },
       {
         "verse": 16,
@@ -1550,7 +1550,7 @@
       {
         "verse": 18,
         "en": "18The wicked worketh a deceitful work: but to him that soweth righteousness <i>shall be</i> a sure reward.",
-        "lv": "18 <p>Nelietīgais strādā blēdīgu darbu: bet tam, kas sēj taisnību, <i>būs</i> drošs atalgojums."
+        "lv": "18 <span class='p'></span> Nelietīgais strādā blēdīgu darbu: bet tam, kas sēj taisnību, <i>būs</i> drošs atalgojums."
       },
       {
         "verse": 19,
@@ -1570,12 +1570,12 @@
       {
         "verse": 22,
         "en": "22As a jewel of gold in a swine's snout, <i>so is</i> a fair woman which is without discretion.",
-        "lv": "22 <p>Kā zelta dārglieta cūkas purnā, <i>tā ir</i> glīta sieviete, kas ir bez apdomības."
+        "lv": "22 <span class='p'></span> Kā zelta dārglieta cūkas purnā, <i>tā ir</i> glīta sieviete, kas ir bez apdomības."
       },
       {
         "verse": 23,
         "en": "23The desire of the righteous <i>is </i>only good: <i>but </i>the expectation of the wicked <i>is </i>wrath.",
-        "lv": "23 <p>Taisnā vēlme <i>ir </i>tikai laba: <i>bet </i>nelietīgā gaidas <i>ir </i>bardzība."
+        "lv": "23 <span class='p'></span> Taisnā vēlme <i>ir </i>tikai laba: <i>bet </i>nelietīgā gaidas <i>ir </i>bardzība."
       },
       {
         "verse": 24,
@@ -1585,7 +1585,7 @@
       {
         "verse": 25,
         "en": "25 The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
-        "lv": "25 <p>Devīga dvēsele tiks darīta trekna: un tas, kas slacina, arī pats tiks slacināts."
+        "lv": "25 <span class='p'></span> Devīga dvēsele tiks darīta trekna: un tas, kas slacina, arī pats tiks slacināts."
       },
       {
         "verse": 26,
@@ -1595,12 +1595,12 @@
       {
         "verse": 27,
         "en": "27He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him.",
-        "lv": "27 <p>Tas, kas centīgi meklē labu, iegūst labvēlību: bet tam, kas meklē ļaunumu, tas nāks uz viņu."
+        "lv": "27 <span class='p'></span> Tas, kas centīgi meklē labu, iegūst labvēlību: bet tam, kas meklē ļaunumu, tas nāks uz viņu."
       },
       {
         "verse": 28,
         "en": "28He that trusteth in his riches shall fall: but the righteous shall flourish as a branch.",
-        "lv": "28 <p>Tas, kas paļaujas uz savu bagātību, kritīs: bet taisnais plauks kā zars."
+        "lv": "28 <span class='p'></span> Tas, kas paļaujas uz savu bagātību, kritīs: bet taisnais plauks kā zars."
       },
       {
         "verse": 29,
@@ -1610,7 +1610,7 @@
       {
         "verse": 30,
         "en": "30The fruit of the righteous <i>is </i>a tree of life; and he that winneth souls <i>is </i>wise.",
-        "lv": "30 <p>Taisnā auglis <i>ir </i>dzīvības koks; un tas, kas iegūst dvēseles, <i>ir </i>gudrs."
+        "lv": "30 <span class='p'></span> Taisnā auglis <i>ir </i>dzīvības koks; un tas, kas iegūst dvēseles, <i>ir </i>gudrs."
       },
       {
         "verse": 31,
@@ -1627,7 +1627,7 @@
       {
         "verse": 2,
         "en": "2A good <i>man </i>obtaineth favour of the LORD: but a man of wicked devices will he condemn.",
-        "lv": "2 <p>Labs <i>cilvēks</i> iegūst tā KUNGA labvēlību: bet cilvēku ar nelietīgiem nodomiem viņš nosodīs."
+        "lv": "2 <span class='p'></span> Labs <i>cilvēks</i> iegūst tā KUNGA labvēlību: bet cilvēku ar nelietīgiem nodomiem viņš nosodīs."
       },
       {
         "verse": 3,
@@ -1637,12 +1637,12 @@
       {
         "verse": 4,
         "en": "4A virtuous woman <i>is </i>a crown to her husband: but she that maketh ashamed <i>is</i> as rottenness in his bones.",
-        "lv": "4 <p>Tikumīga sieviete <i>ir </i>kronis savam vīram: bet tā, kas apkauno, <i>ir </i>kā puvums viņa kaulos."
+        "lv": "4 <span class='p'></span> Tikumīga sieviete <i>ir </i>kronis savam vīram: bet tā, kas apkauno, <i>ir </i>kā puvums viņa kaulos."
       },
       {
         "verse": 5,
         "en": "5The thoughts of the righteous <i>are </i>right: <i>but </i>the counsels of the wicked <i>are </i>deceit.",
-        "lv": "5 <p>Taisno domas <i>ir </i>pareizas: <i>bet </i>nelietīgo padomi <i>ir </i>viltība."
+        "lv": "5 <span class='p'></span> Taisno domas <i>ir </i>pareizas: <i>bet </i>nelietīgo padomi <i>ir </i>viltība."
       },
       {
         "verse": 6,
@@ -1657,7 +1657,7 @@
       {
         "verse": 8,
         "en": "8A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
-        "lv": "8 <p>Cilvēks tiks uzteikts pēc viņa gudrības: bet tas, kas ir sirdī samaitāts, tiks nicināts."
+        "lv": "8 <span class='p'></span> Cilvēks tiks uzteikts pēc viņa gudrības: bet tas, kas ir sirdī samaitāts, tiks nicināts."
       },
       {
         "verse": 9,
@@ -1667,17 +1667,17 @@
       {
         "verse": 10,
         "en": "10A righteous <i>man </i>regardeth the life of his beast: but the tender mercies of the wicked <i>are </i>cruel.",
-        "lv": "10 <p>Taisnais uzskata sava zvēra dzīvību: bet nelietīgā maigās žēlsirdības <i>ir </i>cietsirdīgas."
+        "lv": "10 <span class='p'></span> Taisnais uzskata sava zvēra dzīvību: bet nelietīgā maigās žēlsirdības <i>ir </i>cietsirdīgas."
       },
       {
         "verse": 11,
         "en": "11He that tilleth his land shall be satisfied with bread: but he that followeth vain <i>persons is</i> void of understanding.",
-        "lv": "11 <p>Tas, kas apstrādā savu zemi, būs apmierināts ar maizi: bet tam, kas seko veltīgiem <i>cilvēkiem</i>, trūkst saprašanas."
+        "lv": "11 <span class='p'></span> Tas, kas apstrādā savu zemi, būs apmierināts ar maizi: bet tam, kas seko veltīgiem <i>cilvēkiem</i>, trūkst saprašanas."
       },
       {
         "verse": 12,
         "en": "12The wicked desireth the net of evil <i>men</i>: but the root of the righteous yieldeth <i>fruit</i>.",
-        "lv": "12 <p>Nelietīgie vēlas ļauno <i>cilvēku</i> tīklu: bet taisno sakne nes <i>augli</i>."
+        "lv": "12 <span class='p'></span> Nelietīgie vēlas ļauno <i>cilvēku</i> tīklu: bet taisno sakne nes <i>augli</i>."
       },
       {
         "verse": 13,
@@ -1692,7 +1692,7 @@
       {
         "verse": 15,
         "en": "15The way of a fool <i>is </i>right in his own eyes: but he that hearkeneth unto counsel <i>is </i>wise.",
-        "lv": "15 <p>Muļķa ceļš <i>ir </i>pareizs viņa paša acīs: bet tas, kas uzklausa padomu, <i>ir </i>gudrs."
+        "lv": "15 <span class='p'></span> Muļķa ceļš <i>ir </i>pareizs viņa paša acīs: bet tas, kas uzklausa padomu, <i>ir </i>gudrs."
       },
       {
         "verse": 16,
@@ -1702,7 +1702,7 @@
       {
         "verse": 17,
         "en": "17<i>He that</i> speaketh truth sheweth forth righteousness: but a false witness deceit.",
-        "lv": "17 <p><i>Tas, kas</i> runā patiesību, pavēsta taisnību: bet nepatiess liecinieks — viltību."
+        "lv": "17 <span class='p'></span> <i>Tas, kas</i> runā patiesību, pavēsta taisnību: bet nepatiess liecinieks — viltību."
       },
       {
         "verse": 18,
@@ -1722,42 +1722,42 @@
       {
         "verse": 21,
         "en": "21There shall no evil happen to the just: but the wicked shall be filled with mischief.",
-        "lv": "21 <p>Nekāds ļaunums nenotiks taisnajiem: bet nelietīgie tiks pildīti ar ļaunumu."
+        "lv": "21 <span class='p'></span> Nekāds ļaunums nenotiks taisnajiem: bet nelietīgie tiks pildīti ar ļaunumu."
       },
       {
         "verse": 22,
         "en": "22Lying lips <i>are </i>abomination to the LORD: but they that deal truly <i>are </i>his delight.",
-        "lv": "22 <p>Melīgas lūpas <i>ir </i>negantība<i> </i>tam KUNGAM: bet tie, kas rīkojas patiesi, <i>ir </i>viņa prieks."
+        "lv": "22 <span class='p'></span> Melīgas lūpas <i>ir </i>negantība<i> </i>tam KUNGAM: bet tie, kas rīkojas patiesi, <i>ir </i>viņa prieks."
       },
       {
         "verse": 23,
         "en": "23A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.",
-        "lv": "23 <p>Prātīgais noslēpj atzīšanu: bet muļķu sirds pasludina muļķību."
+        "lv": "23 <span class='p'></span> Prātīgais noslēpj atzīšanu: bet muļķu sirds pasludina muļķību."
       },
       {
         "verse": 24,
         "en": "24The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
-        "lv": "24 <p>Centīgā roka valdīs: bet slinkais būs zem nodevām."
+        "lv": "24 <span class='p'></span> Centīgā roka valdīs: bet slinkais būs zem nodevām."
       },
       {
         "verse": 25,
         "en": "25Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
-        "lv": "25 <p>Smagums cilvēka sirdī liek tam saliekties: bet labs vārds to ielīksmo."
+        "lv": "25 <span class='p'></span> Smagums cilvēka sirdī liek tam saliekties: bet labs vārds to ielīksmo."
       },
       {
         "verse": 26,
         "en": "26The righteous <i>is </i>more excellent than his neighbour: but the way of the wicked seduceth them.",
-        "lv": "26 <p>Taisnais <i>ir </i>teicamāks par savu tuvāko: bet nelietīgo ceļš tos maldina."
+        "lv": "26 <span class='p'></span> Taisnais <i>ir </i>teicamāks par savu tuvāko: bet nelietīgo ceļš tos maldina."
       },
       {
         "verse": 27,
         "en": "27The slothful <i>man </i>roasteth not that which he took in hunting: but the substance of a diligent man <i>is </i>precious.",
-        "lv": "27 <p>Slinkais necep to, ko viņš ņēma medībās: bet centīgā manta <i>ir </i>dārga."
+        "lv": "27 <span class='p'></span> Slinkais necep to, ko viņš ņēma medībās: bet centīgā manta <i>ir </i>dārga."
       },
       {
         "verse": 28,
         "en": "28In the way of righteousness <i>is </i>life; and <i>in </i>the pathway<i> thereof there is </i>no death.",
-        "lv": "28 <p>Taisnības ceļā <i>ir </i>dzīvība; un tās takā nav nāves."
+        "lv": "28 <span class='p'></span> Taisnības ceļā <i>ir </i>dzīvība; un tās takā nav nāves."
       }
     ],
     "13": [
@@ -1769,7 +1769,7 @@
       {
         "verse": 2,
         "en": "2A man shall eat good by the fruit of <i>his </i>mouth: but the soul of the transgressors <i>shall eat</i> violence.",
-        "lv": "2 <p>Cilvēks ēdīs labu caur <i>savas </i>mutes augli: bet pārkāpēju dvēsele <i>ēdīs </i>vardarbību."
+        "lv": "2 <span class='p'></span> Cilvēks ēdīs labu caur <i>savas </i>mutes augli: bet pārkāpēju dvēsele <i>ēdīs </i>vardarbību."
       },
       {
         "verse": 3,
@@ -1784,7 +1784,7 @@
       {
         "verse": 5,
         "en": "5A righteous <i>man </i>hateth lying: but a wicked <i>man </i>is loathsome, and cometh to shame.",
-        "lv": "5 <p>Taisnais ienīst melošanu: bet nelietīgais ir riebīgs un nāk kaunā."
+        "lv": "5 <span class='p'></span> Taisnais ienīst melošanu: bet nelietīgais ir riebīgs un nāk kaunā."
       },
       {
         "verse": 6,
@@ -1794,7 +1794,7 @@
       {
         "verse": 7,
         "en": "7There is that maketh himself rich, yet <i>hath </i>nothing:<i> there is</i> that maketh himself poor, yet <i>hath </i>great riches.",
-        "lv": "7 <p>Ir, kas sevi pataisa bagātu, tomēr <i>[viņam] </i>nekā <i>nav</i>: ir, kas sevi pataisa nabagu, tomēr <i>[viņam] ir </i>lielas bagātības."
+        "lv": "7 <span class='p'></span> Ir, kas sevi pataisa bagātu, tomēr <i>[viņam] </i>nekā <i>nav</i>: ir, kas sevi pataisa nabagu, tomēr <i>[viņam] ir </i>lielas bagātības."
       },
       {
         "verse": 8,
@@ -1804,67 +1804,67 @@
       {
         "verse": 9,
         "en": "9The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.",
-        "lv": "9 <p>Taisno gaisma priecājas: bet nelietīgo lukturis tiks izdzēsts."
+        "lv": "9 <span class='p'></span> Taisno gaisma priecājas: bet nelietīgo lukturis tiks izdzēsts."
       },
       {
         "verse": 10,
         "en": "10Only by pride cometh contention: but with the well advised <i>is </i>wisdom.",
-        "lv": "10 <p>Tikai caur lepnumu nāk nesaskaņas: bet pie laba padoma<i> [guvušajiem]</i> <i>ir </i>gudrība."
+        "lv": "10 <span class='p'></span> Tikai caur lepnumu nāk nesaskaņas: bet pie laba padoma<i> [guvušajiem]</i> <i>ir </i>gudrība."
       },
       {
         "verse": 11,
         "en": "11Wealth <i>gotten </i>by vanity shall be diminished: but he that gathereth by labour shall increase.",
-        "lv": "11 <p>Turība, <i>iegūta </i>caur nelietību, ies mazumā: bet tas, kas savāc caur pūliņu, pieaugs."
+        "lv": "11 <span class='p'></span> Turība, <i>iegūta </i>caur nelietību, ies mazumā: bet tas, kas savāc caur pūliņu, pieaugs."
       },
       {
         "verse": 12,
         "en": "12Hope deferred maketh the heart sick: but <i>when </i>the desire cometh,<i> it is </i>a tree of life.",
-        "lv": "12 <p>Atlikta cerība sirdi dara neveselu: bet, <i>kad </i>nāk vēlme, <i>tas ir</i> dzīvības koks."
+        "lv": "12 <span class='p'></span> Atlikta cerība sirdi dara neveselu: bet, <i>kad </i>nāk vēlme, <i>tas ir</i> dzīvības koks."
       },
       {
         "verse": 13,
         "en": "13Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.",
-        "lv": "13 <p>Kas vien nicina vārdu, tiks iznīcināts: bet tas, kas bīstas pavēli, tiks atalgots."
+        "lv": "13 <span class='p'></span> Kas vien nicina vārdu, tiks iznīcināts: bet tas, kas bīstas pavēli, tiks atalgots."
       },
       {
         "verse": 14,
         "en": "14The law of the wise <i>is </i>a fountain of life, to depart from the snares of death.",
-        "lv": "14 <p>Gudro likums <i>ir </i>dzīvības avots, aiziet no nāves slazdiem."
+        "lv": "14 <span class='p'></span> Gudro likums <i>ir </i>dzīvības avots, aiziet no nāves slazdiem."
       },
       {
         "verse": 15,
         "en": "15Good understanding giveth favour: but the way of transgressors <i>is</i> hard.",
-        "lv": "15 <p>Laba saprašana dod labvēlību: bet pārkāpēju ceļš <i>ir </i>grūts."
+        "lv": "15 <span class='p'></span> Laba saprašana dod labvēlību: bet pārkāpēju ceļš <i>ir </i>grūts."
       },
       {
         "verse": 16,
         "en": "16Every prudent <i>man </i>dealeth with knowledge: but a fool layeth open <i>his </i>folly.",
-        "lv": "16 <p>Ikviens prātīgais<i> </i>rīkojas ar atzīšanu: bet muļķis nodod atklātībā <i>savu </i>muļķību."
+        "lv": "16 <span class='p'></span> Ikviens prātīgais<i> </i>rīkojas ar atzīšanu: bet muļķis nodod atklātībā <i>savu </i>muļķību."
       },
       {
         "verse": 17,
         "en": "17A wicked messenger falleth into mischief: but a faithful ambassador <i>is </i>health.",
-        "lv": "17 <p>Nelietīgs vēstnesis krīt ļaunumā: bet uzticams vēstnieks <i>ir </i>veselība."
+        "lv": "17 <span class='p'></span> Nelietīgs vēstnesis krīt ļaunumā: bet uzticams vēstnieks <i>ir </i>veselība."
       },
       {
         "verse": 18,
         "en": "18Poverty and shame<i> shall be </i>to him that refuseth instruction: but he that regardeth reproof shall be honoured.",
-        "lv": "18 <p>Nabadzība un kauns <i>būs </i>tam, kas noraida pamācību: bet tas, kas uzskata rājienu, tiks godāts."
+        "lv": "18 <span class='p'></span> Nabadzība un kauns <i>būs </i>tam, kas noraida pamācību: bet tas, kas uzskata rājienu, tiks godāts."
       },
       {
         "verse": 19,
         "en": "19The desire accomplished is sweet to the soul: but <i>it is</i> abomination to fools to depart from evil.",
-        "lv": "19 <p>Piepildīta vēlme ir salda dvēselei: bet<i> tā ir</i> negantība muļķiem aiziet no ļauna."
+        "lv": "19 <span class='p'></span> Piepildīta vēlme ir salda dvēselei: bet<i> tā ir</i> negantība muļķiem aiziet no ļauna."
       },
       {
         "verse": 20,
         "en": "20He that walketh with wise <i>men </i>shall be wise: but a companion of fools shall be destroyed.",
-        "lv": "20 <p>Tas, kas staigā ar gudrajiem, būs gudrs: bet muļķu biedrs tiks iznīcināts."
+        "lv": "20 <span class='p'></span> Tas, kas staigā ar gudrajiem, būs gudrs: bet muļķu biedrs tiks iznīcināts."
       },
       {
         "verse": 21,
         "en": "21Evil pursueth sinners: but to the righteous good shall be repayed.",
-        "lv": "21 <p>Ļaunums vajā grēciniekus: bet taisnajiem labs tiks atmaksāts."
+        "lv": "21 <span class='p'></span> Ļaunums vajā grēciniekus: bet taisnajiem labs tiks atmaksāts."
       },
       {
         "verse": 22,
@@ -1874,17 +1874,17 @@
       {
         "verse": 23,
         "en": "23Much food <i>is in </i>the tillage of the poor: but there is<i> that is</i> destroyed for want of judgment.",
-        "lv": "23 <p>Daudz ēdiena <i>ir </i>nabagā arumā: bet ir,<i> kas tiek</i> iznīcināts tiesas trūkuma dēļ."
+        "lv": "23 <span class='p'></span> Daudz ēdiena <i>ir </i>nabagā arumā: bet ir,<i> kas tiek</i> iznīcināts tiesas trūkuma dēļ."
       },
       {
         "verse": 24,
         "en": "24He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
-        "lv": "24 <p>Tas, kas taupa savu rīksti, ienīst savu dēlu: bet tas, kas viņu mīl, to laikus pārmāca. "
+        "lv": "24 <span class='p'></span> Tas, kas taupa savu rīksti, ienīst savu dēlu: bet tas, kas viņu mīl, to laikus pārmāca."
       },
       {
         "verse": 25,
         "en": "25The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.",
-        "lv": "25 <p>Taisnais ēd savas dvēseles apmierināšanai: bet nelietīgā vēderam trūks."
+        "lv": "25 <span class='p'></span> Taisnais ēd savas dvēseles apmierināšanai: bet nelietīgā vēderam trūks."
       }
     ],
     "14": [
@@ -1896,27 +1896,27 @@
       {
         "verse": 2,
         "en": "2He that walketh in his uprightness feareth the LORD: but<i> he that is </i>perverse in his ways despiseth him.",
-        "lv": "2 <p>Tas, kas staigā savā taisnīgumā, bīstas to KUNGU: bet <i>tas, kas ir</i> samaitāts savos ceļos, viņu nicina."
+        "lv": "2 <span class='p'></span> Tas, kas staigā savā taisnīgumā, bīstas to KUNGU: bet <i>tas, kas ir</i> samaitāts savos ceļos, viņu nicina."
       },
       {
         "verse": 3,
         "en": "3In the mouth of the foolish <i>is </i>a rod of pride: but the lips of the wise shall preserve them.",
-        "lv": "3 <p>Muļķīgo mutē <i>ir </i>lepnuma rīkste: bet gudro lūpas tos pasaudzēs."
+        "lv": "3 <span class='p'></span> Muļķīgo mutē <i>ir </i>lepnuma rīkste: bet gudro lūpas tos pasaudzēs."
       },
       {
         "verse": 4,
         "en": "4Where no oxen <i>are</i>, the crib <i>is </i>clean: but much increase <i>is </i>by the strength of the ox.",
-        "lv": "4 <p>Kur nav vēršu, sile <i>ir </i>tīra: bet daudz pieauguma <i>ir </i>caur vērša stiprumu."
+        "lv": "4 <span class='p'></span> Kur nav vēršu, sile <i>ir </i>tīra: bet daudz pieauguma <i>ir </i>caur vērša stiprumu."
       },
       {
         "verse": 5,
         "en": "5A faithful witness will not lie: but a false witness will utter lies.",
-        "lv": "5 <p>Uzticams liecinieks nemelos: bet nepatiess liecinieks izteiks melus."
+        "lv": "5 <span class='p'></span> Uzticams liecinieks nemelos: bet nepatiess liecinieks izteiks melus."
       },
       {
         "verse": 6,
         "en": "6A scorner seeketh wisdom, and <i>findeth it</i> not: but knowledge <i>is </i>easy unto him that understandeth.",
-        "lv": "6 <p>Smējējs meklē gudrību un<i> to neatrod</i>: bet atzīšana <i>ir </i>viegla tam, kas saprot."
+        "lv": "6 <span class='p'></span> Smējējs meklē gudrību un<i> to neatrod</i>: bet atzīšana <i>ir </i>viegla tam, kas saprot."
       },
       {
         "verse": 7,
@@ -1926,7 +1926,7 @@
       {
         "verse": 8,
         "en": "8The wisdom of the prudent <i>is </i>to understand his way: but the folly of fools <i>is </i>deceit.",
-        "lv": "8 <p>Prātīgā gudrība <i>ir </i>saprast savu ceļu: bet muļķu muļķība <i>ir </i>blēdība."
+        "lv": "8 <span class='p'></span> Prātīgā gudrība <i>ir </i>saprast savu ceļu: bet muļķu muļķība <i>ir </i>blēdība."
       },
       {
         "verse": 9,
@@ -1941,82 +1941,82 @@
       {
         "verse": 11,
         "en": "11The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.",
-        "lv": "11 <p>Nelietīgā nams tiks apgāzts: bet taisnīgā mājoklis plauks."
+        "lv": "11 <span class='p'></span> Nelietīgā nams tiks apgāzts: bet taisnīgā mājoklis plauks."
       },
       {
         "verse": 12,
         "en": "12There is a way which seemeth right unto a man, but the end thereof <i>are </i>the ways of death.",
-        "lv": "12 <p>Ir ceļš, kas cilvēkam šķiet pareizs, bet tā gals <i>ir </i>nāves ceļi."
+        "lv": "12 <span class='p'></span> Ir ceļš, kas cilvēkam šķiet pareizs, bet tā gals <i>ir </i>nāves ceļi."
       },
       {
         "verse": 13,
         "en": "13Even in laughter the heart is sorrowful; and the end of that mirth <i>is </i>heaviness.",
-        "lv": "13 <p>Pat smieklos sirds ir noskumusi; un tās līksmības gals <i>ir </i>smagums."
+        "lv": "13 <span class='p'></span> Pat smieklos sirds ir noskumusi; un tās līksmības gals <i>ir </i>smagums."
       },
       {
         "verse": 14,
         "en": "14The backslider in heart shall be filled with his own ways: and a good man <i>shall be satisfied </i>from himself.",
-        "lv": "14 <p>Atkritējs sirdī tiks pildīts ar saviem paša ceļiem: un labs cilvēks <i>tiks apmierināts</i> no sevis paša."
+        "lv": "14 <span class='p'></span> Atkritējs sirdī tiks pildīts ar saviem paša ceļiem: un labs cilvēks <i>tiks apmierināts</i> no sevis paša."
       },
       {
         "verse": 15,
         "en": "15The simple believeth every word: but the prudent <i>man </i>looketh well to his going.",
-        "lv": "15 <p>Vientiesīgais tic ikvienam vārdam: bet prātīgais lūkojas kārtīgi uz savām gaitām."
+        "lv": "15 <span class='p'></span> Vientiesīgais tic ikvienam vārdam: bet prātīgais lūkojas kārtīgi uz savām gaitām."
       },
       {
         "verse": 16,
         "en": "16A wise <i>man </i>feareth, and departeth from evil: but the fool rageth, and is confident.",
-        "lv": "16 <p>Gudrais bīstas un aiziet no ļauna: bet muļķis trako un ir drošs."
+        "lv": "16 <span class='p'></span> Gudrais bīstas un aiziet no ļauna: bet muļķis trako un ir drošs."
       },
       {
         "verse": 17,
         "en": "17<i>He that is </i>soon angry dealeth foolishly: and a man of wicked devices is hated.",
-        "lv": "17 <p><i>Tas, kas ir</i> ātri dusmīgs, rīkojas muļķīgi: un nelietīgu nodomu cilvēks tiek ienīsts."
+        "lv": "17 <span class='p'></span> <i>Tas, kas ir</i> ātri dusmīgs, rīkojas muļķīgi: un nelietīgu nodomu cilvēks tiek ienīsts."
       },
       {
         "verse": 18,
         "en": "18The simple inherit folly: but the prudent are crowned with knowledge.",
-        "lv": "18 <p>Vientiesīgie iemanto muļķību: bet prātīgie tiek kronēti ar atzīšanu."
+        "lv": "18 <span class='p'></span> Vientiesīgie iemanto muļķību: bet prātīgie tiek kronēti ar atzīšanu."
       },
       {
         "verse": 19,
         "en": "19The evil bow before the good; and the wicked at the gates of the righteous.",
-        "lv": "19 <p>Ļaunie zemojas labo priekšā; un nelietīgie taisno vārtos."
+        "lv": "19 <span class='p'></span> Ļaunie zemojas labo priekšā; un nelietīgie taisno vārtos."
       },
       {
         "verse": 20,
         "en": "20The poor is hated even of his own neighbour: but the rich <i>hath </i>many friends.",
-        "lv": "20 <p>Nabags tiek ienīsts pat no sava tuvākā: bet bagātajam <i>ir </i>daudz draugu."
+        "lv": "20 <span class='p'></span> Nabags tiek ienīsts pat no sava tuvākā: bet bagātajam <i>ir </i>daudz draugu."
       },
       {
         "verse": 21,
         "en": "21He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy <i>is </i>he.",
-        "lv": "21 <p>Tas, kas nicina savu tuvāko, grēko: bet tas, kas apžēlojas par nabago, laimīgs viņš <i>ir</i>."
+        "lv": "21 <span class='p'></span> Tas, kas nicina savu tuvāko, grēko: bet tas, kas apžēlojas par nabago, laimīgs viņš <i>ir</i>."
       },
       {
         "verse": 22,
         "en": "22Do they not err that devise evil? but mercy and truth <i>shall be</i> to them that devise good.",
-        "lv": "22 <p>Vai tie nemaldās, kas nodomā ļaunu? bet žēlsirdība un patiesība būs tiem, kas nodomā labu."
+        "lv": "22 <span class='p'></span> Vai tie nemaldās, kas nodomā ļaunu? bet žēlsirdība un patiesība būs tiem, kas nodomā labu."
       },
       {
         "verse": 23,
         "en": "23In all labour there is profit: but the talk of the lips <i>tendeth </i>only to penury.",
-        "lv": "23 <p>Visā pūliņā ir labums: bet lūpu runāšana <i>tiecas </i>tikai uz trūcību."
+        "lv": "23 <span class='p'></span> Visā pūliņā ir labums: bet lūpu runāšana <i>tiecas </i>tikai uz trūcību."
       },
       {
         "verse": 24,
         "en": "24The crown of the wise <i>is </i>their riches: <i>but </i>the foolishness of fools <i>is </i>folly.",
-        "lv": "24 <p>Gudro kronis <i>ir </i>viņu bagātība: <i>bet </i>muļķu muļķīgums <i>ir </i>muļķība."
+        "lv": "24 <span class='p'></span> Gudro kronis <i>ir </i>viņu bagātība: <i>bet </i>muļķu muļķīgums <i>ir </i>muļķība."
       },
       {
         "verse": 25,
         "en": "25A true witness delivereth souls: but a deceitful <i>witness </i>speaketh lies.",
-        "lv": "25 <p>Patiess liecinieks izpestī dvēseles: bet blēdīgs <i>liecinieks </i>runā melus."
+        "lv": "25 <span class='p'></span> Patiess liecinieks izpestī dvēseles: bet blēdīgs <i>liecinieks </i>runā melus."
       },
       {
         "verse": 26,
         "en": "26In the fear of the LORD <i>is </i>strong confidence: and his children shall have a place of refuge.",
-        "lv": "26 <p>Tā KUNGA bijāšanā <i>ir </i>stipra paļāvība: un viņa bērniem būs patvēruma vieta."
+        "lv": "26 <span class='p'></span> Tā KUNGA bijāšanā <i>ir </i>stipra paļāvība: un viņa bērniem būs patvēruma vieta."
       },
       {
         "verse": 27,
@@ -2026,42 +2026,42 @@
       {
         "verse": 28,
         "en": "28In the multitude of people <i>is </i>the king's honour: but in the want of people <i>is </i>the destruction of the prince.",
-        "lv": "28 <p>Ļaužu pūlī <i>ir </i>ķēniņa gods: bet ļaužu trūkums <i>ir </i>prinča iznīcība."
+        "lv": "28 <span class='p'></span> Ļaužu pūlī <i>ir </i>ķēniņa gods: bet ļaužu trūkums <i>ir </i>prinča iznīcība."
       },
       {
         "verse": 29,
         "en": "29<i>He that is</i> slow to wrath <i>is </i>of great understanding: but <i>he that is </i>hasty of spirit exalteth folly.",
-        "lv": "29 <p><i>Tam, kas ir </i>lēns uz bardzību, <i>ir </i>liela saprašana: bet <i>tas, kas ir </i>steidzīga gara, paaugstina muļķību."
+        "lv": "29 <span class='p'></span> <i>Tam, kas ir </i>lēns uz bardzību, <i>ir </i>liela saprašana: bet <i>tas, kas ir </i>steidzīga gara, paaugstina muļķību."
       },
       {
         "verse": 30,
         "en": "30A sound heart is the life of the flesh: but envy the rottenness of the bones.",
-        "lv": "30 <p>Veselīga sirds ir miesas dzīvība: bet skaudība — kaulu puvums."
+        "lv": "30 <span class='p'></span> Veselīga sirds ir miesas dzīvība: bet skaudība — kaulu puvums."
       },
       {
         "verse": 31,
         "en": "31He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.",
-        "lv": "31 <p>Tas, kas apspiež nabago, nicina viņa Veidotāju: bet tas, kas viņu godā, apžēlojas par nabago."
+        "lv": "31 <span class='p'></span> Tas, kas apspiež nabago, nicina viņa Veidotāju: bet tas, kas viņu godā, apžēlojas par nabago."
       },
       {
         "verse": 32,
         "en": "32The wicked is driven away in his wickedness: but the righteous hath hope in his death.",
-        "lv": "32 <p>Nelietīgais tiek aizdzīts prom savā nelietībā: bet taisnajam ir cerība viņa nāvē."
+        "lv": "32 <span class='p'></span> Nelietīgais tiek aizdzīts prom savā nelietībā: bet taisnajam ir cerība viņa nāvē."
       },
       {
         "verse": 33,
         "en": "33Wisdom resteth in the heart of him that hath understanding: but <i>that which is </i>in the midst of fools is made known.",
-        "lv": "33 <p>Gudrība dus tā sirdī, kam ir saprašana: bet <i>tas, kas ir </i>muļķu vidū, tiek darīts zināms."
+        "lv": "33 <span class='p'></span> Gudrība dus tā sirdī, kam ir saprašana: bet <i>tas, kas ir </i>muļķu vidū, tiek darīts zināms."
       },
       {
         "verse": 34,
         "en": "34Righteousness exalteth a nation: but sin <i>is </i>a reproach to any people.",
-        "lv": "34 <p>Taisnība paaugstina tautu: bet grēks <i>ir </i>negods jebkuriem ļaudīm."
+        "lv": "34 <span class='p'></span> Taisnība paaugstina tautu: bet grēks <i>ir </i>negods jebkuriem ļaudīm."
       },
       {
         "verse": 35,
         "en": "35The king's favour <i>is </i>toward a wise servant: but his wrath is <i>against </i>him that causeth shame.",
-        "lv": "35 <p>Ķēniņa labvēlība <i>ir </i>pret gudru kalpu: bet viņa bardzība ir <i>pretī </i>tam, kas izraisa kaunu."
+        "lv": "35 <span class='p'></span> Ķēniņa labvēlība <i>ir </i>pret gudru kalpu: bet viņa bardzība ir <i>pretī </i>tam, kas izraisa kaunu."
       }
     ],
     "15": [
@@ -2088,22 +2088,22 @@
       {
         "verse": 5,
         "en": "5A fool despiseth his father's instruction: but he that regardeth reproof is prudent.",
-        "lv": "5 <p>Muļķis nicina sava tēva pamācību: bet tas, kas uzskata rājienu, ir prātīgs."
+        "lv": "5 <span class='p'></span> Muļķis nicina sava tēva pamācību: bet tas, kas uzskata rājienu, ir prātīgs."
       },
       {
         "verse": 6,
         "en": "6In the house of the righteous <i>is </i>much treasure: but in the revenues of the wicked is trouble.",
-        "lv": "6 <p>Taisnā namā <i>ir </i>daudz dārgumu: bet nelietīgā ienākumos ir bēdas."
+        "lv": "6 <span class='p'></span> Taisnā namā <i>ir </i>daudz dārgumu: bet nelietīgā ienākumos ir bēdas."
       },
       {
         "verse": 7,
         "en": "7The lips of the wise disperse knowledge: but the heart of the foolish <i>doeth </i>not so.",
-        "lv": "7 <p>Gudrā lūpas izplata atzīšanu: bet muļķīgo sirds tā <i>nedara</i>."
+        "lv": "7 <span class='p'></span> Gudrā lūpas izplata atzīšanu: bet muļķīgo sirds tā <i>nedara</i>."
       },
       {
         "verse": 8,
         "en": "8The sacrifice of the wicked <i>is </i>an abomination to the LORD: but the prayer of the upright <i>is </i>his delight.",
-        "lv": "8 <p>Nelietīgā upuris <i>ir </i>negantība tam KUNGAM: bet taisnīgā lūgšana <i>ir </i>viņa prieks."
+        "lv": "8 <span class='p'></span> Nelietīgā upuris <i>ir </i>negantība tam KUNGAM: bet taisnīgā lūgšana <i>ir </i>viņa prieks."
       },
       {
         "verse": 9,
@@ -2113,7 +2113,7 @@
       {
         "verse": 10,
         "en": "10Correction <i>is </i>grievous unto him that forsaketh the way: <i>and </i>he that hateth reproof shall die.",
-        "lv": "10 <p>Labošana <i>ir </i>grūta tam, kas pamet ceļu: <i>un </i>tas, kas ienīst rājienu, mirs."
+        "lv": "10 <span class='p'></span> Labošana <i>ir </i>grūta tam, kas pamet ceļu: <i>un </i>tas, kas ienīst rājienu, mirs."
       },
       {
         "verse": 11,
@@ -2123,52 +2123,52 @@
       {
         "verse": 12,
         "en": "12A scorner loveth not one that reproveth him: neither will he go unto the wise.",
-        "lv": "12 <p>Smējējs nemīl to, kas viņu norāj: nedz viņš ies pie gudrā."
+        "lv": "12 <span class='p'></span> Smējējs nemīl to, kas viņu norāj: nedz viņš ies pie gudrā."
       },
       {
         "verse": 13,
         "en": "13A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
-        "lv": "13 <p>Līksma sirds dara vaigu priecīgu: bet caur sirds skumjām gars tiek salauzts."
+        "lv": "13 <span class='p'></span> Līksma sirds dara vaigu priecīgu: bet caur sirds skumjām gars tiek salauzts."
       },
       {
         "verse": 14,
         "en": "14The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.",
-        "lv": "14 <p>Tā sirds, kam ir saprašana, meklē atzīšanu: bet muļķu mute ganās muļķībā."
+        "lv": "14 <span class='p'></span> Tā sirds, kam ir saprašana, meklē atzīšanu: bet muļķu mute ganās muļķībā."
       },
       {
         "verse": 15,
         "en": "15All the days of the afflicted <i>are </i>evil: but he that is of a merry heart <i>hath </i>a continual feast.",
-        "lv": "15 <p>Visas sāpinātā dienas <i>ir </i>ļaunas: bet tam, kam ir līksma sirds, <i>ir </i>pastāvīgas dzīres."
+        "lv": "15 <span class='p'></span> Visas sāpinātā dienas <i>ir </i>ļaunas: bet tam, kam ir līksma sirds, <i>ir </i>pastāvīgas dzīres."
       },
       {
         "verse": 16,
         "en": "16Better <i>is </i>little with the fear of the LORD than great treasure and trouble therewith.",
-        "lv": "16 <p>Labāk <i>ir </i>nedaudz ar tā KUNGA bijāšanu nekā lieli dārgumi un līdzi bēdas."
+        "lv": "16 <span class='p'></span> Labāk <i>ir </i>nedaudz ar tā KUNGA bijāšanu nekā lieli dārgumi un līdzi bēdas."
       },
       {
         "verse": 17,
         "en": "17Better <i>is </i>a dinner of herbs where love is, than a stalled ox and hatred therewith.",
-        "lv": "17 <p>Labāk <i>ir </i>pusdienas no augiem, kur ir mīlestība, nekā nobarots vērsis un līdzi naids."
+        "lv": "17 <span class='p'></span> Labāk <i>ir </i>pusdienas no augiem, kur ir mīlestība, nekā nobarots vērsis un līdzi naids."
       },
       {
         "verse": 18,
         "en": "18A wrathful man stirreth up strife: but <i>he that is</i> slow to anger appeaseth strife.",
-        "lv": "18 <p>Bargs cilvēks modina strīdu: bet <i>tas, kas ir</i> lēns dusmot, nomierina strīdu."
+        "lv": "18 <span class='p'></span> Bargs cilvēks modina strīdu: bet <i>tas, kas ir</i> lēns dusmot, nomierina strīdu."
       },
       {
         "verse": 19,
         "en": "19The way of the slothful <i>man is</i> as an hedge of thorns: but the way of the righteous <i>is </i>made plain.",
-        "lv": "19 <p>Slinkā ceļš <i>ir kā</i> ērkšķu žogs: bet taisnā ceļš <i>tiek </i>darīts līdzens."
+        "lv": "19 <span class='p'></span> Slinkā ceļš <i>ir kā</i> ērkšķu žogs: bet taisnā ceļš <i>tiek </i>darīts līdzens."
       },
       {
         "verse": 20,
         "en": "20A wise son maketh a glad father: but a foolish man despiseth his mother.",
-        "lv": "20 <p>Gudrs dēls ielīksmo tēvu: bet muļķīgais nicina savu māti."
+        "lv": "20 <span class='p'></span> Gudrs dēls ielīksmo tēvu: bet muļķīgais nicina savu māti."
       },
       {
         "verse": 21,
         "en": "21Folly <i>is </i>joy to <i>him that is </i>destitute of wisdom: but a man of understanding walketh uprightly.",
-        "lv": "21 <p>Muļķība <i>ir </i>prieks <i>tam, kam</i> trūkst gudrības: bet saprātīgais staigā taisnīgi."
+        "lv": "21 <span class='p'></span> Muļķība <i>ir </i>prieks <i>tam, kam</i> trūkst gudrības: bet saprātīgais staigā taisnīgi."
       },
       {
         "verse": 22,
@@ -2178,32 +2178,32 @@
       {
         "verse": 23,
         "en": "23A man hath joy by the answer of his mouth: and a word <i>spoken </i>in due season, how good <i>is it</i>!",
-        "lv": "23 <p>Cilvēkam ir prieks caur savas mutes atbildi: un vārds, <i>runāts </i>īstā laikā, cik labs <i>tas ir</i>!"
+        "lv": "23 <span class='p'></span> Cilvēkam ir prieks caur savas mutes atbildi: un vārds, <i>runāts </i>īstā laikā, cik labs <i>tas ir</i>!"
       },
       {
         "verse": 24,
         "en": "24The way of life <i>is </i>above to the wise, that he may depart from hell beneath.",
-        "lv": "24 <p>Dzīvības ceļš <i>ir </i>augšā gudrajam, lai viņš var aiziet no elles apakšā."
+        "lv": "24 <span class='p'></span> Dzīvības ceļš <i>ir </i>augšā gudrajam, lai viņš var aiziet no elles apakšā."
       },
       {
         "verse": 25,
         "en": "25The LORD will destroy the house of the proud: but he will establish the border of the widow.",
-        "lv": "25 <p>Tas KUNGS iznīcinās lepnā namu: bet viņš nostiprinās atraitnes robežu."
+        "lv": "25 <span class='p'></span> Tas KUNGS iznīcinās lepnā namu: bet viņš nostiprinās atraitnes robežu."
       },
       {
         "verse": 26,
         "en": "26The thoughts of the wicked are an abomination to the LORD: but <i>the words</i> of the pure <i>are </i>pleasant words.",
-        "lv": "26 <p>Nelietīgā domas ir negantība tam KUNGAM: bet šķīsto <i>vārdi ir</i> patīkami vārdi."
+        "lv": "26 <span class='p'></span> Nelietīgā domas ir negantība tam KUNGAM: bet šķīsto <i>vārdi ir</i> patīkami vārdi."
       },
       {
         "verse": 27,
         "en": "27He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.",
-        "lv": "27 <p>Tas, kas ir alkatīgs uz ieguvumu, iztrūcina savu paša namu; bet tas, kas ienīst dāvanas, dzīvos."
+        "lv": "27 <span class='p'></span> Tas, kas ir alkatīgs uz ieguvumu, iztrūcina savu paša namu; bet tas, kas ienīst dāvanas, dzīvos."
       },
       {
         "verse": 28,
         "en": "28The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.",
-        "lv": "28 <p>Taisno sirds studē atbildēt: bet nelietīgo mute izlej ļaunu."
+        "lv": "28 <span class='p'></span> Taisno sirds studē atbildēt: bet nelietīgo mute izlej ļaunu."
       },
       {
         "verse": 29,
@@ -2213,12 +2213,12 @@
       {
         "verse": 30,
         "en": "30The light of the eyes rejoiceth the heart: <i>and </i>a good report maketh the bones fat.",
-        "lv": "30 <p>Acu gaisma iepriecina sirdi: <i>un </i>laba liecība dara kaulus treknus."
+        "lv": "30 <span class='p'></span> Acu gaisma iepriecina sirdi: <i>un </i>laba liecība dara kaulus treknus."
       },
       {
         "verse": 31,
         "en": "31The ear that heareth the reproof of life abideth among the wise.",
-        "lv": "31 <p>Auss, kas klausās dzīvības rājienu, paliek starp gudrajiem."
+        "lv": "31 <span class='p'></span> Auss, kas klausās dzīvības rājienu, paliek starp gudrajiem."
       },
       {
         "verse": 32,
@@ -2240,7 +2240,7 @@
       {
         "verse": 2,
         "en": "2All the ways of a man <i>are </i>clean in his own eyes; but the LORD weigheth the spirits.",
-        "lv": "2 <p>Visi cilvēka ceļi <i>ir </i>tīri viņa paša acīs; bet tas KUNGS nosver garus."
+        "lv": "2 <span class='p'></span> Visi cilvēka ceļi <i>ir </i>tīri viņa paša acīs; bet tas KUNGS nosver garus."
       },
       {
         "verse": 3,
@@ -2270,27 +2270,27 @@
       {
         "verse": 8,
         "en": "8 Better <i>is </i>a little with righteousness than great revenues without right.",
-        "lv": "8 <p>Labāk<i> ir </i>mazumiņš ar taisnību nekā lieli ienākumi bez taisnības."
+        "lv": "8 <span class='p'></span> Labāk<i> ir </i>mazumiņš ar taisnību nekā lieli ienākumi bez taisnības."
       },
       {
         "verse": 9,
         "en": "9A man's heart deviseth his way: but the LORD directeth his steps.",
-        "lv": "9 <p>Cilvēka sirds nodomā savu ceļu: bet tas KUNGS virza viņa soļus."
+        "lv": "9 <span class='p'></span> Cilvēka sirds nodomā savu ceļu: bet tas KUNGS virza viņa soļus."
       },
       {
         "verse": 10,
         "en": "10A divine sentence <i>is </i>in the lips of the king: his mouth transgresseth not in judgment.",
-        "lv": "10 <p>Dievišķs spriedums <i>ir </i>ķēniņa lūpās: viņa mute nepārkāpj tiesā."
+        "lv": "10 <span class='p'></span> Dievišķs spriedums <i>ir </i>ķēniņa lūpās: viņa mute nepārkāpj tiesā."
       },
       {
         "verse": 11,
         "en": "11A just weight and balance <i>are </i>the LORD'S: all the weights of the bag <i>are </i>his work.",
-        "lv": "11 <p>Taisni svari un svaru kausi <i>ir </i>tā KUNGA: visi maisa atsvari <i>ir </i>viņa darbs."
+        "lv": "11 <span class='p'></span> Taisni svari un svaru kausi <i>ir </i>tā KUNGA: visi maisa atsvari <i>ir </i>viņa darbs."
       },
       {
         "verse": 12,
         "en": "12<i>It is</i> an abomination to kings to commit wickedness: for the throne is established by righteousness.",
-        "lv": "12 <p><i>Tā ir</i> negantība ķēniņiem darīt nelietību: jo tronis tiek nostiprināts caur taisnību."
+        "lv": "12 <span class='p'></span> <i>Tā ir</i> negantība ķēniņiem darīt nelietību: jo tronis tiek nostiprināts caur taisnību."
       },
       {
         "verse": 13,
@@ -2310,17 +2310,17 @@
       {
         "verse": 16,
         "en": "16How much better<i> is it</i> to get wisdom than gold! and to get understanding rather to be chosen than silver!",
-        "lv": "16 <p>Cik daudz labāk <i>ir </i>iegūt gudrību nekā zeltu! un labāk izraudzīties iegūt saprašanu nekā sudrabu! "
+        "lv": "16 <span class='p'></span> Cik daudz labāk <i>ir </i>iegūt gudrību nekā zeltu! un labāk izraudzīties iegūt saprašanu nekā sudrabu!"
       },
       {
         "verse": 17,
         "en": "17The highway of the upright <i>is </i>to depart from evil: he that keepeth his way preserveth his soul.",
-        "lv": "17 <p>Taisnīgā lielceļš <i>ir </i>aiziet no ļauna: tas, kas sargā savu ceļu, pasaudzē savu dvēseli."
+        "lv": "17 <span class='p'></span> Taisnīgā lielceļš <i>ir </i>aiziet no ļauna: tas, kas sargā savu ceļu, pasaudzē savu dvēseli."
       },
       {
         "verse": 18,
         "en": "18Pride <i>goeth </i>before destruction, and an haughty spirit before a fall.",
-        "lv": "18 <p>Lepnums <i>iet </i>pirms iznīcības, un augstprātīgs gars pirms krišanas."
+        "lv": "18 <span class='p'></span> Lepnums <i>iet </i>pirms iznīcības, un augstprātīgs gars pirms krišanas."
       },
       {
         "verse": 19,
@@ -2330,22 +2330,22 @@
       {
         "verse": 20,
         "en": "20He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy <i>is </i>he.",
-        "lv": "20 <p>Tas, kas ar lietu rīkojas gudri, atradīs labu: un kas vien paļaujas uz to KUNGU, laimīgs viņš <i>ir</i>."
+        "lv": "20 <span class='p'></span> Tas, kas ar lietu rīkojas gudri, atradīs labu: un kas vien paļaujas uz to KUNGU, laimīgs viņš <i>ir</i>."
       },
       {
         "verse": 21,
         "en": "21The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.",
-        "lv": "21 <p>Sirdī gudrais tiks saukts prātīgs: un lūpu saldums dod pieaugt mācībai."
+        "lv": "21 <span class='p'></span> Sirdī gudrais tiks saukts prātīgs: un lūpu saldums dod pieaugt mācībai."
       },
       {
         "verse": 22,
         "en": "22Understanding <i>is </i>a wellspring of life unto him that hath it: but the instruction of fools <i>is </i>folly.",
-        "lv": "22 <p>Saprašana <i>ir </i>dzīvības avots tam, kam tā ir: bet muļķu pamācība <i>ir </i>muļķība."
+        "lv": "22 <span class='p'></span> Saprašana <i>ir </i>dzīvības avots tam, kam tā ir: bet muļķu pamācība <i>ir </i>muļķība."
       },
       {
         "verse": 23,
         "en": "23The heart of the wise teacheth his mouth, and addeth learning to his lips.",
-        "lv": "23 <p>Gudrā sirds māca viņa muti un pieliek mācību viņa lūpām."
+        "lv": "23 <span class='p'></span> Gudrā sirds māca viņa muti un pieliek mācību viņa lūpām."
       },
       {
         "verse": 24,
@@ -2360,22 +2360,22 @@
       {
         "verse": 26,
         "en": "26He that laboureth laboureth for himself; for his mouth craveth it of him.",
-        "lv": "26 <p>Tas, kas pūlas, pūlas sev pašam; jo viņa mute to no viņa alkst."
+        "lv": "26 <span class='p'></span> Tas, kas pūlas, pūlas sev pašam; jo viņa mute to no viņa alkst."
       },
       {
         "verse": 27,
         "en": "27An ungodly man diggeth up evil: and in his lips <i>there is</i> as a burning fire.",
-        "lv": "27 <p>Bezdievīgais izrok ļaunumu: un viņa lūpās <i>ir </i>kā degošs uguns."
+        "lv": "27 <span class='p'></span> Bezdievīgais izrok ļaunumu: un viņa lūpās <i>ir </i>kā degošs uguns."
       },
       {
         "verse": 28,
         "en": "28A froward man soweth strife: and a whisperer separateth chief friends.",
-        "lv": "28 <p>Patgalvis sēj strīdu: un mēlnesis šķir tuvākos draugus."
+        "lv": "28 <span class='p'></span> Patgalvis sēj strīdu: un mēlnesis šķir tuvākos draugus."
       },
       {
         "verse": 29,
         "en": "29A violent man enticeth his neighbour, and leadeth him into the way <i>that is </i>not good.",
-        "lv": "29 <p>Vardarbīgs cilvēks vilina savu tuvāko un ved viņu ceļā, <i>kas </i>nav labs."
+        "lv": "29 <span class='p'></span> Vardarbīgs cilvēks vilina savu tuvāko un ved viņu ceļā, <i>kas </i>nav labs."
       },
       {
         "verse": 30,
@@ -2385,12 +2385,12 @@
       {
         "verse": 31,
         "en": "31The hoary head <i>is </i>a crown of glory, <i>if </i>it be found in the way of righteousness.",
-        "lv": "31 <p>Sirma galva <i>ir </i>godības kronis, <i>ja </i>tas tiek atrasts taisnības ceļā."
+        "lv": "31 <span class='p'></span> Sirma galva <i>ir </i>godības kronis, <i>ja </i>tas tiek atrasts taisnības ceļā."
       },
       {
         "verse": 32,
         "en": "32<i>He that is</i> slow to anger <i>is </i>better than the mighty; and he that ruleth his spirit than he that taketh a city.",
-        "lv": "32 <p><i>Tas, kas ir</i> lēns dusmot, <i>ir</i> labāks nekā varenais; un tas, kas valda savu garu, nekā tas, kas ieņem pilsētu."
+        "lv": "32 <span class='p'></span> <i>Tas, kas ir</i> lēns dusmot, <i>ir</i> labāks nekā varenais; un tas, kas valda savu garu, nekā tas, kas ieņem pilsētu."
       },
       {
         "verse": 33,
@@ -2407,42 +2407,42 @@
       {
         "verse": 2,
         "en": "2A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.",
-        "lv": "2 <p>Gudrs kalps valdīs pār dēlu, kas izraisa kaunu, un <i>[viņam]</i> būs mantojuma daļa starp brāļiem."
+        "lv": "2 <span class='p'></span> Gudrs kalps valdīs pār dēlu, kas izraisa kaunu, un <i>[viņam]</i> būs mantojuma daļa starp brāļiem."
       },
       {
         "verse": 3,
         "en": "3The fining pot <i>is</i> for silver, and the furnace for gold: but the LORD trieth the hearts.",
-        "lv": "3 <p>Rafinējamais pods <i>ir </i>priekš<i> </i>sudraba un ceplis priekš zelta: bet tas KUNGS pārbauda sirdis."
+        "lv": "3 <span class='p'></span> Rafinējamais pods <i>ir </i>priekš<i> </i>sudraba un ceplis priekš zelta: bet tas KUNGS pārbauda sirdis."
       },
       {
         "verse": 4,
         "en": "4A wicked doer giveth heed to false lips; <i>and </i>a liar giveth ear to a naughty tongue.",
-        "lv": "4 <p>Nelietības darītājs ņem vērā nepatiesas lūpas; <i>un</i> melis ieklausās nepiedienīgā mēlē."
+        "lv": "4 <span class='p'></span> Nelietības darītājs ņem vērā nepatiesas lūpas; <i>un</i> melis ieklausās nepiedienīgā mēlē."
       },
       {
         "verse": 5,
         "en": "5Whoso mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished.",
-        "lv": "5 <p>Kas vien izsmej nabagu, apsmej viņa Veidotāju: un tas, kas līksmojas par nelaimēm, nepaliks nesodīts."
+        "lv": "5 <span class='p'></span> Kas vien izsmej nabagu, apsmej viņa Veidotāju: un tas, kas līksmojas par nelaimēm, nepaliks nesodīts."
       },
       {
         "verse": 6,
         "en": "6Children's children <i>are </i>the crown of old men; and the glory of children <i>are </i>their fathers.",
-        "lv": "6 <p>Bērnu bērni <i>ir </i>veco kronis; un bērnu godība <i>ir </i>viņu tēvi."
+        "lv": "6 <span class='p'></span> Bērnu bērni <i>ir </i>veco kronis; un bērnu godība <i>ir </i>viņu tēvi."
       },
       {
         "verse": 7,
         "en": "7Excellent speech becometh not a fool: much less do lying lips a prince.",
-        "lv": "7 <p>Teicama runa nepieklājas muļķim: daudz mazāk melīgas lūpas princim."
+        "lv": "7 <span class='p'></span> Teicama runa nepieklājas muļķim: daudz mazāk melīgas lūpas princim."
       },
       {
         "verse": 8,
         "en": "8A gift<i> is as </i>a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.",
-        "lv": "8 <p>Dāvana<i> ir kā </i>dārgs akmens tā acīs, kam tā ir: kurp vien tas griežas, tam sekmējas."
+        "lv": "8 <span class='p'></span> Dāvana<i> ir kā </i>dārgs akmens tā acīs, kam tā ir: kurp vien tas griežas, tam sekmējas."
       },
       {
         "verse": 9,
         "en": "9He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.",
-        "lv": "9 <p>Tas, kas apsedz pārkāpumu, meklē mīlestību; bet tas, kas atkārto lietu, šķir<i> </i>tuvākos<i> </i>draugus."
+        "lv": "9 <span class='p'></span> Tas, kas apsedz pārkāpumu, meklē mīlestību; bet tas, kas atkārto lietu, šķir<i> </i>tuvākos<i> </i>draugus."
       },
       {
         "verse": 10,
@@ -2452,37 +2452,37 @@
       {
         "verse": 11,
         "en": "11An evil <i>man </i>seeketh only rebellion: therefore a cruel messenger shall be sent against him.",
-        "lv": "11 <p>Ļaunais meklē tikai dumpību: tāpēc cietsirdīgs vēstnesis pret viņu tiks sūtīts."
+        "lv": "11 <span class='p'></span> Ļaunais meklē tikai dumpību: tāpēc cietsirdīgs vēstnesis pret viņu tiks sūtīts."
       },
       {
         "verse": 12,
         "en": "12Let a bear robbed of her whelps meet a man, rather than a fool in his folly.",
-        "lv": "12 <p>Labāk lai lācene, <i>[kurai]</i> nolaupīti mazuļi, satiek cilvēku, nekā muļķis savā muļķībā."
+        "lv": "12 <span class='p'></span> Labāk lai lācene, <i>[kurai]</i> nolaupīti mazuļi, satiek cilvēku, nekā muļķis savā muļķībā."
       },
       {
         "verse": 13,
         "en": "13Whoso rewardeth evil for good, evil shall not depart from his house.",
-        "lv": "13 <p>Kas vien ļaunu atalgo par labu, ļaunums neaizies no viņa nama."
+        "lv": "13 <span class='p'></span> Kas vien ļaunu atalgo par labu, ļaunums neaizies no viņa nama."
       },
       {
         "verse": 14,
         "en": "14The beginning of strife <i>is as</i> when one letteth out water: therefore leave off contention, before it be meddled with.",
-        "lv": "14 <p>Strīda iesākums<i> ir kā</i>, kad kāds izlaiž ūdeni; tāpēc pamet nesaskaņas pirms ar tām sāk jaukties."
+        "lv": "14 <span class='p'></span> Strīda iesākums<i> ir kā</i>, kad kāds izlaiž ūdeni; tāpēc pamet nesaskaņas pirms ar tām sāk jaukties."
       },
       {
         "verse": 15,
         "en": "15He that justifieth the wicked, and he that condemneth the just, even they both <i>are </i>abomination to the LORD.",
-        "lv": "15 <p>Tas, kas attaisno nelietīgo un tas, kas nosoda taisno, proti, tie abi <i>ir </i>negantība tam KUNGAM."
+        "lv": "15 <span class='p'></span> Tas, kas attaisno nelietīgo un tas, kas nosoda taisno, proti, tie abi <i>ir </i>negantība tam KUNGAM."
       },
       {
         "verse": 16,
         "en": "16Wherefore <i>is there</i> a price in the hand of a fool to get wisdom, seeing <i>he hath</i> no heart <i>to it</i>?",
-        "lv": "16 <p>Kādēļ muļķa rokā <i>ir </i>maksa iegūt gudrību, ja <i>viņa </i>sirds nav<i> uz to</i>?"
+        "lv": "16 <span class='p'></span> Kādēļ muļķa rokā <i>ir </i>maksa iegūt gudrību, ja <i>viņa </i>sirds nav<i> uz to</i>?"
       },
       {
         "verse": 17,
         "en": "17A friend loveth at all times, and a brother is born for adversity.",
-        "lv": "17 <p>Draugs mīl visos laikos, un brālis ir dzimis likstai."
+        "lv": "17 <span class='p'></span> Draugs mīl visos laikos, un brālis ir dzimis likstai."
       },
       {
         "verse": 18,
@@ -2492,32 +2492,32 @@
       {
         "verse": 19,
         "en": "19He loveth transgression that loveth strife: <i>and </i>he that exalteth his gate seeketh destruction.",
-        "lv": "19 <p>Tas, kas mīl strīdu, mīl pārkāpumu: <i>un </i>tas, kas paaugstina savus vārtus, meklē iznīcību."
+        "lv": "19 <span class='p'></span> Tas, kas mīl strīdu, mīl pārkāpumu: <i>un </i>tas, kas paaugstina savus vārtus, meklē iznīcību."
       },
       {
         "verse": 20,
         "en": "20He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.",
-        "lv": "20 <p>Tas, kam ir patgalvīga sirds, neatrod labu: un tas, kam ir samaitāta mēle, krīt ļaunumā."
+        "lv": "20 <span class='p'></span> Tas, kam ir patgalvīga sirds, neatrod labu: un tas, kam ir samaitāta mēle, krīt ļaunumā."
       },
       {
         "verse": 21,
         "en": "21He that begetteth a fool <i>doeth it </i>to his sorrow: and the father of a fool hath no joy.",
-        "lv": "21 <p>Tas, kas dzemdina muļķi, <i>to</i> <i>dara</i> savām skumjām: un muļķa tēvam nav prieka."
+        "lv": "21 <span class='p'></span> Tas, kas dzemdina muļķi, <i>to</i> <i>dara</i> savām skumjām: un muļķa tēvam nav prieka."
       },
       {
         "verse": 22,
         "en": "22A merry heart doeth good <i>like </i>a medicine: but a broken spirit drieth the bones.",
-        "lv": "22 <p>Līksma sirds dara labu <i>kā </i>zāles: bet salauzts gars izžāvē kaulus."
+        "lv": "22 <span class='p'></span> Līksma sirds dara labu <i>kā </i>zāles: bet salauzts gars izžāvē kaulus."
       },
       {
         "verse": 23,
         "en": "23A wicked <i>man </i>taketh a gift out of the bosom to pervert the ways of judgment.",
-        "lv": "23 <p>Nelietīgais ņem dāvanu no azotes, lai samaitātu tiesas ceļus."
+        "lv": "23 <span class='p'></span> Nelietīgais ņem dāvanu no azotes, lai samaitātu tiesas ceļus."
       },
       {
         "verse": 24,
         "en": "24Wisdom <i>is </i>before him that hath understanding; but the eyes of a fool <i>are </i>in the ends of the earth.",
-        "lv": "24 <p>Gudrība <i>ir </i>tā priekšā, kam ir saprašana: bet muļķa acis <i>ir </i>zemes galos."
+        "lv": "24 <span class='p'></span> Gudrība <i>ir </i>tā priekšā, kam ir saprašana: bet muļķa acis <i>ir </i>zemes galos."
       },
       {
         "verse": 25,
@@ -2527,12 +2527,12 @@
       {
         "verse": 26,
         "en": "26Also to punish the just <i>is </i>not good, <i>nor </i>to strike princes for equity.",
-        "lv": "26 <p>Arī sodīt taisno nav labi, <i>ne </i>sist prinčus godīguma dēļ."
+        "lv": "26 <span class='p'></span> Arī sodīt taisno nav labi, <i>ne </i>sist prinčus godīguma dēļ."
       },
       {
         "verse": 27,
         "en": "27He that hath knowledge spareth his words: <i>and </i>a man of understanding is of an excellent spirit.",
-        "lv": "27 <p>Tas, kam ir atzīšana, taupa savus vārdus: <i>un </i>saprātīgais ir no teicama gara."
+        "lv": "27 <span class='p'></span> Tas, kam ir atzīšana, taupa savus vārdus: <i>un </i>saprātīgais ir no teicama gara."
       },
       {
         "verse": 28,
@@ -2554,22 +2554,22 @@
       {
         "verse": 3,
         "en": "3When the wicked cometh, <i>then </i>cometh also contempt, and with ignominy reproach.",
-        "lv": "3 <p>Kad nāk nelietīgais, <i>tad </i>nāk arī nicināšana, un ar negodīgu rīcību — apkaunojums."
+        "lv": "3 <span class='p'></span> Kad nāk nelietīgais, <i>tad </i>nāk arī nicināšana, un ar negodīgu rīcību — apkaunojums."
       },
       {
         "verse": 4,
         "en": "4The words of a man's mouth <i>are as</i> deep waters, <i>and </i>the wellspring of wisdom <i>as </i>a flowing brook.",
-        "lv": "4 <p>Cilvēka mutes vārdi <i>ir kā</i> dziļi ūdeņi, <i>un </i>gudrības avots <i>kā </i>plūstošs strauts."
+        "lv": "4 <span class='p'></span> Cilvēka mutes vārdi <i>ir kā</i> dziļi ūdeņi, <i>un </i>gudrības avots <i>kā </i>plūstošs strauts."
       },
       {
         "verse": 5,
         "en": "5<i>It is</i> not good to accept the person of the wicked, to overthrow the righteous in judgment.",
-        "lv": "5 <p>Nav labi pieņemt nelietīgā personību, lai apgāztu taisno tiesā."
+        "lv": "5 <span class='p'></span> Nav labi pieņemt nelietīgā personību, lai apgāztu taisno tiesā."
       },
       {
         "verse": 6,
         "en": "6A fool's lips enter into contention, and his mouth calleth for strokes.",
-        "lv": "6 <p>Muļķa lūpas ieiet nesaskaņā, un viņa mute sauc pēc sitieniem."
+        "lv": "6 <span class='p'></span> Muļķa lūpas ieiet nesaskaņā, un viņa mute sauc pēc sitieniem."
       },
       {
         "verse": 7,
@@ -2579,67 +2579,67 @@
       {
         "verse": 8,
         "en": "8The words of a talebearer <i>are </i>as wounds, and they go down into the innermost parts of the belly.",
-        "lv": "8 <p>Tenkotāja vārdi <i>ir </i>kā ievainojumi, un tie noiet dziļākajās vēdera daļās."
+        "lv": "8 <span class='p'></span> Tenkotāja vārdi <i>ir </i>kā ievainojumi, un tie noiet dziļākajās vēdera daļās."
       },
       {
         "verse": 9,
         "en": "9He also that is slothful in his work is brother to him that is a great waster.",
-        "lv": "9 <p>Arī tas, kas ir slinks savā darbā, ir brālis tam, kas ir liels izšķērdētājs."
+        "lv": "9 <span class='p'></span> Arī tas, kas ir slinks savā darbā, ir brālis tam, kas ir liels izšķērdētājs."
       },
       {
         "verse": 10,
         "en": "10The name of the LORD <i>is </i>a strong tower: the righteous runneth into it, and is safe.",
-        "lv": "10 <p>Tā KUNGA vārds <i>ir </i>stiprs tornis: taisnais ieskrien tajā un ir drošs."
+        "lv": "10 <span class='p'></span> Tā KUNGA vārds <i>ir </i>stiprs tornis: taisnais ieskrien tajā un ir drošs."
       },
       {
         "verse": 11,
         "en": "11The rich man's wealth <i>is </i>his strong city, and as an high wall in his own conceit.",
-        "lv": "11 <p>Bagātā turība <i>ir </i>viņa stiprā pilsēta un kā augsts mūris viņa paša iedomās."
+        "lv": "11 <span class='p'></span> Bagātā turība <i>ir </i>viņa stiprā pilsēta un kā augsts mūris viņa paša iedomās."
       },
       {
         "verse": 12,
         "en": "12Before destruction the heart of man is haughty, and before honour <i>is </i>humility.",
-        "lv": "12 <p>Pirms iznīcības cilvēka sirds ir augstprātīga, un pirms goda <i>ir</i> pazemība."
+        "lv": "12 <span class='p'></span> Pirms iznīcības cilvēka sirds ir augstprātīga, un pirms goda <i>ir</i> pazemība."
       },
       {
         "verse": 13,
         "en": "13He that answereth a matter before he heareth <i>it</i>, it <i>is </i>folly and shame unto him.",
-        "lv": "13 <p>Tas, kas atbild lietu pirms <i>to </i>ir dzirdējis, tas viņam <i>ir </i>muļķība un kauns."
+        "lv": "13 <span class='p'></span> Tas, kas atbild lietu pirms <i>to </i>ir dzirdējis, tas viņam <i>ir </i>muļķība un kauns."
       },
       {
         "verse": 14,
         "en": "14The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?",
-        "lv": "14 <p>Cilvēka gars uzturēs savu vājumu; bet ievainotu garu — kurš var panest?"
+        "lv": "14 <span class='p'></span> Cilvēka gars uzturēs savu vājumu; bet ievainotu garu — kurš var panest?"
       },
       {
         "verse": 15,
         "en": "15The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
-        "lv": "15 <p>Prātīgā sirds iegūst atzīšanu; un gudrā auss meklē atzīšanu."
+        "lv": "15 <span class='p'></span> Prātīgā sirds iegūst atzīšanu; un gudrā auss meklē atzīšanu."
       },
       {
         "verse": 16,
         "en": "16A man's gift maketh room for him, and bringeth him before great men.",
-        "lv": "16 <p>Cilvēka dāvana viņam sataisa vietu un viņu ved lielu cilvēku priekšā."
+        "lv": "16 <span class='p'></span> Cilvēka dāvana viņam sataisa vietu un viņu ved lielu cilvēku priekšā."
       },
       {
         "verse": 17,
         "en": "17<i>He that is</i> first in his own cause <i>seemeth </i>just; but his neighbour cometh and searcheth him.",
-        "lv": "17 <p><i>Tas, kas ir</i> pirmais savā paša lietā, <i>šķiet</i> taisns; bet viņa tuvākais nāk un viņu izmeklē."
+        "lv": "17 <span class='p'></span> <i>Tas, kas ir</i> pirmais savā paša lietā, <i>šķiet</i> taisns; bet viņa tuvākais nāk un viņu izmeklē."
       },
       {
         "verse": 18,
         "en": "18The lot causeth contentions to cease, and parteth between the mighty.",
-        "lv": "18 <p>Mesli liek nesaskaņām mitēties un izšķir <i>[strīdu] </i>starp varenajiem."
+        "lv": "18 <span class='p'></span> Mesli liek nesaskaņām mitēties un izšķir <i>[strīdu] </i>starp varenajiem."
       },
       {
         "verse": 19,
         "en": "19A brother offended <i>is harder to be won</i> than a strong city: and <i>their </i>contentions <i>are </i>like the bars of a castle.",
-        "lv": "19 <p>Apgrēcināts brālis <i>ir grūtāk iegūstams</i> nekā stipra pilsēta: un <i>viņu </i>nesaskaņas <i>ir </i>kā pils restes."
+        "lv": "19 <span class='p'></span> Apgrēcināts brālis <i>ir grūtāk iegūstams</i> nekā stipra pilsēta: un <i>viņu </i>nesaskaņas <i>ir </i>kā pils restes."
       },
       {
         "verse": 20,
         "en": "20A man's belly shall be satisfied with the fruit of his mouth; <i>and </i>with the increase of his lips shall he be filled.",
-        "lv": "20 <p>Cilvēka vēders tiks apmierināts no sava mutes augļa; <i>un</i> no viņa lūpu pieauguma viņš būs paēdis."
+        "lv": "20 <span class='p'></span> Cilvēka vēders tiks apmierināts no sava mutes augļa; <i>un</i> no viņa lūpu pieauguma viņš būs paēdis."
       },
       {
         "verse": 21,
@@ -2649,17 +2649,17 @@
       {
         "verse": 22,
         "en": "22<i>Whoso</i> findeth a wife findeth a good <i>thing</i>, and obtaineth favour of the LORD.",
-        "lv": "22 <p><i>Kas vien</i> atrod sievu, atrod labumu un iegūst labvēlību no tā KUNGA."
+        "lv": "22 <span class='p'></span> <i>Kas vien</i> atrod sievu, atrod labumu un iegūst labvēlību no tā KUNGA."
       },
       {
         "verse": 23,
         "en": "23The poor useth intreaties; but the rich answereth roughly.",
-        "lv": "23 <p>Nabags lieto lūgumus; bet bagātais atbild rupji."
+        "lv": "23 <span class='p'></span> Nabags lieto lūgumus; bet bagātais atbild rupji."
       },
       {
         "verse": 24,
         "en": "24A man <i>that hath </i>friends must shew himself friendly: and there is a friend <i>that </i>sticketh closer than a brother.",
-        "lv": "24 <p>Cilvēkam, <i>kam ir</i> draugi, jārādās draudzīgam: un ir draugs, <i>kas </i>pielīp tuvāk nekā brālis."
+        "lv": "24 <span class='p'></span> Cilvēkam, <i>kam ir</i> draugi, jārādās draudzīgam: un ir draugs, <i>kas </i>pielīp tuvāk nekā brālis."
       }
     ],
     "19": [
@@ -2671,62 +2671,62 @@
       {
         "verse": 2,
         "en": "2Also, <i>that </i>the soul <i>be </i>without knowledge, <i>it is </i>not good; and he that hasteth with <i>his </i>feet sinneth.",
-        "lv": "2 <p>Arī, <i>ja </i>dvēsele <i>ir </i>bez atzīšanas, <i>tas </i>nav labi; un tas, kas steidzas ar <i>savām </i>kājām, grēko."
+        "lv": "2 <span class='p'></span> Arī, <i>ja </i>dvēsele <i>ir </i>bez atzīšanas, <i>tas </i>nav labi; un tas, kas steidzas ar <i>savām </i>kājām, grēko."
       },
       {
         "verse": 3,
         "en": "3The foolishness of man perverteth his way: and his heart fretteth against the LORD.",
-        "lv": "3 <p>Cilvēka muļķība samaitā viņa ceļu: un viņa sirds skaistās pret to KUNGU."
+        "lv": "3 <span class='p'></span> Cilvēka muļķība samaitā viņa ceļu: un viņa sirds skaistās pret to KUNGU."
       },
       {
         "verse": 4,
         "en": "4Wealth maketh many friends; but the poor is separated from his neighbour.",
-        "lv": "4 <p>Turība dara daudz draugu; bet nabags ir nošķirts no sava tuvākā."
+        "lv": "4 <span class='p'></span> Turība dara daudz draugu; bet nabags ir nošķirts no sava tuvākā."
       },
       {
         "verse": 5,
         "en": "5A false witness shall not be unpunished, and <i>he that</i> speaketh lies shall not escape.",
-        "lv": "5 <p>Nepatiess liecinieks nebūs nesodīts, un <i>tas, kas</i> runā melus, neizbēgs."
+        "lv": "5 <span class='p'></span> Nepatiess liecinieks nebūs nesodīts, un <i>tas, kas</i> runā melus, neizbēgs."
       },
       {
         "verse": 6,
         "en": "6Many will intreat the favour of the prince: and every man <i>is </i>a friend to him that giveth gifts.",
-        "lv": "6 <p>Daudzi grib lūgties prinča labvēlību: un ikviens <i>ir </i>draugs tam, kas dod dāvanas."
+        "lv": "6 <span class='p'></span> Daudzi grib lūgties prinča labvēlību: un ikviens <i>ir </i>draugs tam, kas dod dāvanas."
       },
       {
         "verse": 7,
         "en": "7All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth <i>them with</i> words, <i>yet </i>they <i>are </i>wanting <i>to him</i>.",
-        "lv": "7 <p>Visi nabagā brāļi viņu ienīst: cik daudz vairāk viņa draugi iet tālu no viņa? viņš <i>tos </i>vajā <i>ar</i> vārdiem, <i>tomēr </i>tie <i>viņam </i>trūkst."
+        "lv": "7 <span class='p'></span> Visi nabagā brāļi viņu ienīst: cik daudz vairāk viņa draugi iet tālu no viņa? viņš <i>tos </i>vajā <i>ar</i> vārdiem, <i>tomēr </i>tie <i>viņam </i>trūkst."
       },
       {
         "verse": 8,
         "en": "8He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
-        "lv": "8 <p>Tas, kas iegūst gudrību, mīl savu paša dvēseli: tas, kas sargā saprašanu, atradīs labu."
+        "lv": "8 <span class='p'></span> Tas, kas iegūst gudrību, mīl savu paša dvēseli: tas, kas sargā saprašanu, atradīs labu."
       },
       {
         "verse": 9,
         "en": "9A false witness shall not be unpunished, and<i> he that </i>speaketh lies shall perish.",
-        "lv": "9 <p>Nepatiess liecinieks nebūs nesodīts, un <i>tas, kas</i> runā melus, ies bojā."
+        "lv": "9 <span class='p'></span> Nepatiess liecinieks nebūs nesodīts, un <i>tas, kas</i> runā melus, ies bojā."
       },
       {
         "verse": 10,
         "en": "10Delight is not seemly for a fool; much less for a servant to have rule over princes.",
-        "lv": "10 <p>Prieks nepieklājas muļķim; daudz mazāk kalpam valdīt pār prinčiem."
+        "lv": "10 <span class='p'></span> Prieks nepieklājas muļķim; daudz mazāk kalpam valdīt pār prinčiem."
       },
       {
         "verse": 11,
         "en": "11The discretion of a man deferreth his anger; and<i> it is</i> his glory to pass over a transgression.",
-        "lv": "11 <p>Cilvēka apdomība atliek viņa dusmas; un<i> tā ir</i> viņa godība iet pār pārkāpumu."
+        "lv": "11 <span class='p'></span> Cilvēka apdomība atliek viņa dusmas; un<i> tā ir</i> viņa godība iet pār pārkāpumu."
       },
       {
         "verse": 12,
         "en": "12The king's wrath <i>is</i> as the roaring of a lion; but his favour <i>is </i>as dew upon the grass.",
-        "lv": "12 <p>Ķēniņa bardzība <i>ir </i>kā lauvas rēkšana; bet viņa labvēlība <i>ir </i>kā rasa uz zāles."
+        "lv": "12 <span class='p'></span> Ķēniņa bardzība <i>ir </i>kā lauvas rēkšana; bet viņa labvēlība <i>ir </i>kā rasa uz zāles."
       },
       {
         "verse": 13,
         "en": "13A foolish son <i>is </i>the calamity of his father: and the contentions of a wife <i>are </i>a continual dropping.",
-        "lv": "13 <p>Muļķīgs dēls <i>ir </i>sava tēva nelaime: un sievas ķildas <i>ir </i>nepārtraukta pilēšana."
+        "lv": "13 <span class='p'></span> Muļķīgs dēls <i>ir </i>sava tēva nelaime: un sievas ķildas <i>ir </i>nepārtraukta pilēšana."
       },
       {
         "verse": 14,
@@ -2736,32 +2736,32 @@
       {
         "verse": 15,
         "en": "15Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
-        "lv": "15 <p>Slinkums iemet dziļā miegā; un bezdarbīga dvēsele cietīs izsalkumu."
+        "lv": "15 <span class='p'></span> Slinkums iemet dziļā miegā; un bezdarbīga dvēsele cietīs izsalkumu."
       },
       {
         "verse": 16,
         "en": "16He that keepeth the commandment keepeth his own soul; <i>but </i>he that despiseth his ways shall die.",
-        "lv": "16 <p>Tas, kas sargā pavēli, sargā savu paša dvēseli; <i>bet </i>tas, kas nicina savus ceļus, mirs."
+        "lv": "16 <span class='p'></span> Tas, kas sargā pavēli, sargā savu paša dvēseli; <i>bet </i>tas, kas nicina savus ceļus, mirs."
       },
       {
         "verse": 17,
         "en": "17He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
-        "lv": "17 <p>Tas, kas iežēlojas par nabago, aizdod tam KUNGAM; un to, ko viņš ir devis, viņš maksās viņam atpakaļ."
+        "lv": "17 <span class='p'></span> Tas, kas iežēlojas par nabago, aizdod tam KUNGAM; un to, ko viņš ir devis, viņš maksās viņam atpakaļ."
       },
       {
         "verse": 18,
         "en": "18Chasten thy son while there is hope, and let not thy soul spare for his crying.",
-        "lv": "18 <p>Pārmāci savu dēlu, kamēr ir cerība, un neļauj savai dvēselei taupīt viņa raudāšanas dēļ."
+        "lv": "18 <span class='p'></span> Pārmāci savu dēlu, kamēr ir cerība, un neļauj savai dvēselei taupīt viņa raudāšanas dēļ."
       },
       {
         "verse": 19,
         "en": "19A man of great wrath shall suffer punishment: for if thou deliver <i>him</i>, yet thou must do it again.",
-        "lv": "19 <p>Ļoti bargs cilvēks cietīs sodu: jo, ja tu <i>viņu </i>izpestī, tomēr tev tas jādara atkal."
+        "lv": "19 <span class='p'></span> Ļoti bargs cilvēks cietīs sodu: jo, ja tu <i>viņu </i>izpestī, tomēr tev tas jādara atkal."
       },
       {
         "verse": 20,
         "en": "20Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
-        "lv": "20 <p>Klausies padomu un pieņem pamācību, lai tu savā pēdējā galā vari būt gudrs."
+        "lv": "20 <span class='p'></span> Klausies padomu un pieņem pamācību, lai tu savā pēdējā galā vari būt gudrs."
       },
       {
         "verse": 21,
@@ -2771,27 +2771,27 @@
       {
         "verse": 22,
         "en": "22The desire of a man <i>is </i>his kindness: and a poor man <i>is</i> better than a liar.",
-        "lv": "22 <p>Cilvēka vēlme <i>ir</i> viņa laipnība: un nabags <i>ir </i>labāks par meli."
+        "lv": "22 <span class='p'></span> Cilvēka vēlme <i>ir</i> viņa laipnība: un nabags <i>ir </i>labāks par meli."
       },
       {
         "verse": 23,
         "en": "23The fear of the LORD <i>tendeth </i>to life: and<i> he that hath it</i> shall abide satisfied; he shall not be visited with evil.",
-        "lv": "23 <p>Tā KUNGA bijāšana <i>tiecas </i>uz dzīvību: un<i> tas, kam tā ir,</i> paliks apmierināts; viņš netiks apmeklēts ar ļaunu."
+        "lv": "23 <span class='p'></span> Tā KUNGA bijāšana <i>tiecas </i>uz dzīvību: un<i> tas, kam tā ir,</i> paliks apmierināts; viņš netiks apmeklēts ar ļaunu."
       },
       {
         "verse": 24,
         "en": "24A slothful <i>man</i> hideth his hand in <i>his </i>bosom, and will not so much as bring it to his mouth again.",
-        "lv": "24 <p>Slinkais slēpj savu roku <i>savā </i>azotē un negrib tik daudz kā to likt atpakaļ pie savas mutes."
+        "lv": "24 <span class='p'></span> Slinkais slēpj savu roku <i>savā </i>azotē un negrib tik daudz kā to likt atpakaļ pie savas mutes."
       },
       {
         "verse": 25,
         "en": "25Smite a scorner, and the simple will beware: and reprove one that hath understanding, <i>and</i> he will understand knowledge.",
-        "lv": "25 <p>Sit smējēju, un vientiesis sargāsies: un norāj to, kam ir saprašana, <i>un </i>viņš sapratīs atzīšanu."
+        "lv": "25 <span class='p'></span> Sit smējēju, un vientiesis sargāsies: un norāj to, kam ir saprašana, <i>un </i>viņš sapratīs atzīšanu."
       },
       {
         "verse": 26,
         "en": "26He that wasteth <i>his</i> father, <i>and </i>chaseth away <i>his </i>mother, <i>is </i>a son that causeth shame, and bringeth reproach.",
-        "lv": "26 <p>Tas, kas posta <i>savu </i>tēvu un vajā <i>savu </i>māti, ir dēls, kas izraisa kaunu un ved apsmieklu."
+        "lv": "26 <span class='p'></span> Tas, kas posta <i>savu </i>tēvu un vajā <i>savu </i>māti, ir dēls, kas izraisa kaunu un ved apsmieklu."
       },
       {
         "verse": 27,
@@ -2801,12 +2801,12 @@
       {
         "verse": 28,
         "en": "28An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
-        "lv": "28 <p>Bezdievīgs liecinieks apsmej tiesu: un nelietīgo mute aprij nekrietnību."
+        "lv": "28 <span class='p'></span> Bezdievīgs liecinieks apsmej tiesu: un nelietīgo mute aprij nekrietnību."
       },
       {
         "verse": 29,
         "en": "29Judgments are prepared for scorners, and stripes for the back of fools.",
-        "lv": "29 <p>Spriedumi tiek sagatavoti nievātajiem, un cirtieni muļķu mugurai."
+        "lv": "29 <span class='p'></span> Spriedumi tiek sagatavoti nievātajiem, un cirtieni muļķu mugurai."
       }
     ],
     "20": [
@@ -2818,112 +2818,112 @@
       {
         "verse": 2,
         "en": "2 The fear of a king <i>is </i>as the roaring of a lion: <i>whoso </i>provoketh him to anger sinneth <i>against </i>his own soul.",
-        "lv": "2 <p>Ķēniņa bijāšana <i>ir </i>kā lauvas rēkšana: <i>kurš vien </i>viņu provocē uz dusmām, grēko <i>pret</i> savu paša dvēseli."
+        "lv": "2 <span class='p'></span> Ķēniņa bijāšana <i>ir </i>kā lauvas rēkšana: <i>kurš vien </i>viņu provocē uz dusmām, grēko <i>pret</i> savu paša dvēseli."
       },
       {
         "verse": 3,
         "en": "3 <i>It is</i> an honour for a man to cease from strife: but every fool will be meddling.",
-        "lv": "3 <p>Cilvēkam <i>ir </i>gods mitēties no strīda: bet ikviens muļķis jauksies."
+        "lv": "3 <span class='p'></span> Cilvēkam <i>ir </i>gods mitēties no strīda: bet ikviens muļķis jauksies."
       },
       {
         "verse": 4,
         "en": "4The sluggard will not plow by reason of the cold; <i>therefore </i>shall he beg in harvest, and <i>have </i>nothing.",
-        "lv": "4 <p>Slaists nears aukstuma dēļ; <i>tāpēc </i>viņš ubagos pļaujas laikā, un <i>[viņam]</i> nekā <i>nebūs</i>."
+        "lv": "4 <span class='p'></span> Slaists nears aukstuma dēļ; <i>tāpēc </i>viņš ubagos pļaujas laikā, un <i>[viņam]</i> nekā <i>nebūs</i>."
       },
       {
         "verse": 5,
         "en": "5Counsel in the heart of man <i>is</i> <i>like </i>deep water; but a man of understanding will draw it out.",
-        "lv": "5 <p>Padoms cilvēka sirdī <i>ir kā</i> dziļš ūdens; bet saprātīgais to izvilks ārā."
+        "lv": "5 <span class='p'></span> Padoms cilvēka sirdī <i>ir kā</i> dziļš ūdens; bet saprātīgais to izvilks ārā."
       },
       {
         "verse": 6,
         "en": "6Most men will proclaim every one his own goodness: but a faithful man who can find?",
-        "lv": "6 <p>Vairums cilvēku ikviens pasludinās savu labestību: bet uzticamu cilvēku — kurš var atrast?"
+        "lv": "6 <span class='p'></span> Vairums cilvēku ikviens pasludinās savu labestību: bet uzticamu cilvēku — kurš var atrast?"
       },
       {
         "verse": 7,
         "en": "7The just <i>man </i>walketh in his integrity: his children are blessed after him.",
-        "lv": "7 <p>Taisnais staigā savā pilnīgumā: viņa bērni ir svētīti pēc viņa."
+        "lv": "7 <span class='p'></span> Taisnais staigā savā pilnīgumā: viņa bērni ir svētīti pēc viņa."
       },
       {
         "verse": 8,
         "en": "8A king that sitteth in the throne of judgment scattereth away all evil with his eyes.",
-        "lv": "8 <p>Ķēniņš, kas sēž tiesas tronī, izkaisa visu ļaunumu ar savām acīm."
+        "lv": "8 <span class='p'></span> Ķēniņš, kas sēž tiesas tronī, izkaisa visu ļaunumu ar savām acīm."
       },
       {
         "verse": 9,
         "en": "9Who can say, I have made my heart clean, I am pure from my sin?",
-        "lv": "9 <p>Kurš var sacīt, Es esmu darījis savu sirdi tīru, es esmu šķīsts no sava grēka?"
+        "lv": "9 <span class='p'></span> Kurš var sacīt, Es esmu darījis savu sirdi tīru, es esmu šķīsts no sava grēka?"
       },
       {
         "verse": 10,
         "en": "10Divers weights, <i>and </i>divers measures, both of them <i>are </i>alike abomination to the LORD.",
-        "lv": "10 <p>Dažādi svari <i>un </i>dažādi mēri, tie abi tāpat <i>ir </i>negantība tam KUNGAM."
+        "lv": "10 <span class='p'></span> Dažādi svari <i>un </i>dažādi mēri, tie abi tāpat <i>ir </i>negantība tam KUNGAM."
       },
       {
         "verse": 11,
         "en": "11Even a child is known by his doings, whether his work <i>be </i>pure, and whether <i>it be</i> right.",
-        "lv": "11 <p>Pat bērns ir zināms pēc viņa darbošanās, vai viņa darbs <i>ir </i>šķīsts un vai <i>tas ir</i> pareizs."
+        "lv": "11 <span class='p'></span> Pat bērns ir zināms pēc viņa darbošanās, vai viņa darbs <i>ir </i>šķīsts un vai <i>tas ir</i> pareizs."
       },
       {
         "verse": 12,
         "en": "12The hearing ear, and the seeing eye, the LORD hath made even both of them.",
-        "lv": "12 <p>Dzirdīgu ausi un redzīgu aci — pat tās abas tas KUNGS ir taisījis."
+        "lv": "12 <span class='p'></span> Dzirdīgu ausi un redzīgu aci — pat tās abas tas KUNGS ir taisījis."
       },
       {
         "verse": 13,
         "en": "13Love not sleep, lest thou come to poverty; open thine eyes, <i>and </i>thou shalt be satisfied with bread.",
-        "lv": "13 <p>Nemīli miegu, lai tu nenāc pie nabadzības; atver savas acis, <i>un</i> tu būsi apmierināts ar maizi."
+        "lv": "13 <span class='p'></span> Nemīli miegu, lai tu nenāc pie nabadzības; atver savas acis, <i>un</i> tu būsi apmierināts ar maizi."
       },
       {
         "verse": 14,
         "en": "14<i>It is</i> naught, <i>it is</i> naught, saith the buyer: but when he is gone his way, then he boasteth.",
-        "lv": "14 <p><i>Tas nav</i> nekas, <i>tas nav</i> nekas, saka pircējs: bet, kad viņš ir aizgājis, tad viņš lielās."
+        "lv": "14 <span class='p'></span> <i>Tas nav</i> nekas, <i>tas nav</i> nekas, saka pircējs: bet, kad viņš ir aizgājis, tad viņš lielās."
       },
       {
         "verse": 15,
         "en": "15There is gold, and a multitude of rubies: but the lips of knowledge <i>are </i>a precious jewel.",
-        "lv": "15 <p>Ir zelts un rubīnu pulks: bet atzīšanas lūpas <i>ir </i>vērtīga dārglieta."
+        "lv": "15 <span class='p'></span> Ir zelts un rubīnu pulks: bet atzīšanas lūpas <i>ir </i>vērtīga dārglieta."
       },
       {
         "verse": 16,
         "en": "16Take his garment that is surety <i>for </i>a stranger: and take a pledge of him for a strange woman.",
-        "lv": "16 <p>Ņem tā apģērbu, kas ir galvotājs par svešinieku: un ņem ķīlu no tā, <i>[kas galvotājs]</i> svešai sievietei."
+        "lv": "16 <span class='p'></span> Ņem tā apģērbu, kas ir galvotājs par svešinieku: un ņem ķīlu no tā, <i>[kas galvotājs]</i> svešai sievietei."
       },
       {
         "verse": 17,
         "en": "17Bread of deceit <i>is </i>sweet to a man; but afterwards his mouth shall be filled with gravel.",
-        "lv": "17 <p>Viltības maize<i> </i>cilvēkam <i>ir</i> salda; bet pēcāk viņa mute būs pildīta ar granti."
+        "lv": "17 <span class='p'></span> Viltības maize<i> </i>cilvēkam <i>ir</i> salda; bet pēcāk viņa mute būs pildīta ar granti."
       },
       {
         "verse": 18,
         "en": "18<i>Every</i> purpose is established by counsel: and with good advice make war.",
-        "lv": "18 <p><i>Ikviens </i>nolūks tiek nostiprināts caur padomu: un ar labu ieteikumu taisa karu."
+        "lv": "18 <span class='p'></span> <i>Ikviens </i>nolūks tiek nostiprināts caur padomu: un ar labu ieteikumu taisa karu."
       },
       {
         "verse": 19,
         "en": "19He that goeth about <i>as</i> a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.",
-        "lv": "19 <p>Tas, kas staigā <i>kā </i>tenkotājs, atklāj noslēpumus: tāpēc nejaucies ar to, kas glaimo ar savām lūpām."
+        "lv": "19 <span class='p'></span> Tas, kas staigā <i>kā </i>tenkotājs, atklāj noslēpumus: tāpēc nejaucies ar to, kas glaimo ar savām lūpām."
       },
       {
         "verse": 20,
         "en": "20Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.",
-        "lv": "20 <p>Kurš vien lād savu tēvu vai savu māti, viņa lukturis tiks izdzēsts tumšuma tumsā."
+        "lv": "20 <span class='p'></span> Kurš vien lād savu tēvu vai savu māti, viņa lukturis tiks izdzēsts tumšuma tumsā."
       },
       {
         "verse": 21,
         "en": "21An inheritance <i>may be</i> gotten hastily at the beginning; but the end thereof shall not be blessed.",
-        "lv": "21 <p>Iesākumā mantojums <i>var tikt </i>iegūts steidzīgi; bet tā gals nebūs svētīts."
+        "lv": "21 <span class='p'></span> Iesākumā mantojums <i>var tikt </i>iegūts steidzīgi; bet tā gals nebūs svētīts."
       },
       {
         "verse": 22,
         "en": "22Say not thou, I will recompense evil; <i>but </i>wait on the LORD, and he shall save thee.",
-        "lv": "22 <p>Nesaki, Es atmaksāšu ļaunu; <i>bet </i>gaidi uz to KUNGU, un viņš tevi izglābs."
+        "lv": "22 <span class='p'></span> Nesaki, Es atmaksāšu ļaunu; <i>bet </i>gaidi uz to KUNGU, un viņš tevi izglābs."
       },
       {
         "verse": 23,
         "en": "23Divers weights <i>are </i>an abomination unto the LORD; and a false balance <i>is </i>not good.",
-        "lv": "23 <p>Dažādi svari <i>ir </i>negantība tam KUNGAM; un nepatiesi svaru kausi nav labi."
+        "lv": "23 <span class='p'></span> Dažādi svari <i>ir </i>negantība tam KUNGAM; un nepatiesi svaru kausi nav labi."
       },
       {
         "verse": 24,
@@ -2933,32 +2933,32 @@
       {
         "verse": 25,
         "en": "25<i>It is</i> a snare to the man <i>who </i>devoureth<i> that which is</i> holy, and after vows to make enquiry.",
-        "lv": "25 <p><i>Tas ir</i> slazds cilvēkam, <i>kurš </i>aprij <i>to, kas ir</i> svēts, un pēc solījumiem lūgties."
+        "lv": "25 <span class='p'></span> <i>Tas ir</i> slazds cilvēkam, <i>kurš </i>aprij <i>to, kas ir</i> svēts, un pēc solījumiem lūgties."
       },
       {
         "verse": 26,
         "en": "26A wise king scattereth the wicked, and bringeth the wheel over them.",
-        "lv": "26 <p>Gudrs ķēniņš izkaisa nelietīgos un ved pār tiem riteni."
+        "lv": "26 <span class='p'></span> Gudrs ķēniņš izkaisa nelietīgos un ved pār tiem riteni."
       },
       {
         "verse": 27,
         "en": "27The spirit of man <i>is </i>the candle of the LORD, searching all the inward parts of the belly.",
-        "lv": "27 <p>Cilvēka gars <i>ir </i>tā KUNGA svece, izmeklēdams vēdera iekšējās daļas."
+        "lv": "27 <span class='p'></span> Cilvēka gars <i>ir </i>tā KUNGA svece, izmeklēdams vēdera iekšējās daļas."
       },
       {
         "verse": 28,
         "en": "28Mercy and truth preserve the king: and his throne is upholden by mercy.",
-        "lv": "28 <p>Žēlsirdība un patiesība pasaudzē ķēniņu: un viņa tronis tiek balstīts caur žēlsirdību."
+        "lv": "28 <span class='p'></span> Žēlsirdība un patiesība pasaudzē ķēniņu: un viņa tronis tiek balstīts caur žēlsirdību."
       },
       {
         "verse": 29,
         "en": "29The glory of young men <i>is</i> their strength: and the beauty of old men <i>is </i>the gray head.",
-        "lv": "29 <p>Jaunekļu godība <i>ir </i>viņu stiprums: un veco skaistums <i>ir </i>sirmā galva."
+        "lv": "29 <span class='p'></span> Jaunekļu godība <i>ir </i>viņu stiprums: un veco skaistums <i>ir </i>sirmā galva."
       },
       {
         "verse": 30,
         "en": "30The blueness of a wound cleanseth away evil: so <i>do </i>stripes the inward parts of the belly.",
-        "lv": "30 <p>Ievainojuma zilums notīra ļaunumu: tā cirtieni vēdera iekšējās daļas."
+        "lv": "30 <span class='p'></span> Ievainojuma zilums notīra ļaunumu: tā cirtieni vēdera iekšējās daļas."
       }
     ],
     "21": [
@@ -2970,92 +2970,92 @@
       {
         "verse": 2,
         "en": "2Every way of a man <i>is </i>right in his own eyes: but the LORD pondereth the hearts.",
-        "lv": "2 <p>Ikviens cilvēka ceļš <i>ir </i>pareizs viņa paša acīs: bet tas KUNGS nosver sirdis."
+        "lv": "2 <span class='p'></span> Ikviens cilvēka ceļš <i>ir </i>pareizs viņa paša acīs: bet tas KUNGS nosver sirdis."
       },
       {
         "verse": 3,
         "en": "3To do justice and judgment <i>is</i> more acceptable to the LORD than sacrifice.",
-        "lv": "3 <p>Darīt taisnīgumu un tiesu tam KUNGAM <i>ir</i> pieņemamāk par upuri."
+        "lv": "3 <span class='p'></span> Darīt taisnīgumu un tiesu tam KUNGAM <i>ir</i> pieņemamāk par upuri."
       },
       {
         "verse": 4,
         "en": "4An high look, and a proud heart, <i>and </i>the plowing of the wicked, <i>is </i>sin.",
-        "lv": "4 <p>Augsts skatiens un lepna sirds, <i>un </i>nelietīgā arums <i>ir </i>grēks."
+        "lv": "4 <span class='p'></span> Augsts skatiens un lepna sirds, <i>un </i>nelietīgā arums <i>ir </i>grēks."
       },
       {
         "verse": 5,
         "en": "5The thoughts of the diligent <i>tend </i>only to plenteousness; but of every one <i>that is</i> hasty only to want.",
-        "lv": "5 <p>Centīgā domas <i>tiecas </i>tikai uz pārpilnību; bet ikviena, <i>kas ir</i> steidzīgs, tikai uz trūkumu."
+        "lv": "5 <span class='p'></span> Centīgā domas <i>tiecas </i>tikai uz pārpilnību; bet ikviena, <i>kas ir</i> steidzīgs, tikai uz trūkumu."
       },
       {
         "verse": 6,
         "en": "6The getting of treasures by a lying tongue <i>is </i>a vanity tossed to and fro of them that seek death.",
-        "lv": "6 <p>Dārgumu iegūšana caur melīgu mēli <i>ir </i>nelietība, mētāta šurp un turp no tiem, kas meklē nāvi."
+        "lv": "6 <span class='p'></span> Dārgumu iegūšana caur melīgu mēli <i>ir </i>nelietība, mētāta šurp un turp no tiem, kas meklē nāvi."
       },
       {
         "verse": 7,
         "en": "7The robbery of the wicked shall destroy them; because they refuse to do judgment.",
-        "lv": "7 <p>Nelietīgo laupījums tos iznīcinās; tāpēc ka tie atsakās darīt tiesu."
+        "lv": "7 <span class='p'></span> Nelietīgo laupījums tos iznīcinās; tāpēc ka tie atsakās darīt tiesu."
       },
       {
         "verse": 8,
         "en": "8The way of man <i>is </i>froward and strange: but <i>as for </i>the pure, his work <i>is </i>right.",
-        "lv": "8 <p>Cilvēka ceļš <i>ir </i>patgalvīgs un savāds: bet, kas attiecas uz šķīsto — viņa darbs <i>ir </i>pareizs."
+        "lv": "8 <span class='p'></span> Cilvēka ceļš <i>ir </i>patgalvīgs un savāds: bet, kas attiecas uz šķīsto — viņa darbs <i>ir </i>pareizs."
       },
       {
         "verse": 9,
         "en": "9<i>It is</i> better to dwell in a corner of the housetop, than with a brawling woman in a wide house.",
-        "lv": "9 <p>Labāk mājot nama augšas stūrī, nekā ar skandelējošu sievieti plašā namā."
+        "lv": "9 <span class='p'></span> Labāk mājot nama augšas stūrī, nekā ar skandelējošu sievieti plašā namā."
       },
       {
         "verse": 10,
         "en": "10The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
-        "lv": "10 <p>Nelietīgā dvēsele vēlas ļaunu: viņa tuvākais neatrod labvēlību viņa acīs."
+        "lv": "10 <span class='p'></span> Nelietīgā dvēsele vēlas ļaunu: viņa tuvākais neatrod labvēlību viņa acīs."
       },
       {
         "verse": 11,
         "en": "11When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.",
-        "lv": "11 <p>Kad nievātājs tiek sodīts, vientiesis tiek darīts gudrs: un, kad gudrais tiek apmācīts, viņš saņem atzīšanu."
+        "lv": "11 <span class='p'></span> Kad nievātājs tiek sodīts, vientiesis tiek darīts gudrs: un, kad gudrais tiek apmācīts, viņš saņem atzīšanu."
       },
       {
         "verse": 12,
         "en": "12The righteous <i>man</i> wisely considereth the house of the wicked: <i>but </i>God overthroweth the wicked for <i>their </i>wickedness.",
-        "lv": "12 <p>Taisnais gudri ņem vērā nelietīgā namu: <i>bet </i>Dievs apgāž nelietīgos <i>viņu </i>nelietības dēļ."
+        "lv": "12 <span class='p'></span> Taisnais gudri ņem vērā nelietīgā namu: <i>bet </i>Dievs apgāž nelietīgos <i>viņu </i>nelietības dēļ."
       },
       {
         "verse": 13,
         "en": "13Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.",
-        "lv": "13 <p>Kas vien aizbāž savas ausis uz nabagu saukšanu, viņš arī pats sauks, bet netiks dzirdēts."
+        "lv": "13 <span class='p'></span> Kas vien aizbāž savas ausis uz nabagu saukšanu, viņš arī pats sauks, bet netiks dzirdēts."
       },
       {
         "verse": 14,
         "en": "14A gift in secret pacifieth anger: and a reward in the bosom strong wrath.",
-        "lv": "14 <p>Dāvana slepenībā nomierina dusmas: un atalgojums azotē stipru bardzību."
+        "lv": "14 <span class='p'></span> Dāvana slepenībā nomierina dusmas: un atalgojums azotē stipru bardzību."
       },
       {
         "verse": 15,
         "en": "15<i>It is</i> joy to the just to do judgment: but destruction <i>shall be</i> to the workers of iniquity.",
-        "lv": "15 <p>Taisnajiem <i>ir</i> prieks darīt tiesu: bet iznīcība <i>būs </i>nekrietnības strādātājiem."
+        "lv": "15 <span class='p'></span> Taisnajiem <i>ir</i> prieks darīt tiesu: bet iznīcība <i>būs </i>nekrietnības strādātājiem."
       },
       {
         "verse": 16,
         "en": "16The man that wandereth out of the way of understanding shall remain in the congregation of the dead.",
-        "lv": "16 <p>Cilvēks, kas nomaldas no saprašanas ceļa, paliks mirušo sanāksmē."
+        "lv": "16 <span class='p'></span> Cilvēks, kas nomaldas no saprašanas ceļa, paliks mirušo sanāksmē."
       },
       {
         "verse": 17,
         "en": "17He that loveth pleasure <i>shall be</i> a poor man: he that loveth wine and oil shall not be rich.",
-        "lv": "17 <p>Tas, kas mīl baudu, <i>būs </i>nabags: tas, kas mīl vīnu un eļļu, nebūs bagāts."
+        "lv": "17 <span class='p'></span> Tas, kas mīl baudu, <i>būs </i>nabags: tas, kas mīl vīnu un eļļu, nebūs bagāts."
       },
       {
         "verse": 18,
         "en": "18The wicked <i>shall be</i> a ransom for the righteous, and the transgressor for the upright.",
-        "lv": "18 <p>Nelietīgais <i>būs </i>izpirkuma maksa par taisno, un pārkāpējs par taisnīgo."
+        "lv": "18 <span class='p'></span> Nelietīgais <i>būs </i>izpirkuma maksa par taisno, un pārkāpējs par taisnīgo."
       },
       {
         "verse": 19,
         "en": "19<i>It is</i> better to dwell in the wilderness, than with a contentious and an angry woman.",
-        "lv": "19 <p>Labāk mājot tuksnesī nekā ar kašķīgu un dusmīgu sievieti."
+        "lv": "19 <span class='p'></span> Labāk mājot tuksnesī nekā ar kašķīgu un dusmīgu sievieti."
       },
       {
         "verse": 20,
@@ -3065,27 +3065,27 @@
       {
         "verse": 21,
         "en": "21He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
-        "lv": "21 <p>Tas, kas seko pakaļ taisnībai un žēlsirdībai, atrod dzīvību, taisnību un godu."
+        "lv": "21 <span class='p'></span> Tas, kas seko pakaļ taisnībai un žēlsirdībai, atrod dzīvību, taisnību un godu."
       },
       {
         "verse": 22,
         "en": "22A wise <i>man </i>scaleth the city of the mighty, and casteth down the strength of the confidence thereof.",
-        "lv": "22 <p>Gudrais sver vareno pilsētu un nomet tās paļāvības stiprumu."
+        "lv": "22 <span class='p'></span> Gudrais sver vareno pilsētu un nomet tās paļāvības stiprumu."
       },
       {
         "verse": 23,
         "en": "23Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
-        "lv": "23 <p>Kurš vien sargā savu muti un savu mēli, sargā savu dvēseli no bēdām."
+        "lv": "23 <span class='p'></span> Kurš vien sargā savu muti un savu mēli, sargā savu dvēseli no bēdām."
       },
       {
         "verse": 24,
         "en": "24Proud <i>and </i>haughty scorner <i>is</i> his name, who dealeth in proud wrath.",
-        "lv": "24 <p>Lepns <i>un </i>augstprātīgs nievātājs <i>ir </i>tā vārds, kas rīkojas lepnā bardzībā."
+        "lv": "24 <span class='p'></span> Lepns <i>un </i>augstprātīgs nievātājs <i>ir </i>tā vārds, kas rīkojas lepnā bardzībā."
       },
       {
         "verse": 25,
         "en": "25The desire of the slothful killeth him; for his hands refuse to labour.",
-        "lv": "25 <p>Slinkā vēlme viņu nogalina; jo viņa rokas atsakās pūlēties."
+        "lv": "25 <span class='p'></span> Slinkā vēlme viņu nogalina; jo viņa rokas atsakās pūlēties."
       },
       {
         "verse": 26,
@@ -3095,17 +3095,17 @@
       {
         "verse": 27,
         "en": "27The sacrifice of the wicked <i>is </i>abomination: how much more, <i>when </i>he bringeth it with a wicked mind?",
-        "lv": "27 <p>Nelietīgā upuris <i>ir </i>negantība: cik daudz vairāk, <i>kad </i>viņš to nes ar nelietīgu prātu?"
+        "lv": "27 <span class='p'></span> Nelietīgā upuris <i>ir </i>negantība: cik daudz vairāk, <i>kad </i>viņš to nes ar nelietīgu prātu?"
       },
       {
         "verse": 28,
         "en": "28A false witness shall perish: but the man that heareth speaketh constantly.",
-        "lv": "28 <p>Nepatiess liecinieks ies bojā: bet cilvēks, kas klausās, runā pastāvīgi."
+        "lv": "28 <span class='p'></span> Nepatiess liecinieks ies bojā: bet cilvēks, kas klausās, runā pastāvīgi."
       },
       {
         "verse": 29,
         "en": "29A wicked man hardeneth his face: but <i>as for </i>the upright, he directeth his way.",
-        "lv": "29 <p>Nelietīgais apcietina savu seju: bet taisnīgais — viņš virza savu ceļu."
+        "lv": "29 <span class='p'></span> Nelietīgais apcietina savu seju: bet taisnīgais — viņš virza savu ceļu."
       },
       {
         "verse": 30,
@@ -3115,7 +3115,7 @@
       {
         "verse": 31,
         "en": "31The horse <i>is </i>prepared against the day of battle: but safety <i>is </i>of the LORD.",
-        "lv": "31 <p>Zirgs <i>tiek </i>sagatavots pret kaujas dienu: bet drošība <i>ir</i> no tā KUNGA."
+        "lv": "31 <span class='p'></span> Zirgs <i>tiek </i>sagatavots pret kaujas dienu: bet drošība <i>ir</i> no tā KUNGA."
       }
     ],
     "22": [
@@ -3127,77 +3127,77 @@
       {
         "verse": 2,
         "en": "2The rich and poor meet together: the LORD <i>is </i>the maker of them all.",
-        "lv": "2 <p>Bagātie un nabagie satikās: tas KUNGS <i>ir </i>to visu veidotājs."
+        "lv": "2 <span class='p'></span> Bagātie un nabagie satikās: tas KUNGS <i>ir </i>to visu veidotājs."
       },
       {
         "verse": 3,
         "en": "3A prudent <i>man </i>foreseeth the evil, and hideth himself: but the simple pass on, and are punished.",
-        "lv": "3 <p>Prātīgais paredz ļaunumu un paslēpjas: bet vientiesīgie dodas uz priekšu un tiek sodīti."
+        "lv": "3 <span class='p'></span> Prātīgais paredz ļaunumu un paslēpjas: bet vientiesīgie dodas uz priekšu un tiek sodīti."
       },
       {
         "verse": 4,
         "en": "4By humility <i>and </i>the fear of the LORD <i>are </i>riches, and honour, and life.",
-        "lv": "4 <p>Caur pazemību <i>un </i>tā KUNGA bijāšanu <i>ir </i>bagātība un gods, un dzīvība."
+        "lv": "4 <span class='p'></span> Caur pazemību <i>un </i>tā KUNGA bijāšanu <i>ir </i>bagātība un gods, un dzīvība."
       },
       {
         "verse": 5,
         "en": "5Thorns <i>and </i>snares <i>are </i>in the way of the froward: he that doth keep his soul shall be far from them.",
-        "lv": "5 <p>Ērkšķi <i>un </i>slazdi <i>ir</i> ceļā patgalvīgajam: tas, kas sargā savu dvēseli, būs tālu no tiem."
+        "lv": "5 <span class='p'></span> Ērkšķi <i>un </i>slazdi <i>ir</i> ceļā patgalvīgajam: tas, kas sargā savu dvēseli, būs tālu no tiem."
       },
       {
         "verse": 6,
         "en": "6Train up a child in the way he should go: and when he is old, he will not depart from it.",
-        "lv": "6 <p>Apmāci bērnu ceļā, <i>[kur]</i> viņam jāiet: un, kad viņš ir vecs, viņš no tā neaizies."
+        "lv": "6 <span class='p'></span> Apmāci bērnu ceļā, <i>[kur]</i> viņam jāiet: un, kad viņš ir vecs, viņš no tā neaizies."
       },
       {
         "verse": 7,
         "en": "7The rich ruleth over the poor, and the borrower <i>is</i> servant to the lender.",
-        "lv": "7 <p>Bagātais valda pār nabago, un aizņēmējs <i>ir </i>kalps aizdevējam."
+        "lv": "7 <span class='p'></span> Bagātais valda pār nabago, un aizņēmējs <i>ir </i>kalps aizdevējam."
       },
       {
         "verse": 8,
         "en": "8He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.",
-        "lv": "8 <p>Tas, kas sēj nekrietnību, pļaus niecību: un viņa dusmu rīkste pievils."
+        "lv": "8 <span class='p'></span> Tas, kas sēj nekrietnību, pļaus niecību: un viņa dusmu rīkste pievils."
       },
       {
         "verse": 9,
         "en": "9He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
-        "lv": "9 <p>Tas, kam ir dāsna acs, tiks svētīts; jo viņš no savas maizes dod nabagam."
+        "lv": "9 <span class='p'></span> Tas, kam ir dāsna acs, tiks svētīts; jo viņš no savas maizes dod nabagam."
       },
       {
         "verse": 10,
         "en": "10Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.",
-        "lv": "10 <p>Izmet nievātāju un nesaskaņas izies; jā, strīds un negods mitēsies."
+        "lv": "10 <span class='p'></span> Izmet nievātāju un nesaskaņas izies; jā, strīds un negods mitēsies."
       },
       {
         "verse": 11,
         "en": "11He that loveth pureness of heart, <i>for </i>the grace of his lips the king <i>shall be</i> his friend.",
-        "lv": "11 <p>Tas, kas mīl sirds šķīstību, viņa lūpu žēlastības <i>dēļ </i>ķēniņš <i>būs </i>viņa draugs."
+        "lv": "11 <span class='p'></span> Tas, kas mīl sirds šķīstību, viņa lūpu žēlastības <i>dēļ </i>ķēniņš <i>būs </i>viņa draugs."
       },
       {
         "verse": 12,
         "en": "12The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.",
-        "lv": "12 <p>Tā KUNGA acis pasaudzē atzīšanu, un viņš apgāž pārkāpēja vārdus."
+        "lv": "12 <span class='p'></span> Tā KUNGA acis pasaudzē atzīšanu, un viņš apgāž pārkāpēja vārdus."
       },
       {
         "verse": 13,
         "en": "13The slothful <i>man </i>saith, <i>There is</i> a lion without, I shall be slain in the streets.",
-        "lv": "13 <p>Slinkais saka, Lauva <i>ir </i>ārpusē, es tikšu nokauts ielās."
+        "lv": "13 <span class='p'></span> Slinkais saka, Lauva <i>ir </i>ārpusē, es tikšu nokauts ielās."
       },
       {
         "verse": 14,
         "en": "14The mouth of strange women <i>is </i>a deep pit: he that is abhorred of the LORD shall fall therein.",
-        "lv": "14 <p>Svešas sievietes mute <i>ir </i>dziļa bedre: tas, ko tas KUNGS necieš, tur iekritīs."
+        "lv": "14 <span class='p'></span> Svešas sievietes mute <i>ir </i>dziļa bedre: tas, ko tas KUNGS necieš, tur iekritīs."
       },
       {
         "verse": 15,
         "en": "15Foolishness <i>is </i>bound in the heart of a child; <i>but </i>the rod of correction shall drive it far from him.",
-        "lv": "15 <p>Muļķība <i>ir </i>saistīta bērna sirdī; <i>bet </i>labošanas rīkste to aizdzīs tālu no viņa."
+        "lv": "15 <span class='p'></span> Muļķība <i>ir </i>saistīta bērna sirdī; <i>bet </i>labošanas rīkste to aizdzīs tālu no viņa."
       },
       {
         "verse": 16,
         "en": "16He that oppresseth the poor to increase his <i>riches</i>, <i>and </i>he that giveth to the rich, shall surely come to want.",
-        "lv": "16 <p>Tas, kas apspiež nabago savas <i>bagātības </i>pieaugumam, <i>un </i>tas, kas dod bagātajam, bez šaubām, nāks trūkumā."
+        "lv": "16 <span class='p'></span> Tas, kas apspiež nabago savas <i>bagātības </i>pieaugumam, <i>un </i>tas, kas dod bagātajam, bez šaubām, nāks trūkumā."
       },
       {
         "verse": 17,
@@ -3227,7 +3227,7 @@
       {
         "verse": 22,
         "en": "22Rob not the poor, because he <i>is </i>poor: neither oppress the afflicted in the gate:",
-        "lv": "22 <p>Neaplaupi nabago tāpēc ka viņš <i>ir </i>nabags: nedz apspied sāpināto vārtos:"
+        "lv": "22 <span class='p'></span> Neaplaupi nabago tāpēc ka viņš <i>ir </i>nabags: nedz apspied sāpināto vārtos:"
       },
       {
         "verse": 23,
@@ -3237,7 +3237,7 @@
       {
         "verse": 24,
         "en": "24Make no friendship with an angry man; and with a furious man thou shalt not go:",
-        "lv": "24 <p>Neveido draudzību ar dusmīgu cilvēku; un tev nebūs iet ar negantu cilvēku:"
+        "lv": "24 <span class='p'></span> Neveido draudzību ar dusmīgu cilvēku; un tev nebūs iet ar negantu cilvēku:"
       },
       {
         "verse": 25,
@@ -3247,7 +3247,7 @@
       {
         "verse": 26,
         "en": "26Be not thou <i>one </i>of them that strike hands, <i>or </i>of them that are sureties for debts.",
-        "lv": "26 <p>Neesi viens no tiem, kas dod roku, <i>vai </i>no tiem, kas ir galvotāji par parādiem."
+        "lv": "26 <span class='p'></span> Neesi viens no tiem, kas dod roku, <i>vai </i>no tiem, kas ir galvotāji par parādiem."
       },
       {
         "verse": 27,
@@ -3257,12 +3257,12 @@
       {
         "verse": 28,
         "en": "28Remove not the ancient landmark, which thy fathers have set.",
-        "lv": "28 <p>Nenocel senas robežzīmes, ko tavi tēvi ir likuši."
+        "lv": "28 <span class='p'></span> Nenocel senas robežzīmes, ko tavi tēvi ir likuši."
       },
       {
         "verse": 29,
         "en": "29Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean <i>men</i>.",
-        "lv": "29 <p>Redzi cilvēku, centīgu savās darīšanās? viņš stāvēs ķēniņu priekšā; viņš nestāvēs viduvēju <i>cilvēku </i>priekšā."
+        "lv": "29 <span class='p'></span> Redzi cilvēku, centīgu savās darīšanās? viņš stāvēs ķēniņu priekšā; viņš nestāvēs viduvēju <i>cilvēku </i>priekšā."
       }
     ],
     "23": [
@@ -3284,7 +3284,7 @@
       {
         "verse": 4,
         "en": "4Labour not to be rich: cease from thine own wisdom.",
-        "lv": "4 <p>Nepūlies būt bagāts: mitējies no savas paša gudrības."
+        "lv": "4 <span class='p'></span> Nepūlies būt bagāts: mitējies no savas paša gudrības."
       },
       {
         "verse": 5,
@@ -3294,7 +3294,7 @@
       {
         "verse": 6,
         "en": "6Eat thou not the bread of<i> him that hath </i>an evil eye, neither desire thou his dainty meats:",
-        "lv": "6 <p>Neēd <i>tā </i>maizi, <i>kam ir </i>ļauna acs, nedz vēlies viņa gardās barības:"
+        "lv": "6 <span class='p'></span> Neēd <i>tā </i>maizi, <i>kam ir </i>ļauna acs, nedz vēlies viņa gardās barības:"
       },
       {
         "verse": 7,
@@ -3309,12 +3309,12 @@
       {
         "verse": 9,
         "en": "9Speak not in the ears of a fool: for he will despise the wisdom of thy words.",
-        "lv": "9 <p>Nerunā muļķa ausīs: jo viņš nicinās tavu vārdu gudrību."
+        "lv": "9 <span class='p'></span> Nerunā muļķa ausīs: jo viņš nicinās tavu vārdu gudrību."
       },
       {
         "verse": 10,
         "en": "10Remove not the old landmark; and enter not into the fields of the fatherless:",
-        "lv": "10 <p>Nenocel senu robežzīmi; un neieej beztēva<i> [bērnu] </i>laukos:"
+        "lv": "10 <span class='p'></span> Nenocel senu robežzīmi; un neieej beztēva<i> [bērnu] </i>laukos:"
       },
       {
         "verse": 11,
@@ -3324,12 +3324,12 @@
       {
         "verse": 12,
         "en": "12Apply thine heart unto instruction, and thine ears to the words of knowledge.",
-        "lv": "12 <p>Liec savu sirdi uz pamācību, un savas ausis uz atzīšanas vārdiem."
+        "lv": "12 <span class='p'></span> Liec savu sirdi uz pamācību, un savas ausis uz atzīšanas vārdiem."
       },
       {
         "verse": 13,
         "en": "13Withhold not correction from the child: for <i>if </i>thou beatest him with the rod, he shall not die.",
-        "lv": "13 <p>Neatturi labošanu no bērna: jo, <i>ja </i>tu viņu sitīsi ar rīksti, viņš nemirs."
+        "lv": "13 <span class='p'></span> Neatturi labošanu no bērna: jo, <i>ja </i>tu viņu sitīsi ar rīksti, viņš nemirs."
       },
       {
         "verse": 14,
@@ -3339,7 +3339,7 @@
       {
         "verse": 15,
         "en": "15My son, if thine heart be wise, my heart shall rejoice, even mine.",
-        "lv": "15 <p>Mans dēls, ja tava sirds ir gudra, mana sirds priecāsies, proti, mana."
+        "lv": "15 <span class='p'></span> Mans dēls, ja tava sirds ir gudra, mana sirds priecāsies, proti, mana."
       },
       {
         "verse": 16,
@@ -3349,7 +3349,7 @@
       {
         "verse": 17,
         "en": "17Let not thine heart envy sinners: but <i>be thou</i> in the fear of the LORD all the day long.",
-        "lv": "17 <p>Lai tava sirds neskauž grēciniekus: bet <i>esi </i>tā KUNGA bijāšanā visu cauru dienu."
+        "lv": "17 <span class='p'></span> Lai tava sirds neskauž grēciniekus: bet <i>esi </i>tā KUNGA bijāšanā visu cauru dienu."
       },
       {
         "verse": 18,
@@ -3364,7 +3364,7 @@
       {
         "verse": 20,
         "en": "20Be not among winebibbers; among riotous eaters of flesh:",
-        "lv": "20 <p>Neesi starp vīna dzērājiem; starp rijīgiem miesas ēdājiem:"
+        "lv": "20 <span class='p'></span> Neesi starp vīna dzērājiem; starp rijīgiem miesas ēdājiem:"
       },
       {
         "verse": 21,
@@ -3374,17 +3374,17 @@
       {
         "verse": 22,
         "en": "22 Hearken unto thy father that begat thee, and despise not thy mother when she is old.",
-        "lv": "22 <p>Uzklausi savu tēvu, kas tevi dzemdināja, un nenicini savu māti, kad viņa ir veca."
+        "lv": "22 <span class='p'></span> Uzklausi savu tēvu, kas tevi dzemdināja, un nenicini savu māti, kad viņa ir veca."
       },
       {
         "verse": 23,
         "en": "23Buy the truth, and sell <i>it </i>not; <i>also </i>wisdom, and instruction, and understanding.",
-        "lv": "23 <p>Pērc patiesību un nepārdod <i>to</i>; <i>arī </i>gudrību un pamācību, un saprašanu."
+        "lv": "23 <span class='p'></span> Pērc patiesību un nepārdod <i>to</i>; <i>arī </i>gudrību un pamācību, un saprašanu."
       },
       {
         "verse": 24,
         "en": "24The father of the righteous shall greatly rejoice: and he that begetteth a wise <i>child </i>shall have joy of him.",
-        "lv": "24 <p>Taisnā tēvs ļoti priecāsies: un tam, kas dzemdinājis gudru <i>bērnu</i>, par viņu būs prieks."
+        "lv": "24 <span class='p'></span> Taisnā tēvs ļoti priecāsies: un tam, kas dzemdinājis gudru <i>bērnu</i>, par viņu būs prieks."
       },
       {
         "verse": 25,
@@ -3394,7 +3394,7 @@
       {
         "verse": 26,
         "en": "26My son, give me thine heart, and let thine eyes observe my ways.",
-        "lv": "26 <p>Mans dēls, dod man savu sirdi, un lai tavas acis ievēro manus ceļus."
+        "lv": "26 <span class='p'></span> Mans dēls, dod man savu sirdi, un lai tavas acis ievēro manus ceļus."
       },
       {
         "verse": 27,
@@ -3409,7 +3409,7 @@
       {
         "verse": 29,
         "en": "29Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?",
-        "lv": "29 <p>Kam ir vaidi? kam ir noskumšana? kam ir ķildas? kam ir pļāpāšana? kam ir ievainojumi bez iemesla? kam ir acu sarkanums?"
+        "lv": "29 <span class='p'></span> Kam ir vaidi? kam ir noskumšana? kam ir ķildas? kam ir pļāpāšana? kam ir ievainojumi bez iemesla? kam ir acu sarkanums?"
       },
       {
         "verse": 30,
@@ -3456,7 +3456,7 @@
       {
         "verse": 3,
         "en": "3Through wisdom is an house builded; and by understanding it is established:",
-        "lv": "3 <p>Caur gudrību nams tiek uzbūvēts; un caur saprašanu tas tiek nostiprināts:"
+        "lv": "3 <span class='p'></span> Caur gudrību nams tiek uzbūvēts; un caur saprašanu tas tiek nostiprināts:"
       },
       {
         "verse": 4,
@@ -3481,22 +3481,22 @@
       {
         "verse": 8,
         "en": "8He that deviseth to do evil shall be called a mischievous person.",
-        "lv": "8 <p>Tas, kas nodomā darīt ļaunu, tiks saukts ļaunprātīgs cilvēks."
+        "lv": "8 <span class='p'></span> Tas, kas nodomā darīt ļaunu, tiks saukts ļaunprātīgs cilvēks."
       },
       {
         "verse": 9,
         "en": "9The thought of foolishness <i>is </i>sin: and the scorner <i>is </i>an abomination to men.",
-        "lv": "9 <p>Muļķības doma <i>ir </i>grēks: un smējējs<i> </i>cilvēkiem <i>ir</i> negantība."
+        "lv": "9 <span class='p'></span> Muļķības doma <i>ir </i>grēks: un smējējs<i> </i>cilvēkiem <i>ir</i> negantība."
       },
       {
         "verse": 10,
         "en": "10<i>If</i> thou faint in the day of adversity, thy strength <i>is </i>small.",
-        "lv": "10 <p><i>Ja</i> tu nogursti likstas dienā, tavs stiprums <i>ir </i>mazs."
+        "lv": "10 <span class='p'></span> <i>Ja</i> tu nogursti likstas dienā, tavs stiprums <i>ir </i>mazs."
       },
       {
         "verse": 11,
         "en": "11If thou forbear to deliver <i>them that are </i>drawn unto death, and <i>those that are ready</i> to be slain;",
-        "lv": "11 <p>Ja tu atturies izpestīt <i>tos, kas tiek </i>vilkti uz nāvi, un <i>tos, kas ir gatavi</i> tikt nokauti;"
+        "lv": "11 <span class='p'></span> Ja tu atturies izpestīt <i>tos, kas tiek </i>vilkti uz nāvi, un <i>tos, kas ir gatavi</i> tikt nokauti;"
       },
       {
         "verse": 12,
@@ -3506,7 +3506,7 @@
       {
         "verse": 13,
         "en": "13My son, eat thou honey, because <i>it is</i> good; and the honeycomb, <i>which is</i> sweet to thy taste:",
-        "lv": "13 <p>Mans dēls, ēd medu, tāpēc ka <i>tas</i> <i>ir </i>labs; un medus kāri, <i>kas ir</i> salda tavai garšai:"
+        "lv": "13 <span class='p'></span> Mans dēls, ēd medu, tāpēc ka <i>tas</i> <i>ir </i>labs; un medus kāri, <i>kas ir</i> salda tavai garšai:"
       },
       {
         "verse": 14,
@@ -3521,12 +3521,12 @@
       {
         "verse": 16,
         "en": "16For a just <i>man </i>falleth seven times, and riseth up again: but the wicked shall fall into mischief.",
-        "lv": "16 <p>Jo taisnais krīt septiņas reizes un ceļas atkal augšā: bet nelietīgais kritīs ļaunumā."
+        "lv": "16 <span class='p'></span> Jo taisnais krīt septiņas reizes un ceļas atkal augšā: bet nelietīgais kritīs ļaunumā."
       },
       {
         "verse": 17,
         "en": "17Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:",
-        "lv": "17 <p>Nepriecājies, kad tavs ienaidnieks krīt, un lai tava sirds nelīksmojas, kad viņš klūp:"
+        "lv": "17 <span class='p'></span> Nepriecājies, kad tavs ienaidnieks krīt, un lai tava sirds nelīksmojas, kad viņš klūp:"
       },
       {
         "verse": 18,
@@ -3536,7 +3536,7 @@
       {
         "verse": 19,
         "en": "19Fret not thyself because of evil <i>men</i>, neither be thou envious at the wicked;",
-        "lv": "19 <p>Nesatraucies ļaunu <i>cilvēku </i>dēļ, nedz esi skaudīgs par nelietīgo;"
+        "lv": "19 <span class='p'></span> Nesatraucies ļaunu <i>cilvēku </i>dēļ, nedz esi skaudīgs par nelietīgo;"
       },
       {
         "verse": 20,
@@ -3546,7 +3546,7 @@
       {
         "verse": 21,
         "en": "21My son, fear thou the LORD and the king: <i>and </i>meddle not with them that are given to change:",
-        "lv": "21 <p>Mans dēls, bīsties to KUNGU un ķēniņu: <i>un </i>nejaucies ar tiem, kas ir nodevušies izmaiņām:"
+        "lv": "21 <span class='p'></span> Mans dēls, bīsties to KUNGU un ķēniņu: <i>un </i>nejaucies ar tiem, kas ir nodevušies izmaiņām:"
       },
       {
         "verse": 22,
@@ -3556,7 +3556,7 @@
       {
         "verse": 23,
         "en": "23These <i>things </i>also <i>belong </i>to the wise. <i>It is </i>not good to have respect of persons in judgment.",
-        "lv": "23 <p>Šīs <i>lietas </i>arī <i>pieder </i>gudrajam. Nav labi cienīt cilvēkus tiesā."
+        "lv": "23 <span class='p'></span> Šīs <i>lietas </i>arī <i>pieder </i>gudrajam. Nav labi cienīt cilvēkus tiesā."
       },
       {
         "verse": 24,
@@ -3576,22 +3576,22 @@
       {
         "verse": 27,
         "en": "27Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.",
-        "lv": "27 <p>Sagatavo savu darbu ārā un sagādā sev laukā; un pēcāk uzbūvē savu namu."
+        "lv": "27 <span class='p'></span> Sagatavo savu darbu ārā un sagādā sev laukā; un pēcāk uzbūvē savu namu."
       },
       {
         "verse": 28,
         "en": "28Be not a witness against thy neighbour without cause; and deceive <i>not </i>with thy lips.",
-        "lv": "28 <p>Neesi liecinieks pret savu tuvāko bez iemesla; un nepievil ar savām lūpām."
+        "lv": "28 <span class='p'></span> Neesi liecinieks pret savu tuvāko bez iemesla; un nepievil ar savām lūpām."
       },
       {
         "verse": 29,
         "en": "29Say not, I will do so to him as he hath done to me: I will render to the man according to his work.",
-        "lv": "29 <p>Nesaki, Es viņam darīšu <i>[tā]</i>, kā viņš ir darījis man: es atmaksāšu cilvēkam pēc viņa darba."
+        "lv": "29 <span class='p'></span> Nesaki, Es viņam darīšu <i>[tā]</i>, kā viņš ir darījis man: es atmaksāšu cilvēkam pēc viņa darba."
       },
       {
         "verse": 30,
         "en": "30I went by the field of the slothful, and by the vineyard of the man void of understanding;",
-        "lv": "30 <p>Es gāju gar slinkā lauku un gar vīna dārzu cilvēkam, <i>[kam]</i> trūkst saprašanas;"
+        "lv": "30 <span class='p'></span> Es gāju gar slinkā lauku un gar vīna dārzu cilvēkam, <i>[kam]</i> trūkst saprašanas;"
       },
       {
         "verse": 31,
@@ -3653,7 +3653,7 @@
       {
         "verse": 8,
         "en": "8Go not forth hastily to strive, lest <i>thou know not </i>what to do in the end thereof, when thy neighbour hath put thee to shame.",
-        "lv": "8 <p>Neej steidzīgi strīdēties, lai nav<i> [tā, ka] tu nezini</i>, ko darīt tā galā, kad tavs tuvākais tevi ir licis kaunā."
+        "lv": "8 <span class='p'></span> Neej steidzīgi strīdēties, lai nav<i> [tā, ka] tu nezini</i>, ko darīt tā galā, kad tavs tuvākais tevi ir licis kaunā."
       },
       {
         "verse": 9,
@@ -3820,7 +3820,7 @@
       {
         "verse": 13,
         "en": "13The slothful <i>man </i>saith, <i>There is</i> a lion in the way; a lion <i>is </i>in the streets.",
-        "lv": "13 <p>Slinkais <i>saka</i>, Lauva <i>ir </i>ceļā; lauva <i>ir </i>ielās."
+        "lv": "13 <span class='p'></span> Slinkais <i>saka</i>, Lauva <i>ir </i>ceļā; lauva <i>ir </i>ielās."
       },
       {
         "verse": 14,
@@ -3840,7 +3840,7 @@
       {
         "verse": 17,
         "en": "17He that passeth by, <i>and </i>meddleth with strife <i>belonging </i>not to him, <i>is like</i> one that taketh a dog by the ears.",
-        "lv": "17 <p>Tas, kas iet garām <i>un </i>jaucas viņam <i>nepiederošā</i> strīdā,<i> ir kā</i> tas, kas ņem suni aiz ausīm."
+        "lv": "17 <span class='p'></span> Tas, kas iet garām <i>un </i>jaucas viņam <i>nepiederošā</i> strīdā,<i> ir kā</i> tas, kas ņem suni aiz ausīm."
       },
       {
         "verse": 18,
@@ -3927,7 +3927,7 @@
       {
         "verse": 6,
         "en": "6Faithful <i>are</i> the wounds of a friend; but the kisses of an enemy <i>are </i>deceitful.",
-        "lv": "5 <p>Uzticami <i>ir </i>drauga ievainojumi; bet blēdīgi <i>ir</i> ienaidnieka skūpsti."
+        "lv": "5 <span class='p'></span> Uzticami <i>ir </i>drauga ievainojumi; bet blēdīgi <i>ir</i> ienaidnieka skūpsti."
       },
       {
         "verse": 7,
@@ -3952,7 +3952,7 @@
       {
         "verse": 11,
         "en": "11My son, be wise, and make my heart glad, that I may answer him that reproacheth me.",
-        "lv": "11 <p>Mans dēls, esi gudrs un ielīksmo manu sirdi, lai es varu atbildēt tam, kas mani apsmej."
+        "lv": "11 <span class='p'></span> Mans dēls, esi gudrs un ielīksmo manu sirdi, lai es varu atbildēt tam, kas mani apsmej."
       },
       {
         "verse": 12,
@@ -4012,7 +4012,7 @@
       {
         "verse": 23,
         "en": "23Be thou diligent to know the state of thy flocks, <i>and </i>look well to thy herds.",
-        "lv": "23 <p>Parūpējies zināt savu sīklopu stāvokli <i>un </i>pieskati kārtīgi savus liellopus."
+        "lv": "23 <span class='p'></span> Parūpējies zināt savu sīklopu stāvokli <i>un </i>pieskati kārtīgi savus liellopus."
       },
       {
         "verse": 24,
@@ -4251,7 +4251,7 @@
       {
         "verse": 15,
         "en": "15The rod and reproof give wisdom: but a child left<i> to himself </i>bringeth his mother to shame.",
-        "lv": "15 <p>Rīkste un rājiens dod gudrību: bet bērns, atstāts<i> savā [vaļā]</i>, ved savu māti kaunā."
+        "lv": "15 <span class='p'></span> Rīkste un rājiens dod gudrību: bet bērns, atstāts<i> savā [vaļā]</i>, ved savu māti kaunā."
       },
       {
         "verse": 16,
@@ -4286,27 +4286,27 @@
       {
         "verse": 22,
         "en": "22An angry man stirreth up strife, and a furious man aboundeth in transgression.",
-        "lv": "22 <p>Dusmīgais modina strīdu, un nikns cilvēks pieņemas pārkāpumā."
+        "lv": "22 <span class='p'></span> Dusmīgais modina strīdu, un nikns cilvēks pieņemas pārkāpumā."
       },
       {
         "verse": 23,
         "en": "23A man's pride shall bring him low: but honour shall uphold the humble in spirit.",
-        "lv": "23 <p>Cilvēka lepnums viņu pazeminās: bet gods atbalstīs pazemīgo garā."
+        "lv": "23 <span class='p'></span> Cilvēka lepnums viņu pazeminās: bet gods atbalstīs pazemīgo garā."
       },
       {
         "verse": 24,
         "en": "24Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth <i>it </i>not.",
-        "lv": "24 <p>Kas vien ir partneris zaglim, ienīst savu paša dvēseli: viņš dzird lāstu un <i>to</i> nenodod."
+        "lv": "24 <span class='p'></span> Kas vien ir partneris zaglim, ienīst savu paša dvēseli: viņš dzird lāstu un <i>to</i> nenodod."
       },
       {
         "verse": 25,
         "en": "25The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.",
-        "lv": "25 <p>Cilvēku bijāšana ved slazdu: bet, kas vien paļaujas uz to KUNGU, būs drošs."
+        "lv": "25 <span class='p'></span> Cilvēku bijāšana ved slazdu: bet, kas vien paļaujas uz to KUNGU, būs drošs."
       },
       {
         "verse": 26,
         "en": "26Many seek the ruler's favour; but <i>every </i>man's judgment <i>cometh </i>from the LORD.",
-        "lv": "26 <p>Daudzi meklē valdnieka labvēlību; bet ikviena cilvēka tiesa <i>nāk </i>no tā KUNGA."
+        "lv": "26 <span class='p'></span> Daudzi meklē valdnieka labvēlību; bet ikviena cilvēka tiesa <i>nāk </i>no tā KUNGA."
       },
       {
         "verse": 27,
@@ -4338,7 +4338,7 @@
       {
         "verse": 5,
         "en": "5Every word of God is pure: he <i>is </i>a shield unto them that put their trust in him.",
-        "lv": "5 Ikviens Dieva vārds <i>ir</i> šķīsts: viņš <i>ir </i>vairogs tiem, kas savu paļāvību liek uz viņu. "
+        "lv": "5 Ikviens Dieva vārds <i>ir</i> šķīsts: viņš <i>ir </i>vairogs tiem, kas savu paļāvību liek uz viņu."
       },
       {
         "verse": 6,
@@ -4348,7 +4348,7 @@
       {
         "verse": 7,
         "en": "7Two <i>things </i>have I required of thee; deny me <i>them </i>not before I die:",
-        "lv": "7 <p>Divas <i>lietas </i>es no tevis esmu prasījis; neliedz man <i>tās </i>pirms es mirstu:"
+        "lv": "7 <span class='p'></span> Divas <i>lietas </i>es no tevis esmu prasījis; neliedz man <i>tās </i>pirms es mirstu:"
       },
       {
         "verse": 8,
@@ -4363,12 +4363,12 @@
       {
         "verse": 10,
         "en": "10Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.",
-        "lv": "10 <p>Neapsūdzi kalpu viņa saimniekam, lai viņš tevi nenolād un tu netiec atrasts vainīgs."
+        "lv": "10 <span class='p'></span> Neapsūdzi kalpu viņa saimniekam, lai viņš tevi nenolād un tu netiec atrasts vainīgs."
       },
       {
         "verse": 11,
         "en": "11<i>There is</i> a generation <i>that </i>curseth their father, and doth not bless their mother.",
-        "lv": "11 <p><i>Ir </i>paaudze, <i>kas </i>lād savu tēvu un nesvētī savu māti."
+        "lv": "11 <span class='p'></span> <i>Ir </i>paaudze, <i>kas </i>lād savu tēvu un nesvētī savu māti."
       },
       {
         "verse": 12,
@@ -4388,7 +4388,7 @@
       {
         "verse": 15,
         "en": "15The horseleach hath two daughters, <i>crying</i>, Give, give. There are three <i>things that </i>are never satisfied, <i>yea</i>, four <i>things </i>say not,<i> It is</i> enough:",
-        "lv": "15 <p>Dēlei ir divas meitas <i>saukdamas</i>, Dod, dod. Ir trīs, <i>kas </i>nekad nav apmierināti, <i>jā</i>, četri nesaka, Diezgan:"
+        "lv": "15 <span class='p'></span> Dēlei ir divas meitas <i>saukdamas</i>, Dod, dod. Ir trīs, <i>kas </i>nekad nav apmierināti, <i>jā</i>, četri nesaka, Diezgan:"
       },
       {
         "verse": 16,
@@ -4398,12 +4398,12 @@
       {
         "verse": 17,
         "en": "17The eye <i>that </i>mocketh at <i>his </i>father, and despiseth to obey <i>his </i>mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.",
-        "lv": "17 <p>Aci, <i>kas </i>izsmej savu tēvu un nicina paklausīt <i>savu </i>māti, ielejas kraukļi to izknābs un jaunie ērgļi to ēdīs."
+        "lv": "17 <span class='p'></span> Aci, <i>kas </i>izsmej savu tēvu un nicina paklausīt <i>savu </i>māti, ielejas kraukļi to izknābs un jaunie ērgļi to ēdīs."
       },
       {
         "verse": 18,
         "en": "18There be three <i>things which</i> are too wonderful for me, yea, four which I know not:",
-        "lv": "18 <p>Ir trīs, <i>kas </i>man ir pārāk brīnišķīgi, jā, četri, ko es nezinu:"
+        "lv": "18 <span class='p'></span> Ir trīs, <i>kas </i>man ir pārāk brīnišķīgi, jā, četri, ko es nezinu:"
       },
       {
         "verse": 19,
@@ -4418,7 +4418,7 @@
       {
         "verse": 21,
         "en": "21For three <i>things </i>the earth is disquieted, and for four <i>which </i>it cannot bear:",
-        "lv": "21 <p>Šo trīs<i> </i>dēļ zeme ir nemierīga, un četru dēļ, <i>ko </i>tā nevar panest:"
+        "lv": "21 <span class='p'></span> Šo trīs<i> </i>dēļ zeme ir nemierīga, un četru dēļ, <i>ko </i>tā nevar panest:"
       },
       {
         "verse": 22,
@@ -4433,7 +4433,7 @@
       {
         "verse": 24,
         "en": "24There be four <i>things which are</i> little upon the earth, but they <i>are </i>exceeding wise:",
-        "lv": "24 <p>Ir četri, <i>kas ir </i>mazi uz zemes, bet tie <i>ir </i>ārkārtīgi gudri:"
+        "lv": "24 <span class='p'></span> Ir četri, <i>kas ir </i>mazi uz zemes, bet tie <i>ir </i>ārkārtīgi gudri:"
       },
       {
         "verse": 25,
@@ -4458,7 +4458,7 @@
       {
         "verse": 29,
         "en": "29 There be three <i>things </i>which go well, yea, four are comely in going:",
-        "lv": "29 <p>Ir trīs, kas iet labi, jā, četri ir piemīlīgi staigājot:"
+        "lv": "29 <span class='p'></span> Ir trīs, kas iet labi, jā, četri ir piemīlīgi staigājot:"
       },
       {
         "verse": 30,
@@ -4473,7 +4473,7 @@
       {
         "verse": 32,
         "en": "32If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, <i>lay </i>thine hand upon thy mouth.",
-        "lv": "32 <p>Ja tu esi darījis muļķīgi, paceldams sevi, vai ja tu esi domājis ļaunu, <i>liec </i>savu roku uz savas mutes."
+        "lv": "32 <span class='p'></span> Ja tu esi darījis muļķīgi, paceldams sevi, vai ja tu esi domājis ļaunu, <i>liec </i>savu roku uz savas mutes."
       },
       {
         "verse": 33,
@@ -4510,7 +4510,7 @@
       {
         "verse": 6,
         "en": "6Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
-        "lv": "6 <p>Dod stipru dzērienu tam, kas ir gatavs iet bojā, un vīnu tiem, kam ir smagas sirdis."
+        "lv": "6 <span class='p'></span> Dod stipru dzērienu tam, kas ir gatavs iet bojā, un vīnu tiem, kam ir smagas sirdis."
       },
       {
         "verse": 7,
@@ -4530,7 +4530,7 @@
       {
         "verse": 10,
         "en": "10Who can find a virtuous woman? for her price <i>is </i>far above rubies.",
-        "lv": "10 <p>Kurš var atrast tikumīgu sievieti? jo viņas cena <i>ir daudz augstāk par </i>rubīniem."
+        "lv": "10 <span class='p'></span> Kurš var atrast tikumīgu sievieti? jo viņas cena <i>ir daudz augstāk par </i>rubīniem."
       },
       {
         "verse": 11,

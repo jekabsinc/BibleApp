@@ -15,7 +15,7 @@
       {
         "verse": 3,
         "en": "3 And the king spake unto Ashpenaz the master of his eunuchs, that he should bring <i>certain </i>of the children of Israel, and of the king's seed, and of the princes;",
-        "lv": "3 <p>Un ķēniņš runāja uz Ašpenazu, savu einuhu saimnieku, lai viņš atvestu <i>kādus </i>no Israēla bērniem un no ķēniņa sēklas, un no prinčiem;"
+        "lv": "3 <span class='p'></span> Un ķēniņš runāja uz Ašpenazu, savu einuhu saimnieku, lai viņš atvestu <i>kādus </i>no Israēla bērniem un no ķēniņa sēklas, un no prinčiem;"
       },
       {
         "verse": 4,
@@ -40,7 +40,7 @@
       {
         "verse": 8,
         "en": "8 But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.",
-        "lv": "8 <p>Bet Daniels apņēmās savā sirdī, ka viņš neapgānītos ar ķēniņa barības daļu, ne ar vīnu, ko viņš dzēra: tāpēc viņš pieprasīja no einuhu prinča, lai viņš varētu neapgānīties."
+        "lv": "8 <span class='p'></span> Bet Daniels apņēmās savā sirdī, ka viņš neapgānītos ar ķēniņa barības daļu, ne ar vīnu, ko viņš dzēra: tāpēc viņš pieprasīja no einuhu prinča, lai viņš varētu neapgānīties."
       },
       {
         "verse": 9,
@@ -85,7 +85,7 @@
       {
         "verse": 17,
         "en": "17As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.",
-        "lv": "17 <p>Kas attiecas uz šiem četriem bērniem, Dievs tiem deva atzīšanu un prasmi visā mācībā un gudrībā: un Danielam bija saprašana visos redzējumos un sapņos."
+        "lv": "17 <span class='p'></span> Kas attiecas uz šiem četriem bērniem, Dievs tiem deva atzīšanu un prasmi visā mācībā un gudrībā: un Danielam bija saprašana visos redzējumos un sapņos."
       },
       {
         "verse": 18,
@@ -157,7 +157,7 @@
       {
         "verse": 10,
         "en": "10The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king's matter: therefore<i> there is</i> no king, lord, nor ruler, <i>that </i>asked such things at any magician, or astrologer, or Chaldean.",
-        "lv": "10 <p>Kaldeji atbildēja ķēniņa priekšā un sacīja, Nav cilvēka uz zemes, kas var pavēstīt ķēniņa lietu: tāpēc nav ķēniņa, kunga, ne valdnieka, <i>kas</i> šādas lietas prasītu pie kāda maga vai astrologa, vai kaldeja."
+        "lv": "10 <span class='p'></span> Kaldeji atbildēja ķēniņa priekšā un sacīja, Nav cilvēka uz zemes, kas var pavēstīt ķēniņa lietu: tāpēc nav ķēniņa, kunga, ne valdnieka, <i>kas</i> šādas lietas prasītu pie kāda maga vai astrologa, vai kaldeja."
       },
       {
         "verse": 11,
@@ -177,7 +177,7 @@
       {
         "verse": 14,
         "en": "14Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise <i>men</i> of Babylon:",
-        "lv": "14 <p>Tad Daniels atbildēja ar padomu un gudrību ķēniņa gvardes kapteinim Arioham, kas bija izgājis nokaut Babilonas gudros:"
+        "lv": "14 <span class='p'></span> Tad Daniels atbildēja ar padomu un gudrību ķēniņa gvardes kapteinim Arioham, kas bija izgājis nokaut Babilonas gudros:"
       },
       {
         "verse": 15,
@@ -202,7 +202,7 @@
       {
         "verse": 19,
         "en": "19Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.",
-        "lv": "19 <p>Tad noslēpums Danielam tika atklāts nakts redzējumā. Tad Daniels svētīja debess Dievu."
+        "lv": "19 <span class='p'></span> Tad noslēpums Danielam tika atklāts nakts redzējumā. Tad Daniels svētīja debess Dievu."
       },
       {
         "verse": 20,
@@ -227,7 +227,7 @@
       {
         "verse": 24,
         "en": "24Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise <i>men </i>of Babylon: he went and said thus unto him; Destroy not the wise <i>men </i>of Babylon: bring me in before the king, and I will shew unto the king the interpretation.",
-        "lv": "24 <p>Tāpēc Daniels iegāja pie Arioha, kuru ķēniņš bija iecēlis iznīcināt Babilonas gudros: viņš gāja un viņam sacīja tā; Neiznīcini Babilonas gudros: ieved mani ķēniņa priekšā, un es ķēniņam pavēstīšu tulkojumu."
+        "lv": "24 <span class='p'></span> Tāpēc Daniels iegāja pie Arioha, kuru ķēniņš bija iecēlis iznīcināt Babilonas gudros: viņš gāja un viņam sacīja tā; Neiznīcini Babilonas gudros: ieved mani ķēniņa priekšā, un es ķēniņam pavēstīšu tulkojumu."
       },
       {
         "verse": 25,
@@ -262,7 +262,7 @@
       {
         "verse": 31,
         "en": "31Thou, O king, sawest, and behold a great image. This great image, whose brightness <i>was </i>excellent, stood before thee; and the form thereof <i>was </i>terrible.",
-        "lv": "31 <p>Tu, ak, ķēniņ, redzēji un uzlūkoji lielu tēlu. Šis lielais tēls, kura spožums <i>bija </i>teicams, stāvēja tavā priekšā; un tā forma <i>bija </i>briesmīga."
+        "lv": "31 <span class='p'></span> Tu, ak, ķēniņ, redzēji un uzlūkoji lielu tēlu. Šis lielais tēls, kura spožums <i>bija </i>teicams, stāvēja tavā priekšā; un tā forma <i>bija </i>briesmīga."
       },
       {
         "verse": 32,
@@ -287,7 +287,7 @@
       {
         "verse": 36,
         "en": "36This <i>is</i> the dream; and we will tell the interpretation thereof before the king.",
-        "lv": "36 <p>Šis ir sapnis; un mēs stāstīsim tā tulkojumu ķēniņa priekšā."
+        "lv": "36 <span class='p'></span> Šis ir sapnis; un mēs stāstīsim tā tulkojumu ķēniņa priekšā."
       },
       {
         "verse": 37,
@@ -337,7 +337,7 @@
       {
         "verse": 46,
         "en": "46Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.",
-        "lv": "46 <p>Tad ķēniņš Nebukadnecars krita uz savas sejas un pielūdza Danielu, un pavēlēja, lai tie viņam ziedotu veltījumu un saldas smaržas."
+        "lv": "46 <span class='p'></span> Tad ķēniņš Nebukadnecars krita uz savas sejas un pielūdza Danielu, un pavēlēja, lai tie viņam ziedotu veltījumu un saldas smaržas."
       },
       {
         "verse": 47,
@@ -394,7 +394,7 @@
       {
         "verse": 8,
         "en": "8Wherefore at that time certain Chaldeans came near, and accused the Jews.",
-        "lv": "8 <p>Tādēļ tajā laikā kādi kaldeji nāca tuvu un apsūdzēja jūdus."
+        "lv": "8 <span class='p'></span> Tādēļ tajā laikā kādi kaldeji nāca tuvu un apsūdzēja jūdus."
       },
       {
         "verse": 9,
@@ -449,7 +449,7 @@
       {
         "verse": 19,
         "en": "19Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: <i>therefore </i>he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.",
-        "lv": "19 <p>Tad Nebukadnecars bija pilns niknuma, un viņa sejas izteiksme pret Šadrahu, Mešahu un Abednego mainījās: <i>tāpēc </i>viņš runāja un pavēlēja, lai tie uzsildītu cepli septiņas reizes vairāk nekā to bija parasts uzsildīt."
+        "lv": "19 <span class='p'></span> Tad Nebukadnecars bija pilns niknuma, un viņa sejas izteiksme pret Šadrahu, Mešahu un Abednego mainījās: <i>tāpēc </i>viņš runāja un pavēlēja, lai tie uzsildītu cepli septiņas reizes vairāk nekā to bija parasts uzsildīt."
       },
       {
         "verse": 20,
@@ -484,7 +484,7 @@
       {
         "verse": 26,
         "en": "26Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, <i>and </i>spake, and said, Shadrach, Meshach, and Abednego, ye servants of the most high God, come forth, and come <i>hither</i>. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.",
-        "lv": "26 <p>Tad Nebukadnecars nāca tuvu degošā ugunīgā cepļa atvērumam, <i>un</i> runāja, un sacīja, Šadrah, Mešah un Abednego, jūs, visaugstākā Dieva kalpi, iznāciet un nāciet <i>šurp</i>. Tad Šadrahs, Mešahs un Abednego iznāca no uguns vidus."
+        "lv": "26 <span class='p'></span> Tad Nebukadnecars nāca tuvu degošā ugunīgā cepļa atvērumam, <i>un</i> runāja, un sacīja, Šadrah, Mešah un Abednego, jūs, visaugstākā Dieva kalpi, iznāciet un nāciet <i>šurp</i>. Tad Šadrahs, Mešahs un Abednego iznāca no uguns vidus."
       },
       {
         "verse": 27,
@@ -526,7 +526,7 @@
       {
         "verse": 4,
         "en": "4I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:",
-        "lv": "4 <p>Es, Nebukadnecars, biju dusā savā namā, un plaukstošs savā pilī:"
+        "lv": "4 <span class='p'></span> Es, Nebukadnecars, biju dusā savā namā, un plaukstošs savā pilī:"
       },
       {
         "verse": 5,
@@ -546,7 +546,7 @@
       {
         "verse": 8,
         "en": "8But at the last Daniel came in before me, whose name <i>was </i>Belteshazzar, according to the name of my god, and in whom <i>is </i>the spirit of the holy gods: and before him I told the dream, <i>saying</i>,",
-        "lv": "8 <p>Bet visbeidzot manā priekšā ienāca Daniels, kura vārds <i>ir </i>Beltešazars, atbilstoši mana dieva vārdam un kurā <i>ir </i>svēto dievu gars: un viņa priekšā es stāstīju sapni <i>sacīdams</i>,"
+        "lv": "8 <span class='p'></span> Bet visbeidzot manā priekšā ienāca Daniels, kura vārds <i>ir </i>Beltešazars, atbilstoši mana dieva vārdam un kurā <i>ir </i>svēto dievu gars: un viņa priekšā es stāstīju sapni <i>sacīdams</i>,"
       },
       {
         "verse": 9,
@@ -601,7 +601,7 @@
       {
         "verse": 19,
         "en": "19Then Daniel, whose name <i>was </i>Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream be to them that hate thee, and the interpretation thereof to thine enemies.",
-        "lv": "19 <p>Tad Daniels, kura vārds <i>bija</i> Beltešazars, bija pārsteigts vienu stundu, un viņa domas viņu iztrūcināja. Tad ķēniņš runāja un sacīja, Beltešazar, lai sapnis vai tā tulkojums tevi neiztrūcina. Beltešazars atbildēja un sacīja, Mans kungs, sapnis<i> </i>lai ir tiem, kas tevi ienīst, un tā tulkojums taviem ienaidniekiem."
+        "lv": "19 <span class='p'></span> Tad Daniels, kura vārds <i>bija</i> Beltešazars, bija pārsteigts vienu stundu, un viņa domas viņu iztrūcināja. Tad ķēniņš runāja un sacīja, Beltešazar, lai sapnis vai tā tulkojums tevi neiztrūcina. Beltešazars atbildēja un sacīja, Mans kungs, sapnis<i> </i>lai ir tiem, kas tevi ienīst, un tā tulkojums taviem ienaidniekiem."
       },
       {
         "verse": 20,
@@ -646,7 +646,7 @@
       {
         "verse": 28,
         "en": "28All this came upon the king Nebuchadnezzar.",
-        "lv": "28 <p>Viss šis nāca uz ķēniņu Nebukadnecaru."
+        "lv": "28 <span class='p'></span> Viss šis nāca uz ķēniņu Nebukadnecaru."
       },
       {
         "verse": 29,
@@ -691,7 +691,7 @@
       {
         "verse": 37,
         "en": "37Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works <i>are</i> truth, and his ways judgment: and those that walk in pride he is able to abase.",
-        "lv": "37 <p>Tad nu es, Nebukadnecars, slavēju un cildinu, un godāju debess Ķēniņu, kura visi darbi <i>ir </i>patiesība, un viņa ceļi tiesa: un tos, kas staigā lepnumā, viņš spēj pazemināt."
+        "lv": "37 <span class='p'></span> Tad nu es, Nebukadnecars, slavēju un cildinu, un godāju debess Ķēniņu, kura visi darbi <i>ir </i>patiesība, un viņa ceļi tiesa: un tos, kas staigā lepnumā, viņš spēj pazemināt."
       }
     ],
     "5": [
@@ -718,7 +718,7 @@
       {
         "verse": 5,
         "en": "5In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.",
-        "lv": "5 <p>Tajā pašā stundā iznāca cilvēka rokas pirksti un rakstīja iepretī svečturim uz ķēniņa pils sienas apmetuma: un ķēniņš redzēja rokas daļu, kas rakstīja."
+        "lv": "5 <span class='p'></span> Tajā pašā stundā iznāca cilvēka rokas pirksti un rakstīja iepretī svečturim uz ķēniņa pils sienas apmetuma: un ķēniņš redzēja rokas daļu, kas rakstīja."
       },
       {
         "verse": 6,
@@ -743,7 +743,7 @@
       {
         "verse": 10,
         "en": "10<i>Now</i> the queen, by reason of the words of the king and his lords, came into the banquet house: <i>and </i>the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:",
-        "lv": "10 <p><i>Tad nu</i> ķēniņiene ķēniņa un viņa kungu vārdu dēļ ienāca banketa namā: <i>un </i>ķēniņiene runāja un sacīja, Ak, ķēniņ, dzīvo mūžīgi: lai tavas domas tevi neiztrūcina, ne lai tavs vaigs tiek mainīts:"
+        "lv": "10 <span class='p'></span> <i>Tad nu</i> ķēniņiene ķēniņa un viņa kungu vārdu dēļ ienāca banketa namā: <i>un </i>ķēniņiene runāja un sacīja, Ak, ķēniņ, dzīvo mūžīgi: lai tavas domas tevi neiztrūcina, ne lai tavs vaigs tiek mainīts:"
       },
       {
         "verse": 11,
@@ -778,7 +778,7 @@
       {
         "verse": 17,
         "en": "17Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.",
-        "lv": "17 <p>Tad Daniels atbildēja un ķēniņa priekšā sacīja, Lai tavas dāvanas ir tev pašam, un dod savus atalgojumus citam; tomēr es lasīšu rakstu ķēniņam, un viņam darīšu zināmu tā tulkojumu."
+        "lv": "17 <span class='p'></span> Tad Daniels atbildēja un ķēniņa priekšā sacīja, Lai tavas dāvanas ir tev pašam, un dod savus atalgojumus citam; tomēr es lasīšu rakstu ķēniņam, un viņam darīšu zināmu tā tulkojumu."
       },
       {
         "verse": 18,
@@ -813,12 +813,12 @@
       {
         "verse": 24,
         "en": "24Then was the part of the hand sent from him; and this writing was written.",
-        "lv": "24 Tad rokas daļa tika no viņa sūtīta; un šis raksts tika rakstīts. "
+        "lv": "24 Tad rokas daļa tika no viņa sūtīta; un šis raksts tika rakstīts."
       },
       {
         "verse": 25,
         "en": "25And this <i>is </i>the writing that was written, MENE, MENE, TEKEL, UPHARSIN.",
-        "lv": "25 <p>Un šis <i>ir </i>raksts, kas tika rakstīts, MENE, MENE, TEKEL, UPHARSIN."
+        "lv": "25 <span class='p'></span> Un šis <i>ir </i>raksts, kas tika rakstīts, MENE, MENE, TEKEL, UPHARSIN."
       },
       {
         "verse": 26,
@@ -843,7 +843,7 @@
       {
         "verse": 30,
         "en": "30In that night was Belshazzar the king of the Chaldeans slain.",
-        "lv": "30 <p>Tajā naktī Belšacars, kaldeju ķēniņš, tika nokauts."
+        "lv": "30 <span class='p'></span> Tajā naktī Belšacars, kaldeju ķēniņš, tika nokauts."
       },
       {
         "verse": 31,
@@ -870,7 +870,7 @@
       {
         "verse": 4,
         "en": "4 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he <i>was </i>faithful, neither was there any error or fault found in him.",
-        "lv": "4 <p>Tad prezidenti un prinči meklēja atrast ieganstu pret Danielu attiecībā uz valstību; bet tie nevarēja atrast nevienu ieganstu vai vainu; tā ka viņš <i>bija </i>uzticams, nedz viņā tika atrasts kāds malds vai vaina."
+        "lv": "4 <span class='p'></span> Tad prezidenti un prinči meklēja atrast ieganstu pret Danielu attiecībā uz valstību; bet tie nevarēja atrast nevienu ieganstu vai vainu; tā ka viņš <i>bija </i>uzticams, nedz viņā tika atrasts kāds malds vai vaina."
       },
       {
         "verse": 5,
@@ -900,7 +900,7 @@
       {
         "verse": 10,
         "en": "10 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.",
-        "lv": "10 <p>Kad nu Daniels zināja, ka raksts bija parakstīts, viņš iegāja savā namā; un viņa logiem atvērtiem viņa kambarī uz Jeruzālemi, viņš nometās uz saviem ceļiem trīs reizes dienā un lūdza, un pasacījās sava Dieva priekšā, kā viņš darīja iepriekš."
+        "lv": "10 <span class='p'></span> Kad nu Daniels zināja, ka raksts bija parakstīts, viņš iegāja savā namā; un viņa logiem atvērtiem viņa kambarī uz Jeruzālemi, viņš nometās uz saviem ceļiem trīs reizes dienā un lūdza, un pasacījās sava Dieva priekšā, kā viņš darīja iepriekš."
       },
       {
         "verse": 11,
@@ -940,7 +940,7 @@
       {
         "verse": 18,
         "en": "18Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.",
-        "lv": "18 <p>Tad ķēniņš gāja uz savu pili un pavadīja nakti gavēdams: nedz mūzikas instrumenti tika nesti viņa priekšā: un viņa miegs gāja no viņa."
+        "lv": "18 <span class='p'></span> Tad ķēniņš gāja uz savu pili un pavadīja nakti gavēdams: nedz mūzikas instrumenti tika nesti viņa priekšā: un viņa miegs gāja no viņa."
       },
       {
         "verse": 19,
@@ -970,12 +970,12 @@
       {
         "verse": 24,
         "en": "24And the king commanded, and they brought those men which had accused Daniel, and they cast <i>them </i>into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.",
-        "lv": "24 <p>Un ķēniņš pavēlēja, un tie veda tos vīriešus, kas bija apsūdzējuši Danielu, un tie <i>tos </i>meta lauvu midzenī, tos, to bērnus un to sievas; un lauvas tos pārvarēja un salauza visus viņu kaulus gabalos tiklīdz tie nāca midzeņa dibenā. "
+        "lv": "24 <span class='p'></span> Un ķēniņš pavēlēja, un tie veda tos vīriešus, kas bija apsūdzējuši Danielu, un tie <i>tos </i>meta lauvu midzenī, tos, to bērnus un to sievas; un lauvas tos pārvarēja un salauza visus viņu kaulus gabalos tiklīdz tie nāca midzeņa dibenā."
       },
       {
         "verse": 25,
         "en": "25Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.",
-        "lv": "25 <p>Tad ķēniņš Dārijs rakstīja visiem ļaudīm, tautām un valodām, kas mājo visā zemē; Miers lai<i> </i>jums vairojas."
+        "lv": "25 <span class='p'></span> Tad ķēniņš Dārijs rakstīja visiem ļaudīm, tautām un valodām, kas mājo visā zemē; Miers lai<i> </i>jums vairojas."
       },
       {
         "verse": 26,
@@ -1037,7 +1037,7 @@
       {
         "verse": 9,
         "en": "9I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment <i>was </i>white as snow, and the hair of his head like the pure wool: his throne <i>was like</i> the fiery flame, <i>and</i> his wheels <i>as </i>burning fire.",
-        "lv": "9 <p>Es uzlūkoju, iekams troņi tika nomesti, un Dienu senais sēdēja, kura apģērbs <i>bija </i>balts kā sniegs, un viņa galvas mati kā šķīsta vilna: viņa tronis<i> bija kā </i>ugunīga liesma, <i>un </i>viņa riteņi <i>kā </i>degošs uguns."
+        "lv": "9 <span class='p'></span> Es uzlūkoju, iekams troņi tika nomesti, un Dienu senais sēdēja, kura apģērbs <i>bija </i>balts kā sniegs, un viņa galvas mati kā šķīsta vilna: viņa tronis<i> bija kā </i>ugunīga liesma, <i>un </i>viņa riteņi <i>kā </i>degošs uguns."
       },
       {
         "verse": 10,
@@ -1067,7 +1067,7 @@
       {
         "verse": 15,
         "en": "15I Daniel was grieved in my spirit in the midst of <i>my </i>body, and the visions of my head troubled me.",
-        "lv": "15 <p>Es, Daniels, biju noskumis savā garā <i>sava </i>ķermeņa vidū, un manas galvas redzējumi mani iztrūcināja."
+        "lv": "15 <span class='p'></span> Es, Daniels, biju noskumis savā garā <i>sava </i>ķermeņa vidū, un manas galvas redzējumi mani iztrūcināja."
       },
       {
         "verse": 16,
@@ -1199,7 +1199,7 @@
       {
         "verse": 13,
         "en": "13Then I heard one saint speaking, and another saint said unto that certain <i>saint </i>which spake, How long <i>shall be</i> the vision <i>concerning </i>the daily <i>sacrifice</i>, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?",
-        "lv": "13 <p>Tad es dzirdēju vienu svēto runājam un citu svēto sakām tam svētajam, kas runāja, Cik ilgi <i>būs </i>redzējums <i>attiecībā uz</i> ikdienas <i>upuri</i>, un pamestības pārkāpums, dot gan svētnīcu, gan karapulku samīt zem kājām?"
+        "lv": "13 <span class='p'></span> Tad es dzirdēju vienu svēto runājam un citu svēto sakām tam svētajam, kas runāja, Cik ilgi <i>būs </i>redzējums <i>attiecībā uz</i> ikdienas <i>upuri</i>, un pamestības pārkāpums, dot gan svētnīcu, gan karapulku samīt zem kājām?"
       },
       {
         "verse": 14,
@@ -1209,7 +1209,7 @@
       {
         "verse": 15,
         "en": "15And it came to pass, when I, <i>even </i>I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.",
-        "lv": "15 <p>Un notika, kad es, <i>proti</i>, es, Daniels, biju redzējis redzējumu un meklēju nozīmi, tad, lūk, manā priekšā stāvēja kā cilvēka izskats."
+        "lv": "15 <span class='p'></span> Un notika, kad es, <i>proti</i>, es, Daniels, biju redzējis redzējumu un meklēju nozīmi, tad, lūk, manā priekšā stāvēja kā cilvēka izskats."
       },
       {
         "verse": 16,
@@ -1286,7 +1286,7 @@
       {
         "verse": 3,
         "en": "3And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:",
-        "lv": "3 <p>Un es liku savu seju pie tā Kunga Dieva, meklēt caur lūgšanu un lūgumiem, ar gavēšanu un maisaudumu, un pelniem:"
+        "lv": "3 <span class='p'></span> Un es liku savu seju pie tā Kunga Dieva, meklēt caur lūgšanu un lūgumiem, ar gavēšanu un maisaudumu, un pelniem:"
       },
       {
         "verse": 4,
@@ -1351,7 +1351,7 @@
       {
         "verse": 16,
         "en": "16O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people <i>are become</i> a reproach to all <i>that are</i> about us.",
-        "lv": "16 <p>Ak, Kungs, atbilstoši visai tavai taisnībai, es tevi lūdzos, lai tavas dusmas un tavs niknums tiek griezts prom no tavas pilsētas Jeruzālemes, tava svētā kalna: mūsu grēku dēļ un mūsu tēvu nekrietnību dēļ, Jeruzāleme un tavi ļaudis <i>ir kļuvuši</i> par<i> </i>apsmieklu visiem, <i>kas ir</i> ap mums."
+        "lv": "16 <span class='p'></span> Ak, Kungs, atbilstoši visai tavai taisnībai, es tevi lūdzos, lai tavas dusmas un tavs niknums tiek griezts prom no tavas pilsētas Jeruzālemes, tava svētā kalna: mūsu grēku dēļ un mūsu tēvu nekrietnību dēļ, Jeruzāleme un tavi ļaudis <i>ir kļuvuši</i> par<i> </i>apsmieklu visiem, <i>kas ir</i> ap mums."
       },
       {
         "verse": 17,
@@ -1371,7 +1371,7 @@
       {
         "verse": 20,
         "en": "20And whiles I <i>was </i>speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;",
-        "lv": "20 <p>Un kamēr es runāju un lūdzu, un atzinos savā grēkā un savu ļaužu Israēla grēkā, un stādīju tā KUNGA, sava Dieva, priekšā lūgumu par mana Dieva svēto kalnu;"
+        "lv": "20 <span class='p'></span> Un kamēr es runāju un lūdzu, un atzinos savā grēkā un savu ļaužu Israēla grēkā, un stādīju tā KUNGA, sava Dieva, priekšā lūgumu par mana Dieva svēto kalnu;"
       },
       {
         "verse": 21,
@@ -1458,7 +1458,7 @@
       {
         "verse": 10,
         "en": "10And, behold, an hand touched me, which set me upon my knees and <i>upon </i>the palms of my hands.",
-        "lv": "10 <p>Un, lūk, roka mani aizskāra, kas mani lika uz maniem ceļiem un <i>uz </i>manām plaukstām."
+        "lv": "10 <span class='p'></span> Un, lūk, roka mani aizskāra, kas mani lika uz maniem ceļiem un <i>uz </i>manām plaukstām."
       },
       {
         "verse": 11,
@@ -1540,7 +1540,7 @@
       {
         "verse": 5,
         "en": "5And the king of the south shall be strong, and <i>one </i>of his princes; and he shall be strong above him, and have dominion; his dominion <i>shall be </i>a great dominion.",
-        "lv": "5 <p>Un dienvidu ķēniņš būs stiprs, un <i>viens </i>no viņa prinčiem; un viņš būs stiprs pār viņu, un<i> [viņam]</i> būs valdījums; viņa valdījums <i>būs </i>liels valdījums."
+        "lv": "5 <span class='p'></span> Un dienvidu ķēniņš būs stiprs, un <i>viens </i>no viņa prinčiem; un viņš būs stiprs pār viņu, un<i> [viņam]</i> būs valdījums; viņa valdījums <i>būs </i>liels valdījums."
       },
       {
         "verse": 6,
@@ -1665,7 +1665,7 @@
       {
         "verse": 30,
         "en": "30For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.",
-        "lv": "30 <p>Jo Čitima kuģi nāks pret viņu: tāpēc viņš tiks noskumdināts un atgriezīsies, un apskaitīsies pret svēto derību: tā viņš darīs; viņš pat atgriezīsies un sapratīsies ar tiem, kas pamet svēto derību."
+        "lv": "30 <span class='p'></span> Jo Čitima kuģi nāks pret viņu: tāpēc viņš tiks noskumdināts un atgriezīsies, un apskaitīsies pret svēto derību: tā viņš darīs; viņš pat atgriezīsies un sapratīsies ar tiem, kas pamet svēto derību."
       },
       {
         "verse": 31,
@@ -1767,7 +1767,7 @@
       {
         "verse": 5,
         "en": "5Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.",
-        "lv": "5 <p>Tad es, Daniels, lūkojos, un lūk, stāvēja divi citi, viens šajā upes krasta pusē, un otrs upes krasta otrā pusē."
+        "lv": "5 <span class='p'></span> Tad es, Daniels, lūkojos, un lūk, stāvēja divi citi, viens šajā upes krasta pusē, un otrs upes krasta otrā pusē."
       },
       {
         "verse": 6,

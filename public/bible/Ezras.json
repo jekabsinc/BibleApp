@@ -25,7 +25,7 @@
       {
         "verse": 5,
         "en": "5Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all <i>them</i> whose spirit God had raised, to go up to build the house of the LORD which <i>is </i>in Jerusalem.",
-        "lv": "5 <p>Tad uzcēlās galvenie no Jūdas un Benjamīna tēviem un priesteri, un levīti ar visiem <i>tiem</i>, kuru garu Dievs bija cēlis, lai dotos būvēt tā KUNGA namu, kas <i>ir </i>Jeruzālemē."
+        "lv": "5 <span class='p'></span> Tad uzcēlās galvenie no Jūdas un Benjamīna tēviem un priesteri, un levīti ar visiem <i>tiem</i>, kuru garu Dievs bija cēlis, lai dotos būvēt tā KUNGA namu, kas <i>ir </i>Jeruzālemē."
       },
       {
         "verse": 6,
@@ -35,7 +35,7 @@
       {
         "verse": 7,
         "en": "7Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;",
-        "lv": "7 <p>Arī ķēniņš Kīrs izveda tā KUNGA nama traukus, ko Nebukadnēcars bija izvedis no Jeruzālemes un bija licis tos savu dievu namā;"
+        "lv": "7 <span class='p'></span> Arī ķēniņš Kīrs izveda tā KUNGA nama traukus, ko Nebukadnēcars bija izvedis no Jeruzālemes un bija licis tos savu dievu namā;"
       },
       {
         "verse": 8,
@@ -237,7 +237,7 @@
       {
         "verse": 36,
         "en": "36The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
-        "lv": "36 <p>Priesteri: Jedajas bērni no Ješua nama, deviņi simti septiņdesmit trīs."
+        "lv": "36 <span class='p'></span> Priesteri: Jedajas bērni no Ješua nama, deviņi simti septiņdesmit trīs."
       },
       {
         "verse": 37,
@@ -257,22 +257,22 @@
       {
         "verse": 40,
         "en": "40The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.",
-        "lv": "40 <p>Levīti: Ješuas un Kadmiela bērni, no Hodavijas bērniem, septiņdesmit četri."
+        "lv": "40 <span class='p'></span> Levīti: Ješuas un Kadmiela bērni, no Hodavijas bērniem, septiņdesmit četri."
       },
       {
         "verse": 41,
         "en": "41The singers: the children of Asaph, an hundred twenty and eight.",
-        "lv": "41 <p>Dziedātāji: Asafa bērni, simts divdesmit astoņi."
+        "lv": "41 <span class='p'></span> Dziedātāji: Asafa bērni, simts divdesmit astoņi."
       },
       {
         "verse": 42,
         "en": "42The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, <i>in </i>all an hundred thirty and nine.",
-        "lv": "42 <p>Vārtu sargu bērni: Šalluma bērni, Atera bērni, Talmona bērni, Akkuba bērni, Hatita bērni, Šobaja bērni, kopā simts trīsdesmit deviņi."
+        "lv": "42 <span class='p'></span> Vārtu sargu bērni: Šalluma bērni, Atera bērni, Talmona bērni, Akkuba bērni, Hatita bērni, Šobaja bērni, kopā simts trīsdesmit deviņi."
       },
       {
         "verse": 43,
         "en": "43The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
-        "lv": "43 <p>Tempļa kalpotāji: Zihas bērni, Hasufa dēli, Tabaota bērni,"
+        "lv": "43 <span class='p'></span> Tempļa kalpotāji: Zihas bērni, Hasufa dēli, Tabaota bērni,"
       },
       {
         "verse": 44,
@@ -332,7 +332,7 @@
       {
         "verse": 55,
         "en": "55The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda,",
-        "lv": "55 <p>Salamana kalpu bērni: Sotaja bērni, Sofereta bērni, Peruda bērni,"
+        "lv": "55 <span class='p'></span> Salamana kalpu bērni: Sotaja bērni, Sofereta bērni, Peruda bērni,"
       },
       {
         "verse": 56,
@@ -362,7 +362,7 @@
       {
         "verse": 61,
         "en": "61And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:",
-        "lv": "61 <p>Un no priesteru bērniem: Habajas bērni, Koza bērni, Barzilaja bērni; kas ņēma sievu no Gileādieša Barzilaja meitām un tika nosaukti pēc viņu vārda:"
+        "lv": "61 <span class='p'></span> Un no priesteru bērniem: Habajas bērni, Koza bērni, Barzilaja bērni; kas ņēma sievu no Gileādieša Barzilaja meitām un tika nosaukti pēc viņu vārda:"
       },
       {
         "verse": 62,
@@ -377,7 +377,7 @@
       {
         "verse": 64,
         "en": "64The whole congregation together was forty and two thousand three hundred <i>and </i>threescore,",
-        "lv": "64 <p>Visa sanāksme kopā bija četrdesmit divi tūkstoši trīs simti sešdesmit,"
+        "lv": "64 <span class='p'></span> Visa sanāksme kopā bija četrdesmit divi tūkstoši trīs simti sešdesmit,"
       },
       {
         "verse": 65,
@@ -397,7 +397,7 @@
       {
         "verse": 68,
         "en": "68And <i>some </i>of the chief of the fathers, when they came to the house of the LORD which <i>is</i> at Jerusalem, offered freely for the house of God to set it up in his place:",
-        "lv": "68 <p>Un <i>daži </i>no tēvu galvenajiem, kad tie nāca uz tā KUNGA namu, kas <i>ir </i>Jeruzalemē, ziedoja par brīvu Dieva namam, lai to uzstādītu tā vietā:"
+        "lv": "68 <span class='p'></span> Un <i>daži </i>no tēvu galvenajiem, kad tie nāca uz tā KUNGA namu, kas <i>ir </i>Jeruzalemē, ziedoja par brīvu Dieva namam, lai to uzstādītu tā vietā:"
       },
       {
         "verse": 69,
@@ -449,7 +449,7 @@
       {
         "verse": 8,
         "en": "8Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the LORD.",
-        "lv": "8 <p>Tad nu viņu nākšanas otrajā gadā uz Dieva namu Jeruzālemē, otrajā mēnesī iesāka Zerubbabels, Šealtiela dēls, un Ješua, Jozadaka dēls, un viņu brāļu, priesteru un levītu atlikušie, un visi tie, kas bija iznākuši no gūsta uz Jeruzālemi; un iecēla levītus, no divdesmit gadus veciem un uz augšu, virzīt tā KUNGA nama darbu."
+        "lv": "8 <span class='p'></span> Tad nu viņu nākšanas otrajā gadā uz Dieva namu Jeruzālemē, otrajā mēnesī iesāka Zerubbabels, Šealtiela dēls, un Ješua, Jozadaka dēls, un viņu brāļu, priesteru un levītu atlikušie, un visi tie, kas bija iznākuši no gūsta uz Jeruzālemi; un iecēla levītus, no divdesmit gadus veciem un uz augšu, virzīt tā KUNGA nama darbu."
       },
       {
         "verse": 9,
@@ -511,7 +511,7 @@
       {
         "verse": 7,
         "en": "7And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter <i>was </i>written in the Syrian tongue, and interpreted in the Syrian tongue.",
-        "lv": "7 <p>Un Artakserksa dienās Bišlams, Mitredats, Tabeels un pārējie no viņu biedriem rakstīja Persijas ķēniņam Artakserksam; un vēstules rakstītais <i>bija </i>rakstīts sīriešu mēlē un tulkots sīriešu mēlē."
+        "lv": "7 <span class='p'></span> Un Artakserksa dienās Bišlams, Mitredats, Tabeels un pārējie no viņu biedriem rakstīja Persijas ķēniņam Artakserksam; un vēstules rakstītais <i>bija </i>rakstīts sīriešu mēlē un tulkots sīriešu mēlē."
       },
       {
         "verse": 8,
@@ -531,7 +531,7 @@
       {
         "verse": 11,
         "en": "11This <i>is</i> the copy of the letter that they sent unto him, <i>even </i>unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time.",
-        "lv": "11 <p>Šī <i>ir </i>vēstules kopija, ko tie viņam nosūtīja, <i>proti,</i> ķēniņam Artakserksam; Tavi kalpi, cilvēki šaipus upei, un šādā laikā."
+        "lv": "11 <span class='p'></span> Šī <i>ir </i>vēstules kopija, ko tie viņam nosūtīja, <i>proti,</i> ķēniņam Artakserksam; Tavi kalpi, cilvēki šaipus upei, un šādā laikā."
       },
       {
         "verse": 12,
@@ -561,7 +561,7 @@
       {
         "verse": 17,
         "en": "17<i>Then</i> sent the king an answer unto Rehum the chancellor, and <i>to</i> Shimshai the scribe, and <i>to </i>the rest of their companions that dwell in Samaria, and <i>unto </i>the rest beyond the river, Peace, and at such a time.",
-        "lv": "17 <p><i>Tad </i>ķēniņš sūtīja atbildi kancleram Rehumam un rakstu mācītājam Šimšajam, un pārējiem no viņu biedriem, kas mājo Samarijā, un pārējiem aiz upes, Miers un šādā laikā."
+        "lv": "17 <span class='p'></span> <i>Tad </i>ķēniņš sūtīja atbildi kancleram Rehumam un rakstu mācītājam Šimšajam, un pārējiem no viņu biedriem, kas mājo Samarijā, un pārējiem aiz upes, Miers un šādā laikā."
       },
       {
         "verse": 18,
@@ -591,7 +591,7 @@
       {
         "verse": 23,
         "en": "23Now when the copy of king Artaxerxes' letter <i>was </i>read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power.",
-        "lv": "23 <p>Tad nu, kad ķēniņa Artakserksa vēstules kopija <i>tika </i>lasīta Rehuma un rakstu mācītāja Šimšaja, un viņu biedru priekšā, tie steigā devās uz Jeruzālemi pie jūdiem un lika viņiem mitēties ar varu un spēku."
+        "lv": "23 <span class='p'></span> Tad nu, kad ķēniņa Artakserksa vēstules kopija <i>tika </i>lasīta Rehuma un rakstu mācītāja Šimšaja, un viņu biedru priekšā, tie steigā devās uz Jeruzālemi pie jūdiem un lika viņiem mitēties ar varu un spēku."
       },
       {
         "verse": 24,
@@ -613,7 +613,7 @@
       {
         "verse": 3,
         "en": "3At the same time came to them Tatnai, governor on this side the river, and Shetharboznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?",
-        "lv": "3 <p>Tajā pašā laikā pie viņiem nāca Tatnajs, pārvaldnieks šaipus upei, un Šetarboznajs, un viņu biedri un tiem sacīja, Kurš jums ir pavēlējis būvēt šo namu un uztaisīt šo mūri?"
+        "lv": "3 <span class='p'></span> Tajā pašā laikā pie viņiem nāca Tatnajs, pārvaldnieks šaipus upei, un Šetarboznajs, un viņu biedri un tiem sacīja, Kurš jums ir pavēlējis būvēt šo namu un uztaisīt šo mūri?"
       },
       {
         "verse": 4,
@@ -628,7 +628,7 @@
       {
         "verse": 6,
         "en": "6The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai, and his companions the Apharsachites, which <i>were </i>on this side the river, sent unto Darius the king:",
-        "lv": "6 <p>Kopija vēstulei, ko Tatnajs, pārvaldnieks šaipus upei, un Šetarboznajs un viņa biedri afarsahieši, kas <i>bija </i>šaipus upei, sūtīja ķēniņam Dārijam:"
+        "lv": "6 <span class='p'></span> Kopija vēstulei, ko Tatnajs, pārvaldnieks šaipus upei, un Šetarboznajs un viņa biedri afarsahieši, kas <i>bija </i>šaipus upei, sūtīja ķēniņam Dārijam:"
       },
       {
         "verse": 7,
@@ -765,7 +765,7 @@
       {
         "verse": 16,
         "en": "16And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,",
-        "lv": "16 <p>Un Israēla bērni, priesteri un levīti, un pārējie gūsta bērni ar prieku turēja šī Dieva nama iesvētīšanu,"
+        "lv": "16 <span class='p'></span> Un Israēla bērni, priesteri un levīti, un pārējie gūsta bērni ar prieku turēja šī Dieva nama iesvētīšanu,"
       },
       {
         "verse": 17,
@@ -780,7 +780,7 @@
       {
         "verse": 19,
         "en": "19And the children of the captivity kept the passover upon the fourteenth <i>day </i>of the first month.",
-        "lv": "19 <p>Un gūsta bērni turēja pashā pirmā mēneša četrpadsmitajā <i>dienā</i>."
+        "lv": "19 <span class='p'></span> Un gūsta bērni turēja pashā pirmā mēneša četrpadsmitajā <i>dienā</i>."
       },
       {
         "verse": 20,
@@ -852,7 +852,7 @@
       {
         "verse": 11,
         "en": "11Now this <i>is </i>the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, <i>even </i>a scribe of the words of the commandments of the LORD, and of his statutes to Israel.",
-        "lv": "11 <p>Tad nu šī <i>ir</i> kopija vēstulei, ko ķēniņš Artakserkss deva Ezram, priesterim, rakstu mācītājam, <i>proti,</i> tā KUNGA pavēļu vārdu un viņa statūtu rakstu mācītājam priekš Israēla."
+        "lv": "11 <span class='p'></span> Tad nu šī <i>ir</i> kopija vēstulei, ko ķēniņš Artakserkss deva Ezram, priesterim, rakstu mācītājam, <i>proti,</i> tā KUNGA pavēļu vārdu un viņa statūtu rakstu mācītājam priekš Israēla."
       },
       {
         "verse": 12,
@@ -932,7 +932,7 @@
       {
         "verse": 27,
         "en": "27Blessed <i>be </i>the LORD God of our fathers, which hath put <i>such a thing</i> as this in the king's heart, to beautify the house of the LORD which <i>is </i>in Jerusalem:",
-        "lv": "27 <p>Svētīts <i>lai ir </i>tas KUNGS, mūsu tēvu Dievs, kas ķēniņa sirdī ir licis<i> tādu lietu</i> kā šī, lai izdaiļotu tā KUNGA namu, kas <i>ir </i>Jeruzālemē:"
+        "lv": "27 <span class='p'></span> Svētīts <i>lai ir </i>tas KUNGS, mūsu tēvu Dievs, kas ķēniņa sirdī ir licis<i> tādu lietu</i> kā šī, lai izdaiļotu tā KUNGA namu, kas <i>ir </i>Jeruzālemē:"
       },
       {
         "verse": 28,
@@ -1014,7 +1014,7 @@
       {
         "verse": 15,
         "en": "15And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.",
-        "lv": "15 <p>Un es tos sapulcināju kopā pie upes, kas tek uz Ahavu; un mēs tur palikām teltīs trīs dienas: un es apskatīju ļaudis un priesterus un neatradu tur nevienu no Levja dēliem."
+        "lv": "15 <span class='p'></span> Un es tos sapulcināju kopā pie upes, kas tek uz Ahavu; un mēs tur palikām teltīs trīs dienas: un es apskatīju ļaudis un priesterus un neatradu tur nevienu no Levja dēliem."
       },
       {
         "verse": 16,
@@ -1044,7 +1044,7 @@
       {
         "verse": 21,
         "en": "21Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.",
-        "lv": "21 <p>Tad es pasludināju gavēni tur, pie Ahavas upes, lai mēs varētu sāpināt paši sevi sava Dieva priekšā, lai meklētu no viņa pareizo ceļu priekš mums un priekš mūsu mazajiem, un priekš visas mūsu mantas."
+        "lv": "21 <span class='p'></span> Tad es pasludināju gavēni tur, pie Ahavas upes, lai mēs varētu sāpināt paši sevi sava Dieva priekšā, lai meklētu no viņa pareizo ceļu priekš mums un priekš mūsu mazajiem, un priekš visas mūsu mantas."
       },
       {
         "verse": 22,
@@ -1059,7 +1059,7 @@
       {
         "verse": 24,
         "en": "24Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,",
-        "lv": "24 <p>Tad es atšķīru divpadsmit priesteru galvenos, Šerebiju, Hašabiju un desmit viņu brāļus līdz ar tiem,"
+        "lv": "24 <span class='p'></span> Tad es atšķīru divpadsmit priesteru galvenos, Šerebiju, Hašabiju un desmit viņu brāļus līdz ar tiem,"
       },
       {
         "verse": 25,
@@ -1094,7 +1094,7 @@
       {
         "verse": 31,
         "en": "31Then we departed from the river of Ahava on the twelfth <i>day </i>of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.",
-        "lv": "31 <p>Tad mēs aizgājām no Ahavas upes pirmā mēneša divpadsmitajā <i>dienā</i>, lai ietu uz Jeruzālemi: un mūsu Dieva roka bija pār mums, un viņš mūs izpestīja no ienaidnieka rokas, un no tādiem, kas glūn ceļā."
+        "lv": "31 <span class='p'></span> Tad mēs aizgājām no Ahavas upes pirmā mēneša divpadsmitajā <i>dienā</i>, lai ietu uz Jeruzālemi: un mūsu Dieva roka bija pār mums, un viņš mūs izpestīja no ienaidnieka rokas, un no tādiem, kas glūn ceļā."
       },
       {
         "verse": 32,
@@ -1104,7 +1104,7 @@
       {
         "verse": 33,
         "en": "33Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him <i>was </i>Eleazar the son of Phinehas; and with them <i>was </i>Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;",
-        "lv": "33 <p>Tad nu ceturtajā dienā sudrabs un zelts, un trauki tika nosvērti mūsu Dieva namā caur priestera Meremota, Ūrijas dēla, roku; un ar viņu <i>bija </i>Eleazars, Pinehasa dēls; un ar viņiem <i>bija </i>Jozabads, Ješua dēls, un Noadija, Binuja dēls, levīti;"
+        "lv": "33 <span class='p'></span> Tad nu ceturtajā dienā sudrabs un zelts, un trauki tika nosvērti mūsu Dieva namā caur priestera Meremota, Ūrijas dēla, roku; un ar viņu <i>bija </i>Eleazars, Pinehasa dēls; un ar viņiem <i>bija </i>Jozabads, Ješua dēls, un Noadija, Binuja dēls, levīti;"
       },
       {
         "verse": 34,
@@ -1119,7 +1119,7 @@
       {
         "verse": 36,
         "en": "36And they delivered the king's commissions unto the king's lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God.",
-        "lv": "36 <p>Un viņi nodeva ķēniņa uzdevumu ķēniņa leitnantiem un pārvaldniekiem šaipus upei: un viņi lika sekmēties ļaudīm un Dieva namam."
+        "lv": "36 <span class='p'></span> Un viņi nodeva ķēniņa uzdevumu ķēniņa leitnantiem un pārvaldniekiem šaipus upei: un viņi lika sekmēties ļaudīm un Dieva namam."
       }
     ],
     "9": [
@@ -1146,7 +1146,7 @@
       {
         "verse": 5,
         "en": "5.And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God,",
-        "lv": "5 <p>Un pie vakara upura es piecēlos no sava smaguma; un, saplēsis savu apģērbu un apmetni, es kritu uz saviem ceļiem un izpletu savas rokas uz to KUNGU, savu Dievu,"
+        "lv": "5 <span class='p'></span> Un pie vakara upura es piecēlos no sava smaguma; un, saplēsis savu apģērbu un apmetni, es kritu uz saviem ceļiem un izpletu savas rokas uz to KUNGU, savu Dievu,"
       },
       {
         "verse": 6,
@@ -1161,7 +1161,7 @@
       {
         "verse": 8,
         "en": "8.And now for a little space grace hath been <i>shewed </i>from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.",
-        "lv": "8 Un tagad uz mazu mirkli žēlastība ir tikusi <i>parādīta </i>no tā KUNGA, mūsu Dieva, lai atstātu mums atlikumu, izbēgt un dot naglu viņa svētajā vietā, lai mūsu Dievs  var apgaismot mūsu acis un dot mums mazliet atdzīvināšanu mūsu kalpībā."
+        "lv": "8 Un tagad uz mazu mirkli žēlastība ir tikusi <i>parādīta </i>no tā KUNGA, mūsu Dieva, lai atstātu mums atlikumu, izbēgt un dot naglu viņa svētajā vietā, lai mūsu Dievs var apgaismot mūsu acis un dot mums mazliet atdzīvināšanu mūsu kalpībā."
       },
       {
         "verse": 9,
@@ -1228,7 +1228,7 @@
       {
         "verse": 6,
         "en": "6.Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and <i>when </i>he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.",
-        "lv": "6 <p>Tad Ezra cēlās no Dieva nama priekšas un iegāja Johanana, Eliašiba dēla, kambarī: un, <i>kad </i>viņš turp nāca, viņš neēda maizi, ne dzēra ūdeni: jo viņš sēroja to, kas bija bijuši aizvesti, pārkāpuma dēļ."
+        "lv": "6 <span class='p'></span> Tad Ezra cēlās no Dieva nama priekšas un iegāja Johanana, Eliašiba dēla, kambarī: un, <i>kad </i>viņš turp nāca, viņš neēda maizi, ne dzēra ūdeni: jo viņš sēroja to, kas bija bijuši aizvesti, pārkāpuma dēļ."
       },
       {
         "verse": 7,
@@ -1243,7 +1243,7 @@
       {
         "verse": 9,
         "en": "9.Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It <i>was </i>the ninth month, on the twentieth <i>day </i>of the month; and all the people sat in the street of the house of God, trembling because of <i>this</i> matter, and for the great rain.",
-        "lv": "9 <p>Tad visi Jūdas un Benjamīna vīrieši trīs dienu laikā sapulcējās kopā uz Jeruzālemi. Tas <i>bija </i>devītais mēnesis, mēneša divdesmitajā <i>dienā</i>; un visi ļaudis sēdēja Dieva nama ielā, drebēdami <i>šīs </i>lietas dēļ un lielā lietus dēļ."
+        "lv": "9 <span class='p'></span> Tad visi Jūdas un Benjamīna vīrieši trīs dienu laikā sapulcējās kopā uz Jeruzālemi. Tas <i>bija </i>devītais mēnesis, mēneša divdesmitajā <i>dienā</i>; un visi ļaudis sēdēja Dieva nama ielā, drebēdami <i>šīs </i>lietas dēļ un lielā lietus dēļ."
       },
       {
         "verse": 10,
@@ -1273,7 +1273,7 @@
       {
         "verse": 15,
         "en": "15.Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this <i>matter</i>: and Meshullam and Shabbethai the Levite helped them.",
-        "lv": "15 <p>Tikai Jonatans, Asahela dēls, un Jahazija, Tikvas dēls, tika nodarbināti par šo <i>lietu</i>: un Mešullams un levīts Šabbetajs viņiem palīdzēja."
+        "lv": "15 <span class='p'></span> Tikai Jonatans, Asahela dēls, un Jahazija, Tikvas dēls, tika nodarbināti par šo <i>lietu</i>: un Mešullams un levīts Šabbetajs viņiem palīdzēja."
       },
       {
         "verse": 16,
@@ -1288,7 +1288,7 @@
       {
         "verse": 18,
         "en": "18.And among the sons of the priests there were found that had taken strange wives: <i>namely</i>, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.",
-        "lv": "18 <p>Un starp priesteru dēliem tika atrasti, kas bija ņēmuši svešas sievas:<i> proti,</i> Jozadaka dēla Ješua dēli un viņa brāļi; Maaseija un Eliezers, un Jaribs, un Gedalija."
+        "lv": "18 <span class='p'></span> Un starp priesteru dēliem tika atrasti, kas bija ņēmuši svešas sievas:<i> proti,</i> Jozadaka dēla Ješua dēli un viņa brāļi; Maaseija un Eliezers, un Jaribs, un Gedalija."
       },
       {
         "verse": 19,

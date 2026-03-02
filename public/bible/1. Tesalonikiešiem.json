@@ -10,7 +10,7 @@
       {
         "verse": 2,
         "en": "2We give thanks to God always for you all, making mention of you in our prayers;",
-        "lv": "2 <p>Mēs vienmēr Dievam pasakāmies par jums visiem, jūs pieminēdami savās lūgšanās;"
+        "lv": "2 <span class='p'></span> Mēs vienmēr Dievam pasakāmies par jums visiem, jūs pieminēdami savās lūgšanās;"
       },
       {
         "verse": 3,
@@ -35,7 +35,7 @@
       {
         "verse": 7,
         "en": "7So that ye were ensamples to all that believe in Macedonia and Achaia.",
-        "lv": "7 <p>Tā ka jūs bijāt piemēri visiem, kas tic Maķedonijā un Ahajā."
+        "lv": "7 <span class='p'></span> Tā ka jūs bijāt piemēri visiem, kas tic Maķedonijā un Ahajā."
       },
       {
         "verse": 8,
@@ -199,7 +199,7 @@
       {
         "verse": 9,
         "en": "9For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;",
-        "lv": "9 <p>Jo kādu pateicību par jums mēs varam Dievam atmaksāt atpakaļ visa prieka dēļ, ar ko mēs priecājamies jūsu dēļ mūsu Dieva priekšā;"
+        "lv": "9 <span class='p'></span> Jo kādu pateicību par jums mēs varam Dievam atmaksāt atpakaļ visa prieka dēļ, ar ko mēs priecājamies jūsu dēļ mūsu Dieva priekšā;"
       },
       {
         "verse": 10,
@@ -266,7 +266,7 @@
       {
         "verse": 9,
         "en": "9But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.",
-        "lv": "9 <p>Bet par brāļu mīlestību jums nevajag, lai es jums rakstu: jo jūs paši esat no Dieva mācīti mīlēt cits citu."
+        "lv": "9 <span class='p'></span> Bet par brāļu mīlestību jums nevajag, lai es jums rakstu: jo jūs paši esat no Dieva mācīti mīlēt cits citu."
       },
       {
         "verse": 10,
@@ -286,7 +286,7 @@
       {
         "verse": 13,
         "en": "13But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.",
-        "lv": "13 <p>Bet es negribu, lai jūs būtu nezinoši, brāļi, par tiem, kas ir aizmiguši, lai jūs nenoskumstat, gluži kā citi, kam nav cerības."
+        "lv": "13 <span class='p'></span> Bet es negribu, lai jūs būtu nezinoši, brāļi, par tiem, kas ir aizmiguši, lai jūs nenoskumstat, gluži kā citi, kam nav cerības."
       },
       {
         "verse": 14,
@@ -343,7 +343,7 @@
       {
         "verse": 6,
         "en": "6Therefore let us not sleep, as <i>do </i>others; but let us watch and be sober.",
-        "lv": "6 <p>Tāpēc negulēsim kā citi; bet būsim nomodā un skaidrā prātā."
+        "lv": "6 <span class='p'></span> Tāpēc negulēsim kā citi; bet būsim nomodā un skaidrā prātā."
       },
       {
         "verse": 7,

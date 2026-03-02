@@ -25,7 +25,7 @@
       {
         "verse": 5,
         "en": "5Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.",
-        "lv": "5 <p>Tad Adonija, Hagitas dēls, paaugstinājās sacīdams, Es būšu ķēniņš: un viņš sev sagatavoja ratus un jātniekus, un piecdesmit vīriešus skriet viņa priekšā."
+        "lv": "5 <span class='p'></span> Tad Adonija, Hagitas dēls, paaugstinājās sacīdams, Es būšu ķēniņš: un viņš sev sagatavoja ratus un jātniekus, un piecdesmit vīriešus skriet viņa priekšā."
       },
       {
         "verse": 6,
@@ -55,7 +55,7 @@
       {
         "verse": 11,
         "en": "11Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth <i>it </i>not?",
-        "lv": "11 <p>Tādēļ Natāns runāja uz Batšebu, Salamana māti, sacīdams, Vai tu neesi dzirdējusi, ka Adonija, Hagitas dēls, valda, un mūsu kungs Dāvids <i>to </i>nezina?"
+        "lv": "11 <span class='p'></span> Tādēļ Natāns runāja uz Batšebu, Salamana māti, sacīdams, Vai tu neesi dzirdējusi, ka Adonija, Hagitas dēls, valda, un mūsu kungs Dāvids <i>to </i>nezina?"
       },
       {
         "verse": 12,
@@ -75,7 +75,7 @@
       {
         "verse": 15,
         "en": "15And Bathsheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king.",
-        "lv": "15 <p>Un Batšeba iegāja pie ķēniņa kambarī: un ķēniņš bija ļoti vecs; un sunamiete Abišaga kalpoja ķēniņam."
+        "lv": "15 <span class='p'></span> Un Batšeba iegāja pie ķēniņa kambarī: un ķēniņš bija ļoti vecs; un sunamiete Abišaga kalpoja ķēniņam."
       },
       {
         "verse": 16,
@@ -110,7 +110,7 @@
       {
         "verse": 22,
         "en": "22And, lo, while she yet talked with the king, Nathan the prophet also came in.",
-        "lv": "22 <p>Un, rau, kamēr viņa vēl sarunājās ar ķēniņu, ienāca arī pravietis Natāns."
+        "lv": "22 <span class='p'></span> Un, rau, kamēr viņa vēl sarunājās ar ķēniņu, ienāca arī pravietis Natāns."
       },
       {
         "verse": 23,
@@ -135,12 +135,12 @@
       {
         "verse": 27,
         "en": "27Is this thing done by my lord the king, and thou hast not shewed <i>it </i>unto thy servant, who should sit on the throne of my lord the king after him?",
-        "lv": "27 Vai šo ir darījis mans kungs, ķēniņš, un tu <i>to </i>neesi pavēstījis savam kalpam, kuram  pēc viņa jāsēž uz mana kunga ķēniņa troņa?"
+        "lv": "27 Vai šo ir darījis mans kungs, ķēniņš, un tu <i>to </i>neesi pavēstījis savam kalpam, kuram pēc viņa jāsēž uz mana kunga ķēniņa troņa?"
       },
       {
         "verse": 28,
         "en": "28Then king David answered and said, Call me Bathsheba. And she came into the king's presence, and stood before the king.",
-        "lv": "28 <p>Tad ķēniņš Dāvids atbildēja un sacīja, Aiciniet man Batšebu. Un viņa nāca ķēniņa klātbūtnē un nostājās ķēniņa priekšā."
+        "lv": "28 <span class='p'></span> Tad ķēniņš Dāvids atbildēja un sacīja, Aiciniet man Batšebu. Un viņa nāca ķēniņa klātbūtnē un nostājās ķēniņa priekšā."
       },
       {
         "verse": 29,
@@ -160,7 +160,7 @@
       {
         "verse": 32,
         "en": "32And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.",
-        "lv": "32 <p>Un ķēniņš Dāvids sacīja, Aicini man priesteri Cadoku un pravieti Nātanu, un Benaju, Jehojadas dēlu. Un viņi nāca ķēniņa priekšā."
+        "lv": "32 <span class='p'></span> Un ķēniņš Dāvids sacīja, Aicini man priesteri Cadoku un pravieti Nātanu, un Benaju, Jehojadas dēlu. Un viņi nāca ķēniņa priekšā."
       },
       {
         "verse": 33,
@@ -205,7 +205,7 @@
       {
         "verse": 41,
         "en": "41And Adonijah and all the guests that were with him heard <i>it </i>as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore <i>is this</i> noise of the city being in an uproar?",
-        "lv": "41 <p>Un Adonija un visi viesi, kas bija ar viņu, <i>to </i>dzirdēja, viņiem beidzot ēst. Un, kad Joābs dzirdēja taures skaņu, viņš sacīja, Kādēļ <i>ir šis</i> pilsētas troksnis, esot kņadā?"
+        "lv": "41 <span class='p'></span> Un Adonija un visi viesi, kas bija ar viņu, <i>to </i>dzirdēja, viņiem beidzot ēst. Un, kad Joābs dzirdēja taures skaņu, viņš sacīja, Kādēļ <i>ir šis</i> pilsētas troksnis, esot kņadā?"
       },
       {
         "verse": 42,
@@ -327,12 +327,12 @@
       {
         "verse": 12,
         "en": "12Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.",
-        "lv": "12 <p>Tad Salamans sēdēja uz sava tēva Dāvida troņa; un viņa valstība tika ļoti nostiprināta."
+        "lv": "12 <span class='p'></span> Tad Salamans sēdēja uz sava tēva Dāvida troņa; un viņa valstība tika ļoti nostiprināta."
       },
       {
         "verse": 13,
         "en": "13And Adonijah the son of Haggith came to Bathsheba the mother of Solomon. And she said, Comest thou peaceably? And he said, Peaceably.",
-        "lv": "13 <p>Un Adonija, Hagitas dēls, nāca pie Batšebas, Salamana mātes. Un viņa sacīja, Vai tu nāc ar mieru? Un viņš sacīja, Ar mieru."
+        "lv": "13 <span class='p'></span> Un Adonija, Hagitas dēls, nāca pie Batšebas, Salamana mātes. Un viņa sacīja, Vai tu nāc ar mieru? Un viņš sacīja, Ar mieru."
       },
       {
         "verse": 14,
@@ -362,7 +362,7 @@
       {
         "verse": 19,
         "en": "19Bathsheba therefore went unto king Solomon, to speak unto him for Adonijah. And the king rose up to meet her, and bowed himself unto her, and sat down on his throne, and caused a seat to be set for the king's mother; and she sat on his right hand.",
-        "lv": "19 <p>Tāpēc Batšeba gāja pie ķēniņa Salamana runāt ar viņu par Adoniju. Un ķēniņš piecēlās viņu satikt, un paklanījās viņas priekšā, un apsēdās uz sava troņa, un lika nolikt krēslu priekš ķēniņa mātes; un viņa sēdēja viņam pa labo roku."
+        "lv": "19 <span class='p'></span> Tāpēc Batšeba gāja pie ķēniņa Salamana runāt ar viņu par Adoniju. Un ķēniņš piecēlās viņu satikt, un paklanījās viņas priekšā, un apsēdās uz sava troņa, un lika nolikt krēslu priekš ķēniņa mātes; un viņa sēdēja viņam pa labo roku."
       },
       {
         "verse": 20,
@@ -397,7 +397,7 @@
       {
         "verse": 26,
         "en": "26And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou <i>art </i>worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord GOD before David my father, and because thou hast been afflicted in all wherein my father was afflicted.",
-        "lv": "26 <p>Un priesterim Abjatāram ķēniņš sacīja, Ej uz Anatotu, uz saviem paša laukiem; jo tu <i>esi</i> nāves cienīgs: bet šajā reizē es tevi nenonāvēšu, tāpēc ka tu nesi tā KUNGA šķirstu mana tēva Dāvida priekšā un tāpēc ka tu esi ticis sāpināts visā, iekš kā mans tēvs tika sāpināts."
+        "lv": "26 <span class='p'></span> Un priesterim Abjatāram ķēniņš sacīja, Ej uz Anatotu, uz saviem paša laukiem; jo tu <i>esi</i> nāves cienīgs: bet šajā reizē es tevi nenonāvēšu, tāpēc ka tu nesi tā KUNGA šķirstu mana tēva Dāvida priekšā un tāpēc ka tu esi ticis sāpināts visā, iekš kā mans tēvs tika sāpināts."
       },
       {
         "verse": 27,
@@ -407,7 +407,7 @@
       {
         "verse": 28,
         "en": "28Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.",
-        "lv": "28 <p>Tad pie Joāba nāca vēsts: jo Joābs bija griezies pēc Adonijas, kaut arī viņš negriezās pēc Absaloma. Un Joabs bēga uz tā KUNGA mājokli un saķēra altāra ragus."
+        "lv": "28 <span class='p'></span> Tad pie Joāba nāca vēsts: jo Joābs bija griezies pēc Adonijas, kaut arī viņš negriezās pēc Absaloma. Un Joabs bēga uz tā KUNGA mājokli un saķēra altāra ragus."
       },
       {
         "verse": 29,
@@ -442,12 +442,12 @@
       {
         "verse": 35,
         "en": "35And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.",
-        "lv": "35 <p>Un Benaju, Jehojadas dēlu, ķēniņš iecēla viņa vietā pār karapulku: un priesteri Cadoku ķēniņš lika Abjatāra vietā."
+        "lv": "35 <span class='p'></span> Un Benaju, Jehojadas dēlu, ķēniņš iecēla viņa vietā pār karapulku: un priesteri Cadoku ķēniņš lika Abjatāra vietā."
       },
       {
         "verse": 36,
         "en": "36And the king sent and called for Shimei, and said unto him, Build thee an house in Jerusalem, and dwell there, and go not forth thence any whither.",
-        "lv": "36 <p>Un ķēniņš sūtīja un aicināja Šimī un viņam sacīja, Uzbūvē sev namu Jeruzālemē un mājo tur, un nekur no turienes neaizej."
+        "lv": "36 <span class='p'></span> Un ķēniņš sūtīja un aicināja Šimī un viņam sacīja, Uzbūvē sev namu Jeruzālemē un mājo tur, un nekur no turienes neaizej."
       },
       {
         "verse": 37,
@@ -504,12 +504,12 @@
       {
         "verse": 1,
         "en": "1And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about.",
-        "lv": "1 Un Salamans saradojās ar Faraonu, Ēģiptes ķēniņu, un ņēma Faraona meitu un veda to Dāvida pilsētā, līdz viņš bija pabeidzis būvēt savu paša namu un tā KUNGA namu, un Jeruzalemes mūri visapkārt. "
+        "lv": "1 Un Salamans saradojās ar Faraonu, Ēģiptes ķēniņu, un ņēma Faraona meitu un veda to Dāvida pilsētā, līdz viņš bija pabeidzis būvēt savu paša namu un tā KUNGA namu, un Jeruzalemes mūri visapkārt."
       },
       {
         "verse": 2,
         "en": "2Only the people sacrificed in high places, because there was no house built unto the name of the LORD, until those days.",
-        "lv": "2 <p>Tikai ļaudis upurēja augstās vietās, tāpēc ka līdz tām dienām nebija būvēts nams tā KUNGA vārdam."
+        "lv": "2 <span class='p'></span> Tikai ļaudis upurēja augstās vietās, tāpēc ka līdz tām dienām nebija būvēts nams tā KUNGA vārdam."
       },
       {
         "verse": 3,
@@ -524,7 +524,7 @@
       {
         "verse": 5,
         "en": "5In Gibeon the LORD appeared to Solomon in a dream by night: and God said, Ask what I shall give thee.",
-        "lv": "5 <p>Un Gibeonā tas KUNGS parādījās Salamanam naktī sapnī: un Dievs sacīja, Prasi, ko man tev būs dot."
+        "lv": "5 <span class='p'></span> Un Gibeonā tas KUNGS parādījās Salamanam naktī sapnī: un Dievs sacīja, Prasi, ko man tev būs dot."
       },
       {
         "verse": 6,
@@ -579,7 +579,7 @@
       {
         "verse": 16,
         "en": "16Then came there two women, <i>that were</i> harlots, unto the king, and stood before him.",
-        "lv": "16 <p>Tad pie ķēniņa nāca divas sievietes, <i>kas bija</i> ielasmeitas un stāvēja viņa priekšā."
+        "lv": "16 <span class='p'></span> Tad pie ķēniņa nāca divas sievietes, <i>kas bija</i> ielasmeitas un stāvēja viņa priekšā."
       },
       {
         "verse": 17,
@@ -676,7 +676,7 @@
       {
         "verse": 7,
         "en": "7And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.",
-        "lv": "7 <p>Un Salamanam bija divpadsmit virsnieki pār visu Israēlu, kas nodrošināja pārtiku ķēniņam un viņa saimei: katrs savu mēnesi gadā veica nodrošinājumu."
+        "lv": "7 <span class='p'></span> Un Salamanam bija divpadsmit virsnieki pār visu Israēlu, kas nodrošināja pārtiku ķēniņam un viņa saimei: katrs savu mēnesi gadā veica nodrošinājumu."
       },
       {
         "verse": 8,
@@ -741,7 +741,7 @@
       {
         "verse": 20,
         "en": "20Judah and Israel <i>were </i>many, as the sand which <i>is </i>by the sea in multitude, eating and drinking, and making merry.",
-        "lv": "20 <p>Jūda un Israēls <i>bija </i>daudz, kā smiltis, kas <i>ir </i>pie jūras pulkā, ēzdami un dzerdami, un līksmodamies."
+        "lv": "20 <span class='p'></span> Jūda un Israēls <i>bija </i>daudz, kā smiltis, kas <i>ir </i>pie jūras pulkā, ēzdami un dzerdami, un līksmodamies."
       },
       {
         "verse": 21,
@@ -751,7 +751,7 @@
       {
         "verse": 22,
         "en": "22And Solomon's provision for one day was thirty measures of fine flour, and threescore measures of meal,",
-        "lv": "22 <p>Un Salamana iztika vienai dienai bija trīsdesmit mēri smalku miltu un sešdesmit mēri mīklas,"
+        "lv": "22 <span class='p'></span> Un Salamana iztika vienai dienai bija trīsdesmit mēri smalku miltu un sešdesmit mēri mīklas,"
       },
       {
         "verse": 23,
@@ -771,7 +771,7 @@
       {
         "verse": 26,
         "en": "26And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.",
-        "lv": "26 <p>Un Salamanam bija četrdesmit tūkstoši zirgu staļļu saviem ratiem un divpadsmit tūkstoši jātnieku."
+        "lv": "26 <span class='p'></span> Un Salamanam bija četrdesmit tūkstoši zirgu staļļu saviem ratiem un divpadsmit tūkstoši jātnieku."
       },
       {
         "verse": 27,
@@ -786,7 +786,7 @@
       {
         "verse": 29,
         "en": "29And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that <i>is </i>on the sea shore.",
-        "lv": "29 <p>Un Dievs Salamanam deva ārkārtīgi daudz gudrības un saprašanas, un sirds lielumu, gluži kā smiltis, kas <i>ir</i> jūras krastā."
+        "lv": "29 <span class='p'></span> Un Dievs Salamanam deva ārkārtīgi daudz gudrības un saprašanas, un sirds lielumu, gluži kā smiltis, kas <i>ir</i> jūras krastā."
       },
       {
         "verse": 30,
@@ -848,7 +848,7 @@
       {
         "verse": 7,
         "en": "7And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed <i>be </i>the LORD this day, which hath given unto David a wise son over this great people.",
-        "lv": "7 <p>Un notika, kad Hirams dzirdēja Salamana vārdus, ka viņš ļoti priecājās un sacīja, Svētīts <i>lai ir </i>tas KUNGS šajā dienā, kas Dāvidam ir devis gudru dēlu pār šiem daudzajiem ļaudīm."
+        "lv": "7 <span class='p'></span> Un notika, kad Hirams dzirdēja Salamana vārdus, ka viņš ļoti priecājās un sacīja, Svētīts <i>lai ir </i>tas KUNGS šajā dienā, kas Dāvidam ir devis gudru dēlu pār šiem daudzajiem ļaudīm."
       },
       {
         "verse": 8,
@@ -878,7 +878,7 @@
       {
         "verse": 13,
         "en": "13And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.",
-        "lv": "13 <p>Un ķēniņš Salamans cēla iesaukumu no visa Israēla; un iesaukums bija trīsdesmit tūkstoši vīriešu."
+        "lv": "13 <span class='p'></span> Un ķēniņš Salamans cēla iesaukumu no visa Israēla; un iesaukums bija trīsdesmit tūkstoši vīriešu."
       },
       {
         "verse": 14,
@@ -930,7 +930,7 @@
       {
         "verse": 5,
         "en": "5And against the wall of the house he built chambers round about, <i>against </i>the walls of the house round about, <i>both </i>of the temple and of the oracle: and he made chambers round about:",
-        "lv": "5 <p>Un pret nama sienu viņš uzbūvēja kambarus visapkārt, <i>pret</i> nama sienām visapkārt, <i>gan </i>templim, gan orākulam: un viņš taisīja kambarus visapkārt:"
+        "lv": "5 <span class='p'></span> Un pret nama sienu viņš uzbūvēja kambarus visapkārt, <i>pret</i> nama sienām visapkārt, <i>gan </i>templim, gan orākulam: un viņš taisīja kambarus visapkārt:"
       },
       {
         "verse": 6,
@@ -960,7 +960,7 @@
       {
         "verse": 11,
         "en": "11And the word of the LORD came to Solomon, saying,",
-        "lv": "11 <p>Un tā KUNGA vārds nāca uz Salamanu sacīdams,"
+        "lv": "11 <span class='p'></span> Un tā KUNGA vārds nāca uz Salamanu sacīdams,"
       },
       {
         "verse": 12,
@@ -975,12 +975,12 @@
       {
         "verse": 14,
         "en": "14So Solomon built the house, and finished it.",
-        "lv": "14 Tā Salamans uzbūvēja  namu un pabeidza to."
+        "lv": "14 Tā Salamans uzbūvēja namu un pabeidza to."
       },
       {
         "verse": 15,
         "en": "15And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: <i>and </i>he covered <i>them </i>on the inside with wood, and covered the floor of the house with planks of fir.",
-        "lv": "15 <p>Un viņš uzbūvēja nama sienas iekšā ar ciedra dēļiem, gan nama grīdu, gan griestu sienas: <i>un </i>no iekšpuses apsedza <i>tās </i>ar koku, un apsedza nama grīdu ar egles dēļiem."
+        "lv": "15 <span class='p'></span> Un viņš uzbūvēja nama sienas iekšā ar ciedra dēļiem, gan nama grīdu, gan griestu sienas: <i>un </i>no iekšpuses apsedza <i>tās </i>ar koku, un apsedza nama grīdu ar egles dēļiem."
       },
       {
         "verse": 16,
@@ -1020,7 +1020,7 @@
       {
         "verse": 23,
         "en": "23And within the oracle he made two cherubims of olive tree, <i>each</i> ten cubits high.",
-        "lv": "23 <p>Un orākulu iekšpusē viņš taisīja divus ķerubus no olīvkoka, <i>katru</i> desmit olektis augstu."
+        "lv": "23 <span class='p'></span> Un orākulu iekšpusē viņš taisīja divus ķerubus no olīvkoka, <i>katru</i> desmit olektis augstu."
       },
       {
         "verse": 24,
@@ -1060,7 +1060,7 @@
       {
         "verse": 31,
         "en": "31And for the entering of the oracle he made doors of olive tree: the lintel <i>and </i>side posts <i>were </i>a fifth part <i>of the wall</i>.",
-        "lv": "31 <p>Un, lai ieietu orākulā, viņš taisīja durvis no olīvkoka: pārsedze <i>un </i>sānu stenderes <i>bija sienas </i>piektā daļa."
+        "lv": "31 <span class='p'></span> Un, lai ieietu orākulā, viņš taisīja durvis no olīvkoka: pārsedze <i>un </i>sānu stenderes <i>bija sienas </i>piektā daļa."
       },
       {
         "verse": 32,
@@ -1085,12 +1085,12 @@
       {
         "verse": 36,
         "en": "36And he built the inner court with three rows of hewed stone, and a row of cedar beams.",
-        "lv": "36 <p>Un viņš uzbūvēja iekšējo pagalmu ar trim rindām no cirsta akmens un ciedra siju rindu."
+        "lv": "36 <span class='p'></span> Un viņš uzbūvēja iekšējo pagalmu ar trim rindām no cirsta akmens un ciedra siju rindu."
       },
       {
         "verse": 37,
         "en": "37In the fourth year was the foundation of the house of the LORD laid, in the month Zif:",
-        "lv": "37 <p>Ceturtajā gadā tika likts tā KUNGA nama pamats, Zifa mēnesī:"
+        "lv": "37 <span class='p'></span> Ceturtajā gadā tika likts tā KUNGA nama pamats, Zifa mēnesī:"
       },
       {
         "verse": 38,
@@ -1107,7 +1107,7 @@
       {
         "verse": 2,
         "en": "2He built also the house of the forest of Lebanon; the length thereof <i>was </i>an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.",
-        "lv": "2 <p>Viņš uzbūvēja arī Libānas meža namu; tā garums <i>bija </i>simts olektis, un tā platums piecdesmit olektis, un tā augstums trīsdesmit olektis uz četrām ciedra pīlāru rindām ar ciedra sijām uz pīlāriem."
+        "lv": "2 <span class='p'></span> Viņš uzbūvēja arī Libānas meža namu; tā garums <i>bija </i>simts olektis, un tā platums piecdesmit olektis, un tā augstums trīsdesmit olektis uz četrām ciedra pīlāru rindām ar ciedra sijām uz pīlāriem."
       },
       {
         "verse": 3,
@@ -1127,17 +1127,17 @@
       {
         "verse": 6,
         "en": "6 And he made a porch of pillars; the length thereof <i>was</i> fifty cubits, and the breadth thereof thirty cubits: and the porch <i>was </i>before them: and the <i>other </i>pillars and the thick beam <i>were </i>before them.",
-        "lv": "6 <p>Un viņš taisīja lieveni no pīlāriem; tā garums <i>bija</i> piecdesmit olektis un tā platums trīsdesmit olektis: un lievenis <i>bija </i>to priekšā: un <i>pārējie </i>pīlāri un biezā sija <i>bija </i>tiem priekšā."
+        "lv": "6 <span class='p'></span> Un viņš taisīja lieveni no pīlāriem; tā garums <i>bija</i> piecdesmit olektis un tā platums trīsdesmit olektis: un lievenis <i>bija </i>to priekšā: un <i>pārējie </i>pīlāri un biezā sija <i>bija </i>tiem priekšā."
       },
       {
         "verse": 7,
         "en": "7Then he made a porch for the throne where he might judge, <i>even </i>the porch of judgment: and <i>it was</i> covered with cedar from one side of the floor to the other.",
-        "lv": "7 <p>Tad viņš taisīja tronim lieveni, kur viņš varētu tiesāt, <i>proti, </i>tiesas lieveni: un <i>tas bija</i> apsegts ar ciedru no vienas grīdas malas līdz otrai."
+        "lv": "7 <span class='p'></span> Tad viņš taisīja tronim lieveni, kur viņš varētu tiesāt, <i>proti, </i>tiesas lieveni: un <i>tas bija</i> apsegts ar ciedru no vienas grīdas malas līdz otrai."
       },
       {
         "verse": 8,
         "en": "8And his house where he dwelt <i>had </i>another court within the porch, <i>which </i>was of the like work. Solomon made also an house for Pharaoh's daughter, whom he had taken <i>to wife</i>, like unto this porch.",
-        "lv": "8 <p>Un viņa namam, kurā viņš <i>dzīvoja</i>, <i>bija </i>vēl viens pagalms lievenī, <i>kas </i>bija no līdzīga darba. Salamans arī taisīja namu kā šo lieveni faraona meitai, kuru viņš bija ņēmis <i>[par]</i> <i>sievu</i>."
+        "lv": "8 <span class='p'></span> Un viņa namam, kurā viņš <i>dzīvoja</i>, <i>bija </i>vēl viens pagalms lievenī, <i>kas </i>bija no līdzīga darba. Salamans arī taisīja namu kā šo lieveni faraona meitai, kuru viņš bija ņēmis <i>[par]</i> <i>sievu</i>."
       },
       {
         "verse": 9,
@@ -1162,7 +1162,7 @@
       {
         "verse": 13,
         "en": "13And king Solomon sent and fetched Hiram out of Tyre.",
-        "lv": "13 <p>Un ķēniņš Salamans sūtīja un atveda Hiramu no Tiras."
+        "lv": "13 <span class='p'></span> Un ķēniņš Salamans sūtīja un atveda Hiramu no Tiras."
       },
       {
         "verse": 14,
@@ -1212,7 +1212,7 @@
       {
         "verse": 23,
         "en": "23And he made a molten sea, ten cubits from the one brim to the other:<i> it was</i> round all about, and his height <i>was </i>five cubits: and a line of thirty cubits did compass it round about.",
-        "lv": "23 <p>Un viņš taisīja lietu jūru, desmit olektis no vienas malas līdz otrai; <i>tā bija </i>visapkārt, un viņa augstums <i>bija </i>piecas olektis: un trīsdesmit olektis gara līnija to apņēma visapkārt."
+        "lv": "23 <span class='p'></span> Un viņš taisīja lietu jūru, desmit olektis no vienas malas līdz otrai; <i>tā bija </i>visapkārt, un viņa augstums <i>bija </i>piecas olektis: un trīsdesmit olektis gara līnija to apņēma visapkārt."
       },
       {
         "verse": 24,
@@ -1232,7 +1232,7 @@
       {
         "verse": 27,
         "en": "27And he made ten bases of brass; four cubits <i>was </i>the length of one base, and four cubits the breadth thereof, and three cubits the height of it.",
-        "lv": "27 <p>Un viņš taisīja desmit misiņa pamatnes; četras olektis <i>bija</i> vienas pamatnes garums, un četras olektis tās platums, un trīs olektis tās augstums."
+        "lv": "27 <span class='p'></span> Un viņš taisīja desmit misiņa pamatnes; četras olektis <i>bija</i> vienas pamatnes garums, un četras olektis tās platums, un trīs olektis tās augstums."
       },
       {
         "verse": 28,
@@ -1287,7 +1287,7 @@
       {
         "verse": 38,
         "en": "38Then made he ten lavers of brass: one laver contained forty baths: <i>and </i>every laver was four cubits: <i>and </i>upon every one of the ten bases one laver.",
-        "lv": "38 <p>Tad viņš taisīja desmit misiņa mazgājamos traukus: viens mazgājamais trauks ietvēra četrdesmit batu: <i>un </i>ikviens mazgājamais trauks bija četras olektis: <i>un </i>uz ikviena no desmit pamatiem viens mazgājamais trauks."
+        "lv": "38 <span class='p'></span> Tad viņš taisīja desmit misiņa mazgājamos traukus: viens mazgājamais trauks ietvēra četrdesmit batu: <i>un </i>ikviens mazgājamais trauks bija četras olektis: <i>un </i>uz ikviena no desmit pamatiem viens mazgājamais trauks."
       },
       {
         "verse": 39,
@@ -1297,7 +1297,7 @@
       {
         "verse": 40,
         "en": "40And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the LORD:",
-        "lv": "40 <p>Un Hirams taisīja vannas, un lāpstas un traukus. Tā Hirams pabeidza visu darbu, ko viņš darīja ķēniņam Salamanam tā KUNGA namam:"
+        "lv": "40 <span class='p'></span> Un Hirams taisīja vannas, un lāpstas un traukus. Tā Hirams pabeidza visu darbu, ko viņš darīja ķēniņam Salamanam tā KUNGA namam:"
       },
       {
         "verse": 41,
@@ -1414,7 +1414,7 @@
       {
         "verse": 12,
         "en": "12Then spake Solomon, The LORD said that he would dwell in the thick darkness.",
-        "lv": "12 <p>Tad Salamans runāja, Tas KUNGS sacīja, ka viņš grib mājot biezā tumsā."
+        "lv": "12 <span class='p'></span> Tad Salamans runāja, Tas KUNGS sacīja, ka viņš grib mājot biezā tumsā."
       },
       {
         "verse": 13,
@@ -1464,7 +1464,7 @@
       {
         "verse": 22,
         "en": "22And Solomon stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands toward heaven:",
-        "lv": "22 <p>Un Salamans nostājās tā KUNGA altāra priekšā visas Izraēla sanāksmes klātbūtnē un izpleta savas rokas pret debesi:"
+        "lv": "22 <span class='p'></span> Un Salamans nostājās tā KUNGA altāra priekšā visas Izraēla sanāksmes klātbūtnē un izpleta savas rokas pret debesi:"
       },
       {
         "verse": 23,
@@ -1509,7 +1509,7 @@
       {
         "verse": 31,
         "en": "31If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:",
-        "lv": "31 <p>Ja kāds pārkāpj pret savu tuvāko, un zvērests ir likts uz viņa viņam likt zvērēt, un zvērests nāk tava altāra priekšā šajā namā:"
+        "lv": "31 <span class='p'></span> Ja kāds pārkāpj pret savu tuvāko, un zvērests ir likts uz viņa viņam likt zvērēt, un zvērests nāk tava altāra priekšā šajā namā:"
       },
       {
         "verse": 32,
@@ -1519,7 +1519,7 @@
       {
         "verse": 33,
         "en": "33When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:",
-        "lv": "33 <p>Kad tavi ļaudis Israēls tiks sakauti ienaidnieka priekšā, tāpēc ka tie ir pret tevi grēkojuši, un griezīsies atpakaļ pie tevis un atzīs tavu vārdu, un lūgs un darīs lūgumu uz tevi šajā namā:"
+        "lv": "33 <span class='p'></span> Kad tavi ļaudis Israēls tiks sakauti ienaidnieka priekšā, tāpēc ka tie ir pret tevi grēkojuši, un griezīsies atpakaļ pie tevis un atzīs tavu vārdu, un lūgs un darīs lūgumu uz tevi šajā namā:"
       },
       {
         "verse": 34,
@@ -1529,7 +1529,7 @@
       {
         "verse": 35,
         "en": "35When heaven is shut up, and there is no rain, because they have sinned against thee; if they pray toward this place, and confess thy name, and turn from their sin, when thou afflictest them:",
-        "lv": "35 <p>Kad debess ir aizslēgta un nav lietus, tāpēc ka viņi ir grēkojuši pret tevi; ja viņi lūdz uz šo vietu un atzīst tavu vārdu un griežas no saviem grēkiem, kad tu viņus sāpini,"
+        "lv": "35 <span class='p'></span> Kad debess ir aizslēgta un nav lietus, tāpēc ka viņi ir grēkojuši pret tevi; ja viņi lūdz uz šo vietu un atzīst tavu vārdu un griežas no saviem grēkiem, kad tu viņus sāpini,"
       },
       {
         "verse": 36,
@@ -1539,7 +1539,7 @@
       {
         "verse": 37,
         "en": "37If there be in the land famine, if there be pestilence, blasting, mildew, locust, <i>or</i> if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness <i>there be</i>;",
-        "lv": "37 <p>Ja zemē ir bads, ja ir sērga, pūšana, miltrasa, siseņi <i>vai</i> ja ir kāpuri; ja viņu ienaidnieks viņus aplenc viņu pilsētu zemē; kāda vien sērga, kāda vien neveselība <i>būtu</i>;"
+        "lv": "37 <span class='p'></span> Ja zemē ir bads, ja ir sērga, pūšana, miltrasa, siseņi <i>vai</i> ja ir kāpuri; ja viņu ienaidnieks viņus aplenc viņu pilsētu zemē; kāda vien sērga, kāda vien neveselība <i>būtu</i>;"
       },
       {
         "verse": 38,
@@ -1574,7 +1574,7 @@
       {
         "verse": 44,
         "en": "44If thy people go out to battle against their enemy, whithersoever thou shalt send them, and shall pray unto the LORD toward the city which thou hast chosen, and <i>toward </i>the house that I have built for thy name:",
-        "lv": "44 <p>Ja tavi ļaudis iziet kaujā pret savu ienaidnieku, kurp vien tu tos sūtīsi, un lūgs to KUNGU uz pilsētu, kuru tu esi izraudzījies, un <i>uz</i> namu, ko es esmu uzbūvējis tavam vārdam:"
+        "lv": "44 <span class='p'></span> Ja tavi ļaudis iziet kaujā pret savu ienaidnieku, kurp vien tu tos sūtīsi, un lūgs to KUNGU uz pilsētu, kuru tu esi izraudzījies, un <i>uz</i> namu, ko es esmu uzbūvējis tavam vārdam:"
       },
       {
         "verse": 45,
@@ -1624,7 +1624,7 @@
       {
         "verse": 54,
         "en": "54And it was <i>so</i>, that when Solomon had made an end of praying all this prayer and supplication unto the LORD, he arose from before the altar of the LORD, from kneeling on his knees with his hands spread up to heaven.",
-        "lv": "54 <p>Un bija <i>tā</i>, ka, kad Salamans beidza lūgt visu šo lūgšanu un lūgumu tam KUNGAM, viņš cēlās no tā KUNGA altāra priekšā, no nomešanās uz saviem ceļiem un ar savām rokām izstieptām uz debesi."
+        "lv": "54 <span class='p'></span> Un bija <i>tā</i>, ka, kad Salamans beidza lūgt visu šo lūgšanu un lūgumu tam KUNGAM, viņš cēlās no tā KUNGA altāra priekšā, no nomešanās uz saviem ceļiem un ar savām rokām izstieptām uz debesi."
       },
       {
         "verse": 55,
@@ -1664,7 +1664,7 @@
       {
         "verse": 62,
         "en": "62And the king, and all Israel with him, offered sacrifice before the LORD.",
-        "lv": "62 <p>Un ķēniņš un viss Izraēls kopā ar viņu ziedoja upuri tā KUNGA priekšā."
+        "lv": "62 <span class='p'></span> Un ķēniņš un viss Izraēls kopā ar viņu ziedoja upuri tā KUNGA priekšā."
       },
       {
         "verse": 63,
@@ -1736,7 +1736,7 @@
       {
         "verse": 10,
         "en": "10And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king's house,",
-        "lv": "10 <p>Un notika divdesmit gadu beigās, kad Salamans bija uzbūvējis abus namus, tā KUNGA namu un ķēniņa namu,"
+        "lv": "10 <span class='p'></span> Un notika divdesmit gadu beigās, kad Salamans bija uzbūvējis abus namus, tā KUNGA namu un ķēniņa namu,"
       },
       {
         "verse": 11,
@@ -1761,7 +1761,7 @@
       {
         "verse": 15,
         "en": "15And this <i>is </i>the reason of the levy which king Solomon raised; for to build the house of the LORD, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.",
-        "lv": "15 <p>Un šis <i>ir </i>iemesls iesaukšanai, ko ķēniņš Salamans cēla; lai uzbūvētu tā KUNGA namu un viņa paša namu, un Millo, un Jeruzalemes mūri, un Hacoru, un Megidu, un Gezeru."
+        "lv": "15 <span class='p'></span> Un šis <i>ir </i>iemesls iesaukšanai, ko ķēniņš Salamans cēla; lai uzbūvētu tā KUNGA namu un viņa paša namu, un Millo, un Jeruzalemes mūri, un Hacoru, un Megidu, un Gezeru."
       },
       {
         "verse": 16,
@@ -1796,7 +1796,7 @@
       {
         "verse": 22,
         "en": "22But of the children of Israel did Solomon make no bondmen: but they <i>were </i>men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.",
-        "lv": "22 <p>Bet no Izraēla bērniem Salamans nedarīja vergus: bet tie <i>bija </i>karavīri un viņa kalpi, un viņa prinči, un viņa kapteiņi, un viņa ratu valdnieki, un viņa jātnieki."
+        "lv": "22 <span class='p'></span> Bet no Izraēla bērniem Salamans nedarīja vergus: bet tie <i>bija </i>karavīri un viņa kalpi, un viņa prinči, un viņa kapteiņi, un viņa ratu valdnieki, un viņa jātnieki."
       },
       {
         "verse": 23,
@@ -1806,17 +1806,17 @@
       {
         "verse": 24,
         "en": "24But Pharaoh's daughter came up out of the city of David unto her house which <i>Solomon </i>had built for her: then did he build Millo.",
-        "lv": "24 <p>Bet faraona meita iznāca no Dāvida pilsētas uz savu namu, ko <i>Salamans </i>tai bija uzbūvējis: tad viņš uzbūvēja Millo."
+        "lv": "24 <span class='p'></span> Bet faraona meita iznāca no Dāvida pilsētas uz savu namu, ko <i>Salamans </i>tai bija uzbūvējis: tad viņš uzbūvēja Millo."
       },
       {
         "verse": 25,
         "en": "25And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that <i>was </i>before the LORD. So he finished the house.",
-        "lv": "25 <p>Un trīs reizes gadā Salamans ziedoja dedzināmos ziedojumus un miera ziedojumus uz altāra, ko viņš uzbūvēja tam KUNGAM, un viņš dedzināja kvēpināmos uz altāra, kas <i>bija t</i>ā KUNGA priekšā. Tā viņš pabeidza namu."
+        "lv": "25 <span class='p'></span> Un trīs reizes gadā Salamans ziedoja dedzināmos ziedojumus un miera ziedojumus uz altāra, ko viņš uzbūvēja tam KUNGAM, un viņš dedzināja kvēpināmos uz altāra, kas <i>bija t</i>ā KUNGA priekšā. Tā viņš pabeidza namu."
       },
       {
         "verse": 26,
         "en": "26And king Solomon made a navy of ships in Eziongeber, which <i>is </i>beside Eloth, on the shore of the Red sea, in the land of Edom.",
-        "lv": "26 <p>Un ķēniņš Salamans izveidoja kuģu floti Ecjongeberā, kas <i>ir </i>blakus Elotam, Sarkanās jūras krastā, Edoma zemē."
+        "lv": "26 <span class='p'></span> Un ķēniņš Salamans izveidoja kuģu floti Ecjongeberā, kas <i>ir </i>blakus Elotam, Sarkanās jūras krastā, Edoma zemē."
       },
       {
         "verse": 27,
@@ -1898,7 +1898,7 @@
       {
         "verse": 14,
         "en": "14Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,",
-        "lv": "14 <p>Tad nu zelta svars, kas Salamanam nāca vienā gadā, bija seši simti sešdesmit seši talenti zelta,"
+        "lv": "14 <span class='p'></span> Tad nu zelta svars, kas Salamanam nāca vienā gadā, bija seši simti sešdesmit seši talenti zelta,"
       },
       {
         "verse": 15,
@@ -1908,7 +1908,7 @@
       {
         "verse": 16,
         "en": "16And king Solomon made two hundred targets <i>of</i> beaten gold: six hundred <i>shekels </i>of gold went to one target.",
-        "lv": "16 <p>Un ķēniņš Salamans taisīja divus simtus vairodziņu <i>no</i> kalta zelta: un seši simti zelta <i>seķeļu </i>gāja vienam vairodziņam."
+        "lv": "16 <span class='p'></span> Un ķēniņš Salamans taisīja divus simtus vairodziņu <i>no</i> kalta zelta: un seši simti zelta <i>seķeļu </i>gāja vienam vairodziņam."
       },
       {
         "verse": 17,
@@ -1918,7 +1918,7 @@
       {
         "verse": 18,
         "en": "18Moreover the king made a great throne of ivory, and overlaid it with the best gold.",
-        "lv": "18 <p>Turklāt ķēniņš no ziloņkaula taisīja lielu troni un pārklāja to ar labāko zeltu."
+        "lv": "18 <span class='p'></span> Turklāt ķēniņš no ziloņkaula taisīja lielu troni un pārklāja to ar labāko zeltu."
       },
       {
         "verse": 19,
@@ -1933,7 +1933,7 @@
       {
         "verse": 21,
         "en": "21And all king Solomon's drinking vessels <i>were of </i>gold, and all the vessels of the house of the forest of Lebanon <i>were of</i> pure gold; none <i>were of</i> silver: it was nothing accounted of in the days of Solomon.",
-        "lv": "21 <p>Un visi ķēniņa Salamana dzeršanas trauki <i>bija no</i> zelta, un visi Libānas meža nama trauki <i>bija no</i> šķīsta zelta; neviens <i>nebija </i>no sudraba: Salamana dienās tas tika skaitīts kā nekas."
+        "lv": "21 <span class='p'></span> Un visi ķēniņa Salamana dzeršanas trauki <i>bija no</i> zelta, un visi Libānas meža nama trauki <i>bija no</i> šķīsta zelta; neviens <i>nebija </i>no sudraba: Salamana dienās tas tika skaitīts kā nekas."
       },
       {
         "verse": 22,
@@ -1948,7 +1948,7 @@
       {
         "verse": 24,
         "en": "24And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.",
-        "lv": "24 <p>Un visa zeme meklēja Salamanu, dzirdēt viņa gudrību, ko Dievs bija licis viņa sirdī."
+        "lv": "24 <span class='p'></span> Un visa zeme meklēja Salamanu, dzirdēt viņa gudrību, ko Dievs bija licis viņa sirdī."
       },
       {
         "verse": 25,
@@ -1958,7 +1958,7 @@
       {
         "verse": 26,
         "en": "26And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem.",
-        "lv": "26 <p>Un Salamans sapulcēja kopā ratus un jātniekus: un viņam bija tūkstoš četri simti ratu un divpadsmit tūkstoši jātnieku, kuriem viņš piešķīra pilsētās ratiem un pie ķēniņa Jeruzalemē."
+        "lv": "26 <span class='p'></span> Un Salamans sapulcēja kopā ratus un jātniekus: un viņam bija tūkstoš četri simti ratu un divpadsmit tūkstoši jātnieku, kuriem viņš piešķīra pilsētās ratiem un pie ķēniņa Jeruzalemē."
       },
       {
         "verse": 27,
@@ -1968,7 +1968,7 @@
       {
         "verse": 28,
         "en": "28And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.",
-        "lv": "28 <p>Un Salamanam bija zirgi, izvesti no Ēģiptes un lina dzija: ķēniņa tirgotāji saņēma linu dziju par cenu."
+        "lv": "28 <span class='p'></span> Un Salamanam bija zirgi, izvesti no Ēģiptes un lina dzija: ķēniņa tirgotāji saņēma linu dziju par cenu."
       },
       {
         "verse": 29,
@@ -2020,7 +2020,7 @@
       {
         "verse": 9,
         "en": "9And the LORD was angry with Solomon, because his heart was turned from the LORD God of Israel, which had appeared unto him twice,",
-        "lv": "9 <p>Un tas KUNGS bija dusmīgs uz Salamanu, tāpēc ka viņa sirds bija novērsusies no tā KUNGA, Izraēla Dieva, kas viņam bija divreiz parādījies,"
+        "lv": "9 <span class='p'></span> Un tas KUNGS bija dusmīgs uz Salamanu, tāpēc ka viņa sirds bija novērsusies no tā KUNGA, Izraēla Dieva, kas viņam bija divreiz parādījies,"
       },
       {
         "verse": 10,
@@ -2045,7 +2045,7 @@
       {
         "verse": 14,
         "en": "14And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he <i>was </i>of the king's seed in Edom.",
-        "lv": "14 <p>Un tas KUNGS mudināja Salamanam ienaidnieku, edomieti Hadadu: viņš <i>bija </i>no ķēniņa sēklas Edomā."
+        "lv": "14 <span class='p'></span> Un tas KUNGS mudināja Salamanam ienaidnieku, edomieti Hadadu: viņš <i>bija </i>no ķēniņa sēklas Edomā."
       },
       {
         "verse": 15,
@@ -2090,7 +2090,7 @@
       {
         "verse": 23,
         "en": "23And God stirred him up <i>another</i> adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:",
-        "lv": "23 <p>Un Dievs viņam mudināja <i>citu </i>pretinieku, Reconu, Eliāda dēlu, kas bēga no sava kunga Hadadezera, Zobas ķēniņa:"
+        "lv": "23 <span class='p'></span> Un Dievs viņam mudināja <i>citu </i>pretinieku, Reconu, Eliāda dēlu, kas bēga no sava kunga Hadadezera, Zobas ķēniņa:"
       },
       {
         "verse": 24,
@@ -2105,7 +2105,7 @@
       {
         "verse": 26,
         "en": "26And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon's servant, whose mother's name was Zeruah, a widow woman, even he lifted up <i>his </i>hand against the king.",
-        "lv": "26 <p>Un Jeroboams, Nebata dēls, efratietis no Ceredas, Salamana kalps, kura mātes vārds bija Ceruja, atraitne, <i>proti,</i> viņš pacēla <i>savu </i>roku pret ķēniņu."
+        "lv": "26 <span class='p'></span> Un Jeroboams, Nebata dēls, efratietis no Ceredas, Salamana kalps, kura mātes vārds bija Ceruja, atraitne, <i>proti,</i> viņš pacēla <i>savu </i>roku pret ķēniņu."
       },
       {
         "verse": 27,
@@ -2180,7 +2180,7 @@
       {
         "verse": 41,
         "en": "41And the rest of the acts of Solomon, and all that he did, and his wisdom, <i>are </i>they not written in the book of the acts of Solomon?",
-        "lv": "41 <p>Un pārējie Salamanu darbi un viss, ko viņš darīja, un viņa gudrība, <i>vai </i>tas nav rakstīts Salamana darbu grāmatā?"
+        "lv": "41 <span class='p'></span> Un pārējie Salamanu darbi un viss, ko viņš darīja, un viņa gudrība, <i>vai </i>tas nav rakstīts Salamana darbu grāmatā?"
       },
       {
         "verse": 42,
@@ -2222,7 +2222,7 @@
       {
         "verse": 6,
         "en": "6And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?",
-        "lv": "6 <p>Un ķēniņš Rehoboams apspriedās ar vecajiem, kas stāvēja viņa tēva Salamana priekšā, kamēr viņš vēl dzīvoja, un sacīja, Kā jūs iesakāt, ko man atbildēt šiem ļaudīm?"
+        "lv": "6 <span class='p'></span> Un ķēniņš Rehoboams apspriedās ar vecajiem, kas stāvēja viņa tēva Salamana priekšā, kamēr viņš vēl dzīvoja, un sacīja, Kā jūs iesakāt, ko man atbildēt šiem ļaudīm?"
       },
       {
         "verse": 7,
@@ -2252,7 +2252,7 @@
       {
         "verse": 12,
         "en": "12So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.",
-        "lv": "12 <p>Un Jeroboams un visi ļaudis nāca pie Rehoboama trešajā dienā, kā ķēniņš bija noteicis sacīdams, Nāciet pie manis atpakaļ trešajā dienā."
+        "lv": "12 <span class='p'></span> Un Jeroboams un visi ļaudis nāca pie Rehoboama trešajā dienā, kā ķēniņš bija noteicis sacīdams, Nāciet pie manis atpakaļ trešajā dienā."
       },
       {
         "verse": 13,
@@ -2272,7 +2272,7 @@
       {
         "verse": 16,
         "en": "16So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither <i>have we</i> inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.",
-        "lv": "16 <p>Kad viss Izraēls redzēja, ka ķēniņš viņus neuzklausīja, ļaudis atbildēja ķēniņam sacīdami, Kāda mums ir daļa Dāvidā? nedz <i>mums ir</i> mantojums Jessija dēlā: uz savām teltīm, ak, Izraēl: nu raugi uz savu paša namu, Dāvid. Tā Izraēls aizgāja uz savām teltīm."
+        "lv": "16 <span class='p'></span> Kad viss Izraēls redzēja, ka ķēniņš viņus neuzklausīja, ļaudis atbildēja ķēniņam sacīdami, Kāda mums ir daļa Dāvidā? nedz <i>mums ir</i> mantojums Jessija dēlā: uz savām teltīm, ak, Izraēl: nu raugi uz savu paša namu, Dāvid. Tā Izraēls aizgāja uz savām teltīm."
       },
       {
         "verse": 17,
@@ -2297,7 +2297,7 @@
       {
         "verse": 21,
         "en": "21And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.",
-        "lv": "21 <p>Un, kad Rehoboams bija nācis Jeruzālemē, viņš sapulcināja visu Jūda namu ar Benjamina cilti, simts astoņdesmit tūkstošus izraudzītu vīriešu, kas bija karotāji, cīnīties pret Izraēla namu un atgriezt valstību Rehoboamam, Salamana dēlam."
+        "lv": "21 <span class='p'></span> Un, kad Rehoboams bija nācis Jeruzālemē, viņš sapulcināja visu Jūda namu ar Benjamina cilti, simts astoņdesmit tūkstošus izraudzītu vīriešu, kas bija karotāji, cīnīties pret Izraēla namu un atgriezt valstību Rehoboamam, Salamana dēlam."
       },
       {
         "verse": 22,
@@ -2317,7 +2317,7 @@
       {
         "verse": 25,
         "en": "25Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.",
-        "lv": "25 <p>Tad Jeroboams uzbūvēja Šehemu Efraima kalnā un mājoja tajā; un izgāja no turienes un uzbūvēja Penuelu."
+        "lv": "25 <span class='p'></span> Tad Jeroboams uzbūvēja Šehemu Efraima kalnā un mājoja tajā; un izgāja no turienes un uzbūvēja Penuelu."
       },
       {
         "verse": 26,
@@ -2389,7 +2389,7 @@
       {
         "verse": 6,
         "en": "6And the king answered and said unto the man of God, Intreat now the face of the LORD thy God, and pray for me, that my hand may be restored me again. And the man of God besought the LORD, and the king's hand was restored him again, and became as <i>it </i>was before.",
-        "lv": "6 <p>Un ķēniņš atbildēja un sacīja Dieva vīrietim, Lūdz nu tā KUNGA, sava Dieva, seju un lūdz par mani, lai mana roka man atkal tiktu atjaunota. Un Dieva vīrietis lūdzās to KUNGU, un ķēniņa roka viņam atkal tika atjaunota un kļuva kā <i>tā</i> bija iepriekš."
+        "lv": "6 <span class='p'></span> Un ķēniņš atbildēja un sacīja Dieva vīrietim, Lūdz nu tā KUNGA, sava Dieva, seju un lūdz par mani, lai mana roka man atkal tiktu atjaunota. Un Dieva vīrietis lūdzās to KUNGU, un ķēniņa roka viņam atkal tika atjaunota un kļuva kā <i>tā</i> bija iepriekš."
       },
       {
         "verse": 7,
@@ -2414,7 +2414,7 @@
       {
         "verse": 11,
         "en": "11Now there dwelt an old prophet in Bethel; and his sons came and told him all the works that the man of God had done that day in Bethel: the words which he had spoken unto the king, them they told also to their father.",
-        "lv": "11 <p>Tad nu Bētelē mājoja vecs pravietis; un viņa dēli nāca un stāstīja viņam visus darbus, ko Dieva vīrietis bija darījis Bētelē: vārdus, ko viņš bija runājis ķēniņam, arī tos tie stāstīja savam tēvam."
+        "lv": "11 <span class='p'></span> Tad nu Bētelē mājoja vecs pravietis; un viņa dēli nāca un stāstīja viņam visus darbus, ko Dieva vīrietis bija darījis Bētelē: vārdus, ko viņš bija runājis ķēniņam, arī tos tie stāstīja savam tēvam."
       },
       {
         "verse": 12,
@@ -2459,7 +2459,7 @@
       {
         "verse": 20,
         "en": "20And it came to pass, as they sat at the table, that the word of the LORD came unto the prophet that brought him back:",
-        "lv": "20 <p>Un notika, tiem sēžot pie galda, ka tā KUNGA vārds nāca uz pravieti, kas atveda viņu atpakaļ:"
+        "lv": "20 <span class='p'></span> Un notika, tiem sēžot pie galda, ka tā KUNGA vārds nāca uz pravieti, kas atveda viņu atpakaļ:"
       },
       {
         "verse": 21,
@@ -2474,7 +2474,7 @@
       {
         "verse": 23,
         "en": "23And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, <i>to wit</i>, for the prophet whom he had brought back.",
-        "lv": "23 <p>Un notika pēc tam, kad viņš bija ēdis maizi un pēc tam, kad viņš bija dzēris, ka viņš apsegloja tam ēzeli, <i>tas ir, </i>pravietim, ko viņš bija atvedis atpakaļ."
+        "lv": "23 <span class='p'></span> Un notika pēc tam, kad viņš bija ēdis maizi un pēc tam, kad viņš bija dzēris, ka viņš apsegloja tam ēzeli, <i>tas ir, </i>pravietim, ko viņš bija atvedis atpakaļ."
       },
       {
         "verse": 24,
@@ -2504,7 +2504,7 @@
       {
         "verse": 29,
         "en": "29And the prophet took up the carcase of the man of God, and laid it upon the ass, and brought it back: and the old prophet came to the city, to mourn and to bury him.",
-        "lv": "29 <p>Un pravietis paņēma Dieva vīra maitu, un lika to uz ēzeļa un atveda atpakaļ: un vecais pravietis nāca uz pilsētu sērot un viņu apbedīt."
+        "lv": "29 <span class='p'></span> Un pravietis paņēma Dieva vīra maitu, un lika to uz ēzeļa un atveda atpakaļ: un vecais pravietis nāca uz pilsētu sērot un viņu apbedīt."
       },
       {
         "verse": 30,
@@ -2524,7 +2524,7 @@
       {
         "verse": 33,
         "en": "33After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became <i>one </i>of the priests of the high places.",
-        "lv": "33 <p>Pēc šīs lietas Jeroboams neatgriezās no sava ļaunā ceļa, bet darīja atkal no zemākajiem ļaudīm augsto vietu priesterus: kurš vien gribēja, to viņš iesvētīja, un viņš kļuva <i>[par]</i> <i>vienu </i>no augsto vietu priesteriem."
+        "lv": "33 <span class='p'></span> Pēc šīs lietas Jeroboams neatgriezās no sava ļaunā ceļa, bet darīja atkal no zemākajiem ļaudīm augsto vietu priesterus: kurš vien gribēja, to viņš iesvētīja, un viņš kļuva <i>[par]</i> <i>vienu </i>no augsto vietu priesteriem."
       },
       {
         "verse": 34,
@@ -2556,7 +2556,7 @@
       {
         "verse": 5,
         "en": "5And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he <i>is </i>sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself <i>to be</i> another <i>woman</i>.",
-        "lv": "5 <p>Un tas KUNGS sacīja uz Ahiju, Lūk, Jeroboama sieva nāk tev ko prasīt par savu dēlu; jo viņš <i>ir </i>nevesels: tā un tā tev būs viņai sacīt: jo būs, kad viņa ienāk, ka viņa izliksies <i>kā </i>cita <i>sieviete</i>."
+        "lv": "5 <span class='p'></span> Un tas KUNGS sacīja uz Ahiju, Lūk, Jeroboama sieva nāk tev ko prasīt par savu dēlu; jo viņš <i>ir </i>nevesels: tā un tā tev būs viņai sacīt: jo būs, kad viņa ienāk, ka viņa izliksies <i>kā </i>cita <i>sieviete</i>."
       },
       {
         "verse": 6,
@@ -2626,7 +2626,7 @@
       {
         "verse": 19,
         "en": "19And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they <i>are </i>written in the book of the chronicles of the kings of Israel.",
-        "lv": "19 <p>Un pārējie no Jeroboamu darbiem, kā viņš karoja un kā viņš valdīja, lūk, tie <i>ir </i>rakstīti Izraēla ķēniņu hroniku grāmatā."
+        "lv": "19 <span class='p'></span> Un pārējie no Jeroboamu darbiem, kā viņš karoja un kā viņš valdīja, lūk, tie <i>ir </i>rakstīti Izraēla ķēniņu hroniku grāmatā."
       },
       {
         "verse": 20,
@@ -2636,7 +2636,7 @@
       {
         "verse": 21,
         "en": "21And Rehoboam the son of Solomon reigned in Judah. Rehoboam <i>was </i>forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother's name <i>was </i>Naamah an Ammonitess.",
-        "lv": "21 <p>Un Rehoboams, Salamana dēls valdīja Jūdā. Rehoboams <i>bija</i> četrdesmit vienu gadu vecs, kad viņš iesāka valdīt, un viņš valdīja septiņpadsmit gadus Jeruzālemē, pilsētā, kuru tas KUNGS izraudzījās no visām Izraēla ciltīm, tur likt savu vārdu. Un viņa mātes vārds <i>bija </i>ammoniete Naāma."
+        "lv": "21 <span class='p'></span> Un Rehoboams, Salamana dēls valdīja Jūdā. Rehoboams <i>bija</i> četrdesmit vienu gadu vecs, kad viņš iesāka valdīt, un viņš valdīja septiņpadsmit gadus Jeruzālemē, pilsētā, kuru tas KUNGS izraudzījās no visām Izraēla ciltīm, tur likt savu vārdu. Un viņa mātes vārds <i>bija </i>ammoniete Naāma."
       },
       {
         "verse": 22,
@@ -2656,7 +2656,7 @@
       {
         "verse": 25,
         "en": "25And it came to pass in the fifth year of king Rehoboam, <i>that </i>Shishak king of Egypt came up against Jerusalem:",
-        "lv": "25 <p>Un notika ķēniņa Rehoboama piektajā gadā, <i>ka </i>Ēģiptes ķēniņš Šišaks uznāca pret Jeruzālemi."
+        "lv": "25 <span class='p'></span> Un notika ķēniņa Rehoboama piektajā gadā, <i>ka </i>Ēģiptes ķēniņš Šišaks uznāca pret Jeruzālemi."
       },
       {
         "verse": 26,
@@ -2676,7 +2676,7 @@
       {
         "verse": 29,
         "en": "29Now the rest of the acts of Rehoboam, and all that he did, <i>are </i>they not written in the book of the chronicles of the kings of Judah?",
-        "lv": "29 <p>Tad nu pārējie no Rehoboama darbiem, un viss, ko viņš darīja, <i>vai </i>tie nav rakstīti Jūda ķēniņu hroniku grāmatā?"
+        "lv": "29 <span class='p'></span> Tad nu pārējie no Rehoboama darbiem, un viss, ko viņš darīja, <i>vai </i>tie nav rakstīti Jūda ķēniņu hroniku grāmatā?"
       },
       {
         "verse": 30,
@@ -2733,7 +2733,7 @@
       {
         "verse": 9,
         "en": "9And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.",
-        "lv": "9 <p>Un Izraēla ķēniņa Jerobeama divdesmitajā gadā Asa valdīja pār Jūdu."
+        "lv": "9 <span class='p'></span> Un Izraēla ķēniņa Jerobeama divdesmitajā gadā Asa valdīja pār Jūdu."
       },
       {
         "verse": 10,
@@ -2768,7 +2768,7 @@
       {
         "verse": 16,
         "en": "16And there was war between Asa and Baasha king of Israel all their days.",
-        "lv": "16 <p>Un visas viņu dienas bija karš starp Asu un Izraēla ķēniņu Baāšu."
+        "lv": "16 <span class='p'></span> Un visas viņu dienas bija karš starp Asu un Izraēla ķēniņu Baāšu."
       },
       {
         "verse": 17,
@@ -2813,7 +2813,7 @@
       {
         "verse": 25,
         "en": "25And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.",
-        "lv": "25 <p>Un Nadabs, Jeroboama dēls, iesāka valdīt pār Izraēlu Jūda ķēniņa Asas otrajā gadā un valdīja pār Izraēlu divus gadus."
+        "lv": "25 <span class='p'></span> Un Nadabs, Jeroboama dēls, iesāka valdīt pār Izraēlu Jūda ķēniņa Asas otrajā gadā un valdīja pār Izraēlu divus gadus."
       },
       {
         "verse": 26,
@@ -2823,7 +2823,7 @@
       {
         "verse": 27,
         "en": "27And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which <i>belonged</i> to the Philistines; for Nadab and all Israel laid siege to Gibbethon.",
-        "lv": "27 <p>Un Baāša, Ahijas dēls, no Isašara nama, sazvērējās pret viņu; un Baāša viņu sita Gibetonā, kas <i>piederēja </i>filistiešiem; jo Nadabs un viss Izraēls aplenca Gibetonu."
+        "lv": "27 <span class='p'></span> Un Baāša, Ahijas dēls, no Isašara nama, sazvērējās pret viņu; un Baāša viņu sita Gibetonā, kas <i>piederēja </i>filistiešiem; jo Nadabs un viss Izraēls aplenca Gibetonu."
       },
       {
         "verse": 28,
@@ -2843,7 +2843,7 @@
       {
         "verse": 31,
         "en": "31Now the rest of the acts of Nadab, and all that he did, <i>are </i>they not written in the book of the chronicles of the kings of Israel?",
-        "lv": "31 <p>Tad nu pārējie no Nadaba darbiem, un viss, ko viņš darīja, <i>vai </i>tie nav rakstīti Izraēla ķēniņu hroniku grāmatā?"
+        "lv": "31 <span class='p'></span> Tad nu pārējie no Nadaba darbiem, un viss, ko viņš darīja, <i>vai </i>tie nav rakstīti Izraēla ķēniņu hroniku grāmatā?"
       },
       {
         "verse": 32,
@@ -2900,7 +2900,7 @@
       {
         "verse": 8,
         "en": "8In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.",
-        "lv": "8 <p>Divdesmit sestajā Jūda ķēniņa Asas gadā Ēla, Baāšas dēls, valdīja pār Izraēlu Tircā divus gadus."
+        "lv": "8 <span class='p'></span> Divdesmit sestajā Jūda ķēniņa Asas gadā Ēla, Baāšas dēls, valdīja pār Izraēlu Tircā divus gadus."
       },
       {
         "verse": 9,
@@ -2915,7 +2915,7 @@
       {
         "verse": 11,
         "en": "11And it came to pass, when he began to reign, as soon as he sat on his throne, <i>that </i>he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.",
-        "lv": "11 <p>Un notika, kad viņš iesāka valdīt, tiklīdz viņš sēdās uz sava troņa, <i>ka </i>viņš nokāva visu Baāšas namu: viņš neatstāja viņam nevienu, kas čurā pret sienu, nedz no viņa radiniekiem, ne no viņa draugiem."
+        "lv": "11 <span class='p'></span> Un notika, kad viņš iesāka valdīt, tiklīdz viņš sēdās uz sava troņa, <i>ka </i>viņš nokāva visu Baāšas namu: viņš neatstāja viņam nevienu, kas čurā pret sienu, nedz no viņa radiniekiem, ne no viņa draugiem."
       },
       {
         "verse": 12,
@@ -2935,7 +2935,7 @@
       {
         "verse": 15,
         "en": "15In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people <i>were </i>encamped against Gibbethon, which <i>belonged </i>to the Philistines.",
-        "lv": "15 <p>Jūda ķēniņa Asas divdesmit septītajā gadā Zimri valdīja Tircā septiņas dienas. Un ļaudis apmetās pret Gibetonu, kas <i>piederēja </i>filistiešiem."
+        "lv": "15 <span class='p'></span> Jūda ķēniņa Asas divdesmit septītajā gadā Zimri valdīja Tircā septiņas dienas. Un ļaudis apmetās pret Gibetonu, kas <i>piederēja </i>filistiešiem."
       },
       {
         "verse": 16,
@@ -2965,7 +2965,7 @@
       {
         "verse": 21,
         "en": "21Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.",
-        "lv": "21 <p>Tad Israēla ļaudis sadalījās divās daļās: puse ļaužu sekoja Tibni, Ginata dēlam, lai to ieceltu par ķēniņu; un puse sekoja Omri."
+        "lv": "21 <span class='p'></span> Tad Israēla ļaudis sadalījās divās daļās: puse ļaužu sekoja Tibni, Ginata dēlam, lai to ieceltu par ķēniņu; un puse sekoja Omri."
       },
       {
         "verse": 22,
@@ -2975,7 +2975,7 @@
       {
         "verse": 23,
         "en": "23In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.",
-        "lv": "23 <p>Jūda ķēniņa Asas trīsdesmit pirmajā gadā Omri iesāka valdīt pār Izraēlu divpadsmit gadus: sešus gadus viņš valdīja Tircā."
+        "lv": "23 <span class='p'></span> Jūda ķēniņa Asas trīsdesmit pirmajā gadā Omri iesāka valdīt pār Izraēlu divpadsmit gadus: sešus gadus viņš valdīja Tircā."
       },
       {
         "verse": 24,
@@ -2985,7 +2985,7 @@
       {
         "verse": 25,
         "en": "25But Omri wrought evil in the eyes of the LORD, and did worse than all that <i>were</i> before him.",
-        "lv": "25 <p>Bet Omri darīja ļaunu tā KUNGA acīs un darīja sliktāk nekā visi, kas <i>bija </i>pirms viņa."
+        "lv": "25 <span class='p'></span> Bet Omri darīja ļaunu tā KUNGA acīs un darīja sliktāk nekā visi, kas <i>bija </i>pirms viņa."
       },
       {
         "verse": 26,
@@ -3005,7 +3005,7 @@
       {
         "verse": 29,
         "en": "29And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.",
-        "lv": "29 <p>Un Jūda ķēniņa Asas trīsdesmit astotajā gadā Ahabs, Omri dēls iesāka valdīt pār Izraēlu: un Ahabs, Omri dēls, valdīja pār Izraēlu Samarijā divdesmit divus gadus."
+        "lv": "29 <span class='p'></span> Un Jūda ķēniņa Asas trīsdesmit astotajā gadā Ahabs, Omri dēls iesāka valdīt pār Izraēlu: un Ahabs, Omri dēls, valdīja pār Izraēlu Samarijā divdesmit divus gadus."
       },
       {
         "verse": 30,
@@ -3030,7 +3030,7 @@
       {
         "verse": 34,
         "en": "34In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest <i>son </i>Segub, according to the word of the LORD, which he spake by Joshua the son of Nun.",
-        "lv": "34 <p>Viņa dienās bētelietis Hiēls uzbūvēja Jēriku: viņš lika tās pamatus savā pirmdzimtajā Abirāmā un uzcēla tās vārtus savā jaunākajā <i>dēlā</i> Segubā atbilstoši tā KUNGA vārdam, ko viņš bija runājis caur Jozuu, Nuna dēlu."
+        "lv": "34 <span class='p'></span> Viņa dienās bētelietis Hiēls uzbūvēja Jēriku: viņš lika tās pamatus savā pirmdzimtajā Abirāmā un uzcēla tās vārtus savā jaunākajā <i>dēlā</i> Segubā atbilstoši tā KUNGA vārdam, ko viņš bija runājis caur Jozuu, Nuna dēlu."
       }
     ],
     "17": [
@@ -3072,7 +3072,7 @@
       {
         "verse": 8,
         "en": "8And the word of the LORD came unto him, saying,",
-        "lv": "8 <p>Un tā KUNGA vārds nāca uz viņu sacīdams,"
+        "lv": "8 <span class='p'></span> Un tā KUNGA vārds nāca uz viņu sacīdams,"
       },
       {
         "verse": 9,
@@ -3117,7 +3117,7 @@
       {
         "verse": 17,
         "en": "17And it came to pass after these things, <i>that </i>the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.",
-        "lv": "17 <p>Un notika pēc tam, <i>ka </i>sievietes, nama saimnieces, dēls saslima; un viņa neveselība bija tik gauža, ka viņā vairs nebija dvašas."
+        "lv": "17 <span class='p'></span> Un notika pēc tam, <i>ka </i>sievietes, nama saimnieces, dēls saslima; un viņa neveselība bija tik gauža, ka viņā vairs nebija dvašas."
       },
       {
         "verse": 18,
@@ -3127,7 +3127,7 @@
       {
         "verse": 19,
         "en": "19And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.",
-        "lv": "19 <p>Un viņš viņai sacīja, Dod man savu dēlu. Un viņš ņēma to no viņas azotes un uznesa viņu uz augšistabu, kur viņš palika, un noguldīja viņu savā paša gultā."
+        "lv": "19 <span class='p'></span> Un viņš viņai sacīja, Dod man savu dēlu. Un viņš ņēma to no viņas azotes un uznesa viņu uz augšistabu, kur viņš palika, un noguldīja viņu savā paša gultā."
       },
       {
         "verse": 20,
@@ -3152,7 +3152,7 @@
       {
         "verse": 24,
         "en": "24And the woman said to Elijah, Now by this I know that thou <i>art </i>a man of God, <i>and </i>that the word of the LORD in thy mouth <i>is </i>truth.",
-        "lv": "24 <p>Un sieviete sacīja Elijam, Tad nu caur šo es zinu, ka tu <i>esi </i>Dieva vīrietis <i>un </i>ka tā KUNGA vārds tavā mutē <i>ir </i>patiesība."
+        "lv": "24 <span class='p'></span> Un sieviete sacīja Elijam, Tad nu caur šo es zinu, ka tu <i>esi </i>Dieva vīrietis <i>un </i>ka tā KUNGA vārds tavā mutē <i>ir </i>patiesība."
       }
     ],
     "18": [
@@ -3189,7 +3189,7 @@
       {
         "verse": 7,
         "en": "7And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, <i>Art </i>thou that my lord Elijah?",
-        "lv": "7 <p>Un kad Obadja bija ceļā, lūk, Elija viņu satika: un viņš viņu pazina, un krita uz savas sejas un sacīja, <i>Vai </i>tu <i>tas esi </i>mans kungs Elija?"
+        "lv": "7 <span class='p'></span> Un kad Obadja bija ceļā, lūk, Elija viņu satika: un viņš viņu pazina, un krita uz savas sejas un sacīja, <i>Vai </i>tu <i>tas esi </i>mans kungs Elija?"
       },
       {
         "verse": 8,
@@ -3239,7 +3239,7 @@
       {
         "verse": 17,
         "en": "17And it came to pass, when Ahab saw Elijah, that Ahab said unto him, <i>Art </i>thou he that troubleth Israel?",
-        "lv": "17 <p>Un notika, kad Ahabs redzēja Eliju, ka Ahabs viņam sacīja, <i>Vai </i>tu <i>esi </i>tas, kas iztrūcina Izraēlu?"
+        "lv": "17 <span class='p'></span> Un notika, kad Ahabs redzēja Eliju, ka Ahabs viņam sacīja, <i>Vai </i>tu <i>esi </i>tas, kas iztrūcina Izraēlu?"
       },
       {
         "verse": 18,
@@ -3304,7 +3304,7 @@
       {
         "verse": 30,
         "en": "30And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the LORD <i>that was</i> broken down.",
-        "lv": "30 <p>Un Elija sacīja visiem ļaudīm, Nāciet man tuvu. Un visi ļaudis nāca viņam tuvu. Un viņš salaboja tā KUNGA altāri, <i>kas bija </i>nojaukts."
+        "lv": "30 <span class='p'></span> Un Elija sacīja visiem ļaudīm, Nāciet man tuvu. Un visi ļaudis nāca viņam tuvu. Un viņš salaboja tā KUNGA altāri, <i>kas bija </i>nojaukts."
       },
       {
         "verse": 31,
@@ -3354,12 +3354,12 @@
       {
         "verse": 40,
         "en": "40And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them: and Elijah brought them down to the brook Kishon, and slew them there.",
-        "lv": "40 <p>Un Elija sacīja viņiem, Ņemiet Baala praviešus; lai neviens no viņiem neizbēg. Un tie tos ņēma: un Elija tos noveda pie Kišonas strauta un tur tos nokāva."
+        "lv": "40 <span class='p'></span> Un Elija sacīja viņiem, Ņemiet Baala praviešus; lai neviens no viņiem neizbēg. Un tie tos ņēma: un Elija tos noveda pie Kišonas strauta un tur tos nokāva."
       },
       {
         "verse": 41,
         "en": "41And Elijah said unto Ahab, Get thee up, eat and drink; for <i>there is</i> a sound of abundance of rain.",
-        "lv": "41 <p>Un Elija sacīja Ahabam, Celies, ēd un dzer; jo <i>ir</i> lietus pārpilnības skaņa."
+        "lv": "41 <span class='p'></span> Un Elija sacīja Ahabam, Celies, ēd un dzer; jo <i>ir</i> lietus pārpilnības skaņa."
       },
       {
         "verse": 42,
@@ -3406,7 +3406,7 @@
       {
         "verse": 4,
         "en": "4But he himself went a day's journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I <i>am </i>not better than my fathers.",
-        "lv": "4 <p>Bet viņš pats gāja vienas dienas ceļojumā tuksnesī un nāca, un apsēdās zem kadiķa: un viņš pieprasīja par sevi, lai viņš varētu nomirt; un sacīja, Pietiek; nu, ak KUNGS, atņem manu dzīvību; jo es neesmu labāks par saviem tēviem."
+        "lv": "4 <span class='p'></span> Bet viņš pats gāja vienas dienas ceļojumā tuksnesī un nāca, un apsēdās zem kadiķa: un viņš pieprasīja par sevi, lai viņš varētu nomirt; un sacīja, Pietiek; nu, ak KUNGS, atņem manu dzīvību; jo es neesmu labāks par saviem tēviem."
       },
       {
         "verse": 5,
@@ -3431,7 +3431,7 @@
       {
         "verse": 9,
         "en": "9And he came thither unto a cave, and lodged there; and, behold, the word of the LORD <i>came </i>to him, and he said unto him, What doest thou here, Elijah?",
-        "lv": "9 <p>Un viņš turp nāca alā un apmetās tur; un, lūk, tā KUNGA vārds <i>nāca </i>uz viņu, un viņš tam sacīja, Ko tu šeit dari, Elija?"
+        "lv": "9 <span class='p'></span> Un viņš turp nāca alā un apmetās tur; un, lūk, tā KUNGA vārds <i>nāca </i>uz viņu, un viņš tam sacīja, Ko tu šeit dari, Elija?"
       },
       {
         "verse": 10,
@@ -3481,7 +3481,7 @@
       {
         "verse": 19,
         "en": "19So he departed thence, and found Elisha the son of Shaphat, who <i>was </i>plowing <i>with </i>twelve yoke<i> of oxen</i> before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.",
-        "lv": "19 <p>Tā viņš aizgāja no turienes un atrada Elīsu, Šafata dēlu, kas ara <i>ar </i>divpadsmit <i>vēršu</i> jūgu viņa priekšā, un viņš ar divpadsmito; un Elija gāja viņam garām un uzmeta viņam savu apmetni."
+        "lv": "19 <span class='p'></span> Tā viņš aizgāja no turienes un atrada Elīsu, Šafata dēlu, kas ara <i>ar </i>divpadsmit <i>vēršu</i> jūgu viņa priekšā, un viņš ar divpadsmito; un Elija gāja viņam garām un uzmeta viņam savu apmetni."
       },
       {
         "verse": 20,
@@ -3558,7 +3558,7 @@
       {
         "verse": 13,
         "en": "13And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I <i>am </i>the LORD.",
-        "lv": "13 <p>Un, lūk, pravietis nāca pie Israēla ķēniņa Ahaba un sacīja, Tā saka tas KUNGS, Vai tu esi redzējis visu šo lielo pūli? lūk, es šajā dienā to nodošu tavā rokā; un tu atzīsi, ka es <i>esmu</i> tas KUNGS."
+        "lv": "13 <span class='p'></span> Un, lūk, pravietis nāca pie Israēla ķēniņa Ahaba un sacīja, Tā saka tas KUNGS, Vai tu esi redzējis visu šo lielo pūli? lūk, es šajā dienā to nodošu tavā rokā; un tu atzīsi, ka es <i>esmu</i> tas KUNGS."
       },
       {
         "verse": 14,
@@ -3603,7 +3603,7 @@
       {
         "verse": 22,
         "en": "22And the prophet came to the king of Israel, and said unto him, Go, strengthen thyself, and mark, and see what thou doest: for at the return of the year the king of Syria will come up against thee.",
-        "lv": "22 <p>Un pravietis nāca pie Izraēla ķēniņa un sacīja viņam, Ej, stiprinies un atzīmē, un raugi, ko tu dari: jo gadam atgriežoties Sīrijas ķēniņš uznāks pret tevi."
+        "lv": "22 <span class='p'></span> Un pravietis nāca pie Izraēla ķēniņa un sacīja viņam, Ej, stiprinies un atzīmē, un raugi, ko tu dari: jo gadam atgriežoties Sīrijas ķēniņš uznāks pret tevi."
       },
       {
         "verse": 23,
@@ -3633,7 +3633,7 @@
       {
         "verse": 28,
         "en": "28And there came a man of God, and spake unto the king of Israel, and said, Thus saith the LORD, Because the Syrians have said, The LORD <i>is </i>God of the hills, but he <i>is </i>not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I <i>am </i>the LORD.",
-        "lv": "28 <p>Un Dieva vīrietis nāca un runāja uz Israēla ķēniņu un sacīja, Tā saka tas KUNGS, Tāpēc ka sīrieši ir sacījuši, Tas KUNGS <i>ir</i> pakalnu Dievs, bet viņš nav ieleju Dievs, tāpēc es nodošu visu šo lielo pūli tavā rokā, un jūs atzīsiet, ka es <i>esmu </i>tas KUNGS."
+        "lv": "28 <span class='p'></span> Un Dieva vīrietis nāca un runāja uz Israēla ķēniņu un sacīja, Tā saka tas KUNGS, Tāpēc ka sīrieši ir sacījuši, Tas KUNGS <i>ir</i> pakalnu Dievs, bet viņš nav ieleju Dievs, tāpēc es nodošu visu šo lielo pūli tavā rokā, un jūs atzīsiet, ka es <i>esmu </i>tas KUNGS."
       },
       {
         "verse": 29,
@@ -3648,7 +3648,7 @@
       {
         "verse": 31,
         "en": "31And his servants said unto him, Behold now, we have heard that the kings of the house of Israel are merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life.",
-        "lv": "31 <p>Un viņa kalpi viņam sacīja, Lūk, mēs esam dzirdējuši, ka Izraēla nama ķēniņi ir žēlsirdīgi ķēniņi: vilksim, es tevi lūdzu, maisaudumu uz saviem gurniem un virves uz mūsu galvām un iziesim pie Izraēla ķēniņa: varbūt viņš izglābs tavu dzīvību."
+        "lv": "31 <span class='p'></span> Un viņa kalpi viņam sacīja, Lūk, mēs esam dzirdējuši, ka Izraēla nama ķēniņi ir žēlsirdīgi ķēniņi: vilksim, es tevi lūdzu, maisaudumu uz saviem gurniem un virves uz mūsu galvām un iziesim pie Izraēla ķēniņa: varbūt viņš izglābs tavu dzīvību."
       },
       {
         "verse": 32,
@@ -3668,7 +3668,7 @@
       {
         "verse": 35,
         "en": "35And a certain man of the sons of the prophets said unto his neighbour in the word of the LORD, Smite me, I pray thee. And the man refused to smite him.",
-        "lv": "35 <p>Un kāds vīrietis no praviešu dēliem sacīja savam tuvākajam tā KUNGA vārdā, Siti mani, es tevi lūdzu. Un tas vīrietis atteicās viņu sist."
+        "lv": "35 <span class='p'></span> Un kāds vīrietis no praviešu dēliem sacīja savam tuvākajam tā KUNGA vārdā, Siti mani, es tevi lūdzu. Un tas vīrietis atteicās viņu sist."
       },
       {
         "verse": 36,
@@ -3735,7 +3735,7 @@
       {
         "verse": 5,
         "en": "5But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?",
-        "lv": "5 <p>Bet viņa sieva Jezebele nāca pie viņa un sacīja viņam, Kāpēc tavs gars ir tik bēdīgs, ka tu neēd maizi?"
+        "lv": "5 <span class='p'></span> Bet viņa sieva Jezebele nāca pie viņa un sacīja viņam, Kāpēc tavs gars ir tik bēdīgs, ka tu neēd maizi?"
       },
       {
         "verse": 6,
@@ -3785,7 +3785,7 @@
       {
         "verse": 15,
         "en": "15And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead.",
-        "lv": "15 <p>Un notika, kad Jezebele dzirdēja, ka Nabots bija nomētāts ar akmeņiem un bija miris, ka Jezebele sacīja Ahabam, Celies, ņem savā īpašumā jezreelieša Nabota vīna dārzu, ko viņš atteicās tev dot par naudu: jo Nabots nav dzīvs, bet miris."
+        "lv": "15 <span class='p'></span> Un notika, kad Jezebele dzirdēja, ka Nabots bija nomētāts ar akmeņiem un bija miris, ka Jezebele sacīja Ahabam, Celies, ņem savā īpašumā jezreelieša Nabota vīna dārzu, ko viņš atteicās tev dot par naudu: jo Nabots nav dzīvs, bet miris."
       },
       {
         "verse": 16,
@@ -3795,7 +3795,7 @@
       {
         "verse": 17,
         "en": "17And the word of the LORD came to Elijah the Tishbite, saying,",
-        "lv": "17 <p>Un tā KUNGA vārds nāca uz tišbieti Eliju sacīdams,"
+        "lv": "17 <span class='p'></span> Un tā KUNGA vārds nāca uz tišbieti Eliju sacīdams,"
       },
       {
         "verse": 18,
@@ -3932,7 +3932,7 @@
       {
         "verse": 15,
         "en": "15So he came to the king. And the king said unto him, Micaiah, shall we go against Ramothgilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver <i>it </i>into the hand of the king.",
-        "lv": "15 <p>Tā viņš nāca pie ķēniņa. Un ķēniņš viņam sacīja, Miha, vai mums būs iet kaujā pret Ramotgileādu, vai mums būs atturēties? Un viņš tam atbildēja, Ej un sekmējies: jo tas KUNGS <i>to </i>nodos ķēniņa rokā."
+        "lv": "15 <span class='p'></span> Tā viņš nāca pie ķēniņa. Un ķēniņš viņam sacīja, Miha, vai mums būs iet kaujā pret Ramotgileādu, vai mums būs atturēties? Un viņš tam atbildēja, Ej un sekmējies: jo tas KUNGS <i>to </i>nodos ķēniņa rokā."
       },
       {
         "verse": 16,
@@ -4042,7 +4042,7 @@
       {
         "verse": 37,
         "en": "37So the king died, and was brought to Samaria; and they buried the king in Samaria.",
-        "lv": "37 <p>Tā ķēniņš nomira un tika aizvests uz Samariju; un viņi apbedīja ķēniņu Samarijā."
+        "lv": "37 <span class='p'></span> Tā ķēniņš nomira un tika aizvests uz Samariju; un viņi apbedīja ķēniņu Samarijā."
       },
       {
         "verse": 38,
@@ -4062,7 +4062,7 @@
       {
         "verse": 41,
         "en": "41And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.",
-        "lv": "41 <p>Un Jehošafats, Asas dēls, iesāka valdīt pār Jūdu Izraēla ķēniņa Ahaba ceturtajā gadā."
+        "lv": "41 <span class='p'></span> Un Jehošafats, Asas dēls, iesāka valdīt pār Jūdu Izraēla ķēniņa Ahaba ceturtajā gadā."
       },
       {
         "verse": 42,
@@ -4107,12 +4107,12 @@
       {
         "verse": 50,
         "en": "50And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.",
-        "lv": "50 <p>Un Jehošafats gulēja pie saviem tēviem un tika apbedīts pie saviem tēviem sava tēva Dāvida pilsētā: un viņa dēls Jehorams valdīja viņa vietā."
+        "lv": "50 <span class='p'></span> Un Jehošafats gulēja pie saviem tēviem un tika apbedīts pie saviem tēviem sava tēva Dāvida pilsētā: un viņa dēls Jehorams valdīja viņa vietā."
       },
       {
         "verse": 51,
         "en": "51Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.",
-        "lv": "51 <p>Ahacija, Ahaba dēls, iesāka valdīt pār Izraēlu Samarijā Jūdas ķēniņa Jehošafata septiņpadsmitajā gadā un valdīja divus gadus pār Izraēlu."
+        "lv": "51 <span class='p'></span> Ahacija, Ahaba dēls, iesāka valdīt pār Izraēlu Samarijā Jūdas ķēniņa Jehošafata septiņpadsmitajā gadā un valdīja divus gadus pār Izraēlu."
       },
       {
         "verse": 52,

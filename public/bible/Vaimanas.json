@@ -60,7 +60,7 @@
       {
         "verse": 12,
         "en": "12<i>Is it</i> nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted <i>me </i>in the day of his fierce anger.",
-        "lv": "12 <p><i>Vai tas</i> jums nav nekas, visi, kas ejat garām? uzlūkojiet un redziet, vai ir kāda noskumšana kā mana noskumšana, kas man ir darīta, ar ko tas KUNGS <i>mani </i>ir sāpinājis savu nikno dusmu dienā."
+        "lv": "12 <span class='p'></span> <i>Vai tas</i> jums nav nekas, visi, kas ejat garām? uzlūkojiet un redziet, vai ir kāda noskumšana kā mana noskumšana, kas man ir darīta, ar ko tas KUNGS <i>mani </i>ir sāpinājis savu nikno dusmu dienā."
       },
       {
         "verse": 13,
@@ -90,7 +90,7 @@
       {
         "verse": 18,
         "en": "18The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.",
-        "lv": "18 <p>Tas KUNGS ir taisns; jo es esmu dumpojusies pret viņa pavēli: klausieties, es jūs lūdzu, visi ļaudis, un uzlūkojiet manu noskumšanu: manas jaunavas un mani jaunekļi ir aizgājuši gūstā."
+        "lv": "18 <span class='p'></span> Tas KUNGS ir taisns; jo es esmu dumpojusies pret viņa pavēli: klausieties, es jūs lūdzu, visi ļaudis, un uzlūkojiet manu noskumšanu: manas jaunavas un mani jaunekļi ir aizgājuši gūstā."
       },
       {
         "verse": 19,
@@ -167,7 +167,7 @@
       {
         "verse": 11,
         "en": "11Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.",
-        "lv": "11 Manas acis iznīkst no asarām, manas iekšas ir iztrūcinātas, manas aknas ir izlietas uz zemes manu ļaužu meitas iznīcības dēļ; tāpēc ka bērni un zīdaiņi ģībst pilsētas ielās. "
+        "lv": "11 Manas acis iznīkst no asarām, manas iekšas ir iztrūcinātas, manas aknas ir izlietas uz zemes manu ļaužu meitas iznīcības dēļ; tāpēc ka bērni un zīdaiņi ģībst pilsētas ielās."
       },
       {
         "verse": 12,
@@ -212,7 +212,7 @@
       {
         "verse": 20,
         "en": "20Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, <i>and </i>children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?",
-        "lv": "20 <p>Uzlūko, ak, KUNGS, un ņem vērā, kuram tu šo esi darījis. Vai sieviete ēdīs savu augli <i>un</i> bērnus sprīdi garus? vai priesteris un pravietis tiks nokauts tā Kunga svētnīcā?"
+        "lv": "20 <span class='p'></span> Uzlūko, ak, KUNGS, un ņem vērā, kuram tu šo esi darījis. Vai sieviete ēdīs savu augli <i>un</i> bērnus sprīdi garus? vai priesteris un pravietis tiks nokauts tā Kunga svētnīcā?"
       },
       {
         "verse": 21,
@@ -409,7 +409,7 @@
       {
         "verse": 37,
         "en": "37Who <i>is </i>he <i>that </i>saith, and it cometh to pass, <i>when </i>the Lord commandeth <i>it </i>not?",
-        "lv": "37 <p>Kurš <i>ir </i>tas, <i>kas </i>saka un tas notiek, <i>kad</i> tas Kungs <i>to </i>nepavēl?"
+        "lv": "37 <span class='p'></span> Kurš <i>ir </i>tas, <i>kas </i>saka un tas notiek, <i>kad</i> tas Kungs <i>to </i>nepavēl?"
       },
       {
         "verse": 38,
@@ -499,7 +499,7 @@
       {
         "verse": 55,
         "en": "55I called upon thy name, O LORD, out of the low dungeon.",
-        "lv": "55 <p>Es saucu uz tavu vārdu, ak, KUNGS, no zema kazemāta."
+        "lv": "55 <span class='p'></span> Es saucu uz tavu vārdu, ak, KUNGS, no zema kazemāta."
       },
       {
         "verse": 56,
@@ -544,7 +544,7 @@
       {
         "verse": 64,
         "en": "64Render unto them a recompence, O LORD, according to the work of their hands.",
-        "lv": "64 <p>Atmaksā tiem atmaksu, ak, KUNGS, atbilstoši viņu roku darbam."
+        "lv": "64 <span class='p'></span> Atmaksā tiem atmaksu, ak, KUNGS, atbilstoši viņu roku darbam."
       },
       {
         "verse": 65,
@@ -621,7 +621,7 @@
       {
         "verse": 13,
         "en": "13For the sins of her prophets, <i>and </i>the iniquities of her priests, that have shed the blood of the just in the midst of her,",
-        "lv": "13 <p>Viņas praviešu grēku <i>un</i> viņas priesteru nekrietnību dēļ, kas ir izlējuši taisno asinis viņas vidū,"
+        "lv": "13 <span class='p'></span> Viņas praviešu grēku <i>un</i> viņas priesteru nekrietnību dēļ, kas ir izlējuši taisno asinis viņas vidū,"
       },
       {
         "verse": 14,
@@ -661,12 +661,12 @@
       {
         "verse": 21,
         "en": "21Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.",
-        "lv": "21 <p>Priecājies un līksmojies, ak, Edoma meita, kas mājo Uza zemē; kauss arī ies cauri uz tevi: tu būsi piedzērusies un sevi darīsi kailu."
+        "lv": "21 <span class='p'></span> Priecājies un līksmojies, ak, Edoma meita, kas mājo Uza zemē; kauss arī ies cauri uz tevi: tu būsi piedzērusies un sevi darīsi kailu."
       },
       {
         "verse": 22,
         "en": "22The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.",
-        "lv": "22 <p>Tavas nekrietnības sods ir piepildīts, ak, Ciānas meita; viņš vairs tevi nevedīs prom gūstā: viņš apmeklēs tavu nekrietnību, ak, Edoma meita; viņš atklās tavus grēkus."
+        "lv": "22 <span class='p'></span> Tavas nekrietnības sods ir piepildīts, ak, Ciānas meita; viņš vairs tevi nevedīs prom gūstā: viņš apmeklēs tavu nekrietnību, ak, Edoma meita; viņš atklās tavus grēkus."
       }
     ],
     "5": [
