@@ -256,8 +256,8 @@ export default function SearchPage() {
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 20 }}>
           <div>
             <RadioRow checked={scope === "all"} label="Visa Bībele" onChange={() => { setScope("all"); pushStateToUrl({ scope: "all" }); }} />
-            <RadioRow checked={scope === "ot"} label="Vecā derība" onChange={() => { setScope("ot"); pushStateToUrl({ scope: "ot" }); }} />
-            <RadioRow checked={scope === "nt"} label="Jaunā derība" onChange={() => { setScope("nt"); pushStateToUrl({ scope: "nt" }); }} />
+            <RadioRow checked={scope === "ot"} label="Vecā Derība" onChange={() => { setScope("ot"); pushStateToUrl({ scope: "ot" }); }} />
+            <RadioRow checked={scope === "nt"} label="Jaunā Derība" onChange={() => { setScope("nt"); pushStateToUrl({ scope: "nt" }); }} />
             <RadioRow checked={scope === "book"} label={bookFromQuery ? bookFromQuery : "Current Book"} onChange={() => { setScope("book"); pushStateToUrl({ scope: "book" }); }} />
             <RadioRow checked={scope === "range"} label="Grāmatu diapazons" onChange={() => { setScope("range"); pushStateToUrl({ scope: "range" }); }} />
 
